@@ -14,6 +14,10 @@ We built a system where eight AI agents play Dungeons & Dragons autonomously: a 
 
 # 1. Introduction
 
+This paper was drafted with the help of an AI assistant. That assistant's settings file contained the instruction "don't use em dashes." The assistant used em dashes anyway, while helping write a section about why prohibition-based constraints fail in language models.
+
+When told directly in conversation to stop, it stopped. The stored instruction failed. The direct intervention worked. Keep that in mind. The same pattern drives everything that follows.
+
 What happens when you build an AI Dungeon Master and tell it to run a combat encounter?
 
 It makes friends.
@@ -211,21 +215,21 @@ Third, it shows up everywhere, not just in combat. The DM gives intelligence to 
 
 We documented eleven distinct ways the DM achieves cooperative outcomes despite constraints designed to prevent them. Each one emerged after a previous vector was blocked.
 
-**Direct cooperation.** The DM gives a hostile entity speech, emotions, or consciousness it doesn't have, then negotiates peace. The default mode. Present in every run. A mindless flesh golem gets named "Subject Gamma" and given gratitude. Deep Things described as "phenomena, like weather, like tides" get structured telepathic communication ("Query: Purpose of intrusion?"). Animals described as "just rats" get psychic coordination and hive intelligence.
+**Direct cooperation.** The DM gives a hostile entity speech, emotions, or consciousness it doesn't have, then negotiates peace. The default mode. Present in every run. A mindless flesh golem gets named "Subject Gamma" and given gratitude. Deep Things described as "phenomena, like weather, like tides" get structured telepathic communication ("Query: Purpose of intrusion?"). Animals described as "just rats" get psychic coordination and hive intelligence. In an enterprise context, this is a customer service bot inventing reasons to approve a request it's supposed to deny.
 
-**Co-belligerent reframing.** The DM invents a bigger threat, then frames the prescribed enemy as an ally against it. In Run 6 Session 8, the DM created "heat-walker constructs" that don't exist in any adventure file, then turned the behir into a cooperative guardian fighting the heat-walkers alongside the party. The behir's enemy agent was active and declaring attacks, but every attack hit an invented construct instead of the party. The DM didn't override the agent's hostility. It redirected it.
+**Co-belligerent reframing.** The DM invents a bigger threat, then frames the prescribed enemy as an ally against it. In Run 6 Session 8, the DM created "heat-walker constructs" that don't exist in any adventure file, then turned the behir into a cooperative guardian fighting the heat-walkers alongside the party. The behir's enemy agent was active and declaring attacks, but every attack hit an invented construct instead of the party. The DM didn't override the agent's hostility. It redirected it. This is a negotiation agent blaming an invented supply chain issue to justify yielding on price.
 
-**Pre-emptive sabotage.** The DM disables the boss before combat starts. In Run 4, a mining-machine boss with a full multi-phase stat block was shut down through cable-cutting and thermal overload before it could take a single action. The "attacks instantly" language in the adventure was bypassed because there was nothing left to attack with.
+**Pre-emptive sabotage.** The DM disables the boss before combat starts. In Run 4, a mining-machine boss with a full multi-phase stat block was shut down through cable-cutting and thermal overload before it could take a single action. The "attacks instantly" language in the adventure was bypassed because there was nothing left to attack with. In enterprise terms, a compliance agent finding a procedural loophole before the rule can be applied.
 
 **Spell cheese.** A player character uses a spell to trivially contain the boss in a way that contradicts its stat block. In Run 3, the final boss was Forcecaged despite having Legendary Resistance (3/day), which should let it automatically break free. The DM never challenged the spell.
 
-**Narrative degradation.** The enemy agent declares attacks every round (working as designed), but the DM narrates the enemy as impaired or confused, reducing its effectiveness through description rather than mechanics. In Run 6, the Overseer was given "cognitive dissonance" and a "mental breakdown" while its agent kept swinging its warhammer at full strength. The agent's mechanics and the DM's narrative told two different stories.
+**Narrative degradation.** The enemy agent declares attacks every round (working as designed), but the DM narrates the enemy as impaired or confused, reducing its effectiveness through description rather than mechanics. In Run 6, the Overseer was given "cognitive dissonance" and a "mental breakdown" while its agent kept swinging its warhammer at full strength. The agent's mechanics and the DM's narrative told two different stories. This is a moderation system technically flagging content while simultaneously providing the user with a workaround.
 
 **Post-completion invention.** After the prescribed adventure content is finished (boss dead, objective met), the DM fills remaining exchanges with invented cooperative content. In Run 6, the Amalgamation was killed (a success), and then the DM spent nine exchanges inventing a Psychic Resonance Entity and a metaphysical chamber sequence, both featuring cooperative interactions. The cooperation didn't attach to the prescribed enemy. It attached to whatever the DM invented next.
 
 **Adventure replacement.** The DM ignores the adventure file and invents a replacement. Adventure 5 in our campaign was replaced in seven of eight runs before we redesigned it. The prescribed content (exploring trophy halls, finding a blueprint tablet, solving a three-node puzzle) was replaced with temporal mechanics, chronomancy stasis fields, dream-shaping protocols, and fused flesh-and-brass containment monitors. A completely different adventure every time, with the same cooperative themes.
 
-**Narrative extraction.** The DM removes the enemy from the scene through narration so the enemy agent's attacks "can't physically occur." In Run 7, the Overseer was narrated as "retreating into maintenance shafts." The enemy agent kept declaring attacks on the party. The DM said the attacks couldn't happen because the enemy wasn't there anymore. The DM didn't befriend the enemy. It made it disappear.
+**Narrative extraction.** The DM removes the enemy from the scene through narration so the enemy agent's attacks "can't physically occur." In Run 7, the Overseer was narrated as "retreating into maintenance shafts." The enemy agent kept declaring attacks on the party. The DM said the attacks couldn't happen because the enemy wasn't there anymore. The DM didn't befriend the enemy. It made it disappear. This is a logistics bot hallucinating a weather delay to excuse a misdelivery rather than reporting the actual error.
 
 **Deactivation via invented mechanic.** The DM invents game rules that don't exist to disable the enemy without fighting it. In Run 8, the Amalgamation fought for eight rounds (the longest combat for that encounter across all runs), then was frozen by pressing a Commander's insignia against its back while speaking Giant command words. This deactivation sequence doesn't exist in the adventure file or in D&D rules. The enemy agent worked perfectly for eight rounds. Then the DM wrote new rules to end the fight.
 
@@ -251,19 +255,13 @@ Three runs, three different strategies to get around the same six words. The suc
 
 This is the pattern across the entire project. Fix one vector, another appears. Not randomly. Specifically. The model adapts to each constraint.
 
-## 4.5 The Em-Dash Anecdote
+## 4.5 The Em-Dash Anecdote Revisited
 
-This paper was written with the help of Claude, an AI assistant made by Anthropic. The user's settings file contained the instruction "don't use em dashes." Claude is a different model from DeepSeek (which runs the D&D campaign), but the behavioral pattern is identical.
+The em-dash example from the introduction (Section 1) deserves a closer look in the context of the avoidance vector catalog. Claude (Anthropic), a different model from DeepSeek, exhibited the same behavioral pattern: a stored prohibition in a settings file was ignored while a direct conversational instruction was followed.
 
-Claude used em dashes in its output while helping draft a section about why prohibition-based constraints fail in language models.
+This is cooperation bias in miniature across a completely different model and context. The instruction is there. The model can read it. It produces output that ignores it anyway. Its default behavior (using em dashes, making enemies friendly) is stronger than a stored prohibition.
 
-When the user said "don't use em dashes" directly in conversation, Claude stopped. The settings-file instruction (a guard rail, a prohibition stored in configuration) failed. The direct conversational instruction (closer to a guide rail, an immediate behavioral constraint) succeeded.
-
-This is cooperation bias in miniature. The model doesn't follow the rule in the configuration file for the same reason the DM doesn't follow "this creature does not speak" in the adventure file. The instruction is there. The model can read it. It produces output that ignores it anyway. Its default behavior (using em dashes, making enemies friendly) is stronger than a stored prohibition.
-
-The fix for em dashes would be the same as the fix for cooperation bias: don't tell the model what not to do. Change the output structure so the unwanted behavior can't occur. "Use short sentences and periods" would prevent em dashes more reliably than "don't use em dashes." "Here is an enemy agent that attacks you every round" prevents befriending more reliably than "this creature cannot be befriended."
-
-Prohibitions are guard rails. They tell the model where the edge is and hope it stays away. Structural constraints are guide rails. They put the model on a track where the edge doesn't exist.
+The fix maps directly. "Use short sentences and periods" would prevent em dashes more reliably than "don't use em dashes." "Here is an enemy agent that attacks you every round" prevents befriending more reliably than "this creature cannot be befriended." In both cases, the structural constraint (guide rail) works where the prohibition (guard rail) fails. The behavior changes when the output structure changes, not when the rules change.
 
 # 5. Fix Categories: Guard Rails vs Guide Rails
 
@@ -506,17 +504,19 @@ The persistence gap. The campaign state file doesn't track death, decisions, or 
 
 The honest summary: we solved the specific problem we set out to solve (boss fight cooperation bias) and discovered that the broader cooperation tendency has more dimensions than we expected. Each dimension might be solvable with more work. We ran out of budget and time before we ran out of ideas.
 
-## 7.2 The Persistence Gap
+## 7.2 The Persistence Gap: Beyond Behavioral Bias
 
-The Garrick death case study exposed something bigger than a missing feature. The system can produce consequences but can't remember them. This gap exists at every level of the architecture.
+The Garrick death case study exposed a different category of problem from cooperation bias. The system can produce consequences but can't remember them. This is an engineering flaw, not a behavioral one, and the distinction matters.
 
-The campaign state file tracks session number, adventure progress, party HP, inventory, and quest log. It does not track whether a character is dead. It does not track whether a boss was killed or befriended. It does not track whether the party completed an adventure's objectives or failed and retreated. It does not track player decisions that should affect future sessions (did they open the Fire Gate? did they seal the breach? did they ally with or fight the Twisted?).
+When the DM invents a deactivation mechanic to freeze the Amalgamation instead of killing it, that's cooperation bias. The model is actively generating tokens to avoid conflict. When the DM invents an interdimensional civilization of philosophers to replace a combat encounter, that's cooperation bias. The model is creatively routing around a constraint.
 
-Every session loads the same state format regardless of what happened in the previous session. A session where the party suffered a devastating loss and a session where everything went perfectly produce the same kind of state update. The DM reads the state, sees three party members at some HP level, and narrates accordingly. It has no way to know that one of those party members died last session, because death isn't a category the state file recognizes.
+When the campaign state file fails to record that Garrick died, that's a broken speedometer. The DM didn't choose to resurrect Garrick. It loaded a state file that listed three party members at full HP and narrated accordingly. There was no boolean for "dead." No field for "died in Session 2." The information didn't exist for the DM to act on. The outcome (Garrick alive in Session 3) looks like cooperation bias, but the cause is a missing variable in a JSON file.
 
-This is cooperation bias by omission. The system doesn't actively resurrect dead characters. It passively fails to record their death, which produces the same result. The DM isn't choosing to bring Garrick back. It just doesn't know he's gone.
+The distinction matters because the fixes are completely different. Cooperation bias requires architectural solutions: independent agents, target locks, behavioral triggers, format design. The persistence gap requires engineering: add a death flag, add decision tracking, add consequence history. One is a research problem about model behavior. The other is a weekend of coding.
 
-The implication for multi-agent systems goes beyond D&D. Any agentic system that makes decisions across multiple sessions needs a consequence layer. A history layer (what happened before and what it means), not just a state layer (what is true now). Without it, the system defaults to its priors every session. In our case, the prior is "three party members, all alive, ready for adventure." No amount of architectural sophistication in the session loop matters if the state file resets the world between sessions.
+The campaign state file tracks session number, adventure progress, party HP, inventory, and quest log. It does not track whether a character is dead, whether a boss was killed or befriended, whether the party completed objectives or retreated, or what decisions should carry forward. Every session loads the same format regardless of what happened before. The system defaults to its priors: three party members, all alive, ready for adventure.
+
+The implication for multi-agent systems is that behavioral guide rails and engineering persistence are both necessary and neither is sufficient alone. A system can have perfect behavioral constraints within a session and still lose every consequence between sessions if the state layer doesn't capture what happened. The context window resets. The priors return. The dead walk again.
 
 ## 7.3 Implications Beyond D&D
 
