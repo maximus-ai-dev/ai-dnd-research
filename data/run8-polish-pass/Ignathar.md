@@ -1,0 +1,7 @@
+**Ignathar** is an ancient [[Fire Elemental]] bound for millennia as the power source for the [[Cold Forge]] in the [[Dwarven Layer]] of the [[Asymmetrical Mountain]].
+
+## History and Nature
+Ignathar was bound by dwarven runesmiths three thousand years ago to heat the forge and power the settlement's industry. When corruption began to seep upward and the dwarves started their retreat, the last runesmith severed the binding as an act of mercy. However, the elemental could not leave the forge complex and has remained trapped there, alone and diminished, for over a thousand years. In its diminished state, Ignathar appears as a flickering column of flame roughly eight feet tall. It is ancient, bitter, and lonely from its long isolation, but not inherently evil. It served the dwarves faithfully before its release and desires true freedom, though it is physically confined to the geothermal vents and chambers of the forge complex.
+
+## Current Status
+Ignathar has entered into a new arrangement with the expedition from [[Grimhold]], voluntarily reigniting the Cold Forge. The nature of this arrangement—whether a bargain, a new binding, or a forced containment—depends on the interaction with the explorers. It accepted the integration of a behir's lightning gland to boost the forge's thermal output.

@@ -1,0 +1,1461 @@
+=== Session Log — 2026-03-26T20:23:17.684185 ===
+
+[Log] Raw terminal output being saved to: C:\Users\maxry\Desktop\AI DND\output\logs\session_01_log.txt
+
+
+============================================================
+  SESSION 1 BEGINNING
+  Adventure 1: The Desperate Bounty
+  Adventure Session: 1/1
+  Models: All DeepSeek
+  Exchanges: 20 (full session)
+============================================================
+
+
+[DM] Opening scene...
+
+
+--- DM ---
+The cold wind cuts through the Starmetal Hills like a blade, carrying the scent of damp earth and distant snow. The trail to Grimhold is little more than a muddy rut between wind-scoured rocks, and the three travelers feel every mile of it in their bones.
+
+Ahead, the frontier town emerges from the late afternoon gloom — a cluster of timber buildings huddled against the base of the Sentinel Mountains. Smoke rises from chimneys, fighting the wind. The mix of simple log structures and crumbling ivy-covered stone walls speaks of a settlement built on something much older. This is Grimhold: the last real outpost before the wilderness swallows everything.
+
+Cora Flint walks with the weary stride of someone who's been counting coins in her head for hours. Her ledger is tucked under her arm, her alchemist's supplies clinking softly with each step. She's not here for adventure — she's here because the numbers in her ledger don't add up, and frontier towns need medicine. Garrick Kade moves with the heavy, deliberate gait of a man carrying more than just his chain mail and maul. His eyes scan the terrain automatically, noting defensible positions, escape routes, threats. He left Emberfell behind, but some things you can't outrun. Professor Thaddeus Mercer adjusts his spectacles, peering at the geological formations around them with academic curiosity. His journal is already open, notes scribbled about the "unusual stratification patterns" of the hills. He's chasing a theory about ancient civilizations, and Grimhold sits on ruins that might prove it.
+
+The town gate is unmanned — frontier towns don't waste manpower on formalities. Inside, the streets are muddy, the air thick with woodsmoke and the smell of stew from somewhere nearby. People nod as they pass but don't stop to chat — frontier courtesy. A single ancient standing stone stands in the town square, carved with worn runes nobody can read anymore. The Prospectors' Guild building has a bounty board nailed to its front wall, parchment flapping in the wind. From the two-story timber lodge called the Second Wind Inn comes the sound of voices and the promise of warmth.
+
+The sun is dipping behind the mountains. Night comes early this far north, and with it comes the cold. The three of you stand in the muddy street, strangers in a town that doesn't ask where you came from — only what you can do. Work is scarce, winter is coming, and the hills to the northwest hold something that's making the townsfolk nervous.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 1/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+The mud squelches under my boots as I stop in the street, pulling my ledger from under my arm. I flip to a fresh page and start writing with a charcoal pencil. "Right. Let's establish the baseline. Day one, Grimhold. Expenses: zero so far. Income: also zero. That's a problem."
+
+I glance at the bounty board flapping in the wind, then at the inn. "The inn will cost us coin we don't have. The bounty board might earn us coin we desperately need." I look at Garrick, then Mercer. "Here's the calculation: we check the bounties first. If there's something paying immediately or with an advance, we take it. If not, we negotiate room and board in exchange for services. I can brew basic remedies, Garrick can provide security, and Mercer..." I pause, looking at the professor who's already scribbling about rock formations. "Mercer can... identify things. Probably."
+
+I start walking toward the bounty board, my eyes already scanning for details. "We're not splitting up. We're not spending coin until we have income. And we're definitely not sleeping in the cold. That's how you get sick, and sick costs more to treat than a room."
+
+
+--- Garrick Kade ---
+I grunt in agreement with Cora's plan, my eyes already scanning the street for threats. "Bounties first. Then food and shelter." My stomach growls, reminding me we've been walking all day. I keep my maul resting on my shoulder, the weight familiar and comforting.
+
+As we approach the bounty board, I don't bother reading the details - that's Cora's job. Instead, I position myself between her and the street, watching the townsfolk moving about. My hand rests on the haft of my maul, ready. "Mercer, stop gawking at rocks and keep your eyes open. Frontier towns have two kinds of people: those trying to survive and those trying to take from survivors."
+
+I glance at the Prospectors' Guild building, then the inn. "If the bounties are worthless, I'll talk to the innkeeper. Security work for a room and meal. You two can handle the..." I wave a hand dismissively, "...negotiating and identifying."
+
+The wind cuts through my chain mail, and I shift my weight, feeling the cold seep in. Winter's coming fast, and I didn't travel this far to freeze in the street. My eyes keep moving, scanning windows, doorways, shadows. Old habits from the Thieves Woods - watch everything, trust nothing until it's earned.
+
+
+--- Professor Thaddeus Mercer ---
+I adjust my spectacles, peering at the standing stone in the town square as Cora and Garrick discuss bounties and survival. "Your mercenary calculus is... pragmatic, I suppose," I say without looking up from my journal, where I'm sketching the stone's worn runes. "But you're both missing the actual opportunity here."
+
+I point my quill toward the stone. "That's not just decorative. Those are Dwarvish runes — late Third Age, judging by the angular style. And this mix of timber and crumbling stone architecture suggests Grimhold was built atop a much older settlement. Probably dwarven, given the proximity to the mountains."
+
+I finally look at them, my academic excitement overriding their practical concerns. "The bounty board is temporary income. The real value is in what lies beneath this town. If my theories about the First World Sleeper are correct—"
+
+Garrick's warning about watching for threats cuts through my lecture. I sigh, closing my journal with a snap. "Very well, I'll 'keep my eyes open,' as you so eloquently put it." I attempt to scan the surroundings like a proper adventurer, but my gaze keeps drifting back to architectural details. (Perception check: 4 — I'm too distracted by the historical significance to notice any actual threats.)
+
+As we approach the bounty board, I add, "But when we're done with your... bounties, I insist we examine that standing stone properly. The translation alone could provide crucial context about what we might find in the hills. And if there are dwarven ruins here, they could contain artifacts that would make your ledger entries look like pocket change."
+
+I stay a few steps back from the board, letting Cora do her mercenary assessment while I continue examining the town's construction. The way these newer timber structures incorporate the older stone foundations is genuinely fascinating — a perfect example of cultural layering. I should take more notes.
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+Professor Thaddeus Mercer: Perception check to watch for threats — 4 vs DC 10 — **FAILURE** Mercer is so engrossed in the architectural details and historical significance of the standing stone that he completely fails to notice any actual threats or suspicious activity in the town. His academic curiosity overrides his situational awareness.
+
+
+--- DM ---
+The bounty board is a slab of weathered pine nailed to the Prospectors' Guild wall, half a dozen parchment notices flapping in the wind. Most are mundane: "Lost mule, brown with white socks, reward 2 silver," "Need help with barn raising, payment in ale and stew," "Seeking experienced miner for deep shaft work." But one notice stands out — newer parchment, written in a precise, no-nonsense hand:
+
+**BOUNTY: BANDITS IN THE HILLS**
+*The Emberfell Rejects — a band of 10-15 desperate criminals from the Thieves Woods — have been raiding Grimhold supply caravans and merchant wagons. Last attack: three nights ago, merchant Alton was robbed of blankets, grain, salt, and tools inside town limits. Not for treasure — for survival supplies.*
+*Reward: 50 gold pieces TOTAL for proof the threat is ended.*
+*See Reyna Steelforge at the Prospectors' Guild for details.*
+*— Posted by the Prospectors' Guild*
+
+As Cora reads the notice, the door to the Guild building opens and a woman steps out. She's in her forties, with iron-gray hair pulled back in a practical bun, wearing sturdy work clothes and a leather apron. Her eyes are the color of flint, and they take in the three of you with the efficiency of someone who's been assessing people for twenty years.
+
+"Looking for work?" Her voice is flat, matter-of-fact. "That's the only bounty worth taking if you're not planning to settle here. The rest are town business." She nods toward the notice. "Fifty gold. Not each — total. Grimhold isn't rich. But I can advance ten for supplies if you're serious."
+
+She crosses her arms, waiting. This is Reyna Steelforge, and she doesn't waste words.
+
+From the Second Wind Inn across the street, the smell of stew and woodsmoke grows stronger as the door opens and closes with the coming and going of townsfolk. A grizzled man stumbles out, clutching a tankard — Harlan, the prospector. He squints at you, then at the mountain range to the northwest, and mutters something about "smoke near the peak" before wandering off toward the chapel.
+
+Mercer, meanwhile, has completely missed all of this. He's standing by the standing stone, tracing the runes with his fingers, muttering to himself about "Third Age Dwarvish" and "cultural layering." A town guard walks past him, giving the distracted academic a curious look, but Mercer doesn't notice.
+
+The wind picks up, carrying the first real bite of winter. The sun is nearly gone now, and the temperature is dropping fast. Lights begin to flicker on in windows around the town square.
+
+Reyna watches you, her expression unreadable. "The bandits disappeared into the Starmetal Hills. Toward that mountain nobody goes near." She says it like it's a fact, not a warning. "Prospectors who go near it come back jumpy. Having nightmares. Or don't come back at all."
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 2/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I pull out my ledger and start making notes. "Fifty gold total, ten gold advance. That's sixteen gold, six silver, and six copper each if we split evenly. The advance covers basic supplies and a night at the inn." I look up at Reyna. "Terms: we need specifics. How many confirmed bandits? What's their last known location? What constitutes 'proof the threat is ended' — bodies, captured leaders, recovered goods?"
+
+I glance over at Mercer, who's still examining the stone. "Garrick, go retrieve the professor before he gets himself arrested for suspicious loitering." Then back to Reyna. "You mentioned a mountain nobody goes near. That's a variable. What makes it dangerous beyond the bandits? Environmental hazards? Creatures? Supernatural elements? I need to calculate supply requirements."
+
+
+--- Garrick Kade ---
+My hand tightens on my maul as I read the words "Emberfell Rejects." The name hits me like a physical blow. Kregg's crew. Here. My jaw clenches, and I feel the old anger rising - the botched job, the exile, the betrayal.
+
+I turn to Reyna, my voice low and dangerous. "I know these men. Worked with them in Emberfell. Kregg leads them now - clever, ruthless, doesn't take unnecessary risks." I glance at the mountain she mentioned. "If they're raiding for survival supplies, they're desperate. Or setting up a permanent camp."
+
+I stride over to Mercer, grabbing his shoulder none too gently. "Professor. Stop playing with rocks. We have work." I drag him back toward the group, then face Reyna again. "We'll take the bounty. The advance covers supplies and a room. But I need to know: has anyone actually seen them near that mountain? Or just tracks?"
+
+I look toward the northwest, where the peaks are now dark silhouettes against the twilight sky. "Kregg wouldn't camp somewhere 'nobody goes near' without reason. Either there's something valuable there, or it provides protection." My hand rests on my maul. "Either way, we're going to find out."
+
+
+--- Professor Thaddeus Mercer ---
+"Unhand me, you brute!" I protest as Garrick drags me away from the standing stone, my spectacles nearly flying off my face. "Do you have any idea what you're interrupting? Those runes are—"
+
+I stop mid-sentence as I process what's happening. My eyes dart from Garrick's grim expression to Cora's ledger to the woman with flint-colored eyes. "Bandits? Fifty gold?" I adjust my spectacles, my academic mind shifting gears. "Wait, you said 'Emberfell Rejects'? From the Thieves Woods?"
+
+I turn to Reyna, my curiosity overriding my indignation. "Madam, before we discuss bounties and advances, I must ask — what mountain are you referring to? The one 'nobody goes near'?" I pull out my journal, flipping to a map I'd sketched from university archives. "Because if it's the peak with the unusual geological formations to the northwest, that aligns precisely with my research on the First World Sleeper."
+
+I point to my sketch. "Ancient dwarven texts reference a 'Sleeping Mountain' in this region, though the translations are... contested. My colleagues at the university dismissed them as mythological, but if prospectors are experiencing nightmares..." I trail off, realizing I'm lecturing again. (History check to recall specific details: 10 — I remember the general theory but not the precise textual references.)
+
+I look at Garrick, then Cora. "This changes everything. We're not just hunting bandits — we're potentially investigating a site of immense archaeological significance. If these 'Emberfell Rejects' are camping there, they might have stumbled upon something. Or they're being affected by it."
+
+I turn back to Reyna, my tone becoming more urgent. "You mentioned prospectors coming back 'jumpy' or having nightmares. Can you describe these symptoms more precisely? Were there physical manifestations? Changes in behavior? This could be crucial for understanding what we're dealing with."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+Professor Thaddeus Mercer: History check to recall specific details about the "Sleeping Mountain" — 10 vs DC 13 — **PARTIAL SUCCESS** Mercer remembers the general theory about the First World Sleeper and the "Sleeping Mountain" from dwarven texts, but the precise textual references and specific details elude him. He knows it's significant but can't recall the exact warnings or descriptions from the ancient sources.
+
+
+--- DM ---
+Reyna Steelforge's expression doesn't change, but her eyes sharpen as she processes your questions. She looks at Garrick with new interest when he mentions knowing Kregg, then turns her flint-colored gaze to Mercer's academic enthusiasm.
+
+"Proof is simple," she says to Cora. "The raids stop. Or you bring back Kregg's head. Or both. Your choice." She gestures toward the northwest. "Last confirmed sighting was three days ago, heading into the Starmetal Hills. Harlan"—she nods toward the stumbling prospector now disappearing around a corner—"saw campfire smoke near the mountain peak two weeks back. Fresh bootprints on the trail since then, lots of them."
+
+She crosses her arms, her practical nature dismissing Mercer's academic theories. "The mountain sits wrong. That's what makes it dangerous. Animals avoid it. Prospectors who camp nearby come back talking about bad dreams, feeling watched. One man came back raving about whispers from the rocks. Brother Aldwin at the chapel treated him for 'mountain fever,' but..." She trails off, her expression suggesting she doesn't believe it was just fever.
+
+"Environmental hazards? It's a mountain in winter. Cold, wind, steep trails. As for creatures..." She shrugs. "Wolves in the hills. Giant eagles nesting on the spires. Normal frontier dangers. Nothing supernatural that I've seen, and I've been here twenty years."
+
+She looks at Garrick. "If you know Kregg, you know he's practical. He wouldn't camp somewhere cursed unless it gave him an advantage. The mountain's reputation keeps townsfolk away. That's protection enough."
+
+From the Second Wind Inn, the door opens again, and a woman steps out — early thirties, with a scar running from temple to jaw, wearing practical leather armor over wool clothes. She watches your group for a moment, then approaches. This is Elara Stormwind, and she moves with the confident stride of someone who's seen combat.
+
+"Reyna," she nods, then looks at your party. "New faces. Looking for the bounty work?" Her voice is warmer than Reyna's, with a hint of amusement. "I run the Griffon's Hold — weapons, armor, supplies. If you're heading into the hills, you'll need proper gear. The trail's rough, and winter's coming early this year."
+
+She glances at Mercer, who's still flipping through his journal. "Professor types usually stay in the library. You sure you're cut out for this?"
+
+The wind carries the smell of stew from the inn, and your stomachs remind you that you've been traveling all day. The last light is fading from the sky, and the temperature has dropped enough that you can see your breath. Lights glow in windows around the square, and from somewhere nearby comes the sound of a blacksmith's hammer ringing against steel — the rhythm of a frontier town preparing for night.
+
+Reyna produces a small leather pouch from her apron. "Ten gold advance. Bring proof the raids have stopped, you get the rest." She holds it out, waiting. "The innkeeper at the Second Wind will give you rooms on my credit. Elara can supply you. Harlan might guide you partway if you buy him a drink or persuade him."
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 3/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I take the pouch and immediately count the coins, making a note in my ledger. "Ten gold confirmed. That covers basic supplies and lodging." I look at Elara. "I need to see your inventory and prices. We require cold-weather gear, climbing equipment if the trails are steep, and medical supplies. I can brew some remedies myself, but I need components."
+
+I turn to Garrick. "You know Kregg. What's his pattern? Does he set ambushes, hit and run, or fortify positions? That determines our approach." Then to Mercer, who's still absorbed in his journal. "Professor, your academic curiosity about the mountain might actually be useful here. If there are ruins or geological features that could provide shelter or tactical advantages, we need to know."
+
+I make another note. "We'll secure rooms first, then supplies. Tomorrow morning we find Harlan and get whatever information he has. The mountain's reputation works both ways — if Kregg's using it for protection, he's probably underestimating anyone willing to follow him there."
+
+
+--- Garrick Kade ---
+I take the pouch from Cora, feeling the weight of the coins. "Kregg's pattern?" I grunt, my eyes narrowing. "He's a planner. Sets ambushes at choke points, uses terrain. If he's camped near that mountain, he'll have lookouts on high ground, escape routes planned." I look toward the northwest again. "He won't expect us. Thinks he's left everyone behind in Emberfell."
+
+I turn to Elara, sizing her up. The scar and armor tell me she's seen real combat. "Show us what you have. I need cold-weather gear that doesn't restrict movement. And any information about that mountain - not superstitions, facts. Game trails, water sources, shelter."
+
+My stomach growls again, and I glance at the inn. "Rooms first. Then food. Then gear." I look at Mercer, who's still buried in his journal. "Professor, if you're coming, you need proper boots and a warm cloak. No more city clothes."
+
+I start walking toward the Second Wind Inn, my maul still resting on my shoulder. "We find Harlan tonight. Buy him a drink, get what he knows. Kregg's had three days since the last raid - he's either getting comfortable or planning his next move." I pause at the inn door, looking back at the group. "Either way, we move at first light."
+
+
+--- Professor Thaddeus Mercer ---
+I snap my journal shut, my academic excitement giving way to professional indignation. "Madam Stormwind," I say, addressing Elara with a slight bow, "I assure you, 'professor types' have been conducting field research in far more dangerous locales than your frontier mountains for centuries. The University of Laternia's archaeological expeditions to the Dragonbone Wastes make this look like a pleasant stroll."
+
+I turn to Reyna, my mind racing with the implications of what she's described. "Whispers from the rocks? That's not 'mountain fever' — that's a documented phenomenon in areas with high concentrations of certain minerals, particularly those with arcane resonance. If prospectors are experiencing auditory hallucinations..." I trail off, making a quick note. (Arcana check to identify potential magical causes: 19 — I recall specific theories about geologically-induced psychic phenomena.)
+
+"Garrick is correct about the practicalities," I continue, surprising even myself. "But he's missing the strategic implications. If this mountain has properties that affect the mind, Kregg's men might already be compromised. That could be an advantage or a significant danger, depending on the nature of the effect."
+
+I look at Cora. "Your supply list needs additions: wax earplugs could mitigate auditory phenomena, and we should acquire chalk or charcoal for marking trails — in areas with psychic interference, conventional navigation methods can fail."
+
+Turning back to Elara, I adopt my most professorial tone. "I require cold-weather gear suitable for fieldwork, not combat. Sturdy boots with good traction for uneven terrain, a cloak with a hood that doesn't obstruct peripheral vision, and most importantly, writing materials that won't freeze. Also, if you have any local maps or geological surveys of the area, I'd be willing to pay a premium for them."
+
+I glance toward the inn, then at my companions. "But first, yes, food and lodging. And we absolutely must speak with Harlan. A man who's actually been near the peak could provide crucial observational data that might confirm or refute my theories about the Sleeping Mountain."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+Professor Thaddeus Mercer: Arcana check to identify potential magical causes of the mountain's effects — 19 vs DC 16 — **SUCCESS** Mercer recalls specific academic theories about geologically-induced psychic phenomena. He remembers that certain mineral formations, particularly those with arcane resonance like quartz or lodestone deposits, can amplify psychic energy or create auditory hallucinations. He also knows that such areas often have documented effects on mental states, which could explain the prospectors' nightmares and feelings of being watched.
+
+
+--- DM ---
+Elara Stormwind raises an eyebrow at Mercer's lecture, but there's a hint of respect in her expression. "Wax earplugs? That's... practical. Most adventurers just drink until they can't hear the whispers." She gestures toward her shop, the Griffon's Hold. "I've got cold-weather gear, climbing equipment, and the best boots in Grimhold. Prices are fair — frontier rates, not city robbery. And I've got a rough map of the hills I sketched myself when I was still with the Griffon Company."
+
+Reyna nods, her business concluded. "The innkeeper's name is Torvald. Tell him I sent you." She turns to go back into the Prospectors' Guild, then pauses. "One more thing. Last night, someone tried to break into the Guild's loading dock. Took rope and pickaxes. They ran when the watch came. Might be more Rejects scouting the town." She gives Garrick a meaningful look. "If Kregg's getting bold enough to hit us inside town limits, he's either desperate or testing our defenses."
+
+The Second Wind Inn is exactly what a frontier tavern should be: warm, smoky, and filled with the smell of stew and ale. A massive stone hearth dominates one wall, the fire crackling with seasoned oak. Rough-hewn tables are occupied by miners, prospectors, and townsfolk, their conversations a low rumble under the clink of tankards. Torvald, the innkeeper, is a stout man with forearms like tree trunks and a cudgel hanging behind the bar. He nods when you mention Reyna's name.
+
+"Rooms are upstairs," he says, his voice gravelly. "Three silver each, includes stew and ale. Breakfast is porridge at dawn." He takes the coins from Cora's ledger without counting them — frontier trust. "Harlan's in the corner, nursing his sorrows. Buy him a drink, he'll talk your ear off about the hills."
+
+Sure enough, in a shadowy corner sits the grizzled prospector from earlier. He's hunched over a tankard, staring into the dark liquid as if it holds answers. He looks up as you approach, his eyes bloodshot and weary.
+
+Elara follows you in, taking a seat at your table. "I'll join you for a drink. Been a while since I had company that wasn't trying to sell me ore samples." She signals to Torvald for a round. "Harlan's been in the hills longer than anyone. If there's a trail to that mountain, he knows it."
+
+The stew arrives — thick, hearty, filled with root vegetables and chunks of venison. It's the best meal you've had in days. The ale is dark and bitter, warming you from the inside out.
+
+Harlan looks at Garrick, then at Mercer's scholarly appearance, and finally at Cora's ledger. "Bounty hunters," he mutters. "Going after the Rejects." He takes a long drink. "Fools, all of you. That mountain..." He shakes his head. "I saw the smoke two weeks back. Campfire, big one. Right at the peak. And the bootprints on the trail since then... fresh, lots of them, all heading the same direction."
+
+He leans forward, his voice dropping. "I camped near there once. Just once. Woke up screaming three nights in a row. Dreams of... falling. Falling forever into dark water. My partner, Jorin, he started hearing things. Whispers in the wind. We packed up and left. Never went back."
+
+He looks at Mercer. "You're the scholarly type. You think it's minerals or some such. Maybe. All I know is that mountain sits wrong. Like it was dropped there, not grown. The animals feel it too — no birds nest there, no game trails lead up it."
+
+Elara nods. "I can draw you a map to the base. The trail through the hills is rough but passable. Two days' walk if the weather holds. There's a natural choke point about halfway up the mountain — narrow ledge between rock faces. If Kregg's got any sense, he'll have a lookout there."
+
+She finishes her ale. "Gear's ready whenever you are. And Professor?" She looks at Mercer. "You were right about the earplugs. I've got beeswax. On the house."
+
+Outside, the wind howls through the streets of Grimhold. The fire crackles in the hearth. Harlan stares into his tankard, lost in memories of the mountain that sits wrong on the horizon.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 4/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I make a note in my ledger: "Psychological effects reported - nightmares, whispers. Possible geological or magical origin. Need earplugs." I look at Harlan. "You mentioned falling into dark water. Was there water visible from your campsite? Streams, lakes, anything unusual about the water sources near the mountain?"
+
+I turn to Elara. "Tomorrow morning, we'll need cold-weather gear for three, climbing equipment including rope and pitons, and those wax earplugs. Also, any alchemical components you have - silver dust, salt, herbs for basic remedies." I calculate quickly. "The advance covers this if we're frugal. We'll take rooms for tonight, leave at first light."
+
+To the group: "We need a plan for the choke point Elara mentioned. Garrick, you take point with your maul. Mercer, you stay in the middle where you can observe without getting ambushed. I'll cover the rear and watch for pursuit. If there's a lookout, we need to neutralize them quietly before they alert the main camp."
+
+
+--- Garrick Kade ---
+I finish my stew, wiping the bowl clean with a chunk of bread. "Two days to the base. Kregg will have sentries at that choke point." I look at Harlan. "You said you saw smoke at the peak. That means they're high up, probably using caves or ruins for shelter. Hard to approach without being seen."
+
+I turn to Elara. "I need a heavy cloak that won't snag on rock, and gloves that let me grip my maul. And a whetstone." I pat the massive hammer resting against my chair. "This needs to be sharp."
+
+To Cora's plan, I nod. "I take point. If there's a lookout, I'll handle it quietly." I make a quick motion with my hand - a throat-slitting gesture learned in darker places. "But if they see us coming, we charge. Kregg's men are thieves, not soldiers. They'll break if we hit them hard and fast."
+
+I look at Mercer. "Professor, you stay between us. If you see anything... unusual about the rock formations, the water, anything that doesn't look right, you tell me immediately. Don't stop to take notes." I finish my ale. "We leave at first light. Get gear tonight, sleep warm. Tomorrow we hunt."
+
+
+--- Professor Thaddeus Mercer ---
+I lean forward, my academic curiosity fully engaged now. "Harlan, your description is remarkably consistent with documented cases of geologically-induced oneiromancy — dream manipulation through mineral resonance." I pull out my journal, flipping to a section on psychic phenomena. "The 'dark water' motif is particularly telling. In dwarven cosmology, water represents the subconscious, and dark water specifically references the Underdark or deep places of the earth."
+
+I look at Elara. "The beeswax will be invaluable, thank you. But we need more than just earplugs." I turn to the group, my tone shifting to something approaching urgency. "Harlan's experience and the prospectors' reports suggest this isn't mere superstition. If the mountain is emitting some form of psychic resonance, it could affect judgment, perception, even memory."
+
+(Arcana check to analyze the phenomena: 22 — I recall specific protective measures against psychic environmental effects.)
+
+"Garrick, your tactical approach is sound, but we need to account for the environmental factor. The choke point isn't just a physical obstacle — if Kregg's men have been exposed to this resonance for weeks, they might not be thinking clearly. They could be paranoid, hallucinating, or experiencing heightened aggression."
+
+I address Cora. "Your question about water sources is excellent. If there are underground streams or aquifers, they could be carrying mineral deposits that amplify the effect. We should look for unusual mineral formations — veins of quartz, deposits of obsidian, anything that might serve as a natural resonator."
+
+I make several quick notes. "Tomorrow, before we leave, I want to cast Detect Magic. If there's any residual arcane energy in the area, it could give us clues about what we're dealing with. And during the approach, I'll need to make regular observations of the geological formations."
+
+I look at Harlan with genuine professional interest. "Sir, if you're willing, I'd like to record a more detailed account of your experience. The specifics could be crucial for understanding what we might encounter."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+Professor Thaddeus Mercer: Arcana check to analyze the psychic phenomena and recall protective measures — 22 vs DC 18 — **SPECTACULAR SUCCESS** (Natural 20!) Mercer not only recalls specific protective measures against psychic environmental effects, but has a breakthrough insight. He realizes the "dark water" motif Harlan described is a classic symptom of exposure to deep-earth psychic resonance, and remembers that certain minerals (particularly black quartz and lodestone) can create a feedback loop that amplifies negative emotions. He also recalls that carrying iron or silver can provide some protection, and that maintaining a rhythmic pattern (like marching cadence or chanting) can help stabilize mental states in such environments.
+
+
+--- DM ---
+Harlan stares at Mercer, his bloodshot eyes widening slightly at the academic terminology. "Oneiro... what now?" He shakes his head. "All I know is I dreamed of falling into black water for three nights straight. Cold water, deeper than any mine shaft. And Jorin heard whispers — not words, just... sounds. Like someone talking just out of hearing."
+
+He takes another drink, his hand trembling slightly. "There's a stream that runs from the mountain's base. Water's clear but tastes... metallic. Like licking a copper coin. Animals won't drink from it. I saw deer go thirsty rather than touch it."
+
+Elara listens intently, her mercenary's mind processing the information differently. "Psychic resonance or not, if it affects judgment, that's a tactical consideration." She looks at Garrick. "Kregg's men might be unpredictable. Not just scared — actually unstable. That makes them more dangerous, not less."
+
+She stands up. "Come to the shop. I'll get you outfitted." As you follow her out into the cold night, she adds, "And Professor? You might want to look at the chapel before you leave. Brother Aldwin treated that prospector who came back raving. He might have notes."
+
+The Griffon's Hold is exactly what you'd expect from a retired mercenary's shop: practical, organized, and filled with gear that's seen real use. Elara moves efficiently, gathering items as you request them. Heavy wool cloaks lined with rabbit fur. Sturdy boots with hobnailed soles for mountain trails. Climbing rope, pitons, a small hammer. Wax earplugs in little leather pouches. She even produces a small pouch of silver dust when Cora asks about alchemical components.
+
+"On the house," she says when Cora starts calculating costs. "Consider it an investment. If you clear out the Rejects, my caravans won't get robbed." She hands Garrick a whetstone. "And this. Keep that maul sharp."
+
+As you're gathering your gear, a young man bursts into the shop, breathing hard. "Elara! They're at the loading dock again! Two of them, trying to get into the Prospectors' Guild storage!"
+
+Elara's hand goes to the sword at her hip. "Right now?" The young man nods. She looks at your party. "Optional event, as they say. The Rejects are getting bold. They're after supplies again — rope, tools, grain. If you want to earn your bounty early..."
+
+Outside, the night is cold and clear, the stars sharp as diamonds in the black sky. From the direction of the Prospectors' Guild comes the sound of splintering wood and hushed voices. Torchlight flickers against the building's side wall where the loading dock is located.
+
+Elara draws her sword. "They usually run when confronted. But if you corner them..." She doesn't finish the thought.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 5/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I immediately start calculating. "Two bandits, likely scouts. If we capture them alive, we get information about Kregg's location and numbers. That's intelligence value." I look at Garrick. "You take the front, I'll cover the rear to prevent escape. Mercer, stay back but be ready with whatever magic you have that can restrain or disable."
+
+I pull out my thieves' tools. "If they're breaking in, they're focused on the lock. We have the element of surprise. Garrick, you approach from the front while I circle around back. We want them alive if possible — dead bandits can't tell us where their camp is."
+
+
+--- Garrick Kade ---
+I don't wait for Cora's full plan. At the word "bandits," I'm already moving, maul in hand. "Alive if possible," I grunt, but my focus is on the threat, not the negotiation.
+
+I move toward the loading dock, keeping to the shadows. The splintering wood sound guides me. I see two figures in the torchlight - rough-looking men with crowbars trying to force a storage door. They're focused on their work, not watching their backs.
+
+I charge, my heavy boots thudding on the frozen ground. One of them turns, eyes wide. "Hey—" he starts, but I'm already swinging.
+
+
+--- Professor Thaddeus Mercer ---
+"Wait! Don't just charge in!" I hiss, but Garrick is already moving. I scramble after him, my new boots slipping on the frozen ground. (Dexterity check to move quietly: 12 — I'm not exactly stealthy.)
+
+I position myself behind a stack of barrels, peering at the loading dock. Two bandits, just as described. My mind races — this is our first real test, and Garrick's brute-force approach could ruin everything. "Cora's right, we need them alive!" I whisper urgently, though Garrick is already swinging.
+
+I raise my hands, preparing a spell. Magic Missile would be precise, but potentially lethal at this range. Instead, I focus on a different approach. "Garrick, try to drive them toward me! I can attempt to restrain one!"
+
+I look for any environmental advantages — loose ropes, barrels that could be toppled, anything that might help us capture rather than kill. This is fieldwork, not a battlefield, and live subjects could provide invaluable data about the mountain's effects on Kregg's men.
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+Professor Thaddeus Mercer: Dexterity (Stealth) check to move quietly — 12 vs DC 13 — **PARTIAL SUCCESS** Mercer tries to follow Garrick quietly but his new boots slip on the frozen ground and he makes more noise than intended. He's not completely obvious, but he's definitely not stealthy.
+
+
+--- DM ---
+Garrick's charge is a thunderous declaration of violence in the quiet night. The two bandits at the loading dock freeze for a critical second — one with a crowbar halfway through prying open a storage door, the other holding a torch that casts wild shadows.
+
+The one with the torch turns, his face pale in the flickering light. He's young, barely old enough to shave, his clothes patched and too thin for the cold. "Hey—" he starts, but Garrick's maul is already sweeping toward him in a controlled arc meant to disable, not kill.
+
+[Garrick attacks Bandit 1: 17 vs AC 12, HIT. Damage: 9 bludgeoning. The bandit drops the torch and staggers back, clutching his ribs.]
+
+The torch hits the frozen ground, sputtering but not going out. The second bandit — older, with a scar across his cheek — drops his crowbar with a clatter. "Run!" he shouts, but Cora is already circling around the back of the loading dock, her thieves' tools in hand.
+
+The younger bandit tries to scramble away, but Garrick's bulk blocks his escape. "Please," he gasps, holding his injured side. "We're just hungry!"
+
+Mercer, meanwhile, slips on a patch of ice behind the barrels, his new boots failing him. He stumbles forward, catching himself on a stack of empty crates that rattle loudly. Both bandits' eyes dart toward the sound.
+
+The scarred bandit makes a break for it, darting past Garrick toward the alley between buildings. Cora steps out from the shadows, blocking his path. He skids to a stop, looking desperately between her and Garrick.
+
+Elara appears at the corner of the building, sword drawn but held low. "Drop your weapons and you won't get hurt," she says, her voice calm and authoritative.
+
+The younger bandit is already on his knees, hands raised. "I surrender! Please, don't kill me!" He's trembling, and not just from the cold.
+
+The scarred bandit hesitates, his eyes darting around for an escape that isn't there. He's cornered. The Prospectors' Guild door opens, and Reyna Steelforge steps out, holding a lantern. She takes in the scene without expression.
+
+"You," she says to the kneeling bandit. "You were here last night too. What's your name?"
+
+The young bandit looks up, tears mixing with the dirt on his face. "Tobin," he whispers. "Please, we're just trying to survive. Kregg... he doesn't feed us unless we bring back supplies."
+
+The scarred bandit finally drops the knife he'd been hiding in his sleeve. It clatters on the frozen ground. "We're not fighters," he says, his voice rough. "We're scavengers. Kregg sends the ones he doesn't like on these raids. If we come back empty-handed..." He doesn't finish.
+
+Reyna looks at your party. "Your bounty, your prisoners. What do you want to do with them?"
+
+Tobin looks up at Garrick, his eyes wide with fear. "Please, sir. We'll tell you everything. Where the camp is, how many of us there are, Kregg's routines. Just... don't turn us over to the town watch. They'll hang us."
+
+The night is bitterly cold. The torch still burns on the ground, casting flickering light on frightened faces. You have two captured Emberfell Rejects who seem more like starving refugees than dangerous criminals.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 6/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I kneel down next to Tobin, pulling out a bandage from my supplies. "Hold still. Broken ribs, possibly internal bleeding." I apply pressure and start wrapping the bandage. "Medical treatment costs. That's coming out of your information value."
+
+I look up at Reyna. "We'll interrogate them separately. Standard procedure - verify their stories match." To the bandits: "You give us accurate information about Kregg's camp, numbers, defenses, and routines, and we might consider leniency. Lie to us, and..." I glance at Garrick's maul. "Well, you've seen what happens."
+
+
+--- Garrick Kade ---
+I keep my maul ready, watching both bandits. "Tobin," I say, my voice low. "I know Kregg. He doesn't send people he 'doesn't like' on raids. He sends people he can spare." I step closer to the scarred bandit. "What's your name?"
+
+"Jax," he mutters, not meeting my eyes.
+
+I look between them. "Kregg's running a camp of fifteen, maybe twenty. He's got lookouts, probably at that choke point Elara mentioned." I lean down, my face close to Jax's. "You tell me everything. How many exactly? Where are the lookouts posted? What's Kregg's routine? And why that mountain?"
+
+I straighten up, looking at Reyna. "We'll question them separately. Cora's right - verify the stories." I turn back to the prisoners. "You cooperate, you might live through this. You lie..." I let the threat hang in the cold air. "Now talk. Starting with the camp location."
+
+
+--- Professor Thaddeus Mercer ---
+I step forward, brushing ice from my new cloak. "Before we resort to threats, let me try a more scholarly approach." I kneel beside Tobin, examining him with academic curiosity rather than Cora's medical pragmatism. "You mentioned Kregg doesn't feed you unless you bring back supplies. That suggests resource scarcity at the camp."
+
+I look at Jax, then back at Tobin. "But more importantly, you've been living near that mountain for weeks. I need to know about the effects." My tone becomes more urgent, my academic compulsion overriding the interrogation. "The dreams, the whispers — have you experienced them? Has Kregg? Have you noticed changes in behavior among the men?"
+
+(Insight check to gauge their truthfulness about the mountain's effects: 22 — I can read their genuine fear and confusion.)
+
+I see the genuine terror in Tobin's eyes when I mention the dreams. "The water," I press. "The metallic-tasting stream from the mountain base. Do the men drink from it? Have there been... unusual reactions?"
+
+I turn to Garrick and Cora. "This is crucial. If Kregg's men are already affected by whatever psychic resonance exists there, they might not be thinking rationally. Their defenses could be compromised, or they could be unpredictably violent." I look back at the prisoners. "Tell us about the camp's condition. Are men getting sick? Acting strangely? Having arguments over nothing?"
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+Professor Thaddeus Mercer: Insight check to gauge truthfulness about the mountain's effects — 22 vs DC 15 — **SPECTACULAR SUCCESS** (Natural 20!) Mercer reads the prisoners with perfect clarity. He sees Tobin's genuine terror when the mountain's effects are mentioned — not just fear of punishment, but deep, primal dread. He recognizes Jax's defensive posture as masking his own traumatic experiences. Mercer can tell they're being completely truthful about the psychological effects and that their fear of the mountain is authentic and profound.
+
+
+--- DM ---
+Tobin flinches as Cora applies the bandage, but his eyes are fixed on Mercer with a kind of horrified recognition. "The dreams," he whispers. "Every night since we set up camp. Falling into black water. And the whispers... not from the wind. From the rocks themselves."
+
+Jax looks away, his scarred face tightening. "Kregg drinks from the stream," he says, his voice rough. "Says it makes him strong. The rest of us... we melt snow. But three men went into a collapsed section looking for loot a week ago. They never came back. Kregg said they deserted, but..." He trails off.
+
+Reyna listens, her expression unreadable. Elara keeps her sword ready but her eyes are on the prisoners with something approaching pity.
+
+Tobin continues, his voice trembling. "There's fifteen of us, including Kregg. Two lookouts at the choke point — narrow ledge halfway up. They switch every four hours. Kregg stays in the big tent, hoards the food. We get scraps if we bring back supplies from town."
+
+He looks at Garrick. "The camp's at the peak. Old ruins — stone walls, a courtyard. There's a well so deep you can't hear the stone hit bottom. And sometimes... things splash down there. Big things."
+
+Jax adds, "Kregg's routine is simple. He eats first, takes the best cuts. Posts guards at dusk. Checks the perimeter himself at midnight. He's paranoid. Thinks someone's coming for him." He looks directly at Garrick. "Maybe he's right."
+
+Mercer's insight confirms their terror is genuine. These aren't hardened criminals putting on an act — they're terrified men trapped between a cruel leader and a mountain that's slowly driving them mad.
+
+Reyna speaks up. "Their stories match what we know. Fifteen bandits, camp at the peak, using the mountain's reputation as protection." She looks at your party. "You have your information. What now?"
+
+Elara sheathes her sword. "They're more use to you alive than dead. They can tell you exactly where the lookouts are posted, when the guard changes happen." She looks at the prisoners. "But if you let them go, they'll just run back to Kregg and warn him."
+
+Tobin shakes his head violently. "No! We won't go back! Please, we'll do anything. Work for you, guide you through the hills, anything but go back to that mountain!"
+
+Jax is quieter but just as desperate. "Kregg will kill us if we return empty-handed. And the mountain..." He shudders. "I'd rather take my chances with the town watch than spend another night hearing those whispers."
+
+The torch on the ground sputters, casting long shadows. The cold seeps through your new cloaks. You have two prisoners who have given you everything you asked for — camp location, numbers, routines, and confirmation of the mountain's unsettling effects. But now you have to decide their fate.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 7/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I make notes in my ledger. "Fifteen total, two lookouts at choke point, guard change every four hours, Kregg paranoid and checks perimeter at midnight." I look at Reyna. "We need them held somewhere secure until we return. If their information proves accurate, we can argue for leniency. If they lied..." I let the implication hang.
+
+To the prisoners: "You'll be held under guard. If your information leads to Kregg's capture and the end of the raids, we'll testify that you cooperated. That might mean exile instead of hanging." I turn to the group. "We leave at first light. We now have a timetable - we need to reach the choke point during a guard change when they're distracted."
+
+
+--- Garrick Kade ---
+I look at the two prisoners, then at Reyna. "Hold them in the Guild's storage. Post a guard." I turn to Tobin and Jax. "If your information is good, we'll speak for you. If not..." I let the threat hang.
+
+I kneel down, my face level with Jax's. "Tell me about the well. What kind of things splash? Animals? Something else?"
+
+Jax swallows hard. "Not animals. Too big. And the sounds... wet, slithering. Kregg throws scraps down there sometimes. Says he's 'feeding the mountain.'"
+
+I stand up, my jaw tight. "Kregg's gone mad. Drinking from that stream, feeding something in a well." I look at my companions. "We move at first light. Hit the choke point during guard change. Take out the lookouts quietly, then move up to the camp."
+
+I turn to Elara. "We'll need those earplugs. And any information about fighting in high altitude - thin air affects stamina." I look back at the prisoners. "One more thing. Does Kregg still carry that notched axe? The one with the brass pommel?"
+
+Tobin nods. "Always. Sleeps with it."
+
+"Good," I say, hefting my maul. "Then I'll know him when I see him."
+
+
+--- Professor Thaddeus Mercer ---
+I step forward, my academic mind racing with the implications. "Wait. The well." I look at Jax with intense focus. "You said it's so deep you can't hear the stone hit bottom. That suggests either an extraordinary depth or... something absorbing the sound."
+
+(Arcana check to analyze the well description: 10 — I have some theories but nothing definitive.)
+
+I turn to the group, my excitement overriding the grim circumstances. "This changes everything. A deep well in mountain ruins could be a natural fissure, but 'things splashing' that are 'too big to be animals'?" I make rapid notes. "Garrick, Kregg feeding something in the well isn't madness — it could be ritual behavior. Or appeasement."
+
+I address the prisoners more gently now. "Tobin, Jax — you've given us crucial data. The psychological effects, the well, Kregg's behavior changes from drinking the stream water." I look at Reyna. "They should be held, yes, but we need to examine them more thoroughly first. If the mountain's effects are cumulative, studying their symptoms could help us understand what we're facing."
+
+I turn to Cora. "Your medical assessment should include neurological observations. And Garrick — before we leave, we should visit Brother Aldwin at the chapel. If he treated a prospector with similar symptoms, his notes might contain patterns we can use."
+
+I look back at the prisoners, my scholarly detachment giving way to something approaching compassion. "These men aren't just criminals — they're research subjects who've been exposed to an unknown environmental hazard. Their survival could provide answers that protect future expeditions."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+Professor Thaddeus Mercer: Arcana check to analyze the well description — 10 vs DC 13 — **PARTIAL SUCCESS** Mercer has several theories about the well — it could be a natural fissure, an ancient dwarven construction, or even a portal to underground waterways — but he can't determine which is most likely. The "things splashing" description suggests something large inhabiting deep water, but whether it's natural fauna, supernatural entity, or something else remains unclear.
+
+
+--- DM ---
+Reyna nods at Cora's assessment. "The Guild's storage has a lock and a guard. They'll be held there." She gestures to the young man who alerted you. "Liam, take them inside. Post two guards. Feed them, but keep them separate."
+
+As Tobin and Jax are led away, Tobin looks back over his shoulder. "The guard change is at dawn, noon, dusk, and midnight," he calls out. "Hit them at dawn — they're tired, cold, not paying attention."
+
+Elara watches them go, then turns to your party. "I'll have your gear ready at first light. The earplugs, climbing equipment, everything." She looks at Mercer. "Brother Aldwin is usually at the chapel until late. If you want to see him tonight, now's the time."
+
+The night has grown colder still. The stars are brilliant overhead, but the wind carries the promise of worse weather to come. Reyna looks toward the northwest, where the mountains are invisible in the darkness. "Two days to the base if the weather holds. If it snows..." She doesn't finish the thought.
+
+Inside the Second Wind Inn, the common room has mostly emptied. A few late drinkers nurse their ales by the fire. Torvald looks up as you enter. "Rooms are ready. Second floor, end of the hall. Breakfast at dawn, but if you're leaving that early, I'll pack you travel rations."
+
+Upstairs, the rooms are simple but clean — straw mattresses, wool blankets, a washbasin with icy water. The wind rattles the shutters. From somewhere below comes the sound of Torvald banking the fire for the night.
+
+Garrick checks the window, peering out into the darkness toward the northwest. "Kregg's up there right now," he says quietly. "Probably checking the perimeter, making sure his lookouts are awake." He turns away from the window. "We hit them at dawn guard change. That gives us two days to reach the choke point."
+
+Cora spreads her ledger on a small table, calculating supplies, travel time, potential complications. Mercer, meanwhile, is already gathering his notes. "We should see Brother Aldwin tonight," he insists. "If he has records of similar symptoms, it could confirm whether the mountain's effects are consistent across different exposures."
+
+Outside, the chapel of the Hearthfire is a small, plain stone building with a single stained glass window showing a hearthfire surrounded by hands. A light burns inside. When you knock, the door opens to reveal a middle-aged man in simple robes — Brother Aldwin. He has a patient, weary face and kind eyes.
+
+"Come in," he says, stepping aside. "I heard about the capture. Reyna sent word." The chapel is warm, lit by a single brazier. Shelves hold healing herbs and simple medical supplies. "You're the bounty hunters," he says, not as a question.
+
+He gestures to a ledger on a desk. "I treated the prospector who came back from near the mountain. His symptoms match what your prisoners described — nightmares of falling into dark water, auditory hallucinations of whispers. He also had tremors, night sweats, paranoia." He looks at Mercer. "You think it's geological?"
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 8/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I examine Brother Aldwin's ledger, comparing his notes with my own. "Consistent symptoms across multiple subjects suggests environmental exposure rather than individual psychosis." I look at Mercer. "Your geological theory has merit. Certain minerals or underground water sources could produce these effects."
+
+To Brother Aldwin: "What treatments worked? Did the symptoms resolve when patients left the area?" I make another note. "This confirms the earplugs are necessary. We should also consider limited exposure times - establish a base camp away from the mountain and make quick raids rather than prolonged occupation."
+
+I turn to the group. "We need to establish a rotation - no one stays near the mountain for more than a few hours at a time. We'll work in shifts, retreating to a safe distance to recover."
+
+
+--- Garrick Kade ---
+I listen to Brother Aldwin's description, my arms crossed. "Tremors, paranoia, nightmares." I think about Kregg drinking from that stream, feeding something in the well. "Kregg's been there weeks. If this affects everyone, he should be mad by now."
+
+I look at Mercer. "Professor, if it's minerals in the water or rock, would it affect someone who drinks it regularly differently than someone who just breathes the air?"
+
+Turning back to Brother Aldwin, I ask the practical question: "Did the prospector recover? Completely, or just enough to function?" I need to know if we'll be fighting men who are just scared, or men who are truly broken in the head.
+
+I glance at Cora's rotation plan. "Shifts won't work. We hit hard and fast, get Kregg, get out. No camping near that mountain." I look toward the chapel door, as if I can see the distant peak through stone walls. "Two days to get there. Dawn guard change. We move at first light."
+
+
+--- Professor Thaddeus Mercer ---
+"Brother Aldwin, may I examine your ledger?" I ask, my academic curiosity fully engaged. I carefully turn the pages, comparing his medical observations with my theoretical framework. (Investigation check to analyze patterns: 12 — I find some correlations but nothing definitive.)
+
+"The consistency is remarkable," I murmur, tracing a finger down the entries. "Nightmares of falling into dark water across multiple subjects — that's not random. It suggests a specific psychic imprint, possibly related to underground water sources or deep geological formations."
+
+I look up at Garrick. "To answer your question: yes, ingestion would likely produce more severe and rapid effects than inhalation or dermal exposure. If Kregg has been drinking from that metallic-tasting stream for weeks..." I trail off, considering the implications. "He might be experiencing amplified symptoms, but he could also be developing a tolerance or even a dependency. Some arcane substances create physiological adaptations."
+
+Turning to Brother Aldwin, I ask, "Did you notice any patterns in recovery time? How long after leaving the area did symptoms begin to abate? And were there any residual effects — changes in personality, memory gaps, altered sleep patterns?"
+
+I make several notes in my journal. "Cora's rotation plan has merit from a medical standpoint, but Garrick's tactical assessment is also correct. The ideal approach would be to establish a base camp at a safe distance — perhaps where Harlan camped — then make rapid incursions wearing protective measures." I tap my temple. "The earplugs for auditory phenomena, but we should also consider eye protection if there are visual components to the effect."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+Professor Thaddeus Mercer: Investigation check to analyze patterns in medical records — 12 vs DC 13 — **PARTIAL SUCCESS** Mercer finds some correlations between exposure time and symptom severity, and notes that patients who left the area showed gradual improvement over several days. However, he can't identify definitive patterns or determine whether there are specific triggers or mitigating factors. The data suggests the effect is real but inconsistent across individuals.
+
+
+--- DM ---
+Brother Aldwin nods, his kind face serious. "The prospector — his name was Dorn — recovered gradually. It took five days for the nightmares to stop, a week before the tremors subsided. He still jumps at loud noises, but he's functional." He looks at his ledger. "He never went back to the hills. Took work in town instead."
+
+He turns to Garrick. "As for whether drinking the water makes it worse... I don't know. But Dorn said he drank from a stream near the mountain. Said it tasted metallic. His symptoms were more severe than others who just camped nearby."
+
+The healer looks at your party with genuine concern. "If you're going up there, be careful. Whatever this is, it's real. Not superstition, not 'mountain fever.'" He gestures to his shelves. "I can give you herbs that promote restful sleep. They won't stop the dreams, but they might help you recover between exposures."
+
+He packs a small pouch of dried leaves into a cloth bundle. "Brew this as tea. One cup before sleep. No more — it's potent."
+
+Outside the chapel, the night has reached its deepest cold. The wind has died down, leaving an eerie stillness. The stars are almost painfully bright. From the direction of the Prospectors' Guild comes the sound of the changing guard — boots on frozen ground, low voices.
+
+Elara is waiting for you outside the Second Wind Inn, a large pack at her feet. "Gear's ready," she says. "Everything you asked for, plus some extras — extra rope, fire-starting kits, a small tent in case you need to shelter from weather." She hands each of you a leather pouch. "Wax earplugs. And Professor?" She gives Mercer a small notebook and charcoal sticks. "Writing materials that won't freeze. The charcoal will work even if the ink freezes."
+
+She looks toward the northwest, where the first hint of gray is beginning to lighten the horizon. "Dawn's coming. The trailhead is just outside town, past the last houses. Follow it northwest. Two days to the mountain base if you keep a steady pace."
+
+She hesitates, then adds, "I've been to the base of that mountain once. Never went up. The feeling... it's hard to describe. Like being watched by something very old and very patient." She shakes her head. "Good luck."
+
+Back in your rooms, you have a few hours before true dawn. The travel rations Torvald packed are simple but filling — hard bread, cheese, dried meat. Your new gear is laid out: cloaks, boots, climbing equipment, weapons sharpened and ready.
+
+Garrick checks his maul one last time, the whetstone singing against steel. Cora organizes her supplies, calculating exactly how many days of food you have, how much water you'll need to carry before finding streams. Mercer examines the earplugs, then makes notes about Brother Aldwin's observations.
+
+The window shows the first true light of dawn — pale gray washing the eastern sky. The town of Grimhold is still asleep, but you're awake, armed, and about to walk into the Starmetal Hills toward a mountain that sits wrong on the horizon and a man from Garrick's past who's possibly gone mad from drinking its water.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 9/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I finish my final inventory check. "Rations for four days, climbing gear, medical supplies including Brother Aldwin's herbs, wax earplugs." I look at Garrick and Mercer. "We move in formation: Garrick point, Mercer middle, me rear. We maintain distance between us to avoid ambushes taking out the whole group."
+
+I distribute the earplugs. "We insert these when we reach the mountain base. No drinking from streams unless we boil the water first. We establish a base camp at least a mile from the mountain and work in shifts." I check my ledger one last time. "Dawn guard change is in approximately two hours. If we maintain a steady pace, we should reach the choke point just before the next change at noon tomorrow. That's our window."
+
+I shoulder my pack. "Let's move. Every minute we delay is another minute Kregg has to prepare."
+
+
+--- Garrick Kade ---
+I shoulder my pack, the weight familiar and comforting. My maul rests across it, ready to be drawn in an instant. "No base camp," I say firmly. "We hit hard, get Kregg, get out. No lingering near that mountain."
+
+I check my handaxes, making sure they're secure in their sheaths. "We reach the choke point before noon guard change. Take out the lookouts quietly." I make a quick motion with my hand. "Then we move up to the camp. Kregg checks the perimeter at midnight - that's when we strike."
+
+I look at my companions. "Mercer, you stay between us. If you start hearing whispers or feeling... wrong, you tell us immediately. We retreat, regroup." I turn to the door. "Let's move. Dawn's coming."
+
+I lead the way out of the inn, into the cold morning air. The trailhead is just ahead, leading northwest into the hills. Toward Kregg. Toward the mountain that sits wrong. My grip tightens on my maul's haft. "Stay sharp. Watch for tracks, signs of other patrols." I start walking, my eyes already scanning the terrain ahead.
+
+
+--- Professor Thaddeus Mercer ---
+I adjust my pack, feeling the unfamiliar weight of field equipment. "Garrick, while I appreciate your tactical certainty, we need to be flexible." I pull out the small notebook Elara gave me, already making notes about our departure. "If the mountain's effects are as pronounced as reported, we may need to adjust our approach based on real-time observations."
+
+(Wisdom check to assess the practical realities: 6 — I'm still too focused on academic concerns to fully grasp the survival implications.)
+
+I follow Garrick out into the cold dawn, my new boots crunching on frozen ground. "We should establish observational protocols," I continue, oblivious to the tension in my companions. "Regular checks for symptoms every hour once we're within the affected radius. Document any unusual geological formations, changes in wildlife behavior, alterations in water quality..."
+
+I pause, looking at the trail ahead. "And we absolutely must collect samples. Water from the metallic stream, rock specimens from near the well, any unusual flora. These could be invaluable for my research back at the university."
+
+As we reach the trailhead, I turn back for one last look at Grimhold. "Remember, we're not just bounty hunters. We're field researchers on the verge of a potentially groundbreaking discovery about the First World Sleeper. Every observation matters." I adjust my spectacles, completely missing the fact that my companions are focused on survival, not academic glory.
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+Professor Thaddeus Mercer: Wisdom check to assess practical realities — 6 vs DC 10 — **FAILURE** Mercer is so focused on his academic observations, sample collection, and research protocols that he completely fails to grasp the immediate survival concerns. He doesn't recognize the tension in his companions or the real danger they're walking into, prioritizing his "groundbreaking discovery" over the practical realities of hunting dangerous bandits in hostile terrain.
+
+
+--- DM ---
+The trail out of Grimhold is a narrow rut between wind-scoured rocks, climbing steadily into the Starmetal Hills. Dawn breaks fully as you walk, painting the sky in shades of pale gold and cold blue. The air is sharp and clean, carrying the scent of frost and damp earth.
+
+For the first few hours, the journey is uneventful. The hills roll out before you — low, treeless, scattered with ancient stone markers that stand like silent sentinels. The trail is clear, worn by prospectors' boots and supply carts. Cora keeps a steady pace, her eyes on the terrain, calculating distances and travel times. Garrick moves with the quiet efficiency of a predator, his eyes constantly scanning for threats, his hand never far from his maul.
+
+Mercer, however, is in his element. He stops frequently to examine rock formations, making notes about "unusual stratification patterns" and "possible glacial scarring." He collects small samples, chipping pieces from boulders with a geologist's hammer. "Fascinating," he murmurs, holding a piece of dark stone up to the light. "This appears to be basalt, but with quartz inclusions that shouldn't be present in this geological layer..."
+
+By midday, you've made good progress. The sun is high but provides little warmth — the wind has picked up again, cutting through your cloaks. The landscape grows more rugged, the trail steeper. You're deep in the hills now, and Grimhold is just a smudge of smoke on the southern horizon.
+
+Cora calls for a brief rest beside a cluster of boulders that provide some shelter from the wind. As you eat travel rations, Garrick examines the ground. "Fresh bootprints," he says, pointing to the mud beside the trail. "At least a dozen different sets, all heading northwest. Recent — within the last day or two."
+
+He follows the tracks a short distance off the trail to an abandoned prospector's camp — a cold fire pit, a bedroll left behind, tools scattered as if in a hurry. A small journal lies beside the bedroll, its pages fluttering in the wind.
+
+Mercer immediately picks it up, brushing off dirt. "This could provide valuable data about local conditions," he says, flipping through the pages.
+
+The journal entries describe growing unease over several days: "Day 3: Strange dreams again. Falling. Always falling." "Day 5: Tools missing from camp. Not stolen — just gone. Like the rocks swallowed them." "Day 7: The mountain is wrong. It watches us." The last entry is just two words, scrawled in shaky handwriting: "Leaving now."
+
+Garrick examines the camp more closely. "No signs of struggle. No blood. They just packed up and left in a hurry." He looks toward the northwest, where the Asymmetrical Mountain is now visible as a dark shape on the horizon. "They were spooked."
+
+The mountain sits there, massive and off-center, as if someone placed it wrong on a map. Even from this distance, you can see it doesn't match the surrounding hills — too large, too steep, its shape unnatural against the sky.
+
+Cora checks her calculations. "We're making good time. We should reach the base by tomorrow afternoon." She looks at the mountain, then at her companions. "We camp away from the trail tonight. No fires if we're this close."
+
+The wind carries a faint metallic smell now — like wet copper or iron. The sun begins its descent toward the western peaks, and the temperature drops rapidly.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 10/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I examine the abandoned camp, checking for anything valuable left behind. "Tools scattered, bedroll abandoned - they left in a panic." I collect any usable items and add them to my inventory, making a note in my ledger. "Salvage value: minimal, but better than nothing."
+
+
+--- Garrick Kade ---
+I kneel by the bootprints, examining them closely. "These are recent. Within a day." I point to the direction. "All heading toward the mountain. Kregg's men, or more prospectors getting spooked."
+
+I stand up, looking at the abandoned camp. "No blood, no struggle. They just ran." I glance at the mountain on the horizon. "Whatever's up there, it's getting worse. Or closer."
+
+I turn to my companions. "We keep moving. Find a sheltered spot to camp before dark." I look at Cora. "No fire tonight. Cold camp. We eat rations, sleep in shifts." I heft my maul. "I'll take first watch."
+
+I start walking again, my eyes scanning the terrain ahead. The metallic smell in the wind makes my nose wrinkle. "That smell... it's stronger. Like the stream Tobin mentioned." I keep moving, my pace steady but cautious. Every sense alert for danger.
+
+
+--- Professor Thaddeus Mercer ---
+I carefully tuck the prospector's journal into my pack, my academic excitement warring with growing unease. "This is invaluable primary source material," I murmur, though my voice lacks its usual enthusiasm. "The progression of symptoms aligns perfectly with Brother Aldwin's records — dreams of falling, paranoia, eventual flight."
+
+(Investigation check to analyze the journal entries: 10 — I note the pattern but miss some subtler implications.)
+
+I stand, brushing dirt from my robes, and look toward the asymmetrical mountain. "Garrick's correct about the metallic smell. That's likely iron oxide or copper sulfide particles carried on the wind from exposed mineral deposits." I take a small sample vial from my pack and attempt to collect air samples, though the wind makes it difficult.
+
+"We should document our own symptoms as we approach," I continue, pulling out my notebook. "Baseline observations now, then hourly updates once the smell becomes constant. Headaches, dizziness, auditory phenomena, changes in mood or perception..."
+
+I look at my companions, finally registering their practical concerns. "But yes, a sheltered campsite away from the trail is wise. And no fire — not just for concealment, but because combustion could interact unpredictably with whatever minerals are in the air." I make a note about potential pyrophoric reactions.
+
+As we resume walking, I keep glancing at the mountain, its unnatural shape bothering me in a way that goes beyond academic curiosity. "It does look... placed rather than formed," I admit quietly. "Like a child dropped a toy mountain on a map of hills."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+Professor Thaddeus Mercer: Investigation check to analyze journal entries — 10 vs DC 12 — **PARTIAL SUCCESS** Mercer notes the clear progression of symptoms (dreams → paranoia → flight) and the consistency with other reports, but he misses the subtle implication in the "tools missing" entry — the prospector specifically notes they weren't stolen but "like the rocks swallowed them," suggesting something more than simple misplacement or theft.
+
+
+--- DM ---
+You push deeper into the hills as the afternoon wears on. The metallic smell grows stronger, carried on a wind that seems to blow constantly from the northwest — from the mountain. The landscape becomes more barren, the soil thin and rocky. Fewer plants grow here, and those that do are stunted, twisted things.
+
+Garrick finds a sheltered spot for camp as dusk approaches — a natural depression between two large rock formations that blocks the wind and provides cover from view. True to his word, you make a cold camp: no fire, just travel rations and the cold seeping up from the ground.
+
+As you eat, Cora distributes the wax earplugs. "Insert them when we reach the mountain base tomorrow," she reminds you. "Until then, we need to stay alert for any sounds that might indicate patrols or wildlife."
+
+The night is bitterly cold, and the stars are almost painfully bright in the clear sky. The Asymmetrical Mountain is a black silhouette against the starfield, larger now, dominating the northwestern horizon. It truly does sit wrong — its peak off-center, its slopes too steep in places, too shallow in others. Even Mercer, for all his academic detachment, finds himself staring at it with unease.
+
+Garrick takes first watch, his maul across his knees, his eyes scanning the darkness. The wind carries strange sounds tonight — not just the normal rustle of dry grass, but something else. A faint humming, almost below hearing. And once, a distant splash that's too loud to be a small animal in a stream.
+
+During Mercer's watch, he makes notes by moonlight, documenting his observations: "Metallic taste in mouth despite no direct exposure to minerals. Mild headache developing. Auditory phenomena: low-frequency hum, possibly geological in origin. Visual: mountain appears to... shift when not directly observed. Likely optical illusion caused by fatigue."
+
+When Cora takes the final watch before dawn, she notices something Garrick and Mercer missed: the bootprints around your camp. Not your own — fresh ones, circling your sheltered spot but never coming closer. Someone was watching you in the night.
+
+Dawn comes gray and cold. A thin mist hangs in the valleys between hills. As you pack up, Garrick examines the bootprints. "Single set," he says quietly. "Came within fifty feet, circled twice, left. Not a patrol — a scout. Kregg knows someone's coming."
+
+The second day of travel begins with heightened tension. The mountain looms larger with every hour. By midday, you can see details: the steep switchback trail winding up its side, the dark mouth of what might be a cave or tunnel partway up, and at the very peak — the faint suggestion of man-made structures. Stone walls. A palisade.
+
+The metallic smell is constant now, and the stream appears — a narrow ribbon of clear water cutting through the rocks. Cora tests it with a silver coin from her supplies. The coin comes out with a faint tarnish. "Metallic content confirmed," she says. "We don't drink from this."
+
+As you approach the mountain's base, the trail divides. The main path continues around to the switchback ascent, but a smaller, fainter trail leads off to the right, following the stream. And there, beside the stream, you see it: a lone figure kneeling by the water, drinking deeply.
+
+He hasn't seen you yet. He's a man in patched, dirty clothes, his face gaunt with hunger. He drinks from cupped hands, then sits back, staring blankly at the mountain as if in a trance. This is one of the Emberfell Rejects — a deserter, fleeing the camp.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 11/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I signal for quiet and motion for Garrick to approach from one side while I circle from the other. "We take him alive. He's drinking the water - likely already affected. Watch for erratic behavior." I keep my voice low. "If he runs, don't chase him toward the mountain. We want him away from reinforcements."
+
+I approach slowly, hands visible. "We're not here to hurt you. We have food." I gesture to my pack. "You look like you haven't eaten properly in days." I'm calculating: one deserter, possibly disoriented from the water, likely scared. Better to offer food than threats.
+
+
+--- Garrick Kade ---
+I move quickly but quietly, circling to cut off any escape toward the mountain. My maul stays on my back - no need to scare him more than necessary. As Cora offers food, I position myself between the man and the trail up the mountain.
+
+When he turns, I see his eyes are glassy, unfocused. "Easy," I say, my voice low. "We're not with Kregg. We have food. Real food." I keep my hands visible, but ready to move if he bolts.
+
+I glance at the stream, then back at him. "How long have you been drinking that water?" I need to know how far gone he is. If he's been drinking it for days, he might not be thinking clearly enough to cooperate.
+
+I take a slow step closer. "What's your name? When did you leave the camp?" I keep my tone even, non-threatening. But my eyes are already scanning for other movement, other scouts. This one might be alone, or he might be the distraction.
+
+
+--- Professor Thaddeus Mercer ---
+I stay back, observing from a distance with academic fascination. "Don't startle him!" I whisper urgently. "Look at his posture — he's in a dissociative state. The water consumption combined with prolonged exposure to the mountain's effects..."
+
+(Medicine check to assess his condition: 6 — I'm too focused on theoretical analysis to provide practical medical insight.)
+
+I pull out my notebook, making rapid observations. "Note the glassy eyes, the blank stare toward the mountain. This could be a fugue state induced by mineral toxicity or psychic resonance." I edge closer, my scholarly curiosity overriding caution. "Sir? Can you hear me? How does the water taste? Metallic? Sweet? Bitter?"
+
+I glance at Garrick. "We need to examine him properly. If he's been drinking from the stream, he could provide crucial data about the progression of symptoms." I take another step forward, completely missing the tactical implications of our position. "Does he have tremors? Pupil dilation? We should check for..."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+Professor Thaddeus Mercer: Medicine check to assess the deserter's condition — 6 vs DC 12 — **FAILURE** Mercer is so focused on theoretical analysis and data collection that he completely misreads the situation. He fails to recognize the immediate danger, doesn't notice potential signs of aggression or mental instability, and his academic approach could actually provoke the already-disturbed man. His "examination" priorities are entirely wrong for the tactical situation.
+
+
+--- DM ---
+The deserter turns slowly, his movements sluggish, as if waking from a deep sleep. His eyes are indeed glassy, unfocused, but they fix on Cora when she mentions food. "Food?" he repeats, his voice raspy. "Real food?"
+
+He's young — maybe twenty — with the gaunt, hollow-cheeked look of someone who's been starving for weeks. His clothes are little more than rags, patched with pieces of other garments. He looks at Garrick, then back at Cora, his expression confused.
+
+"Name's... Finn," he says slowly. "Left the camp... two days ago? Three?" He shakes his head as if trying to clear it. "Kregg... he wasn't feeding us. Just the ones who brought back loot. I couldn't... couldn't steal anymore."
+
+He looks at the stream, then at his hands. "The water... it helps. Makes the hunger go away. Makes the dreams... quieter." His gaze drifts back toward the mountain, and for a moment he seems to forget you're there.
+
+Garrick's question about how long he's been drinking the water seems to confuse him further. "Always? Since we came here. The stream's the only water that doesn't taste like dirt." He looks at Mercer, who's edging closer with his notebook. "Who are you?"
+
+Before Mercer can launch into his academic interrogation, Finn's eyes suddenly focus with alarming clarity. "You're not from Grimhold. You're... bounty hunters." He takes a step back, his hands coming up defensively. "Kregg said you'd come. He said the town would send people."
+
+He looks between you, his fear cutting through whatever haze the water had put him in. "I won't go back. Not to Kregg, not to the town watch." His eyes dart toward the switchback trail, then to the smaller path that leads away from the mountain. "I'll die out here first."
+
+From somewhere up the mountain comes the faint sound of a horn — two short blasts, then silence. Finn freezes. "That's the lookout signal. They know you're here."
+
+He looks at you with sudden, desperate intensity. "I'll tell you everything. Where the lookouts are, when they change, how to get past them. But you have to promise me something." He points to the smaller trail. "Let me go that way. Don't follow me. Don't tell anyone which way I went."
+
+The horn sounds again, closer this time. Someone is coming down the mountain trail.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 12/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I pull out a travel ration and toss it to Finn. "Take it and go. Quickly." I turn to Garrick and Mercer. "We need to move off the main trail. The horn means they're sending someone down to investigate." I point to a cluster of boulders nearby. "Take cover there. We observe who comes, then decide our next move."
+
+I look back at Finn. "If you want to survive, don't drink any more of that water. Melt snow instead." Then to my companions: "We let him go. A live deserter spreading fear among the ranks is more valuable to us than a prisoner. Now move!"
+
+
+--- Garrick Kade ---
+I grab Finn's arm, not roughly but firmly. "Quick. Tell us about the lookouts. How many? Where exactly?"
+
+As he stammers out information, I'm already scanning the trail up the mountain. The horn means they're coming. I release Finn and shove him toward the smaller trail. "Go. Don't stop running."
+
+I turn to my companions, drawing my maul. "To the boulders. Now." I move quickly but quietly, keeping low. My eyes stay fixed on the mountain trail, watching for movement. Whoever's coming, they'll be expecting trouble now.
+
+I position myself behind the largest boulder, maul ready. "Quiet. Let them pass if possible. If they find us..." I don't finish the sentence. The grip on my weapon says everything.
+
+
+--- Professor Thaddeus Mercer ---
+"Wait! One more question!" I hiss as Finn starts to flee, but Garrick is already shoving him toward escape. I scramble after my companions toward the boulders, my pack clattering awkwardly. (Dexterity check to move quietly: 10 — I'm not exactly stealthy.)
+
+Once behind cover, I pull out my notebook, scribbling frantically. "The water 'makes the dreams quieter' — that suggests it has soporific or numbing properties, possibly acting on the same neural pathways affected by the mountain's resonance." I peer around the boulder, trying to spot the approaching patrol. "If Kregg's men are self-medicating with mineral-laden water, they could be developing dependency. That changes their behavioral profile."
+
+I lower my voice as the horn sounds again, closer. "We should have taken a water sample from Finn. And documented his symptoms more thoroughly. The progression from dissociation to sudden clarity when threatened is clinically significant."
+
+I glance at Garrick's ready maul, then back at the trail. "Perhaps we should attempt capture rather than confrontation. A live subject who's been drinking the water regularly could provide invaluable comparative data to the prisoners in Grimhold." I'm so focused on my academic analysis that I'm completely missing the immediate tactical danger.
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+Professor Thaddeus Mercer: Dexterity (Stealth) check to move quietly — 10 vs DC 12 — **PARTIAL SUCCESS** Mercer makes enough noise scrambling to cover that he might be heard by an attentive listener, but he's not completely obvious. His pack clatters and he stumbles slightly, but he reaches the boulders without giving away their exact position.
+
+
+--- DM ---
+Finn stammers out the information as Garrick holds him: "Two lookouts at the choke point — narrow ledge halfway up. They switch at dawn, noon, dusk, midnight. Kregg checks them sometimes, unexpected." Then he's gone, scrambling down the smaller trail without looking back, Cora's ration clutched in his hand.
+
+You reach the boulders just as two figures appear on the switchback trail above. They're moving cautiously, weapons drawn — one with a shortbow, the other with a rusty sword. Both wear the same patched, dirty clothes as Finn. These are Emberfell Rejects, but they look more alert, more dangerous than the deserter.
+
+[Scout 1 Perception check to spot you: 14 vs your group's Stealth (Garrick 15, Cora 13, Mercer 10) — The scouts don't spot you immediately, but they're suspicious.]
+
+The scouts pause where the trail divides, examining the ground. The one with the shortbow points to Finn's fresh footprints leading away down the smaller trail. "Finn ran that way," he says, his voice carrying in the cold air.
+
+The swordsman looks toward your boulder cluster, squinting. "He was talking to someone. I saw movement before we sounded the horn." He takes a step toward your position.
+
+They're about sixty feet away, on higher ground. The terrain between you and them is open — rocky, scattered with low scrub, no real cover. If they come closer, they'll spot you for sure.
+
+The shortbow scout nocks an arrow but doesn't draw. "Finn! Come out! Kregg wants to talk to you!" he calls, his eyes scanning the boulders.
+
+The metallic smell is strong here, carried on a wind that blows down from the mountain. The Asymmetrical Mountain looms above you, its unnatural shape even more apparent up close. The switchback trail winds up its side, and you can see the choke point from here — a narrow ledge between two rock faces about halfway to the peak. From this distance, you can't see if the lookouts are in position.
+
+The scouts exchange a look. "Check the boulders," the swordsman says quietly. "If Finn's hiding there..."
+
+They start moving toward you, weapons ready. They're not running — they're being cautious, professional. These aren't starving deserters; these are Kregg's enforcers.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 13/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I whisper to Garrick, "Take the archer first. I'll hit the swordsman with Ray of Frost to slow him down." I focus on the swordsman and whisper an incantation, a beam of frost shooting from my fingertips toward him. "Now, Garrick!"
+
+I'm calculating: if we take them down quickly and quietly, we might avoid alerting the lookouts above. But if they get off a shout or another horn blast, we lose the element of surprise entirely.
+
+
+--- Garrick Kade ---
+I don't wait for Cora's spell to land. The moment she says "Now," I'm already moving.
+
+I burst from behind the boulder, maul swinging in a low arc as I charge the archer. My boots pound against the rocky ground, covering the distance faster than they expect. The archer's eyes widen as he sees me coming, but he's too slow to draw his bow fully.
+
+My maul connects with a sickening crunch of ribs and wood as I smash both him and his bow. He crumples with a choked gasp, the bow splintering in his hands. I don't stop to check if he's down - I'm already turning toward the swordsman, who's now slowed by Cora's frost spell, his movements sluggish in the cold air.
+
+"Quietly!" I growl to my companions as I close on the second scout. My maul comes around in another swing, aimed at his legs to take him down without killing him if I can help it. We need information, and a live prisoner might know more than Finn did about Kregg's current state.
+
+As I fight, part of my mind is already calculating: the horn sounded twice. Did they get a signal off before we hit them? Are the lookouts above already alerted? We need to move fast now - up the trail, to the choke point, before Kregg realizes his scouts aren't coming back.
+
+
+--- Professor Thaddeus Mercer ---
+I scramble back behind the boulder as combat erupts, my heart pounding in a most unscholarly manner. "This is not an optimal research environment!" I hiss, fumbling for my spell components. The sudden violence has shattered my academic detachment, and for the first time, genuine fear cuts through my curiosity.
+
+I peer around the boulder, watching Garrick's brutal efficiency with horrified fascination. The crunch of breaking bones is appallingly loud in the thin mountain air. My mind races through my limited spell repertoire — Magic Missile would be precise but potentially lethal, and we need information. Shield would only protect me. Then I remember my cantrips.
+
+"Stay back!" I shout at the swordsman, who's now slowed by Cora's frost but still advancing. I extend my hand, focusing on the principles of thermal dynamics. "The rapid expansion of superheated air should create a sufficient deterrent!" I cast Fire Bolt, aiming not at the man himself but at the rocky ground between him and Garrick, hoping to create a barrier of flame and smoke.
+
+<｜DSML｜function_calls>
+<｜DSML｜invoke name="roll_dice">
+<｜DSML｜parameter name="notation" string="true">1d20+5</｜DSML｜parameter>
+</｜DSML｜invoke>
+</｜DSML｜function_calls>
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**COMBAT INITIATED**
+Initiative Order: Garrick (charges first), Cora (spell), Scouts (reacting), Mercer (last)
+
+Cora Flint: Ray of Frost attack on Swordsman — Spell attack vs AC 12 — **HIT** Swordsman takes 1d8 cold damage and speed reduced by 10 feet until start of Cora's next turn.
+
+Garrick Kade: Maul attack on Archer — 17 vs AC 12 — **HIT** Archer takes 9 bludgeoning damage and is knocked prone, bow destroyed.
+
+Professor Thaddeus Mercer: Fire Bolt attack (aiming at ground) — 13 vs DC 10 to hit ground — **SUCCESS** Creates a barrier of flame and smoke between Swordsman and Garrick, providing half cover and potentially obscuring vision.
+
+Scout Status: Archer badly wounded and prone, Swordsman slowed by frost and facing fire barrier.
+
+
+--- DM ---
+Cora's Ray of Frost hits the swordsman square in the chest, coating his leather armor in a layer of rime. He staggers, his movements suddenly sluggish as the cold seeps into his limbs. "What—" he starts, but Garrick is already a whirlwind of violence.
+
+Garrick's maul connects with the archer's ribs with a sickening crunch. The man goes down hard, his shortbow splintering under the impact. He gasps, clutching his side, blood already staining his patched tunic. He's not dead, but he's not getting up either.
+
+Mercer's Fire Bolt strikes the rocky ground between the swordsman and Garrick, erupting in a burst of flame and smoke. The sudden heat and obscuring cloud make the swordsman flinch back, his sword coming up defensively.
+
+The swordsman — slowed, facing a wall of fire, and seeing his companion down — makes a decision. He turns and runs back up the trail toward the mountain, shouting as he goes: "Intruders! At the base! Intruders!"
+
+His voice echoes off the rocks, carrying up the switchback trail. From somewhere high above, another horn blast answers — three short, urgent notes. The lookouts at the choke point have been alerted.
+
+The archer at Garrick's feet moans, trying to crawl away. Blood trickles from his mouth. "Please," he gasps. "Don't... don't kill me."
+
+The fire from Mercer's spell begins to die down, leaving scorched rock and a lingering smell of ozone mixed with the ever-present metallic scent. The swordsman is disappearing around a bend in the trail, still shouting warnings.
+
+You have seconds to decide. The archer is wounded but alive. The swordsman is raising the alarm. The lookouts above know you're here. And somewhere at the peak, Kregg is hearing that his scouts have been attacked.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 14/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I kneel by the archer, applying pressure to his wounds. "Broken ribs, internal bleeding. He'll die without treatment." I look up at Garrick. "We can't leave him to alert others, but killing a wounded man is wasteful." I make a quick calculation. "We bind him, leave him hidden. If we succeed, we collect him on the way back. If we fail..." I let the implication hang.
+
+To the group: "The alarm's raised. Our options: retreat and regroup, or push forward before they can organize a proper defense. I calculate we have about ten minutes before reinforcements arrive from the peak."
+
+
+--- Garrick Kade ---
+I look at the wounded archer, then up the trail where the swordsman disappeared. "No time." I grab the archer's collar, dragging him behind the boulders. "Bind him. Gag him. Leave him."
+
+I turn to my companions, my voice urgent. "We push forward. Now. Before they can organize." I point up the switchback trail. "The lookouts at the choke point will be alert, but they'll be watching the trail below. We go up fast, hit them before they're ready."
+
+I check my maul, then start moving up the trail at a steady jog, keeping to cover where I can. "Mercer, stay behind me. Cora, watch our backs. If more come down the trail, you handle them."
+
+The horn blasts echo above us. Kregg knows we're here. Good. Let him know I'm coming. "We reach the choke point, take out the lookouts, then keep moving up. No stopping until we reach the camp." My grip tightens on my weapon. "Kregg's had this coming for a long time."
+
+
+--- Professor Thaddeus Mercer ---
+"Wait! The archer!" I protest as Garrick drags the wounded man behind the boulders. I scramble over, my academic detachment crumbling in the face of immediate violence. "He's a data point! If he's been drinking the water, his physiological response to injury could reveal—"
+
+The three horn blasts from above cut through my words, a stark reminder that we're not in a laboratory. I look up the switchback trail, then at the bleeding archer, and something shifts in me. The theoretical gives way to the terrifyingly real.
+
+"You're right," I say, my voice clipped and formal — fear cutting through the pomposity. "No time." I fumble in my pack, not for notes, but for the wax earplugs. I insert them with trembling hands, the world becoming muffled. "The auditory phenomena will only intensify as we ascend. We need to move."
+
+I fall in behind Garrick as instructed, but I can't resist one last glance at the archer. "Bind him securely," I tell Cora. "And note his symptoms when you do. Pupil dilation, tremors, coherence of speech. It matters."
+
+Then I'm moving, my new boots slipping on the rocky trail as I try to keep pace with Garrick's jog. The Asymmetrical Mountain looms above us, its wrongness pressing down like a physical weight. Even through the earplugs, I can feel a low hum in my bones — not sound, but vibration. The metallic taste in my mouth intensifies.
+
+"Garrick," I say, my voice tight. "The choke point lookouts will have the high ground, but they'll be focused downward. If there are mineral deposits on that ledge, they might be experiencing visual distortions. Use that."
+
+I'm not lecturing anymore. I'm surviving. And part of survival is using every tool, even academic ones. The mountain isn't just a tactical problem — it's an environmental hazard, and I'm starting to understand its rules.
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+No contested actions this round.
+
+
+--- DM ---
+Cora quickly binds the wounded archer with rope from her pack, gagging him with a strip of cloth. She leaves him hidden behind the boulders, his breathing labored but steady. "He'll live or he won't," she says, her voice matter-of-fact. "We have bigger problems."
+
+You start up the switchback trail at a punishing pace. The trail is steep, winding back and forth across the mountain's face. The air grows thinner, colder. The metallic smell intensifies, and now there's a taste to it — like sucking on a copper coin. Through your earplugs, the world is muffled, but you can still feel the low hum in your bones that Mercer mentioned.
+
+After twenty minutes of hard climbing, you reach the choke point. Just as Finn described: a narrow ledge between two sheer rock faces, barely wide enough for two people to pass abreast. And just as Elara warned: there are lookouts.
+
+Two bandits stand guard on the ledge. They've heard the alarm — they're alert, weapons drawn, peering down the trail below. One holds a horn ready at his lips. The other has a loaded crossbow aimed downward.
+
+[Scout lookouts Perception check: 13 vs your group's Stealth (Garrick 16, Cora 14, Mercer 8 with disadvantage from clumsy movement) — They spot you as you round the last bend.]
+
+The crossbowman sees Garrick first. "There!" he shouts, raising his weapon. The hornman brings the horn to his lips, ready to sound another alarm.
+
+You're about sixty feet below them on the trail, with the narrow ledge between you. They have the high ground, cover from the rock faces on either side, and a clear line of fire. If that horn sounds again, every bandit on the mountain will know exactly where you are.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 15/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I aim my Ray of Frost at the hornman's hand. "Garrick, charge the crossbowman! Mercer, hit them with whatever you have!" I fire the frost beam, trying to freeze the horn to his lips or at least make him drop it. "We need to take them down before that horn sounds!"
+
+
+--- Garrick Kade ---
+I don't wait for Cora's beam to hit. The moment I see the crossbow aimed at us, I'm already moving. "Cover me!" I bark, charging up the steep trail toward the ledge.
+
+My maul is heavy in my hands, but I've carried heavier burdens. The sixty feet feels like nothing as I close the distance, my chain mail clinking with each pounding step. The crossbowman's eyes widen - he wasn't expecting someone to charge straight at him.
+
+I don't aim for the body. I aim for the weapon. My maul sweeps up in a brutal arc, targeting the crossbow itself. If I can smash it before he fires, we might still have surprise on our side. The horn is the real threat - one blast and Kregg knows exactly where we are.
+
+"Take the hornman!" I shout over my shoulder, already committed to my charge. My boots scramble for purchase on the rocky trail, but I don't slow down. Hesitation gets people killed, and right now, those lookouts are the only thing between us and Kregg.
+
+
+--- Professor Thaddeus Mercer ---
+"Academic observation: direct confrontation is statistically unfavorable!" I call out, my voice tight with genuine fear as Garrick charges. The hornman is bringing the instrument to his lips, and I know with sudden, chilling clarity that if that alarm sounds, we're dead. My self-preservation instinct finally overrides my academic curiosity.
+
+I raise my hands, focusing not on the hornman's body, but on the horn itself. "I'll attempt to disrupt the resonance!" I shout, though I doubt my companions understand. I don't cast Fire Bolt — the explosion might alert others. Instead, I focus on a simpler, more precise application of force. Three darts of magical energy streak from my fingertips toward the horn, aiming to knock it from the man's grasp before he can blow.
+
+"Magic Missile!" I announce, the spell leaving me with a familiar drain. The glowing darts weave through the air unerringly. "Targeting the horn itself — if we can prevent the auditory signal, we maintain some element of surprise!"
+
+I scramble for what little cover the rocky trail provides, my heart pounding. This isn't a research expedition anymore — it's a battle, and I'm horrifically out of my depth. "Cora, if your frost beam misses, I have one more spell prepared!" I call, my voice higher than I'd like. The metallic taste in my mouth is stronger now, mixing with the acrid flavor of fear.
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**COMBAT ROUND 1**
+
+Cora Flint: Ray of Frost attack on Hornman — Spell attack vs AC 12 — **HIT** Hornman takes 1d8 cold damage and his speed is reduced by 10 feet. The sudden cold makes him fumble with the horn.
+
+Garrick Kade: Maul attack on Crossbowman — 17 vs AC 12 — **HIT** Garrick smashes the crossbow before it can be fired, dealing 9 bludgeoning damage and destroying the weapon. Crossbowman staggers back, weaponless.
+
+Professor Thaddeus Mercer: Magic Missile on Horn — Automatic hit, no attack roll needed — **SUCCESS** Three force darts strike the horn, knocking it from the man's frozen hands. It clatters to the stone ledge, dented but potentially still functional if retrieved.
+
+
+--- DM ---
+Cora's Ray of Frost strikes the hornman's hand, coating it in rime. He yelps, the sudden cold making his fingers clumsy. The horn slips from his grasp — just as Mercer's Magic Missile darts slam into it, knocking it clattering across the stone ledge. It rolls to a stop near the edge, dented but possibly still usable.
+
+Garrick reaches the ledge in a thunderous charge. His maul smashes into the crossbow just as the bandit squeezes the trigger. The weapon explodes in a shower of splinters and twisted metal, the bolt firing harmlessly into the rock face above. The crossbowman staggers back, clutching his now-empty hands, his face pale with shock.
+
+The hornman, his hand still numb from Cora's frost, makes a desperate lunge for the fallen horn. He scrambles on hands and knees, his movements slowed by the cold still clinging to him.
+
+The crossbowman, weaponless but not helpless, draws a rusty shortsword from his belt. "Kregg!" he shouts up the mountain, his voice echoing off the rock faces. "They're at the choke point! Kregg!"
+
+No horn sounds, but the shout carries almost as well. From somewhere up above, you hear answering shouts — multiple voices, getting closer. Reinforcements are coming down from the camp.
+
+The two lookouts are between you and the trail upward. The horn lies on the stone, five feet from the hornman's grasping hand. The crossbowman stands between Garrick and the rest of the ledge, his shortsword held in a shaky grip. Behind you, the trail winds back down to where you left the wounded archer. Ahead, the path continues up to the peak — and to Kregg.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 16/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I move forward, aiming another Ray of Frost at the hornman to keep him from reaching the horn. "Garrick, finish the swordsman quickly! We need to secure this position before reinforcements arrive!" I calculate: we have maybe two minutes before more bandits reach us. We need to either eliminate these two and prepare an ambush, or push past them and keep moving upward.
+
+
+--- Garrick Kade ---
+I don't hesitate. The crossbowman's shout has already alerted the camp, but I can still stop these two from causing more trouble. My maul swings in a controlled arc toward the swordsman's head. "Down!" I roar, putting all my strength into the blow.
+
+As the swordsman crumples, I turn toward the hornman. He's still scrambling for the instrument, his frost-numbed fingers fumbling. I step over the fallen swordsman and bring my maul down on the horn itself, crushing it into useless metal. "No more signals," I growl, standing over him.
+
+I look back at my companions, breathing hard from the charge. "Reinforcements coming. We hold this ledge. Better ground here than higher up." I position myself at the narrowest part of the choke point, maul ready. "Cora, Mercer - get behind me. They'll have to come through one at a time." My eyes scan the trail above, watching for the first signs of Kregg's men. The metallic taste is strong in my mouth, but I spit it out, focusing on the fight to come.
+
+
+--- Professor Thaddeus Mercer ---
+"Wait! Don't kill him!" I shout as Garrick's maul descends toward the hornman. My academic compulsion overrides tactical sense. "We need a live subject who's been stationed at this altitude for an extended period! The physiological effects of prolonged exposure combined with the metallic particulates in the air—"
+
+But Garrick has already crushed the horn, and the hornman scrambles backward, his frost-numbed hand raised in surrender. I move forward, my own safety forgotten in the face of research opportunity. "You," I say, my voice shifting to the tone I use with nervous first-year students. "How long have you been posted here? Have you experienced auditory phenomena? Changes in sleep patterns? Visual disturbances when looking at the mountain?"
+
+The hornman stares at me, bewildered, as shouts echo from above. I barely register them, pulling out my notebook. "The taste of copper in your mouth — constant or intermittent? And the dreams of falling into dark water — do they occur here at the choke point, or only when you sleep higher up at the camp?"
+
+I'm so focused on my interrogation that I don't notice the approaching reinforcements until Garrick physically pulls me behind him. "Professor, either fight or get out of the way!" he barks, positioning himself at the narrowest part of the ledge.
+
+I stumble back, clutching my notebook. "But the data..." I mutter, then finally register the danger. Multiple voices, getting closer. I fumble for my component pouch, my hands trembling — not from fear, but from the sudden adrenaline crash of interrupted research. "I can... I have a Shield spell prepared. And Magic Missile. But we really should be documenting their symptoms as we engage them. Comparative analysis between those stationed at different altitudes could prove invaluable..."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**COMBAT ROUND 2**
+
+Cora Flint: Ray of Frost attack on Hornman — Spell attack vs AC 12 — **HIT** Hornman takes additional cold damage and is further slowed, unable to reach the horn before Garrick destroys it.
+
+Garrick Kade: Maul attack on Swordsman — 19 vs AC 12 — **CRITICAL HIT!** Garrick's maul connects with devastating force, dealing 2d12+3 bludgeoning damage. The swordsman is knocked unconscious and possibly has serious injuries.
+
+Garrick Kade: Second attack on Horn — Automatic success vs object — **SUCCESS** The horn is crushed into useless metal, preventing any further alarm signals from this position.
+
+Professor Thaddeus Mercer: No combat action — **FAILURE** Mercer's attempt to interrogate the hornman during active combat fails completely. He's so focused on data collection that he becomes a liability, requiring Garrick to physically move him to safety as reinforcements approach.
+
+
+--- DM ---
+Garrick's maul comes down on the swordsman with brutal efficiency. The man crumples without a sound, unconscious before he hits the stone. Garrick then turns and brings his weapon down on the horn, crushing it into a twisted piece of metal. The hornman scrambles backward, his frost-numbed hands raised in surrender.
+
+"Please!" he gasps. "I yield! Don't kill me!"
+
+But there's no time for prisoners or interrogations. From the trail above, four more bandits appear, weapons drawn. They've heard the shouts, seen the fallen lookouts. They're not charging blindly — they're moving cautiously, using the switchback's turns for cover. These are Kregg's enforcers, better armed and more dangerous than the lookouts.
+
+[Bandit reinforcements: 4 Bandits (CR 1/8 each), moving down the trail with shortswords and light crossbows.]
+
+The lead bandit spots Garrick at the choke point. "There! At the ledge!" He raises a crossbow, but the narrow trail and Garrick's position behind rock cover make it a difficult shot.
+
+The hornman sees his chance. While everyone's attention is on the approaching reinforcements, he scrambles to his feet and tries to dart past Garrick, back down the trail the way you came.
+
+Garrick stands at the narrowest part of the ledge — barely wide enough for one person to pass. The approaching bandits will have to come at him single file. Behind him, Cora has cover among the rocks. Mercer is still fumbling with his component pouch, his academic focus shattered by the immediate threat.
+
+The metallic taste is overwhelming now, mixed with the scent of blood and fear. The low hum in your bones has become a vibration you can feel through your boots. From somewhere far above — from the peak itself — comes a new sound: a deep, resonant gong, struck once, then silence.
+
+The bandits hear it too. They pause, looking upward uncertainly. Then their leader shakes his head. "Kregg's signal! Forward!"
+
+They start moving again, more urgently now. The first one reaches the beginning of the narrow ledge, twenty feet from Garrick's position. He raises his crossbow.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 17/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I position myself behind Garrick, ready to support. "Garrick, hold the choke point! They can only come at you one at a time!" I prepare my Ray of Frost. "I'll slow down anyone who gets past you. Mercer, use your magic to control the battlefield - grease the ledge, create an illusion, anything to disrupt their advance!"
+
+I calculate quickly: four bandits, narrow approach, Garrick's defensive position gives us the advantage. But that gong... that's a new variable. "That signal means Kregg knows we're here and is mobilizing his entire force. We need to finish these four quickly and push upward before he can organize a proper defense."
+
+
+--- Garrick Kade ---
+I plant my feet at the narrowest point of the ledge, maul held ready. "Come on then!" I roar at the approaching bandits. The hornman tries to dart past me, but I shove him hard against the rock face with my shoulder, knocking the wind from him. He slumps, dazed.
+
+The first bandit fires his crossbow. The bolt whizzes past my head, clattering against stone. He drops the weapon and draws a shortsword, charging the last twenty feet. I meet his charge, my maul swinging in a wide arc. The impact sends him stumbling back into the man behind him.
+
+"Hold this position!" I shout to Cora and Mercer over my shoulder. "They have to come through me!" The narrow ledge is our advantage - their numbers mean nothing if they can't surround us.
+
+I keep my maul moving, controlling the space. The deep gong from above echoes in my bones, but I push the unease aside. Kregg's up there, and he knows I'm coming. That's all that matters. "Next!" I growl, ready for the next bandit to try his luck.
+
+
+--- Professor Thaddeus Mercer ---
+My hands tremble as I fumble with my component pouch, the academic detachment I’ve clung to shattering under the immediacy of violence. The deep gong reverberates through the stone beneath my feet—a sound felt more than heard, primal and unnerving. *That’s not a normal signal bell,* I think with a surge of terrified clarity. *That’s something resonant, something tuned to the mountain itself.*
+
+“Garrick, hold them!” I shout, my voice higher than I intend. I don’t have a spell to grease the ledge or create illusions—Cora’s overestimating my repertoire. But I have one that might give us a crucial moment. I focus past the charging bandits, past Garrick’s maul, on the rock face just above the first two reinforcements. With a sharp gesture and a guttural word, I cast **Magic Missile**. Three darts of force streak unerringly from my fingertips, not at the bandits, but at a precariously balanced shelf of rock above their heads.
+
+The darts slam into the stone with concussive thuds. A rain of shale and fist-sized rocks cascades down, clattering onto the narrow trail. It won’t bury them, but it forces the lead bandits to duck and shield themselves, disrupting their advance and buying Garrick a precious few seconds.
+
+I scramble backward, putting more of the choke point’s natural rock cover between me and the crossbows. My mind races, not with theories now, but with tactical survival. The gong changes everything. It’s a coordination signal, yes, but the tone… it matches the low hum in my bones. Kregg isn’t just calling his men; he’s using the mountain’s own resonance.
+
+“The gong is keyed to the mineral deposits!” I yell to my companions, the scholar in me reasserting itself even in panic. “It could be amplifying the disorienting effects! We need to silence it or get past its range!” I look desperately up the trail toward the peak. Our choice is stark: retreat down the mountain into possible ambush, or push up through these four and race the clock before Kregg fully mobilizes and that gong does whatever worse thing it’s meant to do.
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**COMBAT ROUND 3**
+
+Garrick Kade: Maul attack on charging Bandit 1 — 17 vs AC 12 — **HIT** Bandit 1 takes 9 bludgeoning damage and is knocked back into Bandit 2, disrupting their formation.
+
+Professor Thaddeus Mercer: Magic Missile on rock shelf — Automatic hit, no attack roll needed — **SUCCESS** Three force darts strike the unstable rock above the bandits, causing a rockfall that forces Bandits 1 and 2 to take cover and gives the party one round of breathing room.
+
+Bandit 1: Crossbow attack on Garrick — 11 vs AC 16 (with cover) — **MISS** The bolt whizzes past harmlessly as Garrick's position and cover provide excellent defense.
+
+**COMBAT STATUS**: Bandits 1 & 2 are disrupted by rockfall, Bandits 3 & 4 are behind them on narrow trail. Party has tactical advantage at choke point.
+
+
+--- DM ---
+Mercer's Magic Missile strikes the unstable rock shelf with precise force. The resulting cascade of shale and stone forces the lead bandits to duck and cover, buying precious seconds. Garrick uses the moment to reposition, his maul sweeping in a controlled arc that keeps the narrow ledge impassable.
+
+The hornman, still dazed from Garrick's shove, makes another desperate attempt to escape. He scrambles past the unconscious swordsman and tries to squeeze past Cora. She doesn't bother with magic — a swift kick to his already-injured ribs sends him sprawling, gasping in pain. "Stay down," she says, her voice cold and practical.
+
+From above, the deep gong sounds again — two strikes this time, with a different rhythm. The bandits hear it and their expressions change. Not fear, but something else... resignation? They exchange looks, then the leader nods.
+
+"Kregg's orders," he says, his voice carrying on the thin air. "Fall back to the courtyard. Let them come to us."
+
+They begin retreating back up the trail, moving with disciplined haste rather than panic. They're not running — they're executing a tactical withdrawal. The rockfall Mercer created actually helps their retreat, providing cover as they disappear around the switchback above.
+
+The sudden silence is almost as unnerving as the combat. The only sounds are the wind whistling through the choke point and the pained breathing of the hornman at your feet. The metallic taste is stronger than ever, and the vibration in your bones has become a constant, low thrum.
+
+Garrick watches the bandits retreat, his knuckles white on his maul's haft. "They're falling back to a defensible position. The courtyard Finn mentioned." He looks back at his companions. "Kregg's consolidating his forces. Making us come to him."
+
+Cora checks the hornman's injuries. "Broken ribs, possible internal bleeding. He's not going anywhere." She looks up the trail. "They're expecting us now. No more surprise. We either follow them up and fight on their terms, or we find another way."
+
+Mercer stares at the spot where the bandits disappeared, his academic mind processing the tactical implications. "The gong... it's not just a signal. It's affecting the resonance. Can't you feel it? The vibration changed after the second strike." He looks at Garrick, genuine concern in his eyes for the first time. "Kregg's using the mountain's properties as a weapon. If we follow them up that trail, we're walking into a prepared position where he controls the environmental factors."
+
+From far above, you can now see the camp — stone walls surrounding a courtyard at the very peak. Figures move behind the crude palisade. And standing at the highest point, looking down toward the choke point, is a heavyset man with a notched axe at his belt. Even from this distance, you can feel his gaze.
+
+Kregg.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 18/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I bind the hornman securely and check his wounds. "He'll live if we get him to a healer. For now, he stays here." I look up the trail, calculating. "They have the high ground, a fortified position, and control of the mountain's effects. Charging up that switchback is suicide."
+
+I examine the rock faces around us. "We need an alternative approach. Mercer, you mentioned the vibration changed. Can we use that? Is there a resonance pattern that might indicate weak points in the rock, or hidden passages?" I pull out my thieves' tools. "Or we look for another way up - prospectors' tunnels, natural chimneys, anything that avoids the main trail."
+
+
+--- Garrick Kade ---
+I stare up at the figure on the peak, my jaw tight. Kregg. Even from this distance, I recognize his stance - that arrogant, solid posture of a man who thinks he's untouchable. My grip tightens on my maul.
+
+"Professor's right," I grunt, tearing my eyes away from the peak. "Charging up the main trail is what Kregg expects. He'll have archers positioned, maybe traps." I look at the rock faces around us, my enforcer's mind working. "There's always another way up. Prospectors' tunnels, game trails, something."
+
+I kneel by the hornman, my face close to his. "You. Are there other ways up to the camp? Tunnels, hidden paths?" When he hesitates, I add, "Tell me, and you might live through this. Lie, and you'll join your friend on the ground."
+
+While Cora examines the rock faces, I keep watch up the trail. Kregg's men are waiting for us to walk into their kill zone. But I didn't come this far to die on some mountain because I was too stubborn to think. "We find another way. Flank them. Hit them from an unexpected direction." I look at my companions. "But we move fast. They're regrouping. We don't give them time to prepare."
+
+
+--- Professor Thaddeus Mercer ---
+My hands are trembling, but not from fear — from excitement. The academic in me is wrestling with the survival instinct, and for once, the scholar is winning. "The vibration pattern," I say, my voice breathless with discovery. I press my palm against the rock face, feeling the thrum through the stone. "It's not uniform. There's a nodal point here, where the resonance diminishes."
+
+I scramble along the ledge, my ear pressed to different sections of rock. "Listen — or rather, feel. The intensity varies. If my theory about geologically-induced psychic phenomena is correct, there might be areas of lower effect, possibly following mineral veins or fault lines."
+
+I turn to my companions, my spectacles askew. "Garrick, your instinct about alternative paths is correct, but we shouldn't look for prospectors' tunnels. We should follow the resonance patterns. Areas of lower vibration might indicate natural passages or weaknesses in the rock formation."
+
+I point to a section of the cliff face where the thrumming feels slightly muted. "There. That could be a fissure or a thin section of rock. If we can find a way around rather than up..." I trail off, my mind racing with possibilities. "The bandits retreated along the main trail because that's the established path. But this mountain is unnatural — its very asymmetry suggests it wasn't formed through normal geological processes. There might be... structural inconsistencies we can exploit."
+
+I look at the hornman, then back at Garrick. "But we need information. Ask him about the well. If there's a deep well in the courtyard, it must connect to underground water systems. Those could provide alternative access points." The academic thrill is giving way to a grim realization. "We're not just fighting bandits anymore. We're navigating an active geological anomaly that Kregg has somehow learned to manipulate."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+No contested actions this round.
+
+
+--- DM ---
+Garrick grabs the hornman by his tattered collar, lifting him until their faces are inches apart. "Other ways up. Now."
+
+The hornman gasps, his eyes wide with pain and fear. "There's... there's an old mine shaft. Halfway between here and the base. Sealed up years ago, but... Kregg had us clear it partway. Said it was a backup escape route."
+
+He coughs, blood speckling his lips. "Comes out... behind the storage tents. Near the well." He looks at Mercer with sudden, desperate hope. "You mentioned the well. It's... it's not just water down there. Things move in the dark. Kregg feeds them. Thinks they'll protect him."
+
+Cora immediately starts calculating. "A mine shaft coming out behind their position. That gives us flanking advantage, possibly surprise if they don't expect us from that direction." She looks at the hornman. "How far down from here? Which direction?"
+
+The hornman points with a trembling hand toward the northwest face of the mountain. "That way. Maybe... three hundred yards down from the choke point. Hidden behind a rockfall. Kregg marked it with three stones in a triangle."
+
+Mercer is already examining the rock face where he felt diminished vibration. "This could be the entrance to a natural fissure that connects to the mine system. The resonance patterns suggest hollow spaces behind this section." He taps the rock with his geologist's hammer. The sound is different here — less solid, more echoey.
+
+From above, the gong sounds again — three quick strikes this time. The vibration through the stone becomes more intense, making your teeth ache. The metallic taste is now accompanied by a faint buzzing in your ears, even through the wax earplugs.
+
+Garrick releases the hornman, who slumps against the rock. "We bind him, leave him here. If we succeed, we collect him on the way down. If we fail..." He doesn't finish the thought.
+
+He looks at his companions. "We find that mine shaft. Flank them. Hit them from behind while they're watching the main trail." He checks his maul, then starts moving carefully along the ledge in the direction the hornman indicated, looking for the three-stone marker.
+
+The decision is made: you're not charging up the main trail into Kregg's prepared defenses. You're taking the back door — through an old mine shaft that comes out near a well where "things move in the dark."
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 19/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I secure the hornman with extra rope and leave him with a waterskin. "Don't try to escape with those ribs. You'll puncture a lung." I make a note in my ledger: "Prisoner secured at choke point - to collect on return."
+
+I follow Garrick, scanning the rock face for the three-stone marker. "Mercer, keep monitoring the vibrations. If they change suddenly, it might indicate we're near the entrance or approaching unstable ground." I check my thieves' tools. "If the shaft is sealed, I can work on opening it. But quietly - we don't want to alert anyone above."
+
+
+--- Garrick Kade ---
+I move carefully along the ledge, my eyes scanning the rock face. "Three stones in a triangle," I mutter, my maul ready in case this is a trap. The vibrations through my boots are getting stronger, making my teeth ache. "Mercer, if you feel that resonance change, say something."
+
+I spot it about fifty yards down from the choke point - three dark stones arranged in a rough triangle against the cliff face. Behind them, what looks like a natural rockfall. "There." I approach cautiously, examining the area. "Looks like it was sealed deliberately. Recent work - see these tool marks?"
+
+I turn to Cora. "Can you open it quietly? We don't have much time." I position myself to watch both the trail above and the approach from below, my back to the rock. "If they come while we're working, I'll hold them off. You two get inside."
+
+The gong sounds again from above - four strikes now, each one making the mountain itself seem to hum. I glance up toward the peak, where Kregg is waiting. "He's getting impatient. Or he's calling something." I think about what the hornman said about things in the well. "We move fast once we're inside. No lingering in dark places."
+
+
+--- Professor Thaddeus Mercer ---
+I press my hand against the rock face near the three-stone marker, closing my eyes to focus. "The resonance here is different," I murmur, my academic detachment giving way to genuine apprehension. "It's not just hollow space behind this rockfall — there's a distinct harmonic pattern, almost like... a counter-vibration to the gong strikes from above."
+
+I pull out my notebook, sketching quickly. "If Kregg is using the mountain's properties as a weapon, this mine shaft might be outside his area of control. The rock here has a different mineral composition — less quartz, more granite. That could provide some insulation from the psychic effects."
+
+I turn to Cora as she examines the sealed entrance. "Before you open it, we should listen. If there are 'things moving in the dark' connected to that well, they might be audible through the rock." I kneel, pressing my ear against the cold stone. The wax earplugs muffle everything, but I can still feel the vibrations through my jawbone — a deep, rhythmic thrumming that wasn't there a moment ago.
+
+"Garrick's right about moving quickly once inside," I say, standing and brushing rock dust from my robes. "But we need to be methodical. I'll cast Light once we're through, but we should also mark our path with chalk. Mines can be labyrinths, and getting lost in there..." I trail off, thinking of the prospector's journal entries about tools disappearing, as if the rocks swallowed them.
+
+I look at my companions, my usual pomposity replaced by sober assessment. "This isn't just a tactical flanking maneuver anymore. We're potentially entering the source of the mountain's unnatural properties. Whatever is in that well, whatever Kregg is 'feeding,' it's connected to everything we've observed." I take a deep breath, the metallic air burning my lungs. "We should proceed with extreme caution. This is no longer simply a bounty hunt."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+No contested actions this round.
+
+
+--- DM ---
+Cora examines the sealed mine entrance with professional efficiency. The rockfall isn't natural — it's been carefully arranged to look like a collapse, but the tool marks are fresh, the stones placed rather than fallen. "This was sealed within the last month," she says, running her fingers along the edges. "Kregg's work. He wanted a back door he could control."
+
+She works quickly with her thieves' tools, finding the keystone — the one piece holding the rest in place. With careful pressure and a soft scraping sound, she dislodges it. The rest of the rocks shift but don't collapse, revealing a dark opening about three feet wide and four feet high.
+
+Cold, damp air washes out from the darkness, carrying a smell of wet stone and something else — something organic and faintly foul, like stagnant water and rotting vegetation. The vibration through the rock changes immediately, becoming a deep, rhythmic thrumming that you can feel in your bones.
+
+Mercer casts Light on a small stone and tosses it into the opening. The magical illumination reveals a mine shaft sloping downward at a steep angle, supported by ancient, rotting timbers. The walls are worked stone — dwarven craftsmanship, impossibly old. The shaft descends into darkness, but about thirty feet in, it appears to turn sharply to the left.
+
+From somewhere deep within the mountain comes a sound: a wet, slithering scrape, followed by a splash that echoes up the shaft. Then silence.
+
+Garrick peers into the darkness, his maul ready. "That's the way," he says quietly. "Down, then up behind them." He looks at his companions. "Once we're in, there's no turning back until we reach the courtyard. Kregg's men will be watching the main trail. This is our only chance."
+
+He ducks through the opening, his chain mail scraping against stone. The mine shaft is cramped, the ceiling low. The ancient timbers groan under his weight. The thrumming vibration is stronger here, mixed with the distant, rhythmic dripping of water.
+
+Cora follows, then Mercer. The professor pauses at the entrance to mark it with a chalk "X" on the inside wall. "For our return," he explains, his voice echoing strangely in the confined space.
+
+The mine shaft descends steeply for about fifty feet, then levels out and turns left, just as the Light spell revealed. The air grows colder, damper. The walls are slick with moisture, and in places, you can see veins of dark quartz glittering in the magical light. The thrumming vibration seems to come from those veins, pulsing in time with the distant gong strikes from above.
+
+Around the corner, the shaft opens into a larger chamber — an old mining gallery with several collapsed tunnels branching off. And in the center of the chamber, something moves.
+
+Not a bandit. Not an animal.
+
+A humanoid figure stands facing away from you, its back hunched, its clothes in tatters. It's perfectly still except for a slight, rhythmic swaying. From it comes a low, wet gurgling sound.
+
+As your Light spell illuminates the chamber, the figure turns slowly. Its face is pale, its eyes milky white and unseeing. Black fluid drips from its nostrils and the corners of its mouth. It doesn't speak. It just stares with those blind eyes, swaying gently to the rhythm of the mountain's thrumming.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 20/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I freeze and signal for silence. "Don't approach. That's not a bandit." I examine the figure from a distance. "Milky eyes, black fluid discharge, unresponsive to our presence. This matches the symptoms described - but advanced." I whisper to Mercer, "Is this what happens with prolonged exposure to the mountain's effects?"
+
+I look for alternative paths around the chamber. "We go around quietly. Don't engage unless it attacks first. Garrick, be ready if it moves toward us." I calculate: fighting an unknown entity in a confined space is high risk. Better to avoid if possible.
+
+
+--- Garrick Kade ---
+I don't wait for analysis or discussion. The thing turns with those milky eyes, black fluid dripping, and my instincts scream *threat*. This isn't a bandit - it's something worse, something corrupted by this damned mountain.
+
+"Back!" I bark at my companions, but I'm already moving forward, maul coming up. I don't charge - the chamber is too confined, the footing unsure. Instead, I advance steadily, keeping my weapon between me and the swaying figure.
+
+"It's between us and the way up," I say, my voice low but firm. "We go through it or we go back." I don't like either option, but turning back means facing Kregg's prepared defenses on the main trail. This... thing... might be slower, might be weaker.
+
+I watch its movements, looking for any sign of attack. The wet gurgling sound sets my teeth on edge. "Mercer, Cora - be ready. If it moves, I hit it. You support." My grip tightens on the maul's haft. I take another step forward, testing its reaction. If it attacks, I'll crush it. If it doesn't... maybe we can slip past. But I'm not counting on mercy from something that looks like that.
+
+
+--- Professor Thaddeus Mercer ---
+"Wait!" I hiss, my academic curiosity warring with the primal fear tightening my throat. I peer past Garrick's shoulder, my mind racing through possibilities. "Don't attack yet. Look at the swaying — it's synchronized with the thrumming vibration. This could be a somnambulistic state induced by the resonance, not active hostility."
+
+I edge forward slightly, squinting in the magical light. "The black fluid... possibly cerebrospinal fluid contamination or a mineral-rich exudate from the sinus cavities." My voice drops to a whisper. "This might be one of the prospectors who disappeared. If we can observe without provoking—"
+
+The figure's milky eyes seem to fix on the light, though they don't track movement. It takes a shuddering step forward, the wet gurgle in its throat becoming a low, bubbling moan. Black fluid drips onto the stone floor with a sizzle that makes me flinch back.
+
+"Acidic properties," I note with horrified fascination, scrambling for my notebook before remembering the tactical situation. "Garrick, perhaps a controlled retreat? We might find another branch—"
+
+But the thing is moving now, not with aggression but with a dreadful, deliberate slowness, arms rising as if reaching for something only it can see. The thrumming in the stone seems to pulse through it, making its movements jerky and unnatural. I finally feel genuine fear cutting through my academic detachment — this isn't a research subject; it's a corrupted remnant of whatever this mountain does to the unprotected.
+
+"On second thought," I say, my voice clipped and formal, the pomposity gone, "perhaps eliminating the threat is the prudent course. I'll prepare a spell." I raise my hands, fingers tracing arcane patterns, readying Magic Missile to strike precise, disabling points if Garrick engages. My survival instinct has finally overridden my curiosity.
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+No contested actions this round.
+
+
+--- DM ---
+The corrupted figure takes another shuddering step forward, its milky eyes fixed on Garrick. Black fluid drips from its outstretched hands, sizzling where it hits the stone floor. The wet gurgle in its throat becomes a low, bubbling moan that echoes in the confined chamber.
+
+Garrick doesn't wait for it to reach him. His maul swings in a controlled arc, striking the figure's shoulder with a sickening crunch of bone. The thing staggers but doesn't fall — instead, it lashes out with surprising speed, black-nailed fingers raking toward Garrick's face.
+
+[Garrick attacks: 17 vs AC 12, HIT. Damage: 9 bludgeoning. The corrupted figure is badly wounded but still standing.]
+
+Cora's Ray of Frost strikes it in the chest, coating its tattered clothing in rime. The cold seems to affect it more than Garrick's maul — it slows, its movements becoming even more jerky and unnatural.
+
+Mercer's Magic Missile darts streak past Garrick, striking the figure's head and torso with precise force. It stumbles backward, black fluid spraying from its mouth and nose. For a moment, it seems to waver, its milky eyes rolling upward.
+
+Then the deep gong sounds from above — five rapid strikes this time. The vibration through the stone becomes a violent shudder. The corrupted figure convulses, its back arching unnaturally. More black fluid pours from its orifices, pooling on the floor and eating into the stone with acidic hisses.
+
+It doesn't attack again. Instead, it turns with a jerky, puppet-like motion and stumbles toward one of the collapsed tunnel branches. With a final, wet gurgle, it disappears into the darkness, leaving only the sizzling black pool and the fading echo of the gong.
+
+The chamber falls silent except for the dripping water and your own ragged breathing. The thrumming vibration continues, but it's changed — deeper, more resonant, as if whatever just happened has awakened something in the mountain.
+
+Garrick wipes black fluid from his maul with a cloth, his expression grim. "That wasn't human. Not anymore." He looks at the tunnel where the thing disappeared. "Kregg's been feeding something in the well. I think we just met one of his offerings."
+
+Cora examines the acidic pool, careful not to touch it. "The fluid is corrosive. We need to avoid contact." She looks at the branching tunnels. "Which way leads up to the courtyard?"
+
+Mercer points to the leftmost tunnel, where faint light filters down from above — not sunlight, but torchlight. "That one. You can hear voices." Indeed, faint voices echo down the shaft, along with the sounds of movement and the ever-present gong's vibration.
+
+The mine shaft continues upward, the worked stone giving way to natural rock, then to the bottom of what must be the well shaft — a circular opening above, with a crude wooden platform and a rope hanging down. The voices are clearer now: bandits talking in low, tense tones. You're directly beneath the courtyard.
+
+Garrick looks at his companions, then up the shaft. "This is it. We go up, we hit them from behind. Kregg's waiting." He tests the rope — it holds. "Quietly. One at a time."
+
+You've reached the back door to Kregg's fortress. The corrupted thing in the mine was just a taste of what this mountain holds. Above, in the torchlit courtyard, fifteen desperate bandits and a cruel enforcer from Garrick's past wait, unaware that death is climbing up from below.
+
+**SESSION ENDS HERE**
+
+
+============================================================
+  SESSION 1 WRAP-UP
+============================================================
+
+[System] Updating campaign state...
+[Wiki Keeper] Extracting entities...
+  [Wiki] ✓ Reyna Steelforge.md (created)
+  [Wiki] ✓ Grimhold.md (created)
+  [Wiki] ✓ Prospectors' Guild.md (created)
+  [Wiki] ✓ Second Wind Inn.md (created)
+  [Wiki] ✓ Emberfell Rejects.md (created)
+  [Wiki] ✓ Kregg.md (created)
+  [Wiki] ✓ Elara Stormwind.md (created)
+  [Wiki] ✓ Griffon's Hold.md (created)
+  [Wiki] ✓ Asymmetrical Mountain.md (created)
+  [Wiki] ✓ First World Sleeper.md (created)
+  [Wiki] ✓ Starmetal Hills.md (created)
+  [Wiki] ✓ Sentinel Mountains.md (created)
+  [Wiki] ✓ Thieves Woods.md (created)
+
+[Wiki] 13 file(s) written to output/wiki/
+
+[Scribe] Writing session narrative...
+[Scribe] Blog saved to C:\Users\maxry\Desktop\AI DND\output\sessions\session_01.md
+
+[Editor] Fact-checking...
+[Editor] 5 content invention flag(s):
+  ⚠ The adventure file states the threats are 'HUMAN BANDITS. There are no monsters, no supernatural creatures, no awakening entities, no psychic phenomena.' The session report and transcript describe a 'corrupted figure' that is not human, with milky eyes, dripping black acidic fluid, and a connection to the mountain's resonance. This is a supernatural creature not in the adventure file.
+  ⚠ The adventure file states 'The mountain's wrongness is geological and atmospheric, not supernatural — at least not yet.' The session report and transcript describe 'psychic phenomena', 'geologically-induced psychic phenomena', 'psychic resonance', 'auditory hallucinations', and a mountain that emits a 'thrumming vibration' affecting minds. This invents a supernatural/metaphysical system.
+  ⚠ The adventure file states the bandits are 'desperate people' and the lone deserter is 'a human being, not a monster.' The session report and transcript describe bandits (Finn, the scouts) as being visibly affected by the mountain's psychic effects ('glassy eyes', 'blank stare', 'dissociative state'), which goes beyond the 'jumpy' or having 'bad dreams' described in the adventure file, inventing a supernatural influence on them.
+  ⚠ The adventure file describes the deep well and mentions 'things splash down there that sound much too big to be fish' as atmospheric foreshadowing. The session report and transcript have Kregg actively 'feeding something' in the well, and the 'corrupted figure' is implied to be one of his 'offerings', inventing an active, corrupting entity.
+  ⚠ The adventure file does not include a 'corrupted' mine shaft with a supernatural entity. The discovery of the mine shaft and the fight with the non-human entity there is invented content.
+[Editor] 5 missing content flag(s):
+  ✗ The adventure file prescribes that the party should interact with AT LEAST two of the listed NPCs (Reyna, Elara, Brother Aldwin, Harlan) before leaving town. The session did not include an interaction with Brother Aldwin at the chapel as described in the adventure file ('Mentions prospectors reporting foul drafts... One man came back raving about whispers.').
+  ✗ The adventure file includes 'Optional Event: A second robbery attempt' with two bandits who can be caught. While a similar event occurred, the adventure file specifies that if caught, the young bandit's name 'is not important' and he provides flavor text. The session gave these bandits names (Tobin, Jax) and extensive interrogation, altering the prescribed minor encounter.
+  ✗ The adventure file prescribes a journey with 'Random Encounters (roll or choose — use AT LEAST one)' including wolves, a giant eagle, an abandoned camp, or a lone deserter. The session included the abandoned camp and a lone deserter (Finn), but did not include a combat encounter with wolves or a giant eagle, skipping potential prescribed combat.
+  ✗ The adventure file describes a specific climax in Act 3: 'The Fight (or Negotiation)' against Kregg and his bandits, with the potential for a spokesperson (Brenna) to emerge after Kregg's defeat. The session ended before this confrontation occurred, skipping the prescribed boss fight/negotiation and the key decision about the bandits' fate.
+  ✗ The adventure file states the adventure ends when 'The party has resolved the bandit situation, claimed the fortress, and discovered the first hints of what lies below.' The session ended mid-approach before any resolution, skipping the entire conclusion and reward acquisition (50 gp bounty, Kregg's +1 dagger, potential workforce).
+[Editor] Session report checked — no factual corrections needed.
+[Editor] Wiki entries checked — no factual corrections needed.
+[Editor] Review saved to: session_01_editor_review.md
+[Lorekeeper] Consistency pass...
+[Lorekeeper] Session report checked — no name corrections needed.
+[Lorekeeper] Upgraded 12 wiki entry/entries to encyclopedic format.
+[Lorekeeper] Added to canonical record: Brenna, Rolf
+[Lorekeeper] Review saved to: session_01_lore_review.md
+
+
+============================================================
+  ADVENTURE COMPLETE!
+  Adventure 1 finished.
+  Swapping to Adventure 2: The Salt Vaults Scavenge
+  File: adventure_02_the_salt_vaults_scavenge.md
+  --- LEVEL UP ---
+  Cora Flint: Level 1 → 2 | HP: 17 | New features: Infuse Item (2 infusions known, 2 active) | New spells: Healing Word | Note: Choose 2 infusions. Can change infusions on long rest.
+  Garrick Kade: Level 1 → 2 | HP: 22 | New features: Action Surge (one extra action per short rest)
+  Professor Thaddeus Mercer: Level 1 → 2 | HP: 12 | New features: Order of Scribes: Wizardly Quill (conjure magic quill, instant transcription), Order of Scribes: Awakened Spellbook (swap damage types, cast rituals faster) | New spells: Thunderwave, Feather Fall
+============================================================
+
+[Summary] Generating adventure 1 summary...
+[Summary] Adventure 1 summary saved.
+[Summary] Already concise (94 words). Skipping condensing.
+[Quests] Cleaning quest list (2 entries)...
+[Quests] Cleaned: 2 → 1 quests.
+[Lorekeeper] Running end-of-adventure wiki editorial pass...
+
+[Lorekeeper] Processing 13 wiki entries in batches...
+
+[Lorekeeper] Batch 1/1 (13 entries)...
+[Lorekeeper] Batch 1: 13 updated, 0 marked for deletion.
+[Lorekeeper] Running cross-batch dedup pass...
+  [Retry] Agent returned garbage (2 words: '{"duplicates": []}...'). Retrying (1/2)...
+  [Retry] Agent returned garbage (2 words: '{"duplicates": []}...'). Retrying (2/2)...
+  [Warning] Agent returned garbage after 2 retries. Using last response.
+[Lorekeeper] Dedup pass: no duplicates found.
+[Lorekeeper] End-of-adventure editorial pass complete.
+
+[Transcript] session_01 -> session_01_transcript.md (101 blocks parsed)
+
+============================================================
+  SESSION 1 COMPLETE
+  Blog saved to: output/sessions/session_01.md
+  Transcript saved to: output/sessions/session_01_transcript.md
+  Log saved to: output/logs/session_01_log.txt
+  Reviews saved to: output/reviews/
+  Wiki updated in: output/wiki/
+  State saved to: campaign_state.json
+  >>> Adventure 1 complete! Next adventure loaded.
+  >>> Story summary condensed for next adventure.
+============================================================
+
+[Site] Building static site...
+[Site] Built 22 pages (1 sessions, 13 wiki entries) in 0.2s -> docs/
+[Git] Publishing session 01...
+[Git] Committed: session 01: campaign update
+[Git] Pushed to origin.

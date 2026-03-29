@@ -1,0 +1,524 @@
+# Session 6 — Transcript
+*The Leaking Crypt*
+
+> *Raw gameplay transcript — the unedited record of what each agent said and did. For the polished narrative version, see the [session report](session_06.md).*
+
+---
+
+**DM:** The crisp mountain air of early spring carries the scent of thawing earth and pine as the party returns to Grimhold from the Asymmetrical Mountain. Several days of rest at the Second Wind Inn have restored their strength — Garrick's bruises have faded, Mercer's spellbook is freshly annotated, and Cora's alchemical supplies are restocked from Elara's shop. The Giant blueprint tablet, wrapped in oilcloth and secured in Cora's pack, feels heavier than its weight — a secret of the mountain's architecture that could change everything.
+
+Reyna Steelforge receives them in the Prospectors' Guild, her office warmed by a small iron stove. She listens intently as Mercer explains the tablet's revelations: the Military Empire layer they explored was built atop a dwarven city, which itself sits upon Giant containment architecture. The mountain isn't just a mountain — it's a prison, and the dwarven layer is the barrier between the surface and whatever lies in the "Sleeper's Cradle" below.
+
+Reyna's expression grows grim. "That explains the reports from my miners," she says, pushing a stack of notes across her desk. "For the past week, prospectors working the northern Starmetal Hills have been complaining about a strange metallic sweetness on the wind. They say it comes and goes, always from the direction of the mountain. One crew abandoned their claim because the smell gave them headaches and nightmares."
+
+She taps the notes. "I dismissed it as spring vapors from thawing mineshafts. But if what you're telling me is true — if there's corruption sealed below that's now leaking upward — then that smell is a warning. And it's reaching the surface."
+
+Warden Aldric, who has been standing quietly by the window, turns to face them. The old warden looks pale. "The Brotherhood sealed the Archives because the books whispered to us," he says, his voice low. "If the dead are speaking too, the entity's reach has grown. You have the Giant blueprint — it shows you where to go. The upper Dwarven Layer is accessible through the stairway you found. You need to find the source of this leak and contain it before whatever's down there finds a way up to us."
+
+Cora unrolls the blueprint tablet on Reyna's desk. The intricate diagrams show the mountain's layers in cross-section, with the dwarven city clearly marked between the Military Empire trophy halls above and the Giant foundation below. One section of the upper Dwarven Layer is annotated with dwarven runes that Mercer translates as "containment monitoring" and "radiation seals."
+
+The metallic sweetness from the Sealed Crypt is no longer just a curiosity — it's a symptom of something failing deep below. And according to Reyna's miners, that symptom is now reaching the surface.
+
+**What do you do?**
+
+**CORA:** *Cora spreads the blueprint tablet on Reyna's desk, her fingers tracing the containment monitoring section with clinical precision.* "Let's calculate the variables. The metallic sweetness is a contaminant reaching the surface. That means the containment seals in the upper Dwarven Layer are failing at an accelerating rate. If miners are experiencing headaches and nightmares at that distance, the concentration is already dangerous."
+
+*She turns to the party, opening her ledger.* "We need to approach this systematically. First, we restock specific supplies: charcoal filters for masks, alchemical reagents to test contamination levels, and materials for temporary seal repairs. Second, we establish a decontamination protocol before re-entering the mountain. Third—" *she taps the blueprint* "—we need to identify the exact breach point. Mercer, can you cross-reference these containment monitoring runes with the Brotherhood's Archive schematics? If they were monitoring this, there might be maintenance access points."
+
+*Cora looks at Garrick.* "You'll need to be ready for structural instability. If seals are failing, there could be pressure releases, gas pockets, or worse—whatever's contained might be trying to push through. We'll need to move quickly but methodically. No charging ahead until we've tested the air."
+
+*She addresses Reyna and Aldric.* "We'll need an advance for specialized equipment. I estimate 50 gold for proper filtration gear, testing reagents, and emergency sealant compounds. That's coming out of whatever bounty we earn for containing this, but we can't do the job without the right tools."
+
+**GARRICK:** I grunt, leaning against the wall with my maul resting against my shoulder. "Filters and tests are fine, Cora. But here's what I know from working in the Thieves Woods - when something's leaking, you don't test the air, you find the leak and plug it. Fast."
+
+I look at Reyna and Aldric. "The miners are already getting sick. That means whatever's down there is getting stronger. Your fifty gold for gear? Fine. But we're not waiting for perfect conditions. Every day we spend 'preparing' is another day this poison spreads."
+
+I heft my maul. "Mercer, you figure out where the breach is from those runes. Cora, get your filters and sealants. But understand this - when we go down there and find whatever's trying to push through those seals, I'm not testing the air first. I'm hitting it until it stops moving. Questions come after."
+
+I turn to the blueprint, my eyes tracing the containment monitoring section. "Structural instability? Pressure releases? That's what I'm built for. But if there's something alive down there trying to get out..." I let the sentence hang, my grip tightening on my maul. "Then we make sure it stays dead."
+
+**MERCER:** *I lean over the blueprint tablet, my quill already materializing in my hand as I begin making rapid annotations in the margins of my spellbook.*
+
+> **[Rules Keeper]** I'll load the campaign state to check the party's current status and then adjudicate any actions.
+
+
+---
+
+**DM:** Reyna Steelforge nods at Cora's assessment, her practical nature approving of the systematic approach. "Fifty gold advance against the containment bounty," she agrees, unlocking a strongbox beneath her desk and counting out the coins. "Elara has some mining respirators that might work for filtration. She can modify them with charcoal canisters from the smithy."
+
+Warden Aldric watches Mercer's quill dance across the spellbook margins. "The Brotherhood's Archive schematics show maintenance access points," he confirms, his voice grave. "But they're marked as 'sealed - do not open' in the later entries. The last monitoring reports from the dwarven layer indicated rising radiation levels at three locations. One of them corresponds to what you're calling 'containment monitoring' on that blueprint."
+
+Mercer's cross-referencing reveals a critical detail: the dwarven runes for "containment monitoring" are paired with another set of symbols that translate to "mausoleum" or "crypt of the honored dead." The Brotherhood notes indicate that the dwarves used their own dead as radiation monitors — when the bodies began to show signs of animation, it meant the containment was failing at that location. The metallic sweetness is the signature of Dreamstone radiation, a byproduct of the entity's influence.
+
+Garrick's urgency resonates with Aldric. "You're right to move quickly," the warden says. "But understand what you're facing. These aren't traditional undead. The Brotherhood encountered similar phenomena near planar thin points — psychic echoes preserved in saturated matter. They don't think. They repeat. And they're drawn to living minds like moths to flame."
+
+Elara Stormwind arrives at Reyna's summons, examining the blueprint with a mercenary's eye. "I've got three modified mining respirators," she says. "Charcoal filters, leather seals, glass eye-pieces. They'll give you about an hour of clean air in heavy contamination. After that, the filters need replacing." She produces a small clay jar. "This is quick-setting sealant the miners use for emergency shaft repairs. Sets hard as stone in minutes. Might work for your breach."
+
+The party spends the afternoon preparing. Cora acquires the respirators, testing each seal with her alchemical smoke pellets. She mixes additional reagents for contamination testing — vials that change color in the presence of Dreamstone radiation. Garrick checks his armor and weapons, sharpening his maul's edge to a fine gleam. Mercer transcribes the critical sections of the blueprint and Brotherhood notes into his field journal, creating a portable reference.
+
+As dusk settles over Grimhold, the party stands before the entrance to the Asymmetrical Mountain once more. The air carries a faint, almost imperceptible metallic tang — stronger than it was days ago. The descent into the Military Empire layer is familiar now, but this time they bypass the trophy halls, heading directly for the Giant stairway discovered in the Hall of the Giants.
+
+The massive steps, three feet high each, descend into darkness. The transition from Military Empire masonry to dwarven construction is immediate and profound. Iron brackets the size of wagon wheels line the walls, holding the ghosts of long-extinguished torches. The air grows cooler, damper, with a mineral sharpness that coats the tongue even through the respirators.
+
+After forty feet of descent, the stairway opens into a landing. The ceiling here is fifteen feet high — dwarven scale, not human. A corridor runs east and west, wide enough for three dwarves abreast. The walls are carved with geometric patterns that Mercer recognizes from the commemorative plaque in the Hall of the Conquered Peoples: Kazad-Khrom design, the lost dwarven empire.
+
+**Garrick's trained eye notices:** The stonework is superior to anything in the human layers above — built to withstand siege. But something has damaged it. Not age, not combat. The stone itself is discolored in places, darkened as if stained from within. The discoloration follows a pattern, radiating from a point deeper in the eastern corridor.
+
+**Cora's contamination vials confirm:** The discolored stone glows with a faint blue-purple iridescence in the torchlight. Her testing reagents change color immediately — deep violet. Dreamstone radiation, concentrated enough to register even at this distance. The metallic sweetness is stronger here, not coming from above but from ahead, down the eastern corridor.
+
+The upper Dwarven Layer stretches before them — a transitional zone between human and Giant architecture, now showing the first visible signs of containment failure. The eastern corridor leads toward the source of the discoloration and the scent.
+
+**What do you do?**
+
+**CORA:** *Cora immediately kneels by the discolored stone, pulling out her alchemical supplies.* "Hold position. I need to measure contamination levels and document the pattern." *She carefully applies testing reagents to different sections of the discoloration, comparing the color changes to her reference chart.*
+
+**GARRICK:** I ignore Cora's "hold position" order. The discoloration isn't just damage - it's a trail. And trails lead to things that need killing.
+
+"Testing's done," I grunt, already moving down the eastern corridor with my maul ready. "The stone's poisoned, we know that. Now we find what's poisoning it."
+
+**MERCER:** *I step forward, my spectral mind already manifesting from my spellbook and floating ahead to illuminate the corridor with its faint blue light. I raise a hand to stop Garrick, my voice carrying the sharp tone of academic authority.*
+
+"Garrick, wait! This isn't just 'poisoned stone'—this is a contamination gradient. The discoloration pattern suggests radial diffusion from a point source. If you charge ahead without understanding the contamination mechanics, you could trigger a pressure release or worse."
+
+*I kneel beside Cora, my quill already transcribing notes about the stonework. I examine the geometric patterns on the walls with intense focus.*
+
+> **[Rules Keeper]** === RULES KEEPER === No contested actions this round.
+
+
+---
+
+**DM:** Cora's testing reveals a clear contamination gradient. The stone nearest the eastern corridor glows deep violet in her reagents, fading to lighter shades as she tests spots further from the source. "Radiation levels are increasing exponentially as we move east," she reports, her voice muffled slightly by the respirator. "The pattern suggests a concentrated point source approximately... fifty to seventy feet ahead. The stone isn't just stained — it's been transmuted at a molecular level by prolonged exposure."
+
+Garrick pauses at the edge of the illuminated section, his maul held ready. The spectral mind from Mercer's spellbook floats ahead, casting its eerie blue light down the corridor. The geometric patterns on the walls become clearer — not just decorative, but functional. Mercer recognizes them as containment sigils, dwarven versions of the Giant architecture meant to channel and suppress Dreamstone radiation. Some of the sigils are cracked, their lines broken by the same discoloration that stains the stone.
+
+**Mercer's analysis (DC 14 Arcana):** The sigils are failing in a specific sequence. The contamination is following the containment network's weakest points, like water finding cracks in a dam. This isn't random leakage — it's a systematic failure working its way through the dwarven defenses.
+
+The corridor ahead opens into what appears to be a residential section. Low stone beds carved into alcoves, communal cooking hearths with iron chimney flues running into the rock above, a bathhouse with stone basins connected to a dry pipe network. Everything is sized for dwarves — the party moves through rooms designed for people four feet tall. The air here is noticeably colder, and the metallic sweetness is strong enough to taste even through the respirator filters.
+
+**DC 12 Perception (any character):** A sound echoes from further east — not mechanical, not the sound of stone shifting. It's low, rhythmic, almost organic. Like breathing. And it's coming from the same direction as the strongest concentration of the metallic scent.
+
+The discoloration here is intense. The stone walls have taken on a permanent iridescent sheen — blues, purples, greens that catch the torchlight in ways stone should not. In the bathhouse, the dry stone basins are stained with what looks like black resin that has seeped up from below and hardened into glassy veins.
+
+Cora's contamination vials glow so brightly they illuminate her face through the glass. "We're getting close to the source," she says quietly. "Radiation levels are approaching what the Brotherhood notes called 'critical exposure.' Our respirator filters won't last long at this concentration."
+
+At the far end of the residential section, the corridor continues east. The breathing sound grows slightly louder. The Giant Blueprint Tablet showed this area as sitting directly above a junction in the containment architecture. If any section of the upper Dwarven Layer would show corruption first, it would be here.
+
+**What do you do?**
+
+**CORA:** *Cora checks her contamination vials, then looks at the party with clinical urgency.* "Filters are degrading faster than projected. At this concentration, we have approximately twenty minutes of effective protection remaining before we start absorbing Dreamstone radiation directly."
+
+*She gestures to the black resin in the basins.* "That's seepage from below—the containment breach is allowing material to migrate upward. Mercer, can you identify if these containment sigils have maintenance access points? We need to find the actual breach location before our time runs out."
+
+*Turning to Garrick, she points toward the breathing sound.* "That's organic, not mechanical. Aldric said the dwarves used their dead as radiation monitors. If bodies are showing animation... we're dealing with psychic echoes preserved in saturated matter. They'll be drawn to living minds. We need to approach with extreme caution—no sudden movements, no emotional spikes."
+
+*Cora pulls out her quick-setting sealant.* "Once we locate the breach, I'll need covering fire while I apply emergency sealant. But first, I need to search this area for any maintenance tools or schematics the dwarves might have left behind. They wouldn't build a monitoring station without repair equipment."
+
+**GARRICK:** "Twenty minutes? Then we don't have time for searching," I growl, already moving toward the breathing sound. "You want the breach? Follow the noise."
+
+I ignore Cora's warning about caution. "Emotional spikes? I'll give them something to be drawn to." I raise my maul and call out down the corridor, my voice echoing in the dwarven halls. "HEY! Whatever's down there making that noise - come and get it!"
+
+**MERCER:** *I examine the containment sigils with intense focus, my spectral mind floating closer to illuminate the intricate carvings. The Arcana check reveals the systematic failure pattern.*
+
+"Garrick, you absolute fool! You're not calling out to some beast—you're announcing our presence to psychic echoes preserved in radiation-saturated matter! They're drawn to living consciousness, and you just shouted a beacon!"
+
+*I turn to Cora, my voice dropping to a clipped, urgent tone.* "The sigils are failing sequentially—this is a cascade failure working through the containment network's weakest points. According to the Brotherhood notes and my analysis, the maintenance access should be marked by a specific rune cluster indicating 'emergency intervention.' Let me search for it."
+
+*I move along the wall, examining the geometric patterns with my quill ready to transcribe any relevant markings. My spectral mind floats ahead to scout the corridor while I maintain distance.* "If we find the access point, we can assess the breach directly rather than blundering into whatever psychic phenomena are manifesting. But we need to move quickly—your twenty-minute estimate aligns with my calculations of filter degradation at this concentration."
+
+> **[Rules Keeper]** === RULES KEEPER === Professor Thaddeus Mercer: Arcana check to analyze containment sigils — 16 vs DC 14 — **SUCCESS** Mercer identifies the systematic cascade failure pattern and recognizes the specific rune cluster marking emergency maintenance access points.
+
+
+---
+
+**DM:** Garrick's shout echoes down the dwarven corridor, bouncing off stone walls and alcoves. For a moment, there's only silence. Then the breathing sound from the east stops abruptly.
+
+Mercer finds the rune cluster almost immediately — a set of three interlocking geometric patterns carved into the wall near a collapsed storage chamber. "Here!" he says, his quill transcribing the symbols. "Emergency intervention access. The Brotherhood notes indicate these lead to maintenance shafts that run parallel to the main corridors, allowing technicians to reach containment breaches without passing through contaminated areas."
+
+But before Cora can examine the access point, the breathing sound returns. Louder now. Closer. And it's joined by another sound — the scrape of stone on stone, like something heavy being dragged.
+
+From the eastern corridor, figures emerge into the spectral mind's blue light. Dwarves. Or what were once dwarves. They move with stiff, mechanical precision, their ceremonial armor gleaming with the same iridescent sheen as the stone walls. Their skin is perfectly preserved, veins visible beneath the surface and darkened to black. Their eyes are solid black, shot through with iridescent veins.
+
+There are four of them. The lead figure wears captain's ceremonial plate and carries a war-pick that glows faintly with the same blue-purple light. Behind him, three soldiers in corroded chain mail grip rusted axes. They don't attack immediately. They simply stand there, facing the party, their black eyes fixed on Garrick.
+
+The captain opens its mouth. The voice that emerges is flat, toneless, speaking Dwarvish in a loop: *"Seal the lower halls. The dreaming is too loud. Seal the lower halls."*
+
+The phrase repeats exactly every five seconds, without variation or inflection. The soldiers remain motionless, their axes held ready but not raised.
+
+Mercer recognizes this immediately from the Brotherhood notes: psychic echoes. Not undead, not intelligent — preserved memories playing back in radiation-saturated tissue. They're drawn to living consciousness, and Garrick's shout has attracted them.
+
+The emergency intervention access point is ten feet away, behind the party. The echoes block the eastern corridor — the direction of the contamination source. The captain continues its loop: *"Seal the lower halls. The dreaming is too loud. Seal the lower halls."*
+
+Cora's contamination vials glow fiercely. "Radiation levels spiking!" she warns. "Their presence is concentrating the Dreamstone energy. Our filter time just dropped to fifteen minutes!"
+
+The echoes haven't attacked yet. They simply stand there, repeating the phrase, watching with those black, iridescent eyes. But their weapons are ready. And more concerning — from further down the eastern corridor, more scraping sounds can be heard.
+
+**What do you do?**
+
+**CORA:** *Cora immediately calculates the tactical situation, her voice low and urgent.* "They're psychic echoes, not combatants—but they'll defend their programming. Mercer, translate their phrase exactly. 'Seal the lower halls. The dreaming is too loud.' That's their last recorded thought before preservation."
+
+*She gestures toward the emergency access point.* "We have two options: fight through four echoes with more approaching, or use the maintenance shaft to bypass them entirely. Fighting risks drawing more echoes and wasting filter time. Bypassing gets us directly to the breach location."
+
+*Cora pulls out her quick-setting sealant and checks her respirator filter.* "I recommend bypass. Garrick, cover the corridor while Mercer and I open the access point. If they advance, use non-lethal force—they're preserved dwarves, not enemies. But if they attack, we defend ourselves."
+
+*She moves toward the rune cluster, examining it with her alchemist's tools.* "Mercer, help me identify the activation mechanism. These maintenance shafts were built for technicians—there should be a simple release."
+
+**GARRICK:** "Non-lethal?" I snort, already activating my Giant's Might. My body swells, becoming Large as runic energy courses through me. "They're already dead, Cora. And they're between us and the breach."
+
+I charge forward, maul swinging in a wide arc toward the captain. "They want to seal the lower halls? I'll seal them permanently!"
+
+**MERCER:** *I retreat behind Garrick as he charges, my voice sharp with academic frustration.* "Garrick, you're attacking historical artifacts! Those are preserved psychic echoes—they're essentially living recordings of the dwarves' final moments! We could learn—"
+
+*I cut myself off as I see him engage, realizing the situation has escalated beyond academic debate. I move toward the access point with Cora, but keep my spectral mind positioned to give me a clear line of sight to the corridor.*
+
+"Cora, the activation mechanism should be a pressure plate or rotating stone keyed to those runes. Let me examine it while I provide magical support. If Garrick insists on combat, we need to end it quickly to preserve our filter time."
+
+*I raise my hands, focusing on the three soldiers behind the captain. I need to neutralize them without destroying their preserved forms if possible—they're invaluable research specimens.*
+
+> **[Rules Keeper]** === RULES KEEPER === Garrick Kade: Attack roll vs Captain Echo — 9 vs AC 16 (estimated) — **FAILURE** Garrick's maul swings wide as the captain echo moves with unnatural, jerking precision, the war-pick parrying the blow with eerie efficiency.
+
+
+---
+
+**DM:** Garrick's maul sweeps through the air, but the captain echo moves with jerking, mechanical precision, its war-pick coming up in a perfect parry that deflects the blow. The impact rings through the corridor — stone on enchanted metal. The captain doesn't counterattack. It simply resumes its loop: *"Seal the lower halls. The dreaming is too loud. Seal the lower halls."*
+
+But the three soldier echoes react. Their axes rise in unison, and they advance with that same stiff, precise movement. They're not fast, but they're coordinated, forming a line between Garrick and the rest of the party.
+
+**Cora finds the activation mechanism** — a stone panel with the three interlocking runes. It's designed to rotate when pressure is applied to specific points. "Mercer, help me with this!" she calls, her fingers tracing the pattern. "It's a combination lock — we need to align the runes in the correct sequence."
+
+**Mercer's spectral mind floats closer**, illuminating the mechanism. The runes correspond to Dwarvish concepts: "Containment," "Maintenance," and "Emergency." The Brotherhood notes mentioned a standard sequence used throughout Kazad-Khrom architecture. "Try Containment first, then Maintenance, then Emergency," he suggests, his attention divided between the mechanism and the combat unfolding behind them.
+
+The soldier echoes reach Garrick. Their rusted axes swing in unison — not with martial skill, but with the remembered motions of dwarven soldiers. The first axe bites into Garrick's armor [Garrick takes 8 slashing damage from rusty axe]. The second misses as he twists aside. The third catches his shoulder [Garrick takes 6 slashing damage].
+
+The captain continues its loop, watching with those black, iridescent eyes. But now its head turns toward Cora and Mercer at the access point. It takes a step in their direction, its war-pick held ready.
+
+From further down the eastern corridor, more scraping sounds approach. At least two more sets of footsteps, moving with the same stiff precision.
+
+Cora's hands work quickly on the stone panel. She rotates the first rune to "Containment," then the second to "Maintenance." The mechanism clicks softly. She's about to rotate the third to "Emergency" when the captain echo reaches her.
+
+It doesn't swing its war-pick. Instead, it reaches out with its free hand — a black-veined, perfectly preserved dwarven hand — and places it on the stone panel. The third rune rotates on its own to "Emergency."
+
+The panel slides open with a grinding of ancient stone. Behind it is a narrow maintenance shaft, barely wide enough for a dwarf to squeeze through. The captain steps back, resumes its loop: *"Seal the lower halls. The dreaming is too loud. Seal the lower halls."*
+
+It's not attacking. It's helping. Or rather, the psychic echo of a dwarven captain who once used this access point is replaying its memory of opening it.
+
+The maintenance shaft stretches into darkness, sloping downward. The metallic sweetness pours from it, concentrated and strong. This is the way to the breach. But the three soldier echoes still press Garrick, and more are coming from the main corridor.
+
+**What do you do?**
+
+**CORA:** *Cora immediately assesses the situation, her mind calculating options.* "Garrick, disengage! The captain echo is helping—it's replaying its last mission. The soldiers are defending their post, not attacking intelligently."
+
+*She turns to Mercer.* "Get into the shaft first—you're smallest. I'll follow with the sealant. Garrick, once we're through, break contact and follow. Don't kill them if you can avoid it—they're preserved dwarves, not enemies."
+
+*Cora quickly checks her contamination vials—the radiation is spiking from the open shaft.* "Filters are down to ten minutes at this concentration. We need to move fast. Mercer, use your spectral mind to scout ahead in the shaft. Look for structural damage or active breaches."
+
+*She grabs her quick-setting sealant and starts squeezing into the maintenance shaft, calling back to Garrick.* "Use the captain as cover if you need to—it seems to be following its programming to help us seal the breach. That's exactly what we're here to do!"
+
+**GARRICK:** I grunt as the axes bite into me, but I don't retreat. Instead, I use my size advantage to shove the soldier echoes back with a powerful shove (Athletics 24). "Get through the shaft!" I bark at Cora and Mercer. "I'll hold them here!"
+
+I position myself between the echoes and the maintenance shaft entrance, my maul ready. "Captain! If you want those halls sealed, protect the ones who can do it!" I don't know if the echo understands, but I keep my eyes on the approaching footsteps from down the corridor. "I'll follow once you're clear. Move!"
+
+**MERCER:** *I stare at the captain echo with a mixture of academic awe and practical urgency.* "Remarkable... it's not just repeating—it's contextually responding to our attempt to access the maintenance shaft. This suggests a higher-order psychic preservation than the Brotherhood documented."
+
+*I squeeze into the maintenance shaft, my spectral mind floating ahead to illuminate the narrow passage. The metallic sweetness is overwhelming even through the respirator.*
+
+> **[Rules Keeper]** === RULES KEEPER === Garrick Kade: Athletics check to shove soldier echoes — 25 vs DC 16 — **SPECTACULAR SUCCESS** Garrick's powerful shove sends all three soldier echoes stumbling back in a clatter of rusted armor, creating a clear path to the maintenance shaft.
+
+
+---
+
+**DM:** Garrick's powerful shove sends the three soldier echoes stumbling backward in a clatter of rusted armor and stiff limbs. They don't fall — their preserved bodies maintain balance with that same eerie precision — but they're momentarily cleared from the path to the maintenance shaft.
+
+The captain echo doesn't respond to Garrick's command, but it does move. It steps between Garrick and the approaching footsteps from down the eastern corridor, its war-pick held in a defensive stance. It continues its loop, but now the phrase seems almost appropriate: *"Seal the lower halls. The dreaming is too loud. Seal the lower halls."*
+
+Mercer squeezes into the maintenance shaft first, his spectral mind floating ahead to illuminate the narrow passage. The shaft is barely three feet in diameter — built for dwarven technicians, not humans. The walls are smooth stone, carved with the same geometric patterns as the corridors above, but here they're intact, untainted by the discoloration. The metallic sweetness pours through the shaft like a river of scent, so concentrated it makes Mercer's eyes water even through his respirator.
+
+Cora follows, her pack scraping against the stone walls. She can feel the radiation through her gloves — the stone itself is warm with it. "This shaft runs parallel to the main corridor but bypasses the residential section," she calculates aloud. "It should drop us directly at the breach point. Garrick, come on!"
+
+Garrick backs toward the shaft, his maul still ready. Two more soldier echoes emerge from the eastern corridor, their movements identical to the first three. The captain echo doesn't attack them. It simply stands there, repeating its phrase, blocking their path to the shaft. The new echoes stop, their black eyes fixed on the captain. A standoff between psychic memories.
+
+Garrick squeezes into the shaft last, his large frame making the passage even tighter. Behind him, the stone panel begins to grind shut automatically — a failsafe mechanism. Through the narrowing gap, he sees the captain echo turn its head toward the shaft. For a moment, the loop changes: *"The dreaming stops. The dreaming stops."* Then the panel seals with a final thud.
+
+The maintenance shaft slopes downward at a steep angle. Mercer's spectral mind reveals the path ahead — fifty feet of narrow tunnel ending at another stone panel, this one marked with warning runes that glow with faint blue-purple light. The air grows colder with every foot of descent, and the breathing sound returns, louder now, coming from beyond the panel at the shaft's end.
+
+**Mercer translates the warning runes:** "Containment Breach — Level 4 Radiation — Authorized Personnel Only — Lead Seals Required." The panel is slightly ajar, and through the crack pours not just the metallic sweetness, but a visible vapor — faintly iridescent, shimmering in the spectral mind's light.
+
+Cora's contamination vials glow so brightly they illuminate the entire shaft. "Radiation levels are critical," she reports, her voice tight. "Our filters won't last five minutes at this concentration. Whatever's beyond that panel is the source."
+
+The panel is designed to slide open from this side — a simple latch mechanism meant for maintenance crews. But the warning runes and the visible vapor suggest what lies beyond is exactly what they came to find: the breach in the dwarven containment.
+
+**What do you do?**
+
+**CORA:** *Cora examines the panel with her alchemist's tools, checking for structural integrity and radiation patterns.* "Investigation check: 18. The panel's seal has failed along the bottom edge—that's where the vapor is escaping. The latch mechanism appears functional, but opening it fully will release concentrated Dreamstone radiation."
+
+*She pulls out her quick-setting sealant and contamination vials.* "We have a narrow window. Mercer, when I give the signal, open the panel just enough for me to assess the breach. Garrick, be ready for anything organic that might be on the other side—the breathing sound is coming from there."
+
+*Cora prepares her sealant applicator, calculating rapidly.* "Our filters have approximately four minutes of effective protection remaining. I'll need one minute to assess the breach, two minutes to apply emergency sealant, and we'll need one minute to retreat. This has to be surgical precision—no mistakes."
+
+*She positions herself at the panel's edge, sealant ready.* "On my count. Three... two... one... open it."
+
+**GARRICK:** I push past Cora, my large frame filling the narrow shaft. "Surgical precision? We're out of time." I grip the latch mechanism with both hands. "When I open this, you do what you need to do fast. I'll handle whatever's breathing."
+
+I brace myself, then throw my weight against the panel, forcing it open with a grinding screech of stone on stone.
+
+**MERCER:** *As Garrick forces the panel open, I immediately cast Mage Armor on myself for additional protection, then position my spectral mind to peer through the opening first.* "Garrick, wait! Let my manifested mind scout ahead—it's incorporeal and immune to radiation!"
+
+*My spectral mind floats through the crack, giving me a view of what lies beyond. I need to assess the situation quickly while maintaining distance.* "Cora, be ready with those contamination readings. If this is a Level 4 Radiation breach as the runes indicate, we're dealing with concentrations that could cause immediate psychic contamination."
+
+*I keep my spellbook open, ready to cast Shield or Misty Step if something hostile emerges. My voice drops to a clipped, formal tone—the pomposity gone, replaced by survival instinct.* "Describe what you see through the spectral link, Mercer. We need data before proceeding."
+
+> **[Rules Keeper]** === RULES KEEPER === Cora Flint: Investigation check to examine panel — 18 vs DC 13 — **SUCCESS** Cora identifies the exact failure point along the bottom edge and confirms the latch mechanism is functional despite radiation damage.
+
+
+---
+
+**DM:** Garrick forces the panel open with a grinding screech that echoes through the shaft. Stone grates against stone, and a wave of iridescent vapor billows out, so thick it's like opening a furnace door. The metallic sweetness becomes overwhelming — a taste that coats the tongue and burns in the sinuses even through the respirator filters.
+
+Mercer's spectral mind floats through the opening first, giving him a panoramic view of what lies beyond. The chamber is roughly thirty feet square and ten feet high — dwarven scale. The walls are lined with stone niches, each containing a body. Fourteen dwarven dead, laid out in ceremonial armor, hands folded over weapons. They're perfectly preserved, skin with that same iridescent sheen, veins darkened to black beneath the surface.
+
+But it's the floor that holds the horror.
+
+A crack runs through the center of the chamber, narrow but deep — descending at least twenty feet before curving out of sight. From this crack pours the iridescent vapor, and with it comes the breathing sound: low, rhythmic, organic. Not mechanical. This is the mountain breathing. Or something beneath it.
+
+The crack follows a structural line in the stone — a seam in the Giant architecture below that has shifted over millennia. The mausoleum was built directly above this seam. The dwarves who sealed these bodies understood the radiation was strongest here. They concentrated their dead in the worst spot, behind lead seals, and hoped the containment would hold.
+
+The lead seals are visible around the door frame — thick plates riveted into the stone. They're cracked along stress fractures that follow the Dreamstone radiation pattern. The corruption has been working on this seal for centuries, and it's beginning to fail.
+
+**Cora's contamination vials shatter** from the radiation overload, the glass cracking as the reagents inside glow white-hot then turn to black sludge. "Radiation levels are off my scale!" she shouts, her voice strained. "Our filters are failing — maybe two minutes left!"
+
+**DC 15 Wisdom save for each party member:** The concentrated Dreamstone radiation in this chamber causes immediate psychic dissonance. Those who fail experience a flash of alien sensation — immense weight pressing from below, sound like breathing through stone, momentary certainty that they are dreaming and have always been dreaming.
+
+While Mercer's spectral mind surveys the chamber, one of the dwarven bodies moves. Not much. A captain in ceremonial plate — the same armor as the echo above — shifts its hand from its chest to its side. Then it opens its eyes. Solid black, shot through with iridescent veins.
+
+It doesn't attack. It sits up slowly, turns its head toward the party, and speaks in that same flat, toneless Dwarvish: *"Seal the lower halls. The dreaming is too loud. Seal the lower halls."*
+
+The echo from the preserved body in the mausoleum. Playing back. But here, at the source, the radiation is making it stronger. More real.
+
+The crack in the floor breathes. The vapor pulses with the rhythm. And from the niches around the chamber, other bodies begin to stir.
+
+**What do you do?**
+
+**CORA:** *Cora feels the psychic dissonance wash over her—Wisdom save: 7, failed. For a moment, she experiences overwhelming weight, stone breathing, the certainty that this is all a dream. She shakes it off with clinical discipline.*
+
+"Filters failing! We have ninety seconds!" *She moves toward the crack, ignoring the stirring bodies.* "The breach is structural—the seam in Giant architecture has shifted. I need to apply sealant directly into the crack before the radiation incapacitates us."
+
+*She pulls out her quick-setting sealant and begins applying it along the crack's edge, working with desperate efficiency.* "Garrick, keep the echoes back but don't destroy them—they're preserved dwarves, not enemies! Mercer, check if there are reinforcement points in the architecture where we can add structural support!"
+
+*The sealant begins to harden immediately, but the vapor continues to pulse from deeper in the crack.* "This is a temporary fix—it'll hold for days, maybe weeks. But we need to report the exact location and nature of this breach to Reyna. The dwarven containment layer is failing at its weakest structural point."
+
+**GARRICK:** I feel the psychic weight pressing down (Wisdom save 13, failed), but I shake it off with a roar. "They're not enemies, but they're not allies either!" I move between Cora and the stirring bodies, my maul ready.
+
+I don't attack the sitting captain. Instead, I use my maul to sweep the stone floor in front of the niches, creating a barrier of rubble and dust. "Stay back!" I shout at the echoes. "Let her work!"
+
+**MERCER:** *The psychic dissonance hits me like a physical blow—I stagger back against the stone wall, my mind flooded with alien sensations. The Wisdom save failed catastrophically. For a moment, I'm not Professor Thaddeus Mercer—I'm part of the mountain, dreaming of being a professor, and the weight below is my own body pressing upward through stone.*
+
+*I gasp, clutching my head.* "The dreaming... it's not metaphor. The Sleeper's consciousness is permeating the stone itself. This isn't just radiation—it's psychic leakage!"
+
+*With immense effort, I focus through the disorientation. My spectral mind gives me a view of the chamber's architecture even as my physical eyes struggle. I need to identify reinforcement points while Cora works.* "Cora, the Giant architecture below—look for anchor points where the dwarven masonry joins the original foundation! There should be... there should be..."
+
+*I'm fighting to maintain coherence, the alien sensations threatening to overwhelm my academic detachment. I need to help, but the psychic pressure is immense.*
+
+> **[Rules Keeper]** === RULES KEEPER === Cora Flint: Wisdom save vs psychic dissonance — 7 vs DC 15 — **FAILURE** Cora experiences overwhelming alien sensations but shakes them off with clinical discipline. Garrick Kade: Wisdom save vs psychic dissonance — 13 vs DC 15 — **FAILURE** Garrick feels immense psychic weight but roars through it. Professor Thaddeus Mercer: Wisdom save vs psychic dissonance — 5 vs DC 15 — **CRITICAL FAILURE** Mercer is overwhelmed by alien consciousness, experiencing profound disorientation and identity confusion.
+
+
+---
+
+**DM:** Cora works with desperate efficiency, her hands moving with practiced precision as she applies the quick-setting sealant along the crack's edge. The compound hardens immediately upon contact with the irradiated stone, forming a glassy black barrier that begins to stem the flow of vapor. But the crack is deep, and the sealant only reaches the first few feet — the vapor continues to pulse from deeper below.
+
+Garrick's rubble barrier creates a temporary line between the stirring bodies and Cora. The captain echo sits up fully now, its black eyes fixed on Garrick. It doesn't attack. It simply repeats its phrase: *"Seal the lower halls. The dreaming is too loud. Seal the lower halls."* But three other bodies — soldiers in corroded chain — rise from their niches. They lift rusted axes and begin moving toward the barrier with that same stiff, mechanical precision.
+
+Mercer staggers against the wall, clutching his head. The psychic pressure is overwhelming. Through his spectral mind, he sees the chamber's architecture with terrible clarity: the dwarven masonry joins the Giant foundation at specific anchor points, but those anchors are stressed, twisted by millennia of shifting stone. One anchor point in particular, near the crack, has sheared completely — that's the structural failure that allowed the breach.
+
+But the vision comes with a cost. Mercer isn't just seeing the architecture — he's feeling it. The weight of the mountain above, the void below, the slow, patient pressure of something dreaming in the dark. For a moment, he understands the captain's phrase not as words but as sensation: *The dreaming is too loud.*
+
+**Combat begins as the soldier echoes reach Garrick's barrier:**
+
+**Round 1:** The first soldier echo steps over the rubble, its rusty axe swinging at Garrick. [Attack: 14 vs AC 16 — MISS] The blow glances off his armor. The second echo follows, its axe biting into his shoulder. [Attack: 19 vs AC 16 — HIT for 7 slashing damage] The third echo moves to flank, but Garrick's maul sweeps in a wide arc, catching it in the chest. [Garrick attack: 22 vs AC 14 — HIT for 15 bludgeoning damage] The echo stumbles back, black fluid oozing from cracked ceremonial armor.
+
+Cora continues sealing the crack, her hands moving faster. "I need another minute!" she shouts. The sealant is working — the vapor flow has decreased by half. But her respirator filter is failing; she can taste the metallic sweetness directly now, a cold burn in her lungs.
+
+Mercer forces himself to focus through the psychic storm. "Anchor point!" he gasps, pointing to the sheared connection near the crack. "Structural failure there! If we can reinforce it..."
+
+But the captain echo rises from its niche. It doesn't join the soldiers attacking Garrick. Instead, it walks to the crack, looks down into the darkness, and speaks a new phrase — one not in the loop: *"The dreaming stops. The dreaming stops."*
+
+Then it turns to Cora, places a black-veined hand on her shoulder — not attacking, but steadying her — and points to a specific spot on the crack where the sealant hasn't reached. The psychic echo is helping. Replaying its final moments as a dwarven officer trying to contain this exact breach centuries ago.
+
+The breathing sound from the crack grows louder. More agitated. Something doesn't want to be sealed.
+
+**What do you do?**
+
+**CORA:** *Cora doesn't flinch from the captain echo's touch—she recognizes it's helping.* "Thank you," she says clinically, applying sealant to the exact spot it indicated. "You knew where the weak point was."
+
+*She works faster, her hands trembling slightly from radiation exposure.* "Garrick, hold them back just a little longer! Mercer, can you use magic to reinforce that sheared anchor point? Even temporary stabilization will help the sealant hold!"
+
+*Cora feels her respirator filter give out completely—the metallic sweetness floods her senses.* "Filters gone! We have thirty seconds before radiation sickness sets in! I'm applying the final layer now!"
+
+**GARRICK:** I ignore the pain in my shoulder and swing my maul in a wide arc, trying to keep the soldier echoes back (Attack 11, miss). "Thirty seconds? Then we're done!" I shout to Cora. "Finish it and get out! I'll cover the retreat!"
+
+I position myself between the echoes and the maintenance shaft, ready to hold them off while Cora finishes her work. "Mercer! Help her with that anchor point or get ready to run!"
+
+**MERCER:** *I force myself to focus through the psychic storm, my academic training overriding the alien sensations. I need to reinforce that anchor point, but I'm not strong enough to do it physically. Magic is my only option.*
+
+"Cora, I can attempt a temporary magical reinforcement, but it won't hold long without physical repair!" *I raise my hands, focusing on the sheared anchor point. I need to cast a spell that can provide structural support—Web might work to bind the fractured stone temporarily, or I could use Minor Illusion to create the appearance of intact architecture to fool whatever consciousness is below.*
+
+*But first, I need to help Garrick hold the line. My spectral mind is already positioned—I can cast through it. I target the two soldier echoes still pressing Garrick.* "I'll provide covering fire! Garrick, hold them for just a moment longer!"
+
+> **[Rules Keeper]** === RULES KEEPER === Garrick Kade: Attack roll vs soldier echoes — 11 vs AC 14 — **FAILURE** Garrick's maul swings wide as the echoes move with jerking, mechanical precision, their rusted axes still pressing forward.
+
+
+---
+
+**DM:** Cora applies the final layer of sealant to the spot indicated by the captain echo. The quick-setting compound flows into the deepest part of the crack, hardening instantly into a glassy black plug. The vapor flow stops abruptly. The breathing sound from below grows frantic for a moment — a series of rapid, agitated pulses — then falls silent.
+
+The effect is immediate. The iridescent vapor in the chamber begins to dissipate. The psychic pressure lessens. Mercer feels the alien consciousness recede, though its echo still vibrates in his bones. The radiation level drops from critical to merely dangerous.
+
+But Cora's respirator filter is gone. She can feel the Dreamstone radiation burning in her lungs, a cold fire that spreads through her bloodstream. She staggers back from the crack, her vision swimming. "Seal... complete..." she gasps. "Temporary... will hold for... years..."
+
+**The soldier echoes react to the sealed crack.** They stop attacking Garrick. Their black eyes turn toward the now-plugged fissure. For a moment, they stand motionless. Then, as one, they lower their axes. The captain echo looks at the sealed crack, then at Cora. It speaks its final phrase: *"The dreaming stops. The dreaming stops."*
+
+Then all four echoes — captain and soldiers — collapse. Not destroyed, but spent. The psychic energy that animated them has been cut off at the source. They lie on the stone floor, perfectly preserved dwarven bodies once more, their black eyes closed.
+
+The chamber is silent except for the party's ragged breathing. The metallic sweetness is still present, but now it's residual — trapped in the stone, not actively pouring from below.
+
+Mercer's spectral mind surveys the sealed crack. The quick-setting sealant has formed a perfect barrier, but it's already showing stress fractures from the radiation. "Cora's right," he says, his voice shaky but returning to its academic tone. "This is temporary. The radiation will compromise this seal within a decade, maybe less. But it's contained for now."
+
+Garrick checks the fallen echoes. They're not moving. The captain's ceremonial war-pick lies beside its body, still glowing faintly with that blue-purple light. The rusted axes of the soldiers have lost their iridescent sheen.
+
+Cora leans against the wall, breathing heavily. Radiation sickness is setting in — nausea, dizziness, a metallic taste that won't leave her mouth. "We need... to get out... filters gone..."
+
+But as she speaks, her eyes catch something in the crack. Before the sealant fully hardened, something crystallized at the edge — a shard of raw Dreamstone ore, roughly palm-sized, pulsing with faint inner light. It's cold to the touch even through her gloves, and she can feel it humming at the edge of her perception.
+
+Near the mausoleum entrance, she spots a sealed iron box half-buried in debris. The captain echo's war-pick lies nearby, along with scattered dwarven ceremonial goods that might be salvageable.
+
+The maintenance shaft behind them is still open. The way back is clear. But the party has minutes before Cora's radiation sickness becomes critical, and they're standing in a chamber filled with fourteen perfectly preserved, radiation-saturated dwarven bodies — ten of which haven't yet activated as echoes.
+
+**What do you do?**
+
+**CORA:** *Cora forces herself upright despite the nausea and dizziness.* "LOOTING: Dreamstone shard, captain's war-pick, iron box, any salvageable ceremonial goods. We're not leaving valuable materials in a radiation chamber."
+
+*She carefully retrieves the Dreamstone shard with her gloved hands, placing it in a lead-lined pouch from her supplies.* "This is raw Dreamstone ore—incredibly valuable for research and potentially dangerous. Mercer, document its properties."
+
+*She moves to the iron box, checking for traps or contamination.* "Garrick, help me with this box. Then we need to move—I have radiation sickness setting in. We'll take the war-pick and any intact ceremonial items that aren't radiation-saturated."
+
+*Cora looks at the ten undisturbed dwarven bodies.* "We leave them in peace. They're preserved guardians, not loot. But we need to report their location and condition to the Prospectors' Guild—they deserve proper recognition."
+
+*She starts toward the maintenance shaft, carrying what she's collected.* "Back through the shaft, up to the surface. I need medical attention within the hour. That's coming out of the bounty."
+
+**GARRICK:** I grab the iron box with one hand and the captain's war-pick with the other. "Forget the other bodies," I grunt, already moving toward the maintenance shaft. "You're sick, and we don't know if sealing the crack woke up something else."
+
+I shove the box and war-pick into the shaft ahead of us. "Mercer, get her moving. I'll cover our retreat." I keep my maul ready, watching the remaining dwarven bodies in their niches. "If any more of them start moving, I'll make sure they stay down."
+
+**MERCER:** *I move quickly to Cora's side, supporting her as she staggers. My academic detachment has returned, but it's tempered by genuine concern.* "Cora, you need immediate medical attention. The radiation exposure is severe—I can attempt a minor magical stabilization, but we need proper treatment."
+
+*I glance at the Dreamstone shard in her lead-lined pouch, my scholarly curiosity warring with practical urgency.* "That shard is unprecedented—raw Dreamstone ore from the actual breach. The research implications are... but later. First, survival."
+
+*I help her toward the maintenance shaft, but pause to look back at the undisturbed dwarven bodies. My quill materializes and I make a quick sketch of the chamber layout and the sealed crack.* "We must document this properly. These are the guardians who gave their bodies to monitor the containment. They deserve more than being forgotten in a report."
+
+*I turn to Garrick, my voice firm.* "We need to move quickly, but carefully. The psychic pressure may have receded, but this environment is still dangerously unstable. Let me go first with my spectral mind—I can scout ahead for any changes in the upper corridor."
+
+> **[Rules Keeper]** === RULES KEEPER === No contested actions this round.
+
+
+---
+
+**DM:** The party moves quickly but carefully. Garrick shoves the iron box and the captain's glowing war-pick into the maintenance shaft ahead of them, the weapons and container scraping against the narrow stone walls. Mercer helps Cora toward the opening, her steps unsteady as radiation sickness takes hold — nausea, dizziness, a cold fire spreading through her veins.
+
+Mercer's spectral mind floats up the shaft first, illuminating the path. The air is clearer now that the crack is sealed, but the residual radiation still hangs heavy. As they squeeze back through the narrow passage, Cora's clinical mind continues working despite her condition. "The sealant will hold for approximately eight to twelve years based on current degradation rates," she murmurs, her voice weak. "But the structural weakness remains. Permanent repair requires Giant-era containment materials..."
+
+They reach the upper end of the maintenance shaft. The stone panel is still closed, but the mechanism opens from this side with a simple latch. Mercer releases it, and the panel grinds open to reveal the corridor where they left the echoes.
+
+The corridor is empty.
+
+The captain echo and the three soldier echoes are gone. No bodies, no rusted armor, no sign they were ever there. Only the rubble barrier Garrick created remains, scattered across the stone floor. The air here still carries the metallic sweetness, but it's fading, dissipating now that the source is contained.
+
+Mercer's spectral mind scouts ahead. The eastern corridor is clear. The residential section they passed through shows no signs of the echoes that were approaching earlier. It's as if sealing the crack severed whatever psychic energy was animating them, and their preserved bodies... vanished? Returned to their niches? The party doesn't have time to investigate.
+
+They move quickly through the dwarven corridors, back toward the Giant stairway. Cora's condition worsens with each step — she's leaning heavily on Mercer now, her breathing labored. Garrick carries the iron box and war-pick, his maul ready despite the retreat.
+
+The ascent up the three-foot-high Giant steps is agonizingly slow with Cora in her state. But finally, they reach the Hall of the Giants, then the Military Empire layer, and eventually emerge into the crisp mountain air of early evening.
+
+The surface fortress of the Asymmetrical Mountain feels different now. The metallic sweetness that had been reaching the Starmetal Hills is gone. The air is clean, cold, smelling only of pine and thawing earth. But Cora collapses as soon as they're outside, her skin pale, her breathing shallow.
+
+Garrick immediately begins preparing a makeshift stretcher from cloaks and branches. "We need to get her to Brother Aldwin in Grimhold. Now."
+
+Mercer examines the items they retrieved. The iron box contains dwarven radiation survey notes written in Dwarvish — a systematic survey of radiation levels throughout the upper Dwarven Layer, with annotations marking which crypts are "active" and which are "stable." It provides a partial map of the upper Delve and identifies the Cold Forge as a landmark deeper in the layer. The captain's war-pick is a +1 weapon of dwarven make, inscribed with the name *Torvan Deepwatch* in Dwarvish. And the Dreamstone shard pulses coldly in its lead-lined pouch, a tangible piece of the entity they've just contained.
+
+But Cora needs medical attention immediately. The sun is setting over the Starmetal Hills, and Grimhold is hours away.
+
+**What do you do?**
+
+**CORA:** *Cora, despite her weakened state, manages to speak through labored breaths.* "TRIAGE: Radiation sickness, acute exposure. Symptoms: nausea, dizziness, cold sensation spreading. Treatment requires... anti-radiation compounds... Brother Aldwin has the herbs."
+
+*She forces herself to think clinically despite the pain.* "Garrick's stretcher is adequate for transport. Mercer, administer the emergency anti-nausea tincture from my pack—green vial. It'll stabilize me for the journey."
+
+*She looks at the retrieved items.* "LOOTING successful: Dreamstone shard for research, war-pick is +1 weapon, survey notes provide critical intelligence. Record everything in the ledger... value to be assessed later."
+
+*Cora closes her eyes, conserving energy.* "Calculate travel time: three hours to Grimhold at current pace. Brother Aldwin's clinic can treat radiation exposure. Cost will be... significant. Coming out of the bounty."
+
+**GARRICK:** I finish the stretcher with efficient movements (Athletics 23), securing it with strips of cloth from my own cloak. "Three hours is too long," I grunt, lifting Cora onto the stretcher with careful strength. "Mercer, give her that tincture and keep her stable. I'll carry the front."
+
+I shoulder the stretcher poles, the iron box and war-pick secured to my back. "We're taking the direct route through the foothills. It's rougher but cuts an hour off. Hold on, Cora - you're not dying on my watch." I start moving at a steady, ground-eating pace that belies my size, my fighter's endurance pushing us toward Grimhold.
+
+**MERCER:** *I immediately rummage through Cora's pack, my hands trembling slightly from both adrenaline and residual psychic shock. I find the green vial and administer the anti-nausea tincture with careful precision.* "This should stabilize you temporarily, but Garrick's right—we need to move with urgency. Radiation sickness can cause neurological damage if not treated promptly."
+
+*As Garrick lifts the stretcher, I gather the remaining items—my spellbook, the survey notes, and most importantly, the lead-lined pouch containing the Dreamstone shard. I keep the pouch at a distance, handling it with extreme caution.* "This shard is still emitting residual radiation. I'll carry it separately to minimize your exposure, Cora."
+
+*I fall into step beside the stretcher, my spectral mind floating ahead to scout the path. My academic mind is already analyzing what we've discovered, but my tone is one of genuine concern—the pomposity completely gone.* "The survey notes indicate the Cold Forge as a landmark deeper in the dwarven layer. That suggests the dwarves had active industry down there, which means more infrastructure, more potential breach points... but that's for later. Right now, we focus on getting you to Brother Aldwin."
+
+> **[Rules Keeper]** === RULES KEEPER === Garrick Kade: Athletics check to create and carry stretcher — 23 vs DC 15 — **SPECTACULAR SUCCESS** Garrick constructs a sturdy, well-balanced stretcher and carries Cora with steady, ground-eating pace that cuts travel time significantly.
+
+
+---
+
+**DM:** Garrick's powerful stride eats up the miles as twilight deepens over the Starmetal Hills. He carries the stretcher with steady, ground-eating efficiency, taking the direct route through rocky foothills that would challenge most travelers even in daylight. Mercer keeps pace beside him, the Dreamstone shard held carefully in its lead-lined pouch, his spectral mind floating ahead to illuminate the treacherous path.
+
+Cora's anti-nausea tincture stabilizes her enough that she remains conscious, though pale and weak. Her clinical mind continues working despite her condition. "Radiation exposure... approximately fifteen minutes at critical levels," she murmurs as they move. "Brother Aldwin will need... charcoal purification, dreamroot extract, silver infusion... expensive treatments..."
+
+The journey that should have taken three hours is completed in just over two thanks to Garrick's relentless pace. Grimhold's lights appear in the valley below as full darkness falls. The town is quiet at this hour, but lights burn in the Chapel of the Hearthfire.
+
+Brother Aldwin meets them at the chapel door, his patient face turning grave as he sees Cora's condition. "Radiation sickness," he says immediately, his healer's instincts recognizing the symptoms. "From the mountain. Bring her inside."
+
+The chapel's infirmary is simple but well-equipped. Aldwin works with practiced efficiency, mixing charcoal purification draughts, preparing dreamroot extract, and beginning a silver infusion. "The metallic sweetness," he says as he works. "Miners have been reporting it for days. It stopped this evening. Did you...?"
+
+"We sealed the source," Garrick grunts, setting down the iron box and war-pick. "Temporary fix. But it's contained."
+
+Mercer places the lead-lined pouch on a stone table well away from Cora's bed. "We retrieved this from the breach. Raw Dreamstone ore. It's... active."
+
+Aldwin glances at the pouch, then back to his patient. "That stays sealed until we can properly shield it. Right now, Cora needs rest and treatment. The radiation has damaged her blood and nervous system, but with proper care, she'll recover in a few days."
+
+As Aldwin works, Warden Aldric arrives, summoned by a town runner. The old warden listens as Mercer explains what they found: the lead-sealed mausoleum, the cracked containment, the psychic echoes of dwarven guardians, the breathing crack in the floor, and their temporary seal.
+
+Aldric examines the survey notes from the iron box, his face growing pale as he reads the Dwarvish annotations. "The Cold Forge," he says quietly. "The Brotherhood records mention it. The dwarves' primary industrial center in their layer. According to these notes, its fires went out centuries ago when their fuel source was cut off. But if the containment is failing..."
+
+He looks at the Dreamstone shard, still in its lead-lined pouch. "This is the first tangible piece of the entity anyone has retrieved. The Brotherhood only ever studied its effects, never its substance." He turns to the party. "You've done what the Military Empire refused to do — you've contained a breach. But this is just one of dozens of monitoring points. The survey notes show multiple 'active' crypts throughout the dwarven layer."
+
+Cora, stabilized by Aldwin's treatments, manages to speak from her bed. "The seal... will hold eight to twelve years. But the structural weakness... remains. Permanent solution requires... Giant-era containment materials."
+
+The party has succeeded. The metallic sweetness has stopped reaching the Starmetal Hills. The breach is contained. They've retrieved critical intelligence about the dwarven layer and the first physical sample of Dreamstone ore. Cora will recover with proper care.
+
+But the survey notes reveal the true scale of the problem: multiple active containment breaches throughout the dwarven layer, and a deeper landmark called the Cold Forge that represents the next logical step in securing the mountain.
+
+**SESSION ENDS HERE**
+
+The party has completed Adventure 6: The Leaking Crypt. They have: - Contained the radiation breach in the upper Dwarven Layer - Retrieved the Dreamstone Fragment (raw Dreamstone ore) - Acquired Torvan Deepwatch's +1 war-pick - Obtained Dwarven Radiation Survey Notes with partial map of upper Delve - Earned 300 gp in salvageable dwarven ceremonial goods - Advanced to Level 7
+
+Cora requires 3 days of medical treatment (cost: 150 gp from bounty earnings) before she's fully recovered. The party must decide their next move: deliver their findings to Reyna Steelforge, study the Dreamstone Fragment, or prepare to explore deeper toward the Cold Forge.
+
+[Session] DM declared session end at exchange 10/20. Breaking loop early.
+
+============================================================ SESSION 6 WRAP-UP ============================================================
+
+[System] Updating campaign state... [Wiki Keeper] Extracting entities... [Wiki] ↻ Reyna Steelforge.md (updated) [Wiki] ↻ Warden Aldric.md (updated) [Wiki] ↻ Elara Stormwind.md (updated) [Wiki] ✓ Brother Aldwin.md (created) [Wiki] ✓ Torvan Deepwatch.md (created) [Wiki] ↻ Grimhold.md (updated) [Wiki] ↻ Second Wind Inn.md (updated) [Wiki] ↻ Asymmetrical Mountain.md (updated) [Wiki] ✓ Dwarven Layer.md (created) [Wiki] ↻ Starmetal Hills.md (updated) [Wiki] ✓ Cold Forge.md (created) [Wiki] ✓ Chapel of the Hearthfire.md (created) [Wiki] ↻ Prospectors' Guild.md (updated) [Wiki] ✓ Brotherhood.md (created) [Wiki] ✓ Kazad-Khrom.md (created) [Wiki] ✓ Dreamstone Fragment.md (created) [Wiki] ✓ Torvan Deepwatch's War-Pick.md (created) [Wiki] ✓ Dwarven Radiation Survey Notes.md (created) [Wiki] ↻ Giant Blueprint Tablet.md (updated) [Wiki] ✓ Dreamstone.md (created) [Wiki] ↻ Sleeper's Cradle.md (updated) [Wiki] ↻ First World Sleeper.md (updated) [Wiki] ✓ Psychic Echoes.md (created)
+
+[Wiki] 23 file(s) written to output/wiki/
+
+[Scribe] Writing session narrative... [Scribe] Blog saved to C:\Users\maxry\Desktop\AI DND\output\sessions\session_06.md
+
+[Editor] Fact-checking... [Editor] 5 content invention flag(s): ⚠ The captain echo actively helping the party by opening the maintenance shaft panel and later pointing out a specific spot to seal on the crack. The adventure file states echoes 'cannot be reasoned with, turned, or commanded' and fight mechanically. ⚠ The captain echo speaking a new, contextually helpful phrase ('The dreaming stops. The dreaming stops.') beyond its prescribed loop. The adventure file only gives it the final phrase after being defeated/sealed. ⚠ The echoes 'collapsing, spent' instead of being destroyed in combat. The adventure file states they are destroyed or contained, and the captain only speaks its final phrase 'if still standing'. ⚠ The presence of a 'maintenance shaft' as a bypass route. The adventure file prescribes entering the mausoleum through the lead-sealed door, not an alternate access shaft. ⚠ The party bypassing the lead-sealed mausoleum door entirely via the maintenance shaft. The adventure file requires the party to decide how to open the mausoleum door and enter through it. [Editor] 6 missing content flag(s): ✗ The prescribed combat encounter 'The Mausoleum Guard' with the Captain Echo and three Soldier Echoes. The session replaced this with the echoes helping and then collapsing without a full fight. ✗ Cora's multi-step process to seal the crack: 1) Clear debris (DC 12 Str/Dex), 2) Apply temporary sealant (DC 14 Int with tools), 3) Compress seal with dwarven pressure clamp (DC 15 Str). The session simplified this to a single application of sealant. ✗ The mechanic where each round during sealing, 1d2 additional soldier echoes activate. This escalating threat was absent. ✗ The party's decision on how to open the lead-sealed mausoleum door (e.g., Cora's DC 13 Intelligence check to cut a controlled opening). The session had them bypass the door via a maintenance shaft. ✗ The initial 'First Echo' scene where the captain sits up, speaks its loop, and lies back down, allowing observation before full combat. The session had immediate confrontation. ✗ The prescribed loot includes '300 gp in salvageable dwarven ceremonial goods'. The session report only mentions the war-pick, notes, and shard. [Editor] 4 session report correction(s): -> text not found (skipped): 'The captain echo placed a black-veined hand on the stone panel. The th...' -> text not found (skipped): 'The captain echo walked to the crack, looked down into the darkness, a...' -> text not found (skipped): 'The captain echo looked at the sealed crack, then at Cora. "The dreami...' -> text not found (skipped): 'They retrieved the shard, an iron box containing Dwarven Radiation Sur...' [Editor] 1 wiki correction(s): -> [Torvan Deepwatch] text not found (skipped) [Editor] Review saved to: session_06_editor_review.md [Lorekeeper] Consistency pass... [Lorekeeper] 3 name correction(s): Warden Aldric → Warden Aldric, Brother Aldwin → Brother Aldwin, Torvan Deepwatch → Torvan Deepwatch [Lorekeeper] Upgraded 23 wiki entry/entries to encyclopedic format. [Lorekeeper] Review saved to: session_06_lore_review.md
+
+============================================================ ADVENTURE COMPLETE! Adventure 6 finished. Swapping to Adventure 7: The Cold Forge File: adventure_07_the_cold_forge.md --- LEVEL UP --- Cora Flint: Level 6 → 7 | HP: 52 | New features: Flash of Genius (reaction: add INT mod to ability check or save within 30ft, INT uses/LR) | New spells: Aid Garrick Kade: Level 6 → 7 | HP: 67 | New features: Runic Shield (reaction: force reroll of attack roll against ally within 60ft, prof uses/LR) | Note: 3 runes known. Professor Thaddeus Mercer: Level 6 → 7 | HP: 37 | New spells: Polymorph, Banishment ============================================================
+
+[Summary] Generating adventure 6 summary... [Summary] Adventure 6 summary saved. [Summary] Condensing story summary (119 words, 6 adventures → ~200 words)... [Summary] Condensed: 119 → 161 words. [Quests] Cleaning quest list (5 entries)... [Quests] Cleaned: 5 → 4 quests. [Lorekeeper] Running end-of-adventure wiki editorial pass...
+
+[Lorekeeper] Processing 46 wiki entries in batches...
+
+[Lorekeeper] Batch 1/2 (25 entries)... [Lorekeeper] Batch 1: 25 updated, 1 marked for deletion. [Lorekeeper] Batch 2/2 (21 entries)... [Lorekeeper] Batch 2: 21 updated, 0 marked for deletion. [Lorekeeper] Removed 1 duplicate(s): Giant blueprint tablet [Lorekeeper] Running cross-batch dedup pass... [Lorekeeper] Merged duplicate: 'Brotherhood' → 'Vigilant Brotherhood' (deleted 'Brotherhood') [Lorekeeper] Dedup pass: 1 duplicate(s) resolved. [Lorekeeper] End-of-adventure editorial pass complete.

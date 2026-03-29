@@ -1,0 +1,30 @@
+# Lorekeeper Review — Session 14
+
+## Raw Lorekeeper Output
+
+{
+  "corrections": [],
+  "wiki_updates": [
+    {
+      "name": "Korathan",
+      "content": "Korathan is the Master Runecarver of the [[Architect's Council]] and the primary architect of the containment vessel known as the [[Vessel of Dreaming Silence]], which holds the [[First World Sleeper]]. Korathan is currently in a state of preserved stasis within [[The Maker's Rest]], a tomb and library complex located deep within the [[Giant foundation level]] of the [[Asymmetrical Mountain]].\n\n## Biography\nKorathan spent three centuries designing and constructing the containment system for the Sleeper. Upon its completion, Korathan voluntarily entered a state of suspended animation, referred to in Giant tradition as \"the long watch,\" to serve as a final contingency should the containment ever fail. This act transformed the tomb from a mere burial site into a living repository of knowledge and a vigil post.\n\n## Legacy and Message\nA recorded message left by Korathan reveals the history of the Sleeper's discovery and containment. The message details that the containment was designed to last for one hundred thousand years, providing time for younger races to develop the capability to either reinforce it permanently or find an alternative solution. Korathan deliberately included scaling rune techniques within the tomb, anticipating that future caretakers of the containment would be smaller than Giants, thus facilitating a transfer of essential technology."
+    },
+    {
+      "name": "The Maker's Rest",
+      "content": "The Maker's Rest is the tomb and library of the Giant architect [[Korathan]], located in the deepest section of the outer ring within the [[Giant foundation level]] of the [[Asymmetrical Mountain]].\n\n## Description\nThe site is sealed by a massive obsidian door covered in Giant script narrating Korathan's epitaph. The interior consists of a series of descending corridors and chambers constructed at a Giant scale, featuring intricate carvings that depict Korathan's life, the debates of the [[Architect's Council]], and the construction of the [[Vessel of Dreaming Silence]].\n\n## Purpose and Security\nThe tomb serves a dual purpose as both a burial site and a preserved repository of Korathan's technical knowledge, specifically the scaling rune techniques necessary for maintaining the containment of the [[First World Sleeper]]. Its security systems comprise a gauntlet of traps and puzzles designed for Giant intruders, which present as environmental and harmonic challenges to smaller beings. The final chamber houses Korathan's form in a state of perfect stasis, maintained by the runes inscribed on the chamber walls."
+    },
+    {
+      "name": "Architect's Council",
+      "content": "The Architect's Council was the governing body of Giants that oversaw major construction projects and existential decisions within their society. It is most famous for its role in managing the threat posed by the [[First World Sleeper]].\n\n## History and Decisions\nUpon discovering the Sleeper, a vast, dreaming entity that leaked reality-warping radiation, the Council debated potential responses. The options considered were destruction of the entity, containment, or leaving it be. The Council determined that destruction was impossible, as the Sleeper predated the Giants' universe, and leaving it unchecked would eventually render the mountain uninhabitable. Consequently, the Council chose the path of containment.\n\nMaster Runecarver [[Korathan]] volunteered to design and build the containment system, which became known as the [[Vessel of Dreaming Silence]]. The Council subsequently sealed Korathan within [[The Maker's Rest]] following the project's completion."
+    },
+    {
+      "name": "First World Sleeper",
+      "content": "The First World Sleeper is a vast, ancient entity contained within the heart of the [[Asymmetrical Mountain]]. It predates the universe as understood by the Giants and exists in a perpetual state of dreaming.\n\n## Nature and Discovery\nThe Sleeper is not considered malicious or consciously hostile. Its mere existence is incompatible with the local reality, causing it to passively leak psychic radiation that warps matter, perception, and physical laws over time. This radiation crystallizes into [[Dreamstone]]. The Giants discovered the Sleeper deep within the mountain bedrock and recognized it as an existential threat.\n\n## Containment\nUnder the direction of the [[Architect's Council]], Master Runecarver [[Korathan]] designed the [[Vessel of Dreaming Silence]], a containment system intended to last for one hundred thousand years. This timeframe was calculated to provide successor races sufficient opportunity to develop the knowledge and capability to either permanently reinforce the containment or devise an ultimate solution."
+    },
+    {
+      "name": "Vessel of Dreaming Silence",
+      "content": "The Vessel of Dreaming Silence is the name given by the Giants to the monumental containment system designed to hold the [[First World Sleeper]]. It represents the pinnacle of Giant runecarving and harmonic engineering.\n\n## Design and Construction\nDesigned by Master Runecarver [[Korathan]] of the [[Architect's Council]], the Vessel's construction spanned three centuries. It is a complex network of runes and structural elements carved into the bedrock of the [[Asymmetrical Mountain]], functioning to suppress and contain the Sleeper's reality-warping psychic emissions.\n\n## Long-term Function\nKorathan engineered the Vessel to endure for approximately one hundred thousand years. This design lifespan was intended to bridge the gap between Giant civilization and the rise of younger races, who would inherit the responsibility of maintaining or replacing the containment. The scaling rune techniques required to adapt and repair the Vessel at a smaller scale were preserved by Korathan within [[The Maker's Rest]] as a deliberate technology transfer."
+    }
+  ],
+  "new_canonical_npcs": ["Korathan"]
+}

@@ -1,0 +1,1 @@
+The **Gatekeepers** are a mentioned group of planar experts or specialists in containment. They are referenced as a resource that may be needed to confront the complex, reality-warping threat posed by the [[First World Sleeper]] within the [[Asymmetrical Mountain]].

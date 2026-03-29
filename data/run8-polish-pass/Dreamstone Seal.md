@@ -1,0 +1,4 @@
+The **Dreamstone Seal** is a proposed containment device intended to reinforce the boundary containing the [[First World Sleeper]] within the [[Asymmetrical Mountain]].
+
+## Concept and Development
+The seal is conceived as a portable, human-deployable version of the Giant's monumental containment architecture. Its construction was theorized but considered impossible without understanding the principles of runic scaling. With the acquisition of [[Korathan]]'s [[Scaling Runes]] from [[The Maker's Rest]], the theoretical groundwork for building the Dreamstone Seal has been laid. The runes provide the necessary techniques to miniaturize and adapt Giant containment magic to a scale operable by the current expedition, making the seal's eventual construction a tangible objective.

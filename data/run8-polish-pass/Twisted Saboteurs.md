@@ -1,0 +1,4 @@
+**Twisted Saboteurs** are corrupted dwarves that comprise the primary workforce and combatants among the [[Twisted]].
+
+## Physical Description and Behavior
+They possess the stocky build of dwarves, with skin showing an iridescent [[Dreamstone]] sheen and black, pulsing veins. They are often clad in corrupted chain armor. Twisted Saboteurs operate with silent, coordinated efficiency. They prioritize sabotage over direct combat, using tools like pry bars and stone chisels to dismantle or damage mechanical systems, particularly dwarven water infrastructure. In groups, they can perform coordinated sabotage actions that rapidly undo repair work. They emit a passive corruption aura that disorients nearby creatures. They are resistant to poison and necrotic damage but vulnerable to radiant damage.

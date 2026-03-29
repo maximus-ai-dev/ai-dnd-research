@@ -1,0 +1,1 @@
+The **Starmetal Hills** are a rugged, mineral-rich region known for their early and harsh winters. Their most notable geological feature is the profoundly anomalous [[Asymmetrical Mountain]]. The frontier town of [[Grimhold]] is the primary settlement in the area.

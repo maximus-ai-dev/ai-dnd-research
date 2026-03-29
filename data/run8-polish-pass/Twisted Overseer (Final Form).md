@@ -1,0 +1,4 @@
+The **Twisted Overseer (Final Form)** is an enhanced [[Twisted]] commander encountered in the deep staging ground.
+
+## Description and Role
+Clad in master-crafted corrupted plate armor, the Overseer represents the culmination of the Twisted's military command structure. It has studied the party's tactics from previous encounters and employs countermeasures, prioritizing targets like saboteurs and spellcasters. It possesses a powerful Corruption Pulse ability and can rally nearby Twisted forces. The Overseer guarded the staging ground's Organic Power Hub. It was encountered and defeated during the party's assault, marking the end of its arc as a recurring antagonist across multiple adventures. Its death signifies the defeat of the Twisted's command presence in the staging ground operation.

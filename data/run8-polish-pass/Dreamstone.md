@@ -1,0 +1,7 @@
+**Dreamstone** is a radioactive mineral associated with the entity known as the [[First World Sleeper]] contained deep within the [[Asymmetrical Mountain]].
+
+## Properties and Effects
+Dreamstone emits a form of psychic radiation that can permeate and alter both organic and inorganic matter. Prolonged exposure preserves organic tissue in a state of crystalline suspension and can cause psychic dissonance in living creatures, manifesting as flashes of alien sensation and disturbing certainty. The radiation has a distinct metallic sweetness detectable in the air. It can also cause preserved bodies saturated with it to reanimate as "echoes," replaying fragments of memory. In its raw, unshielded state, it radiates concentrated psychic energy that causes hallucinations, perception distortions, and localized gravity anomalies.
+
+## Containment History
+The dwarves of the [[Dwarven Layer]] used dense materials like lead to block Dreamstone radiation, sealing areas of high concentration behind thick lead plates. A crystallized Dreamstone fragment recovered from a breach pulses with a faint inner light and hums at the edge of perception. Dwarven transit maps note the presence of dreamstone deposits in the deep mining areas beneath the mountain. Raw Dreamstone veins form where the Sleeper's psychic emanation has been concentrated against rock for millions of years, crystallizing the bedrock.

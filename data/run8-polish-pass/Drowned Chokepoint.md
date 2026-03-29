@@ -1,0 +1,4 @@
+The **Drowned Chokepoint** is a critical junction within the lower [[Dwarven Layer]] of the [[Asymmetrical Mountain]].
+
+## Description and Significance
+It is a massive, domed cavern approximately one hundred feet across, carved by the dwarves as the convergence point for the entire layer's water management system. Enormous drainage pipes enter the chamber from multiple directions. The floor is a network of channels radiating from a central elevated platform. Located directly above the [[Giant Capstone]], it represents the deepest navigable level of dwarven construction. For centuries, the chokepoint was intentionally flooded as part of the mountain's containment architecture. The recent activation of the pump system has drained the area, revealing that the [[Twisted]] had used the submerged intersection as a hidden staging area and workshop. Here, they constructed and charged the [[Drowned Juggernaut]], a corrupted automaton designed to breach the capstone below.

@@ -1,0 +1,1 @@
+**Kazad-Khrom Forgeworks** was the manufacturing arm of the dwarven empire [[Kazad-Khrom]] during the Third Consolidation Era. It produced the minecarts, rails, and much of the industrial equipment found within the [[Dwarven Minecart Network]] of the [[Asymmetrical Mountain]]. Minecarts and armor stamped with its distinctive maker's mark are common throughout the network.

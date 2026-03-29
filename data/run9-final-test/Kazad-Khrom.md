@@ -1,0 +1,1 @@
+**Kazad-Khrom** was a lost dwarven empire whose geometric architectural style and script are found throughout the [[Dwarven Layer]] of the [[Asymmetrical Mountain]]. Their construction is noted for its superior craftsmanship and durability.

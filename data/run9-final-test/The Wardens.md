@@ -1,0 +1,1 @@
+The **Wardens** are a defensive force mentioned in relation to the threats within the [[Asymmetrical Mountain]]. They are tasked with containing the dangers that emerge from the mountain's depths, though their traditional defensive paradigms may be challenged by the metaphysical nature of the [[First World Sleeper]] threat.

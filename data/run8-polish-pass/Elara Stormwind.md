@@ -1,0 +1,4 @@
+**Elara Stormwind** is the owner and proprietor of [[Griffon's Hold]], a supply shop in [[Grimhold]]. A retired mercenary, she is one of the town's most knowledgeable sources on the local wilderness.
+
+## Personality and Knowledge
+Stormwind is warm, personable, and chatty, providing a contrast to other town authorities. She sells fairly priced supplies and offers practical warnings about the dangers of the [[Starmetal Hills]], including the unsettling nature of the [[Asymmetrical Mountain]]. She repaired [[Garrick Kade]]'s chain mail at the Griffon's Hold before the adventurers' sabotage mission.

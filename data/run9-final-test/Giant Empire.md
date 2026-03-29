@@ -1,0 +1,1 @@
+The **Giant Empire** was an ancient civilization of giants that built the primary containment facility within the [[Asymmetrical Mountain]] to hold the [[First World Sleeper]].

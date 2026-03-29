@@ -1,0 +1,1 @@
+The **Deep-Delver automaton** is a fifteen-foot dwarven excavation automaton, partially integrated with organic components. It is located in the flooded depths below [[Pump Station East]]. The automaton awakened to identify a group of explorers as a potential containment breach threat before allowing them to withdraw.

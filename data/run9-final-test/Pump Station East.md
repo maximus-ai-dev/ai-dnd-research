@@ -1,0 +1,1 @@
+**Pump Station East** is a dwarven pump station located within the [[Dwarven Layer]] of the [[Asymmetrical Mountain]]. Its deliberate disablement maintains the water pressure on the ancient seal containing the [[First World Sleeper]]. The station was guarded by a [[Twisted Overseer]] and a [[Bioreactor Colony]].

@@ -1,0 +1,4 @@
+The **Warden's Post** is a vast control chamber located in the southwest quadrant of the [[Giant]] foundation level within the [[Asymmetrical Mountain]].
+
+## Description and Current Status
+The chamber is approximately eighty feet in diameter with a domed ceiling sixty feet high. Its original function, as indicated by the [[Giant Blueprint Tablet]], was as a guardian station where a Giant sentry could be permanently stationed to monitor the integrity of the seal below. The center of the chamber contains a large, open sarcophagus designed to hold such a guardian. During recent events, a catastrophic third breach occurred at the far wall of the Warden's Post, creating a forty-foot-wide hole glowing with void energy. The containment runes surrounding the breach were shattered. The chamber became the lair of the [[Reanimated Warden]], a corrupted guardian that now defends the breach. The party's [[Forward Camp]] is located roughly six hundred feet from this location.

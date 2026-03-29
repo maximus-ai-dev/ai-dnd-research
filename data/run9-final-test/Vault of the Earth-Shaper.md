@@ -1,0 +1,1 @@
+The **Vault of the Earth-Shaper** is an ancient dwarven vault located deep within the subterranean layers beneath the [[Asymmetrical Mountain]]. Its known entrance is a boarded-over stairwell marked with aged warnings. The full extent, purpose, and contents of the vault remain unexplored and unknown.

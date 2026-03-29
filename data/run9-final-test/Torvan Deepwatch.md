@@ -1,0 +1,1 @@
+**Torvan Deepwatch** was a dwarven captain stationed in the upper [[Dwarven Layer]]. His preserved body, saturated with [[Dreamstone]] radiation, became an 'echo'—a psychic residue replaying memories. His repeated phrase provided a warning about the containment status of the deeper halls.

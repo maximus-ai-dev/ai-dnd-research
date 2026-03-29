@@ -1,0 +1,1 @@
+**Containment Node Delta** is a critical containment node within the Giant facility located in the Outer Ring, Sector 2. Its structural integrity is degrading, posing a risk of sector collapse. A monitoring crystal chamber displayed an alert that its integrity had fallen to 35%.

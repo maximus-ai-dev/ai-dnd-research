@@ -1,0 +1,4 @@
+The **Restricted Vault** is a secured area within the West Wing of the [[Brotherhood]]'s [[Grand Archive]].
+
+## Description and History
+The vault door is of Brotherhood construction and can be opened with a Scholar-rank insignia. Behind it lies a passage of entirely different, older construction that leads to the [[Grand Stairwell]]. After investigating the passage and losing a scholar, the Brotherhood Commander sealed the Restricted Vault from the Brotherhood side with iron bars. This vault represents one of two known entrances from the Brotherhood layer to the deeper [[Military Empire]] level of the [[Asymmetrical Mountain]], the other being the main Grand Stairwell accessed from the Central Hall.

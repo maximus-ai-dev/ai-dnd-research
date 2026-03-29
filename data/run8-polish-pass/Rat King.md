@@ -1,0 +1,4 @@
+The **Rat King** is the alpha specimen and reproductive center of the colony of mutated giant rats infesting the [[Salt-Vaults]] beneath the [[Asymmetrical Mountain]].
+
+## Description and Abilities
+It is a bloated, significantly larger rat with iridescent fur and multiple fused tails. The creature is highly aggressive and territorial, defending its nest within the ancient food stores. The Rat King is capable of emitting a piercing shriek that can stun nearby creatures. It commands the lesser rats of the colony. The [[Brotherhood]] installed sonic emitters in the lower vaults specifically to eradicate such infestations.

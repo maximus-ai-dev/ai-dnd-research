@@ -1,0 +1,7 @@
+**The Maker's Rest** is the tomb of the Giant architect [[Korathan]], located in the deepest section of the outer ring of the [[Asymmetrical Mountain]].
+
+## Description and Purpose
+The tomb is a monumental structure, its entrance marked by a forty-foot-tall obsidian door inscribed with Korathan's epitaph. Its interior consists of a descending corridor and series of chambers filled with intricate wall carvings depicting Korathan's life and work. The tomb serves a dual purpose: as a final resting place for its architect and as a deliberate repository of knowledge. It contains Korathan's preserved form in stasis and the walls of the inner chamber are covered with his personal [[Scaling Runes]], intended as a technology transfer for future caretakers of the containment system.
+
+## Defenses
+The tomb is protected by a sophisticated gauntlet of traps and puzzles designed for Giant intruders, which present unique environmental challenges to smaller beings. These include pressure-plate corridors, alchemical gas releases, gravity-reversal stairs, a resonance chamber, a rune maze, and a final guardian construct. Each defense is designed to test an intruder's understanding of Giant engineering and containment principles rather than merely to destroy.

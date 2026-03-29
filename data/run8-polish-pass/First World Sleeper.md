@@ -1,0 +1,7 @@
+The **First World Sleeper** is a primordial entity contained within the [[The Resonant Foundation]] beneath the [[Asymmetrical Mountain]].
+
+## Nature and Origin
+The Sleeper is not a conventional prisoner but a fragment of the primordial First World, a reality that existed before the current cosmological order. Its very existence is incompatible with established physical laws, causing spacetime to warp around it. The ancient [[Giant]] civilization constructed the Resonant Foundation not as a prison, but as a necessary containment vessel to isolate its reality-altering presence.
+
+## Effects and Current Status
+The entity exists in a perpetual dreaming state. These dreams leak as a pervasive psychic broadcast—a frequency that imparts sensations of vast geological time and a consciousness too immense to perceive individuals. Exposure can cause perceptual fracturing, fear, and psychic damage. Its psychic radiation can, over millennia, crystallize into veins of [[Dreamstone]]. The Sleeper's awareness is vast but impersonal; it perceives intrusions into its containment as systemic anomalies rather than individual actors. The Sleeper's containment has been repeatedly challenged by the [[Twisted]], who have drilled bore holes and created breaches. Each breach allows more of its influence to seep into the mountain, increasing its ambient awareness and the power of its broadcast.

@@ -1,0 +1,4 @@
+The **Brotherhood Wardens** are an ancient monastic order originally tasked by the [[Secretive Brotherhood]] with maintaining the containment of the [[First World Sleeper]] within the [[Asymmetrical Mountain]].
+
+## History and Fate
+Stationed deep within the mountain, the wardens performed their vigil for centuries. Their long-term exposure to the Sleeper's psychic broadcast led to divergent fates. Some wardens physically and mentally adapted to the broadcast, eventually becoming the [[Adapted Wardens]]. Others entered magical stasis within the [[Salt-Vaults]] in an attempt to preserve themselves unchanged, awaiting a time when their service might again be required.

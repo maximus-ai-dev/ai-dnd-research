@@ -1,0 +1,4 @@
+The **Starmetal Hills** are a range of low, rocky, and windswept hills northwest of the frontier town of [[Grimhold]].
+
+## Description and Recent Events
+The terrain is treeless, scattered with ancient stone markers and strange geological formations. The hills are mineral-rich but hostile, offering little shelter. Travel through them is a physically demanding journey of approximately two days to reach the base of the [[Asymmetrical Mountain]]. The area is known for its lonely, beautiful, and cold landscape. Miners working claims in the Starmetal Hills reported finding iridescent rock samples and detecting a faint metallic sweetness on the wind, which prompted [[Reyna Steelforge]] to send an expedition to investigate the source within the Asymmetrical Mountain. The hills remain the primary overland route for expeditions traveling between Grimhold and the mountain.

@@ -1,0 +1,1 @@
+The **Service Stairwell** is a narrow, utilitarian staircase of [[Iron Warlords]] construction that connects the [[Military Empire]] layer to the Iron Warlords' level above. It is marked on the [[Architectural Survey of the Military Empire Layer]] as a maintenance route.

@@ -1,0 +1,1 @@
+The **Brotherhood Wardens** are a group of guards providing security within [[Grimhold]]. They are known to stand guard at reinforced checkpoints, such as those established in the dwarven corridors above the [[Cold Forge]].

@@ -1,0 +1,4 @@
+The **Gradient** is a disorienting transition zone located beneath the [[Threshold]] in the [[Asymmetrical Mountain]].
+
+## Description and Navigation
+In the Gradient, gravity does not simply weaken but rotates unpredictably, shifting direction by degrees and forcing navigators to reorient themselves constantly. The sensation progresses from walking to climbing to crawling along surfaces that were previously walls or ceilings. The zone ends where gravity fails entirely, opening into the [[Caldera]]. Navigating the Gradient requires significant adjustment. The [[Reality Anchor]] can be deployed to create a stable gravitational reference point within a fifteen-foot radius, allowing a roped team to move through the distortion safely.

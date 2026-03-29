@@ -1,0 +1,50 @@
+# Lorekeeper Review — Session 6
+
+## Raw Lorekeeper Output
+
+{
+  "corrections": [],
+  "wiki_updates": [
+    {
+      "name": "Reyna Steelforge",
+      "content": "**Reyna Steelforge** is the leader of the [[Prospectors' Guild]] in the frontier town of [[Grimhold]]. A practical and authoritative figure, she manages the town's mining operations and security concerns.\n\n## Role and Responsibilities\nSteelforge oversees the guild's daily operations, posts bounties on threats to the town, and coordinates supply logistics. She is known for her direct, no-nonsense demeanor and focus on practical survival. She initially contracted adventurers to deal with the [[Emberfell Rejects]] bandit group and later directed them to secure the [[Salt-Vaults]] beneath the [[Asymmetrical Mountain]] to solve a critical food shortage.\n\n## Recent Involvement\nIn the spring following the defeat of the [[Amalgamation]], Steelforge commissioned a map of the [[Military Empire]] layer beneath the mountain. Upon receiving the explorers' report and the significant [[Giant Blueprint Tablet]] they recovered, she acknowledged the gravity of their findings and authorized the provision of reinforcement materials for their fortress. She later provided the party with supplies and tasked them with investigating a metallic scent reported by miners in the [[Starmetal Hills]], which led to the discovery of a containment breach in the [[Dwarven Layer]]."
+    },
+    {
+      "name": "Grimhold",
+      "content": "**Grimhold** is a small frontier mining town located on the continent of Laternia, at the edge of the [[Starmetal Hills]].\n\n## Description and Economy\nConstructed from ancient stone foundations and simple timber buildings, its economy is based almost entirely on mining and prospecting. Notable establishments include the [[Prospectors' Guild]] headquarters, the supply shop [[Griffon's Hold]], and the [[Chapel of the Hearthfire]]. The main hall of the town served as living quarters for the workforce and later as a recovery site for the awakened [[Brotherhood]] [[Wardens]].\n\n## Recent Events\nGrimhold serves as the primary point of contact and resupply for the expedition into the [[Asymmetrical Mountain]]. [[Reyna Steelforge]] of the Prospectors' Guild operates from here, issuing contracts and receiving reports from the explorers. The party returned to Grimhold after their expedition to the Dwarven Layer to report their findings."
+    },
+    {
+      "name": "Prospectors' Guild",
+      "content": "The **Prospectors' Guild** is the principal organization governing mining and exploration in [[Grimhold]] and the surrounding [[Starmetal Hills]].\n\n## Function and Leadership\nThe guild regulates mining claims, organizes supply caravans, and contracts adventurers to handle threats to its operations and personnel. It is led by the pragmatic [[Reyna Steelforge]]. Its headquarters in Grimhold features a bounty board and serves as the town's de facto center for security and logistical planning.\n\n## Recent Contracts\nThe guild commissioned a structural map of the [[Military Empire]] layer of the [[Asymmetrical Mountain]]. After the expedition returned with a [[Giant Blueprint Tablet]] and other significant findings, the guild agreed to supply construction materials to help fortify the explorers' surface camp. The guild headquarters was also where Reyna Steelforge briefed the party on contamination reports from the Starmetal Hills."
+    },
+    {
+      "name": "Starmetal Hills",
+      "content": "The **Starmetal Hills** are a range of low, rocky, and windswept hills northwest of the frontier town of [[Grimhold]].\n\n## Description\nThe terrain is treeless, scattered with ancient stone markers and strange geological formations. The hills are mineral-rich but hostile, offering little shelter. Travel through them is a physically demanding journey of approximately two days to reach the base of the [[Asymmetrical Mountain]]. The area is known for its lonely, beautiful, and cold landscape.\n\n## Recent Events\nMiners working claims in the Starmetal Hills reported finding iridescent rock samples and detecting a faint metallic sweetness on the wind, which prompted [[Reyna Steelforge]] to send an expedition to investigate the source within the Asymmetrical Mountain."
+    },
+    {
+      "name": "Asymmetrical Mountain",
+      "content": "The **Asymmetrical Mountain** is a prominent and geologically anomalous peak within the [[Starmetal Hills]], distinguished by its unbalanced appearance as if sitting incorrectly upon the landscape.\n\n## Features and History\nThe mountain's strata and erosion patterns are inconsistent with local geology. A ruined fortress sits at its peak, which was recently occupied by the [[Emberfell Rejects]] bandit group. Beneath the surface ruins lie older, deeper layers of construction built by successive civilizations. These include the [[Salt-Vaults]] of the [[Iron Warlords]], the [[Grand Archive]] of the [[Brotherhood]], and the [[Imperial Lower Palace]] of the [[Military Empire]]. The deepest layers were constructed by an ancient [[Giant]] civilization. The site is the subject of superstition among local prospectors.\n\n## Current Status\nThe fortress at the mountain's peak has become the base of operations for an expedition from [[Grimhold]]. Explorers have mapped the upper human layers and discovered evidence of a deep, ancient containment architecture built by the Giants. The party most recently descended into the mountain to investigate a containment breach in the [[Dwarven Layer]]."
+    },
+    {
+      "name": "Dwarven Layer",
+      "content": "The **Dwarven Layer** is a transitional zone of containment architecture built by dwarves atop the [[Giant]] foundations within the [[Asymmetrical Mountain]]. It sits between the Giant strata below and the human [[Military Empire]] layers above.\n\n## Description\nThe layer features corridors and chambers constructed to dwarven scale, with superior stonework designed to last millennia. The architecture bears geometric patterns identified as [[Kazad-Khrom]] design. The dwarves built this layer as a filtration and containment system, using materials like lead and quartzite to block and absorb psychic radiation from below.\n\n## Current Status\nThe containment in the upper Dwarven Layer has been compromised. A lead-sealed mausoleum, built as a monitoring station and containment vessel, has developed cracks, allowing a metallic-scented contamination to leak. The party investigated this breach, finding the chamber's preserved dwarven dead saturated with [[Dreamstone]] radiation."
+    },
+    {
+      "name": "Kazad-Khrom",
+      "content": "**Kazad-Khrom** is a lost dwarven empire whose architectural and cultural influence is found within the [[Asymmetrical Mountain]].\n\n## Evidence and Influence\nGeometric patterns and design motifs identified as Kazad-Khrom in origin are carved into the stonework of the [[Dwarven Layer]]. These designs match those seen on a commemorative plaque in the [[Hall of the Conquered Peoples]] within the [[Military Empire]] strata, suggesting the empire once stretched from the Frostfang Mountains to the Sentinels. The dwarves of Kazad-Khrom were responsible for constructing the sophisticated containment layer within the mountain."
+    },
+    {
+      "name": "Dreamstone",
+      "content": "**Dreamstone** is a radioactive mineral associated with the entity known as the [[Sleeper]] contained deep within the [[Asymmetrical Mountain]].\n\n## Properties and Effects\nDreamstone emits a form of psychic radiation that can permeate and alter organic and inorganic matter. Prolonged exposure preserves organic tissue in a state of crystalline suspension and can cause psychic dissonance in living creatures, including flashes of alien sensation and disturbing certainty. The radiation has a distinct metallic sweetness detectable in the air. It can also cause preserved bodies saturated with it to reanimate as \"echoes,\" replaying fragments of memory.\n\n## Containment\nThe dwarves of the [[Dwarven Layer]] used materials like lead to block Dreamstone radiation, sealing areas of high concentration behind thick lead plates. The party acquired a crystallized Dreamstone fragment from a breach in the Dwarven Layer, which pulses with a faint inner light and hums at the edge of perception."
+    },
+    {
+      "name": "Cold Forge",
+      "content": "The **Cold Forge** is a significant dwarven landmark located deeper within the [[Dwarven Layer]] of the [[Asymmetrical Mountain]].\n\n## History and Purpose\nDwarven records indicate the forge's fires went out centuries ago when its fuel source was cut off. It is identified in recovered dwarven notes as a key site for potentially restoring functionality to the dwarven containment and filtration systems. Reigniting the Cold Forge is considered a critical next step in making the Dwarven Layer operational again to bolster the mountain's defenses against the containment breach."
+    },
+    {
+      "name": "The Sleeper",
+      "content": "**The Sleeper** is an ancient, corrupting entity contained deep beneath the [[Asymmetrical Mountain]] by [[Giant]] architecture.\n\n## Nature and Influence\nThe entity is the source of [[Dreamstone]] radiation and psychic contamination. Its influence is experienced as a \"dreaming\" force, causing psychic dissonance and imprinting memories on saturated matter. Military Empire records from the [[Imperial Lower Palace]] monitored its activity and the progressive failure of the ancient containment. Dwarven echoes in the [[Dwarven Layer]] repeated warnings about \"the dreaming\" being \"too loud,\" indicating the dwarves also experienced its influence as an audible or psychic phenomenon.\n\n## Current Status\nThe containment preventing the Sleeper's influence from reaching the surface is failing. A breach in the Dwarven Layer allowed its contamination to leak upward, presenting a tangible, physical threat for the first time to surface explorers."
+    }
+  ],
+  "new_canonical_npcs": ["Torvan Deepwatch"]
+}

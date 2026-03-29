@@ -1,0 +1,1 @@
+The **Great Binding infrastructure** is a multi-layered containment system built by Giants and dwarves to seal away the [[First World Sleeper]] within the mountain beneath [[Grimhold]]. [[Professor Thaddeus Mercer]] confirmed that key facilities like the [[Cold Forge]] and [[Pump Station East]] were integral components of this ancient system.

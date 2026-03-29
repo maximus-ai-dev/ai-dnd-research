@@ -1,0 +1,1 @@
+The **Bioreactor Colony** is a biological processing unit located in a side passage near [[Pump Station East]]. It was designed to filter contaminants from the water and utilized integrated dwarven bodies as maintenance units. The colony was destroyed after it attacked a group of explorers to protect a submerged [[Deep-Delver automaton]] and a critical containment seal.

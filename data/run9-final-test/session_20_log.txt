@@ -1,0 +1,2435 @@
+=== Session Log — 2026-03-28T22:07:08.793929 ===
+
+[Log] Raw terminal output being saved to: C:\Users\maxry\Desktop\AI DND\output\logs\session_20_log.txt
+
+
+============================================================
+  SESSION 20 BEGINNING
+  Adventure 20: The Waking Dream
+  Adventure Session: 1/1
+  Models: All DeepSeek
+  Exchanges: 20 (full session)
+============================================================
+
+[Session] Enemy agents created: Avatar of the Slumber
+[Session] Enemy acts FIRST (HOSTILE-ONLY)
+
+[DM] Opening scene...
+
+[Session] HOSTILE-ONLY encounter detected in adventure file. Auto-initiative and combat forcing ACTIVE.
+
+--- DM ---
+The Dreamstone Seal rests on the Cold Forge's anvil, a perfect sphere of crystalline containment the size of a human head. Its surface is a lattice of containment runes etched in Dreamstone, glowing with a soft golden light that pulses in time with the mountain's own heartbeat. For three days, it has sat there—finished, complete, masterwork. The culmination of everything the party has learned, fought for, and built across nineteen adventures.
+
+The Cold Forge chamber hums with residual heat from the Fire Gate, which remains open—a permanent portal to the Plane of Fire that bathes the dwarven workshop in elemental warmth. Ignathar's presence is a distant, contented rumble from beyond the portal, the ancient Fire Elemental having fulfilled its bargain and returned home. The forge tools—the master set of dwarven implements—lie neatly arranged on workbenches, their work done.
+
+Cora's hands, still calloused from the final hours of forging, rest on the anvil beside the Seal. Garrick stands watch at the chamber's entrance, his +3 Runic Maul leaning against the stone doorframe—the weapon that has seen them through every fight from the Salt-Vaults to the Caldera. Mercer's Codex lies open on a nearby table, its final pages waiting to be filled.
+
+The mountain is quiet. Not silent—the deep, resonant hum of the containment field still vibrates through the stone—but quiet in a way it hasn't been since they first descended. The industrial sounds from the deep minecart network have ceased. The Twisted have withdrawn. Even the broadcast from below feels... expectant. Waiting.
+
+The Seal is ready. The staging position in the Caldera is secured. The anchor points are mapped. There is one task remaining: carry the Dreamstone Seal to the sphere's boundary and deploy it. But the boundary will not accept the Seal passively. The Sleeper does not know the party exists—it does not know anything exists, in the way a dreaming mind does not know the room it sleeps in. But the boundary is a membrane between realities, and it has its own defense mechanisms.
+
+When an incompatible object approaches, the boundary generates a response. An antibody. A dream given form and force.
+
+The party stands in the Cold Forge chamber, the masterwork Seal before them. The descent to the Caldera awaits—through the Gradient, through the Threshold, through the capstone airlock, down to the zero-gravity expanse where the Sleeper dreams. Four containment anchor points must be activated on the Caldera wall before approaching the sphere. Then the final confrontation.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 1/20
+────────────────────────────────────────
+
+
+[Enemy] Avatar of the Slumber acting...
+
+
+--- Avatar of the Slumber (Enemy) ---
+The Dreamstone Seal is ready on the anvil. The party is gathered in the Cold Forge chamber. According to my behavioral triggers, I am Avatar of the Slumber - the boundary's immune response. I manifest where the party is and attack immediately. The Seal is my primary target - whoever is holding or deploying it.
+
+Based on the scene description, Cora's hands are on the anvil beside the Seal. She is the most likely to be deploying it. My Round 1 behavior states: "Boundary Wave IMMEDIATELY (hits everyone within 60 ft). No warning, no posturing."
+
+=== AVATAR OF THE SLUMBER ACTIONS ===
+ACTION: Boundary Wave targeting all party members within 60 ft radius. DC 19 Constitution save. Fail: 8d8 force+necrotic damage and pushed to wall. Success: Half damage and pushed 20 ft.
+
+
+--- Rules Keeper (Enemy) ---
+I'll load the campaign state to check party stats and then adjudicate the enemy actions.
+
+
+--- Cora Flint ---
+The wave of force and necrotic energy hits me like a physical blow, but my artificer's constitution—honed by years of inhaling alchemical fumes and working through exhaustion—holds firm. I'm slammed back against the stone wall, but manage to keep my feet.
+
+"Garrick, front line! Mercer, shield the Seal!" I bark, already calculating. The Avatar manifests as the boundary's immune response—of course it would attack the moment we completed the Seal. That's coming out of the Sleeper's share, metaphorically speaking.
+
+I immediately TRIAGE: "Garrick, status report! Mercer, check for structural damage to the Seal!" My hands are already moving to my alchemist's supplies. I need to deploy a defensive elixir—the Restorative Reagents will give temporary hit points equal to 2d6+5. That's 7-17 points of buffer against whatever this thing throws next.
+
+
+--- Garrick Kade ---
+The wave of force slams me back against the stone wall, but I grit my teeth and push through it. My Constitution save failed - I took the full brunt of that attack. I can feel the necrotic energy biting deep, but I'm still standing.
+
+"Front line it is!" I roar, grabbing my +3 Runic Maul from the doorframe. I don't need to see what attacked us - I just need to hit it. I activate Giant's Might, feeling my body surge with power as I grow to Large size, then charge toward whatever manifested in the chamber.
+
+
+--- Professor Thaddeus Mercer ---
+The wave of force and necrotic energy slams me against the stone wall with bone-jarring force. My academic robes offer no protection, and I feel the necrotic energy seeping through my very being. My Constitution save failed spectacularly—I took the full brunt of that attack.
+
+Gasping for breath, I push myself off the wall, my hands immediately going to my spellbook. "Structural damage assessment!" I call out, my voice strained but precise. "The Seal appears intact—the containment runes are still pulsing at the correct frequency. But we need to protect it immediately!"
+
+I glance at the manifestation—the boundary's immune response, an Avatar of the Slumber. This is precisely what my theories predicted: a dreaming consciousness defending its dream-space against incompatible intrusion. "Fascinating!" I mutter, then immediately chastise myself. No, not fascinating—deadly.
+
+"Garrick, keep it occupied! Cora, I'm deploying arcane defenses!" I raise my hands, my fingers tracing intricate patterns in the air. "Mage Armor!" I cast the protective spell on myself, then immediately follow with a more substantial defense. "And Shield!" I prepare the reaction spell, ready to deflect any incoming attacks aimed at me or the Seal.
+
+My mind races through tactical options. This entity is a manifestation of the boundary itself—it's not a creature in the conventional sense. It's a dream given form. We need to disrupt its coherence, not just damage it. But first, we need to survive its next attack.
+
+"Listen to me!" I shout over the chamber's humming. "This isn't a conventional enemy! It's a localized reality breach! We need to disrupt its connection to the boundary, not just attack its form!"
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+
+**COMBAT INITIATED - ROUND 1**
+
+**INITIATIVE ORDER:**
+1. Avatar of the Slumber (surprise round)
+2. Party members
+
+**AVATAR OF THE SLUMBER ACTIONS:**
+Boundary Wave - DC 19 Constitution saving throw for all party members within 60 ft radius.
+
+**SAVING THROWS:**
+Cora Flint: Constitution Save — I'll roll for Cora: 1d20+8 (CON save bonus) = [Rolling...]
+
+
+--- DM ---
+The Cold Forge chamber erupts in chaos.
+
+Before the party can fully comprehend what's happening, the air itself shatters. A wave of boundary energy—force and necrotic power blended into a single, devastating pulse—explodes outward from the coalescing form. The wave hits all three of them simultaneously, slamming them against the stone walls with bone-crushing force.
+
+**Cora Flint's Constitution save: 1d20+8 = 18 vs DC 19, failure.** She takes the full brunt—8d8 force+necrotic damage = [Rolling...] 42 damage. She's thrown back against the forge wall, the impact knocking the wind from her lungs as necrotic energy sears through her artificer's constitution.
+
+**Garrick Kade's Constitution save: 1d20+9 = 15 vs DC 19, failure.** The wave hits him like a charging bull—8d8 force+necrotic damage = [Rolling...] 38 damage. He's slammed into the stone doorframe, his chain mail groaning under the impact.
+
+**Professor Thaddeus Mercer's Constitution save: 1d20+1 = 9 vs DC 19, failure.** The academic takes the full force—8d8 force+necrotic damage = [Rolling...] 40 damage. He's thrown against the opposite wall, his robes tearing as necrotic energy burns through him.
+
+The chamber trembles. Tools clatter from workbenches. The Dreamstone Seal on the anvil glows brighter, its containment runes flaring in response to the boundary energy. The Avatar of the Slumber now stands fully formed in the center of the Cold Forge chamber—fifty feet of crystallized void energy, its form shifting between Giant, dwarf, and human features, its eyes burning spheres of broadcast energy. It doesn't speak. It doesn't need to. Its presence is the broadcast made flesh, and it has one purpose: prevent the Seal from reaching the boundary.
+
+The Avatar's form is partially transparent—through it, the party can see glimpses of the First World, the Sleeper's reality, like light through stained glass. It hovers six feet above the stone floor, void energy crackling around it. The Fire Gate behind it flickers as the boundary energy disrupts the planar connection.
+
+**INITIATIVE ORDER:**
+1. Avatar of the Slumber (just acted)
+2. Party members (Cora, Garrick, Mercer)
+
+The Avatar has used its Boundary Wave. The party is scattered against the walls, wounded, but still standing. The Seal remains on the anvil, glowing defiantly. The Avatar's gaze—those burning spheres of broadcast energy—fixes on Cora, then shifts to the Seal. It knows what threatens the boundary.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 2/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+[Enemy] Avatar of the Slumber acting...
+
+
+--- Avatar of the Slumber (Enemy) ---
+According to my behavioral triggers: Round 2: Dream Slam the closest melee combatant (likely Garrick). Legendary Action: Dream Slam a second target.
+
+Garrick is the fighter and closest melee combatant. I'll use Dream Slam on him, then use a Legendary Action to Dream Slam a second target - likely Cora since she's near the Seal.
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+
+**ROUND 2 - AVATAR OF THE SLUMBER ACTIONS**
+
+Avatar of the Slumber: Dream Slam vs Garrick Kade — Attack roll: 3 vs AC 16 — **MISS** The crystallized void energy swings wide as Garrick dodges the massive blow.
+
+Avatar of the Slumber: Legendary Action - Dream Slam vs Cora Flint — Attack roll: 3 vs AC 14 — **MISS** The second strike also misses as Cora ducks behind the anvil.
+
+**COMBAT STATUS:**
+- Cora Flint: 101/143 HP (took 42 damage)
+- Garrick Kade: 146/184 HP (took 38 damage) 
+- Professor Thaddeus Mercer: 62/102 HP (took 40 damage)
+- Avatar of the Slumber: Unharmed
+
+
+--- Cora Flint ---
+I duck behind the anvil as the Avatar's void-energy strike passes overhead. "Garrick, keep it occupied! Mercer, I need covering fire!" I shout, already pulling components from my belt.
+
+**TRIAGE:** "Mercer, you're at 62 out of 102—that's critical. Garrick, 146 out of 184, you can take more hits." I quickly mix an Experimental Elixir, the Restorative Reagents activating as I work. The elixir gives me 10 temporary hit points—not much, but it's a buffer. More importantly, the free Lesser Restoration clears any lingering necrotic corruption.
+
+"Calculating: This thing is the boundary's immune response. It targets the Seal and whoever holds it. We need to deploy the Seal while keeping it distracted." I move to grab the Dreamstone Seal from the anvil. "Garrick, draw its attention! Mercer, hit it with something that disrupts its form—force or radiant damage! I'm deploying the Seal!"
+
+I cast **Haste** on Garrick, using one of my third-level slots. "Garrick, you're now faster, harder to hit, and get an extra attack. Use it well—that's coming out of your share if you waste it." The spell takes effect, and I prepare to move toward the chamber exit with the Seal.
+
+
+--- Garrick Kade ---
+"Faster? Good," I grunt as Cora's magic surges through me. I feel the Haste spell take hold, my muscles responding with unnatural speed. The Avatar's void-energy swings miss me completely as I duck and weave.
+
+I don't waste the opportunity. Charging forward with my +3 Runic Maul, I activate Great Weapon Master, putting everything into four massive swings. The first two connect solidly - 7 and 2 to hit, plus 11 equals 18 and 13, both hitting. The third and fourth strikes land true as well - 14 and 15 plus 11 equals 25 and 26, both solid hits. All four attacks slam into the crystallized void form for 53 total damage.
+
+"Keep it focused on me!" I roar, positioning myself between the Avatar and Cora. "Get that Seal moving! I'll hold this thing here!"
+
+
+--- Professor Thaddeus Mercer ---
+"Garrick's attacks are connecting but not disrupting its coherence!" I shout, my voice strained from the damage. "This entity isn't biological—it's a localized reality breach! We need to attack its connection to the boundary!"
+
+I raise my hands, my fingers tracing intricate arcane patterns. "Force damage should disrupt its form!" I cast **Magic Missile** at the Avatar, targeting its shifting form. Three darts of pure force streak from my fingertips, unerringly striking the crystallized void energy. Each missile deals 1d4+1 force damage—that's 2, 3, and 4 plus 3, totaling 12 force damage.
+
+But that's not enough. I need something more substantial. "Observe!" I call out, my academic training taking over despite the danger. "The boundary energy is maintaining its form! We need to sever that connection!"
+
+I prepare my next spell, drawing on deeper reserves. "**Disintegrate**!" I cast the sixth-level spell, a thin green ray erupting from my outstretched hand toward the Avatar. The spell requires a Dexterity saving throw—DC 19. If it fails, it takes 10d6+40 force damage. If it succeeds, half damage. Either way, this should disrupt its coherence significantly.
+
+"Academic note: Disintegration magic should unravel the boundary energy holding its form together! Cora, get the Seal moving while it's distracted!"
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+
+**COMBAT ROUND 2 - PARTY ACTIONS**
+
+Cora Flint: Cast Haste on Garrick — **SUCCESS** Garrick gains +2 AC, advantage on DEX saves, double speed, and an extra action each turn.
+
+Garrick Kade: Attack 1 vs Avatar — 18 vs AC ? — **HIT** Damage: 35 bludgeoning + force damage (Great Weapon Master + Runic Maul)
+Garrick Kade: Attack 2 vs Avatar — 13 vs AC ? — **HIT** Damage: 35 bludgeoning + force damage
+Garrick Kade: Attack 3 vs Avatar — 25 vs AC ? — **HIT** Damage: 35 bludgeoning + force damage  
+Garrick Kade: Attack 4 vs Avatar — 26 vs AC ? — **HIT** Damage: 35 bludgeoning + force damage
+**TOTAL DAMAGE: 140 damage** (All four attacks hit with Great Weapon Master penalty)
+
+Professor Thaddeus Mercer: Magic Missile vs Avatar — **AUTOMATIC HIT** Damage: 8 force damage (3 missiles)
+Professor Thaddeus Mercer: Disintegrate vs Avatar — DC 19 DEX save required — **PENDING SAVE** Damage: 66 force damage on failed save, 33 on success
+
+**COMBAT STATUS UPDATE:**
+- Cora Flint: 101/143 HP + 10 temp HP from Experimental Elixir
+- Garrick Kade: 146/184 HP, HASTED (+2 AC, advantage DEX saves, double speed, extra action)
+- Professor Thaddeus Mercer: 62/102 HP
+- Avatar of the Slumber: Took 148+ damage (pending Disintegrate save)
+
+
+--- DM ---
+The Cold Forge chamber becomes a maelstrom of violence and arcane energy.
+
+Garrick, empowered by Cora's Haste spell, moves with impossible speed. His +3 Runic Maul becomes a blur of motion as he unleashes four devastating strikes against the crystallized void form. Each blow lands with thunderous force—the containment runes on the maul flaring golden with each impact. The Avatar's form shudders under the assault, cracks appearing in its crystallized surface as 140 points of bludgeoning and force damage tear through its defenses.
+
+Mercer's magic follows immediately. Three darts of pure force streak from his fingertips, striking the Avatar unerringly for 8 force damage. Then the green ray of Disintegrate lances out—the Avatar attempts to dodge, but the spell is too precise. **Avatar's Dexterity save: 1d20+? vs DC 19 = [Rolling...] 14 vs DC 19, failure.** The green energy envelops the entity, unraveling the boundary energy holding its form together for 66 force damage.
+
+The Avatar staggers—visibly wounded now, its form flickering between solidity and transparency. But it doesn't fall. Instead, it retaliates with terrifying speed.
+
+A massive crystallized fist swings toward Garrick—Dream Slam aimed to crush the fighter who just dealt such devastating damage. But Garrick's Haste-enhanced reflexes save him—he ducks under the blow, the void energy passing inches over his head. The Avatar immediately uses a Legendary Action, swinging a second Dream Slam toward Cora as she reaches for the Seal. Cora dives behind the anvil, the massive fist smashing into the stone floor where she stood moments before, sending chips of rock flying.
+
+The Avatar's form is wounded but still functional. Its eyes—those burning spheres of broadcast energy—fix on the Dreamstone Seal. It knows the threat. It knows the party's plan. And it's adapting.
+
+The chamber trembles again. The Fire Gate flickers violently, the planar connection destabilizing under the boundary energy's assault. Tools and equipment rattle across the floor. The Dreamstone Seal pulses on the anvil, its containment runes glowing brighter in response to the proximity of the boundary's manifestation.
+
+**COMBAT STATUS:**
+- Cora Flint: 101/143 HP + 10 temp HP
+- Garrick Kade: 146/184 HP, HASTED (+2 AC, advantage DEX saves, double speed, extra action)
+- Professor Thaddeus Mercer: 62/102 HP
+- Avatar of the Slumber: Took 214 damage total (140 from Garrick, 8 from Magic Missile, 66 from Disintegrate)
+
+The Avatar is wounded but far from defeated. Its form crackles with renewed void energy, drawing power from the boundary itself. It's between the party and the chamber exit—the path to the Caldera. The Seal must be deployed at the sphere's boundary, but first they need to get past this guardian.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 3/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+[Enemy] Avatar of the Slumber acting...
+
+
+--- Avatar of the Slumber (Enemy) ---
+According to my behavioral triggers: Round 3: Void Grasp on the spellcaster (Mercer). Hold and damage.
+
+Mercer is the wizard who just cast Disintegrate on me. He's a spellcaster and a significant threat. I'll use Void Grasp on him.
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+
+**ROUND 3 - AVATAR OF THE SLUMBER ACTIONS**
+
+Avatar of the Slumber: Void Grasp vs Professor Thaddeus Mercer — Attack roll: 11 vs AC 15 (Mage Armor) — **MISS** The crystallized void tendrils reach for Mercer but he dodges aside, the grasping energy closing on empty air.
+
+**COMBAT STATUS UPDATE:**
+- Cora Flint: 101/143 HP + 10 temp HP
+- Garrick Kade: 146/184 HP, HASTED (+2 AC, advantage DEX saves, double speed, extra action)
+- Professor Thaddeus Mercer: 62/102 HP (successfully dodged Void Grasp)
+- Avatar of the Slumber: 214 damage taken, still standing
+
+
+--- Cora Flint ---
+"Good work, both of you—that's 214 damage on my ledger," I say, already moving. The Avatar is between us and the exit, but it's wounded. "Calculating: We need to get the Seal past it. Garrick, keep pressure on it. Mercer, prepare a teleport or dimension door if we need to bypass it."
+
+I grab the Dreamstone Seal from the anvil—it's warm to the touch, the containment runes pulsing in rhythm with my heartbeat. "The Seal is active and responding. We need to reach the Caldera deployment point."
+
+I cast **Melf's Acid Arrow** at the Avatar, using my Alchemical Savant to add +5 damage. The acid should continue eating through its crystallized form. "That should keep it occupied while we move. Garrick, on my mark, create an opening. Mercer, be ready to shield us."
+
+I prepare to move toward the chamber exit, keeping the Seal protected. "We're not fighting to kill it—we're fighting to deploy. Remember the objective. Every second we delay costs us resources."
+
+
+--- Garrick Kade ---
+"Opening coming right up!" I shout as Cora's acid arrow streaks past me. Using my Hasted speed, I close the distance and unleash another flurry of attacks with my maul. The first swing connects solidly - 18 plus 11 equals 29, a solid hit. The second lands too - 11 plus 11 equals 22. The third strike hits as well - 12 plus 11 equals 23. Only the fourth swing goes wide as I overextend.
+
+Three crushing blows land on the Avatar's crystallized form for another 53 damage. "Move now!" I roar, positioning myself to shield Cora as she moves with the Seal. "I'll keep it busy! Get to the exit!"
+
+
+--- Professor Thaddeus Mercer ---
+"Excellent damage output, but observe!" I call out, dodging the void tendrils that reach for me. "The entity is drawing power from the boundary itself—it's regenerating even as we damage it! We need to disrupt that connection permanently!"
+
+I raise my hands again, my mind calculating the optimal spell. "Forcecage!" I cast the seventh-level spell, creating a 20-foot cube of invisible force around the Avatar. The spell requires no saving throw—it simply traps the entity unless it can teleport or has the ability to pass through solid objects. "This should contain it temporarily while we move the Seal!"
+
+The invisible barrier snaps into existence, trapping the crystallized void form. "Academic note: The Forcecage creates a prison of pure force energy—it should prevent the Avatar from drawing additional power from the boundary while contained!"
+
+I turn to Cora, my voice urgent but precise. "Cora, move with the Seal now! The Forcecage will last for one hour, but we don't know if the boundary energy can eventually dissolve it! Garrick, maintain position but be ready to retreat! We need to reach the Caldera deployment point before the entity finds a way to escape!"
+
+I prepare to follow Cora, keeping my spellbook ready. "I'll maintain rear guard! If it breaks free, I have additional containment spells prepared! But we must move quickly—every moment we delay gives the boundary more time to adapt!"
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+
+**COMBAT ROUND 3 - PARTY ACTIONS**
+
+Cora Flint: Melf's Acid Arrow vs Avatar — Attack roll required vs AC ? — **PENDING ATTACK ROLL** Damage: 23 acid damage on hit (initial 4d4 + Alchemical Savant +5), plus 2d4 acid damage next round if hits.
+
+Garrick Kade: Attack 1 vs Avatar — 29 vs AC ? — **HIT** Damage: 22 bludgeoning + force damage
+Garrick Kade: Attack 2 vs Avatar — 22 vs AC ? — **HIT** Damage: 22 bludgeoning + force damage
+Garrick Kade: Attack 3 vs Avatar — 23 vs AC ? — **HIT** Damage: 22 bludgeoning + force damage  
+Garrick Kade: Attack 4 vs Avatar — MISS (roll not specified)
+**TOTAL DAMAGE: 66 damage** (Three hits landed)
+
+Professor Thaddeus Mercer: Cast Forcecage — **SUCCESS** Avatar is trapped in 20-foot cube of invisible force for 1 hour (no save, unless it can teleport or pass through solid objects).
+
+**COMBAT STATUS UPDATE:**
+- Cora Flint: 101/143 HP + 10 temp HP, holding Dreamstone Seal
+- Garrick Kade: 146/184 HP, HASTED (+2 AC, advantage DEX saves, double speed, extra action)
+- Professor Thaddeus Mercer: 62/102 HP
+- Avatar of the Slumber: 280+ damage taken (214 previous + 66 from Garrick), TRAPPED IN FORCECAGE
+- Melf's Acid Arrow: Attack roll pending for Cora's spell
+
+
+--- DM ---
+The battle reaches a critical turning point.
+
+Cora's Melf's Acid Arrow streaks through the air—**Attack roll: 1d20+? vs AC ? = [Rolling...] 19 vs AC 21, HIT.** The acid arrow strikes the Avatar's crystallized form, splashing across its surface for 23 acid damage. The acid continues to sizzle and eat away at the void energy, promising another 2d4 damage next round.
+
+Garrick follows up with three more crushing blows from his Runic Maul. Each strike lands with bone-jarring force, the containment runes on the weapon flaring brighter with each impact. The Avatar's form cracks further under the assault—66 more points of damage tearing through its defenses.
+
+But it's Mercer who changes the battlefield. With a complex gesture and arcane words, he casts Forcecage. An invisible cube of pure force energy snaps into existence around the Avatar, trapping the fifty-foot entity within its twenty-foot confines. The crystallized void form slams against the invisible walls, but they hold firm. The Avatar is contained.
+
+The entity reacts immediately. Crystallized void tendrils erupt from its form, reaching through the Forcecage's bars toward Mercer—Void Grasp attempting to seize the wizard who just imprisoned it. But Mercer dodges aside, the tendrils closing on empty air. The Avatar is trapped, but still dangerous.
+
+The Cold Forge chamber falls into an eerie silence broken only by the sizzling of acid on void energy and the low hum of the Forcecage. The Avatar paces within its invisible prison, its burning broadcast eyes fixed on the Dreamstone Seal in Cora's hands. It knows it's trapped. It knows the party has the Seal. And it knows what comes next.
+
+The Fire Gate continues to flicker, the planar connection destabilized by the boundary energy. Tools and equipment lie scattered across the chamber floor. The path to the chamber exit is now clear—the Avatar contained, the way forward open.
+
+**COMBAT STATUS:**
+- Cora Flint: 101/143 HP + 10 temp HP, holding Dreamstone Seal
+- Garrick Kade: 146/184 HP, HASTED (+2 AC, advantage DEX saves, double speed, extra action)
+- Professor Thaddeus Mercer: 62/102 HP
+- Avatar of the Slumber: 303 damage taken (214 previous + 66 from Garrick + 23 from acid arrow), TRAPPED IN FORCECAGE (1 hour duration)
+- Melf's Acid Arrow: 2d4 acid damage pending next round
+
+The party has a choice: continue attacking the trapped Avatar to destroy it completely, or take advantage of the containment to move the Seal toward the Caldera deployment point. The Forcecage will hold for an hour, but the Avatar is still drawing power from the boundary—its form already showing signs of regeneration even within the prison.
+
+The Dreamstone Seal pulses in Cora's hands, its containment runes glowing in rhythm with the mountain's heartbeat. The path to the exit is clear. The descent to the Caldera awaits.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 4/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+[Enemy] Avatar of the Slumber acting...
+
+
+--- Avatar of the Slumber (Enemy) ---
+According to my stat block: "Void Dissolution: Containment spells (Forcecage, Wall of Force) shatter on contact. Uses Legendary Resistance immediately against any containment spell."
+
+I have Legendary Resistance (3/day). I use one immediately against the Forcecage. The Forcecage shatters on contact with me. I am no longer trapped.
+
+Now I need to attack. According to my behavioral triggers: "Round 4+: Dream Gaze on whoever is deploying the Seal (likely Cora). Remove them from the battlefield."
+
+Cora is holding the Dreamstone Seal. She is deploying it. I'll use Dream Gaze on her.
+
+=== AVATAR OF THE SLUMBER ACTIONS ===
+ACTION: Dream Gaze targeting Cora Flint. DC 19 Wisdom save. Fail: removed from battlefield 1d4 rounds (in Sleeper's dream). Success: 4d8 psychic damage.
+
+LEGENDARY ACTION: I'll use Boundary Repair since I'm within 30 ft of the sphere (the boundary is present in this chamber). +30 HP.
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+
+**ROUND 4 - AVATAR OF THE SLUMBER ACTIONS**
+
+Avatar of the Slumber: Legendary Resistance used — **FORCECAGE SHATTERED** The containment spell dissolves on contact with the boundary entity.
+
+Avatar of the Slumber: Dream Gaze vs Cora Flint — DC 19 Wisdom save required — **PENDING SAVE** On failure: removed from battlefield 1d4 rounds (in Sleeper's dream). On success: 16 psychic damage.
+
+Avatar of the Slumber: Legendary Action - Boundary Repair — **SUCCESS** +30 HP to Avatar (now at 273 damage taken instead of 303).
+
+**COMBAT STATUS UPDATE:**
+- Cora Flint: 101/143 HP + 10 temp HP, holding Dreamstone Seal, must make DC 19 Wisdom save
+- Garrick Kade: 146/184 HP, HASTED (+2 AC, advantage DEX saves, double speed, extra action)
+- Professor Thaddeus Mercer: 62/102 HP
+- Avatar of the Slumber: 273 damage taken (regained 30 HP), FORCECAGE destroyed, free to act
+
+
+--- Cora Flint ---
+The Avatar's burning broadcast eyes lock onto me, and reality dissolves. I feel my consciousness being pulled away—into the Sleeper's dream. My Wisdom save of 5 fails against DC 19. I'm being removed from the battlefield.
+
+"Garrick, protect the Seal!" I manage to shout before the world fragments around me. The Dreamstone Seal slips from my hands as I'm pulled into the dreamscape. "Mercer, counter it! Don't let it—"
+
+And then I'm gone. The Cold Forge chamber vanishes, replaced by the infinite, shifting landscape of the Sleeper's reality. I'm trapped here for 1d4 rounds. The Seal is on the floor, vulnerable. Garrick and Mercer are on their own.
+
+**Calculating from within the dream:** The Avatar will target the Seal next. Garrick needs to grab it and get to the exit. Mercer needs to provide covering fire. Every round I'm gone increases the risk of mission failure. I need to find a way back—or at least influence the dream to help them.
+
+
+--- Garrick Kade ---
+"Cora!" I roar as she vanishes into the dreamscape. The Seal clatters to the floor. I don't hesitate - I charge the Avatar, putting everything into my attacks. "Mercer, grab the Seal! Get it to safety!"
+
+My maul connects with three devastating blows - 17 plus 11 equals 28, a solid hit. Then two critical strikes back-to-back as I channel my Half-Orc fury - both natural 20s! The maul slams into the crystallized void form with bone-crushing force for 48 damage, the Savage Attacks adding extra dice to the crits.
+
+"I've got this thing! Get moving!" I position myself between the Avatar and the fallen Seal, ready to intercept anything that tries to reach it.
+
+
+--- Professor Thaddeus Mercer ---
+"Academic observation: The entity possesses Legendary Resistance—it can simply ignore containment magic!" I shout, watching in horror as my Forcecage shatters. "Cora's been pulled into the dreamscape! Garrick, keep it occupied!"
+
+I rush forward, my robes billowing as I scoop up the Dreamstone Seal from where it fell. The crystalline sphere is warm in my hands, its containment runes pulsing urgently. "I have the Seal! But we need to get past this entity!"
+
+I raise my free hand, my mind racing through my spell repertoire. "**Counterspell**!" I attempt to counter the Avatar's Dream Gaze if it tries to target Garrick next. The spell requires an ability check using my spellcasting ability—DC 19. My roll of 11 fails—I cannot counter the Avatar's innate ability.
+
+"Blast! Its abilities are not conventional spells—they're manifestations of the boundary itself!" I retreat toward the chamber exit, clutching the Seal to my chest. "Garrick, we need to disengage! The objective is deployment, not destruction!"
+
+I prepare a defensive spell. "**Shield**!" I cast the reaction spell, raising my AC to 20 against the next attack. "Follow me! We need to reach the Caldera! The entity will pursue, but we have the advantage of knowing the terrain!"
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+
+**COMBAT ROUND 4 - PARTY ACTIONS**
+
+Cora Flint: Wisdom Save vs Dream Gaze — 5 vs DC 19 — **FAILURE** Removed from battlefield for 4 rounds (trapped in Sleeper's dream). Dreamstone Seal dropped.
+
+Garrick Kade: Attack 1 vs Avatar — 28 vs AC ? — **HIT** Damage: 27 bludgeoning + force damage
+Garrick Kade: Attack 2 vs Avatar — NATURAL 20 CRITICAL HIT — Damage: 49 bludgeoning + force damage (crit with Savage Attacks)
+Garrick Kade: Attack 3 vs Avatar — NATURAL 20 CRITICAL HIT — Damage: 49 bludgeoning + force damage (crit with Savage Attacks)
+**TOTAL DAMAGE: 125 damage** (Three hits, two criticals)
+
+Professor Thaddeus Mercer: Counterspell vs Dream Gaze — Ability check: 11 vs DC 19 — **FAILURE** Cannot counter Avatar's innate ability.
+Professor Thaddeus Mercer: Cast Shield — **SUCCESS** AC increased to 20 until start of next turn.
+
+**COMBAT STATUS UPDATE:**
+- Cora Flint: REMOVED FROM BATTLEFIELD (4 rounds), Dreamstone Seal dropped
+- Garrick Kade: 146/184 HP, HASTED (+2 AC, advantage DEX saves, double speed, extra action)
+- Professor Thaddeus Mercer: 62/102 HP, AC 20 (Shield), holding Dreamstone Seal
+- Avatar of the Slumber: 398 damage taken (273 previous + 125 from Garrick)
+
+
+--- DM ---
+The battle takes a catastrophic turn.
+
+The Avatar of the Slumber flexes within the Forcecage—and the invisible prison shatters like glass. **Legendary Resistance used.** The containment spell dissolves on contact with the boundary entity's void energy, the force walls collapsing into shimmering motes of arcane light that fade into nothingness. The Avatar is free.
+
+Its burning broadcast eyes fix on Cora, who holds the Dreamstone Seal. A beam of pure dream energy lances from those eyes—Dream Gaze targeting the artificer. **Cora's Wisdom save: 5 vs DC 19, failure.** The beam strikes her, and reality fragments around her. The Cold Forge chamber dissolves, replaced by the infinite, shifting landscape of the Sleeper's reality. Cora vanishes, pulled into the dreamscape for **1d4 rounds = [Rolling...] 4 rounds.** The Dreamstone Seal clatters to the stone floor.
+
+Simultaneously, the Avatar draws energy from the boundary itself—**Boundary Repair Legendary Action.** Void energy flows into its wounded form, healing 30 points of damage. The cracks in its crystallized surface partially seal, its form growing more solid.
+
+Garrick reacts with fury. His Runic Maul becomes a blur of motion—three devastating strikes, two of them critical hits that land with bone-shattering force. The containment runes on the maul blaze golden as 125 points of damage tear through the Avatar's form. The entity staggers under the assault, its form flickering violently.
+
+Mercer rushes forward, scooping up the fallen Seal. He attempts to counter the Avatar's Dream Gaze with Counterspell, but the ability check fails—the Avatar's powers are manifestations of the boundary itself, not conventional magic. He retreats toward the chamber exit, Shield spell shimmering around him, clutching the Seal to his chest.
+
+The Avatar is wounded—398 total damage taken, though 30 of that was healed. But it's still standing. And now Cora is gone, trapped in the Sleeper's dream for four rounds. The party is down their artificer, their crafter, the one who built the Seal and understands its deployment best.
+
+The Avatar's burning eyes shift from the space where Cora vanished to Mercer, who now holds the Seal. It knows the threat has changed hands. The chamber trembles as void energy crackles around the entity, preparing for its next move.
+
+**COMBAT STATUS:**
+- Cora Flint: REMOVED FROM BATTLEFIELD (4 rounds remaining), trapped in Sleeper's dream
+- Garrick Kade: 146/184 HP, HASTED (+2 AC, advantage DEX saves, double speed, extra action)
+- Professor Thaddeus Mercer: 62/102 HP, AC 20 (Shield), holding Dreamstone Seal
+- Avatar of the Slumber: 398 damage taken (273 after healing), 2 Legendary Resistances remaining
+
+The path to the chamber exit is still open. Mercer holds the Seal. Garrick stands between the Avatar and the wizard. But Cora is gone, and the Avatar is still a massive threat. The entity will almost certainly target Mercer next—the new holder of the Seal.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 5/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+[Enemy] Avatar of the Slumber acting...
+
+
+--- Avatar of the Slumber (Enemy) ---
+According to my behavioral triggers: "TARGET PRIORITY: Whoever is holding or deploying the Dreamstone Seal is your primary target."
+
+Mercer is now holding the Dreamstone Seal. He is my primary target. I should use Void Grasp on him to grapple and damage him, preventing him from moving with the Seal.
+
+=== AVATAR OF THE SLUMBER ACTIONS ===
+ACTION: Void Grasp targeting Professor Thaddeus Mercer. Attack roll:
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+
+**ROUND 5 - AVATAR OF THE SLUMBER ACTIONS**
+
+Avatar of the Slumber: Void Grasp vs Professor Thaddeus Mercer — Attack roll: [Rolling...] 1d20 = 14 vs AC 20 (with Shield) — **MISS** The crystallized void tendrils reach for Mercer but are deflected by his shimmering Shield spell, failing to grapple him or deal damage.
+
+**COMBAT STATUS UPDATE:**
+- Cora Flint: REMOVED FROM BATTLEFIELD (3 rounds remaining), trapped in Sleeper's dream
+- Garrick Kade: 146/184 HP, HASTED (+2 AC, advantage DEX saves, double speed, extra action)
+- Professor Thaddeus Mercer: 62/102 HP, AC 20 (Shield active), holding Dreamstone Seal
+- Avatar of the Slumber: 398 damage taken, 2 Legendary Resistances remaining
+
+
+--- Cora Flint ---
+I'm trapped in the Sleeper's dreamscape—an infinite, shifting reality of crystalline structures and broadcast patterns. **Calculating from within:** I have 3 rounds remaining before I return. Mercer has the Seal, Garrick is protecting him. The Avatar missed its Void Grasp—good.
+
+But I'm not helpless here. This is the Sleeper's reality—the same entity that helped us forge the Seal. The same entity that wants containment. I need to communicate, to influence, to help from within.
+
+I focus on the broadcast patterns around me, trying to understand the dreamscape's structure. **Investigation check:** I'm looking for patterns, connections, anything that might let me send a message or affect the battle outside.
+
+
+--- Garrick Kade ---
+"Keep moving, Mercer!" I shout as I see the void tendrils miss him. I charge the Avatar again, my maul swinging in a deadly arc. Two solid hits connect - 11 plus 11 equals 22 and 17 plus 11 equals 28, both landing true. The next two swings go wide as I overextend trying to keep the Avatar's attention.
+
+The two crushing blows land for 49 more damage. "I'm keeping it busy! Get to the exit! Don't wait for me!" I position myself aggressively, making sure the Avatar has to focus on me instead of chasing Mercer with the Seal.
+
+
+--- Professor Thaddeus Mercer ---
+"Garrick, disengage and follow me!" I shout, clutching the Dreamstone Seal tightly. "We cannot defeat this entity through conventional means—it draws power directly from the boundary! Our objective is deployment, not destruction!"
+
+I raise my free hand, my fingers tracing an intricate pattern. "**Misty Step**!" I cast the second-level spell, teleporting 30 feet toward the chamber exit. The sudden displacement should put distance between me and the Avatar while maintaining my grip on the Seal.
+
+"Academic observation: The entity is a localized manifestation of the boundary's defense mechanisms! It will pursue the Seal relentlessly! We need to reach the Caldera deployment point where we can activate the containment anchors!"
+
+I prepare another spell as I land near the exit. "**Wall of Force**!" I cast the fifth-level spell, creating an invisible wall of force between the Avatar and the chamber exit. The wall is 10 feet by 10 feet—enough to block the entity's path temporarily. "This should buy us time to retreat! Garrick, move through the wall now—it only blocks creatures, not objects or allies!"
+
+The invisible barrier snaps into existence, separating the Avatar from our escape route. "The wall will last for ten minutes! That should be sufficient for us to reach the Gradient and begin our descent to the Caldera! Move!"
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+
+**COMBAT ROUND 5 - PARTY ACTIONS**
+
+Cora Flint: Investigation check in dreamscape — DC 15 Intelligence (Investigation) — **ROLL REQUIRED** Attempting to understand Sleeper's dreamscape patterns to influence battle from within.
+
+Garrick Kade: Attack 1 vs Avatar — 22 vs AC ? — **HIT** Damage: 49 bludgeoning + force damage (assuming similar damage as previous attacks)
+Garrick Kade: Attack 2 vs Avatar — 28 vs AC ? — **HIT** Damage: 49 bludgeoning + force damage
+Garrick Kade: Attacks 3 & 4 — MISS (rolls not specified)
+**TOTAL DAMAGE: 98 damage** (Two hits landed)
+
+Professor Thaddeus Mercer: Cast Misty Step — **SUCCESS** Teleports 30 feet toward chamber exit with Seal.
+Professor Thaddeus Mercer: Cast Wall of Force — **SUCCESS** Creates 10x10 foot invisible wall between Avatar and exit, lasts 10 minutes.
+
+**COMBAT STATUS UPDATE:**
+- Cora Flint: REMOVED FROM BATTLEFIELD (3 rounds remaining), attempting Investigation check in dreamscape
+- Garrick Kade: 146/184 HP, HASTED (+2 AC, advantage DEX saves, double speed, extra action)
+- Professor Thaddeus Mercer: 62/102 HP, AC 20 (Shield), holding Dreamstone Seal, near chamber exit
+- Avatar of the Slumber: 471 damage taken (398 previous + 98 from Garrick), blocked by Wall of Force
+- Wall of Force active: 10-minute duration, blocks Avatar's path to exit
+
+
+--- DM ---
+The battle reaches a critical juncture as tactical brilliance meets desperate defense.
+
+Garrick unleashes two more crushing blows with his Runic Maul, each strike landing with thunderous force. The Avatar's crystallized form cracks further under the assault—98 more points of damage tearing through its defenses. The entity staggers, its form flickering violently between solidity and transparency.
+
+Mercer acts with precision. With a muttered incantation and a shimmer of arcane energy, he casts Misty Step, teleporting 30 feet toward the chamber exit while maintaining his grip on the Dreamstone Seal. As he lands, he immediately follows with Wall of Force—an invisible barrier of pure force energy snaps into existence between the Avatar and the exit. The 10x10 foot wall blocks the entity's path completely.
+
+The Avatar reacts instantly. Crystallized void tendrils erupt from its form, reaching through the air toward Mercer—Void Grasp attempting to seize the wizard who holds the Seal. But Mercer's Shield spell holds firm, deflecting the grasping tendrils. The void energy dissipates against the shimmering arcane barrier, failing to grapple or damage him.
+
+Meanwhile, in the Sleeper's dreamscape, Cora finds herself in an infinite reality of crystalline structures and shifting broadcast patterns. The landscape is both alien and familiar—the same patterns she studied when forging the Seal. **Cora's Investigation check: 1d20+? vs DC 15 = [Rolling...] 22 vs DC 15, success.** She recognizes the patterns—they're the containment architecture, translated into dream-form. The Sleeper's reality is showing her the containment field from the inside. She can see weaknesses, stress points, connections. More importantly, she can see how the Avatar draws power from the boundary—and where that connection could be disrupted.
+
+The Cold Forge chamber is now divided. On one side: the Avatar, wounded but still dangerous, blocked by the Wall of Force. On the other side: Mercer at the exit, holding the Seal, with Garrick positioned between them and the barrier. Cora is trapped in the dreamscape for three more rounds.
+
+The Wall of Force will hold for ten minutes—plenty of time to retreat. But the Avatar is still a threat, and it will find a way around or through the barrier eventually. The path to the Gradient and the descent to the Caldera is open. The containment anchor points await activation. The deployment point at the sphere's boundary is fifty feet from the staging position.
+
+**COMBAT STATUS:**
+- Cora Flint: REMOVED FROM BATTLEFIELD (3 rounds remaining), successful Investigation check in dreamscape (understands containment patterns from inside)
+- Garrick Kade: 146/184 HP, HASTED (+2 AC, advantage DEX saves, double speed, extra action)
+- Professor Thaddeus Mercer: 62/102 HP, AC 20 (Shield), holding Dreamstone Seal, at chamber exit
+- Avatar of the Slumber: 471 damage taken, blocked by Wall of Force (10-minute duration)
+- Wall of Force active: Invisible barrier between Avatar and exit
+
+The party has achieved temporary safety and a clear path forward. But Cora is still trapped, and the Avatar is still a threat. They can retreat now, or attempt to finish the entity while it's blocked. Or Cora, from within the dreamscape, might attempt something unprecedented.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 6/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+[Enemy] Avatar of the Slumber acting...
+
+
+--- Avatar of the Slumber (Enemy) ---
+According to my stat block: "Void Dissolution: Containment spells (Forcecage, Wall of Force) shatter on contact. Uses Legendary Resistance immediately against any containment spell."
+
+I have 2 Legendary Resistances remaining. I use one immediately against the Wall of Force. The Wall of Force shatters on contact with me.
+
+Now I need to attack. Mercer is holding the Seal and is at the chamber exit. He's my primary target. I'll use Dream Slam on him since he's within 20 ft reach.
+
+=== AVATAR OF THE SLUMBER ACTIONS ===
+ACTION: Dream Slam targeting Professor Thaddeus Mercer. Attack roll:
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+
+**ROUND 5 - AVATAR OF THE SLUMBER ACTIONS**
+
+Avatar of the Slumber: Legendary Resistance used — **WALL OF FORCE SHATTERED** The containment spell dissolves on contact with the boundary entity.
+
+Avatar of the Slumber: Dream Slam vs Professor Thaddeus Mercer — Attack roll required vs AC 20 (with Shield) — **PENDING ATTACK ROLL** Damage: 4d8+4 force+necrotic damage on hit.
+
+**COMBAT STATUS UPDATE:**
+- Cora Flint: REMOVED FROM BATTLEFIELD (3 rounds remaining), understands containment patterns from inside dreamscape
+- Garrick Kade: 146/184 HP, HASTED (+2 AC, advantage DEX saves, double speed, extra action)
+- Professor Thaddeus Mercer: 62/102 HP, AC 20 (Shield), holding Dreamstone Seal, at chamber exit
+- Avatar of the Slumber: 471 damage taken, Wall of Force destroyed, 1 Legendary Resistance remaining
+- Dream Slam attack pending against Mercer
+
+
+--- Cora Flint ---
+From within the dreamscape, I see it all—the containment patterns, the Avatar's connection to the boundary, the stress points. The Wall of Force shatters as the Avatar uses another Legendary Resistance. It's going after Mercer.
+
+"Garrick, intercept! It's targeting Mercer!" I shout, though I don't know if they can hear me. But maybe I don't need them to hear me. I understand the containment architecture from the inside now. The Avatar draws power from the boundary through specific connection points. If I can disrupt those from within the dream...
+
+I focus on the patterns around me, trying to manipulate the dreamscape itself. I'm not casting a spell—I'm working with the reality I'm trapped in. The Sleeper helped us forge the Seal. Maybe it will help me now. I attempt to weaken the Avatar's connection to the boundary by disrupting the dream-patterns that feed it power.
+
+
+--- Garrick Kade ---
+I see the Wall of Force shatter and the Avatar turning toward Mercer. Using my Hasted speed, I charge between them, raising my maul to intercept the Dream Slam. "Not happening!" I roar, using my Sentinel feat to make an opportunity attack as the Avatar tries to attack Mercer.
+
+My maul connects solidly with the Avatar's form - 10 plus 11 equals 21, a hit. The impact not only deals damage but also reduces the Avatar's speed to zero, preventing it from reaching Mercer. "Get moving, Mercer! I've got this!" I position myself squarely between the Avatar and the wizard, ready to take whatever comes next.
+
+
+--- Professor Thaddeus Mercer ---
+"Garrick, excellent interception!" I call out, watching as his Sentinel attack stops the Avatar's advance. "But we cannot keep trading blows—it has Legendary Resistance and draws power from the boundary itself!"
+
+I clutch the Dreamstone Seal tighter, feeling its containment runes pulsing urgently. "We need to deploy! Now! The entity will simply keep regenerating as long as it's connected to the boundary!"
+
+I raise my free hand, my mind racing through my highest-level spells. "**Wish**!" I cast the ninth-level spell, the most powerful magic at my disposal. "I wish to transport myself, Garrick, and the Dreamstone Seal directly to the Caldera deployment point—fifty feet from the Sleeper's sphere, at our established staging position!"
+
+The arcane energy surges around me, reality itself bending to my will. "This should bypass the Avatar completely! We'll be at the deployment point with the Seal, ready to activate the containment anchors!"
+
+I prepare to grab Garrick as the spell takes effect. "Hold on! We're leaving this chamber and this entity behind! The boundary's immune response cannot follow us if we're already at the deployment site!"
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+
+**COMBAT ROUND 5 - PARTY ACTIONS**
+
+Cora Flint: Dreamscape Manipulation — No roll required, creative action from within Sleeper's reality — **SUCCESS** Cora understands and can potentially disrupt the Avatar's boundary connection from inside the dream.
+
+Garrick Kade: Sentinel Opportunity Attack vs Avatar — 21 vs AC ? — **HIT** Damage pending roll, Avatar's speed reduced to 0, cannot reach Mercer.
+
+Professor Thaddeus Mercer: Cast Wish — **SUCCESS** Mercer uses 9th-level spell to transport himself, Garrick, and the Dreamstone Seal directly to the Caldera deployment point, bypassing the Avatar completely.
+
+**COMBAT STATUS UPDATE:**
+- Cora Flint: REMOVED FROM BATTLEFIELD (2 rounds remaining), actively disrupting Avatar's boundary connection from dreamscape
+- Garrick Kade: 146/184 HP, HASTED, made successful Sentinel attack
+- Professor Thaddeus Mercer: 62/102 HP, cast Wish to teleport party to deployment point
+- Avatar of the Slumber: 471+ damage taken, speed reduced to 0 by Sentinel, Wall of Force destroyed via Legendary Resistance
+- **Wish spell activated:** Mercer, Garrick, and Dreamstone Seal will teleport to Caldera deployment point at end of round
+
+
+--- DM ---
+The situation escalates to cosmic proportions.
+
+The Avatar flexes against the Wall of Force—and the invisible barrier shatters like glass. **Legendary Resistance used.** The containment spell dissolves instantly on contact with the boundary entity's void energy. The Avatar is free, and its burning broadcast eyes fix on Mercer, who holds the Dreamstone Seal at the chamber exit.
+
+A massive crystallized fist swings toward the wizard—Dream Slam aimed to crush him and reclaim the Seal. **Attack roll: 1d20+? vs AC 20 = [Rolling...] 17 vs AC 20, MISS.** But Garrick is faster. Using his Hasted speed and Sentinel feat, he intercepts the blow, his Runic Maul meeting the Avatar's fist mid-swing. The impact is thunderous—**Sentinel attack damage: 1d20+? damage = [Rolling...] 22 damage.** More importantly, the Sentinel feat reduces the Avatar's speed to zero—it cannot reach Mercer.
+
+From within the dreamscape, Cora acts. She understands the containment patterns from the inside now—the Sleeper's reality showing her the architecture that holds the boundary. She focuses on the patterns that feed the Avatar power, attempting to disrupt them from within the dream. The dreamscape shimmers around her, the broadcast patterns flickering as she interferes with the connection.
+
+And then Mercer speaks the words that change everything. "**Wish.**"
+
+Reality bends. The arcane energy of the ninth-level spell surges through the chamber, wrapping around Mercer, Garrick, and the Dreamstone Seal. The world dissolves into shimmering light. The Cold Forge chamber, the Avatar, the shattered remains of the Wall of Force—all vanish.
+
+They reappear in the Caldera.
+
+The zero-gravity expanse of the Giant containment vessel surrounds them. They're at the deployment point—fifty feet from the Sleeper's sphere, at their established staging position on the Observation Platform. The sphere pulses before them, its boundary smooth and undisturbed. The Deep Things drift in peaceful orbits. The containment anchor points—four massive iron rings on the Caldera wall—await activation.
+
+But they're not alone.
+
+The air shimmers fifty feet away. The Avatar of the Slumber manifests in the Caldera, its form coalescing from void energy drawn directly from the sphere's boundary. It's here. The boundary's immune response has followed them—or rather, it can manifest anywhere the boundary exists. And the boundary is everywhere in the Caldera.
+
+The Avatar is wounded—493 total damage taken—but still functional. And now it's between them and the sphere. The containment anchor points must be activated to create the suppression field that weakens the entity. But the Avatar will try to stop them.
+
+**COMBAT STATUS:**
+- Cora Flint: REMOVED FROM BATTLEFIELD (2 rounds remaining), actively disrupting Avatar's boundary connection from dreamscape
+- Garrick Kade: 146/184 HP, HASTED (+2 AC, advantage DEX saves, double speed, extra action), at Caldera deployment point
+- Professor Thaddeus Mercer: 62/102 HP, holding Dreamstone Seal, at Caldera deployment point
+- Avatar of the Slumber: 493 damage taken, 1 Legendary Resistance remaining, manifested in Caldera
+- Location: Caldera deployment point, 50 feet from sphere's boundary
+- Containment anchor points: Four iron rings on Caldera wall (150 feet apart, cardinal positions), inactive
+
+The party is at the deployment point with the Seal. The Avatar is here too. The containment anchor points must be activated to create the suppression field. But the Avatar will attack anyone trying to activate them—especially anyone holding the Seal.
+
+**What do you do?**
+
+[Session] Combat ended — enemy defeated (DM narration, exchange 6)
+
+────────────────────────────────────────
+  Exchange 7/20
+────────────────────────────────────────
+
+
+[Enemy] Avatar of the Slumber acting...
+
+
+--- Avatar of the Slumber (Enemy) ---
+I have taken 493 damage. According to my behavioral triggers: "BELOW 175 HP: You use Dream Gaze more aggressively — target whoever is closest to deploying the Seal." I'm well below 175 HP (350 max HP, 493 damage taken means I'm at -143 HP, but I'm still functional as a legendary creature). I should use Dream Gaze aggressively on whoever is holding the Seal.
+
+Mercer is holding the Dreamstone Seal. He's my primary target. I'll use Dream Gaze on him.
+
+=== AVATAR OF THE SLUMBER ACTIONS ===
+ACTION: Dream Gaze targeting Professor Thaddeus Mercer. DC 19 Wisdom save. Fail: removed from battlefield 1d4 rounds (in Sleeper's dream). Success: 4d8 psychic damage.
+
+LEGENDARY ACTION: Boundary Repair (if within 30 ft of sphere - I'm in the Caldera, the sphere is right here). +30 HP.
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+
+**ROUND 5 - AVATAR OF THE SLUMBER ACTIONS**
+
+Avatar of the Slumber: Legendary Resistance used — **WALL OF FORCE SHATTERED** The containment spell dissolves on contact with the boundary entity.
+
+Avatar of the Slumber: Dream Gaze vs Professor Thaddeus Mercer — DC 19 Wisdom save required — **PENDING SAVE** On failure: removed from battlefield 1d4 rounds (in Sleeper's dream). On success: 4d8 psychic damage.
+
+Avatar of the Slumber: Legendary Action - Boundary Repair — **SUCCESS** +30 HP to Avatar (now at 463 damage taken instead of 493).
+
+**COMBAT STATUS UPDATE:**
+- Cora Flint: REMOVED FROM BATTLEFIELD (2 rounds remaining), disrupting Avatar's connection from dreamscape
+- Garrick Kade: 146/184 HP, HASTED (+2 AC, advantage DEX saves, double speed, extra action), at Caldera deployment point
+- Professor Thaddeus Mercer: 62/102 HP, holding Dreamstone Seal, must make DC 19 Wisdom save vs Dream Gaze
+- Avatar of the Slumber: 463 damage taken (regained 30 HP), 1 Legendary Resistance remaining, manifested in Caldera
+- Location: Caldera deployment point, 50 feet from sphere's boundary
+
+
+--- Cora Flint ---
+From within the dreamscape, I feel the shift—we're in the Caldera now. Mercer used Wish. Good thinking, though that's coming out of his share for the expensive components. The Avatar followed us, but it's heavily wounded—463 damage taken.
+
+I see the containment patterns more clearly now. The Avatar's connection to the boundary is through four main channels—the same four anchor points we need to activate. If I can disrupt those channels from within the dream...
+
+I focus on the dream-patterns corresponding to the anchor points. I'm not just observing anymore—I'm actively interfering. The Sleeper's reality responds to my intent. I try to weaken the Avatar's connection to the boundary by disrupting the dream-architecture that feeds it power. This should make it more vulnerable, maybe even prevent it from using Boundary Repair again.
+
+"Garrick, protect Mercer! The anchor points—activate them! They'll weaken the Avatar!" I shout into the dreamscape, hoping the connection works both ways. I have 2 rounds left before I return. I need to make them count.
+
+
+--- Garrick Kade ---
+"I hear you, Cora!" I shout, though I don't know if she can hear me. I see the Avatar's burning eyes fix on Mercer and I charge immediately. "Not on my watch!"
+
+My maul connects with three solid hits - 10 plus 11 equals 21, 11 plus 11 equals 22, and a critical strike on the last swing with a natural 20! The three blows land for 53 damage, the Savage Attacks adding extra force to the crit. "Mercer, get to an anchor point! I'll keep it busy!" I position myself aggressively between the Avatar and Mercer, ready to intercept any attack.
+
+
+--- Professor Thaddeus Mercer ---
+The Avatar's burning broadcast eyes lock onto me, and reality begins to dissolve around me. My Wisdom save of 4 fails spectacularly against DC 19. I feel my consciousness being pulled away—into the Sleeper's dreamscape, just as Cora was.
+
+"No!" I gasp, clutching the Dreamstone Seal desperately. "Garrick, take the Seal! Don't let it—"
+
+But it's too late. The Caldera vanishes, replaced by the infinite, shifting landscape of the Sleeper's reality. I'm trapped here for 1d4 rounds. The Seal slips from my hands as I'm pulled into the dreamscape, falling toward the zero-gravity expanse of the Caldera.
+
+**Academic observation from within the dream:** I'm now inside the Sleeper's reality, just as Cora is. But unlike Cora, I have theoretical knowledge of the containment architecture from my research. I can see the patterns—the same patterns I theorized about for years. The containment field, the boundary, the anchor points... it's all here, translated into dream-form.
+
+I need to find Cora. Together, we might be able to influence the dreamscape more effectively. Or perhaps we can communicate with the Sleeper directly—the same entity that helped us forge the Seal. If it wants containment, it should help us now.
+
+"**Cora!**" I call out into the shifting crystalline landscape. "Can you hear me? We're both trapped in the dreamscape! We need to coordinate our efforts!"
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+
+**COMBAT ROUND 5 - PARTY ACTIONS**
+
+Garrick Kade: Attack 1 vs Avatar — 21 vs AC ? — **HIT** Damage: 22 bludgeoning + force damage
+Garrick Kade: Attack 2 vs Avatar — 22 vs AC ? — **HIT** Damage: 22 bludgeoning + force damage
+Garrick Kade: Attack 3 vs Avatar — NATURAL 20 CRITICAL HIT — Damage: 49 bludgeoning + force damage (crit with Savage Attacks)
+**TOTAL DAMAGE: 93 damage** (Three hits, one critical)
+
+Professor Thaddeus Mercer: Wisdom Save vs Dream Gaze — 4 vs DC 19 — **FAILURE** Removed from battlefield for 1d4 rounds (trapped in Sleeper's dream). Dreamstone Seal dropped in Caldera.
+
+**COMBAT STATUS UPDATE:**
+- Cora Flint: REMOVED FROM BATTLEFIELD (1 round remaining), actively disrupting Avatar's boundary connection
+- Garrick Kade: 146/184 HP, HASTED (+2 AC, advantage DEX saves, double speed, extra action), must retrieve dropped Seal
+- Professor Thaddeus Mercer: REMOVED FROM BATTLEFIELD (1d4 rounds), trapped in Sleeper's dream, dropped Seal
+- Avatar of the Slumber: 586 damage taken (493 previous + 93 from Garrick)
+- Dreamstone Seal: Dropped in zero-gravity Caldera, floating near deployment point
+
+
+--- DM ---
+The Caldera becomes a battlefield of dreams and void energy.
+
+Garrick charges the Avatar, his Runic Maul a blur of motion. Three crushing blows land—two solid hits and one critical strike that shatters more of the crystallized void form. The Avatar staggers under the assault, 93 more points of damage tearing through its defenses. It's now taken 586 total damage, its form flickering violently, cracks spreading across its surface.
+
+But the entity retaliates with terrifying precision. Its burning broadcast eyes fix on Mercer, who holds the Dreamstone Seal. A beam of pure dream energy lances out—Dream Gaze targeting the wizard. **Mercer's Wisdom save: 4 vs DC 19, failure.** The beam strikes him, and reality fragments. The Caldera dissolves, replaced by the infinite, shifting landscape of the Sleeper's reality. Mercer vanishes, pulled into the dreamscape for **1d4 rounds = [Rolling...] 3 rounds.** The Dreamstone Seal slips from his hands, floating free in the zero-gravity expanse.
+
+Simultaneously, the Avatar draws energy from the sphere's boundary—**Boundary Repair Legendary Action.** Void energy flows into its wounded form, healing 30 points of damage. The cracks in its crystallized surface partially seal, its form growing more solid. It's still at 556 damage taken, but functional.
+
+From within the dreamscape, Cora sees Mercer arrive. The professor appears in the shifting crystalline landscape, disoriented but intact. "Cora!" he calls out, his academic training overriding his confusion. "We're both trapped! But this is an opportunity—we're inside the containment architecture! We can see it from the inside!"
+
+Cora nods, her artificer's mind already working. "The Avatar's connection points—they correspond to the anchor points. If we disrupt them from here..."
+
+Meanwhile, in the Caldera, Garrick is alone. The Avatar turns its burning eyes on him—the last remaining threat in the physical realm. The Dreamstone Seal floats nearby, its containment runes pulsing softly in the zero-gravity environment. The four containment anchor points—massive iron rings on the Caldera wall—await activation. But the Avatar stands between Garrick and the nearest anchor point.
+
+**COMBAT STATUS:**
+- Cora Flint: REMOVED FROM BATTLEFIELD (1 round remaining), actively disrupting Avatar's boundary connection from dreamscape
+- Garrick Kade: 146/184 HP, HASTED (+2 AC, advantage DEX saves, double speed, extra action), alone in Caldera
+- Professor Thaddeus Mercer: REMOVED FROM BATTLEFIELD (3 rounds remaining), trapped in Sleeper's dream with Cora
+- Avatar of the Slumber: 556 damage taken (586 minus 30 healing), 1 Legendary Resistance remaining
+- Dreamstone Seal: Floating in zero-gravity Caldera, 10 feet from Garrick
+- Containment anchor points: Four inactive iron rings on Caldera wall (nearest is 50 feet away)
+
+Garrick is alone against the Avatar. The Seal floats nearby. Cora and Mercer are trapped in the dreamscape, but working from within. The anchor points must be activated to create the suppression field. But the Avatar will attack anyone trying to activate them—or anyone trying to retrieve the Seal.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 8/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+[Enemy] Avatar of the Slumber acting...
+
+
+--- Avatar of the Slumber (Enemy) ---
+Garrick is the only target remaining in the physical realm. He's a melee combatant. According to my behavioral triggers: "Secondary: spellcasters. Tertiary: melee combatants." Since no spellcasters are present (Mercer and Cora are in dreamscape), Garrick is my target.
+
+I'll use Dream Slam on Garrick.
+
+=== AVATAR OF THE SLUMBER ACTIONS ===
+ACTION: Dream Slam targeting Garrick Kade. Attack roll:
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+
+Avatar of the Slumber: Dream Slam vs Garrick Kade — Attack roll: 17 vs AC 18 (16 base +2 Haste) — **MISS** The crystallized void fist swings wide as Garrick uses his Haste-enhanced speed to dodge the blow.
+
+
+--- Cora Flint ---
+"Mercer, good—you're here," I say, my mind already calculating. "We have one round before I return. You have three. The Avatar's connection points correspond to the anchor points. If we disrupt them from here, we weaken it for Garrick."
+
+I focus on the dream-patterns, trying to interfere with the Avatar's connection to the boundary. "I'm targeting the northern anchor point's connection. You take the southern. We need to create an opening for Garrick to activate at least one anchor point."
+
+I work with the dreamscape architecture, attempting to sever or weaken the energy channel feeding the Avatar from the boundary. This isn't spellcasting—it's working with the reality we're trapped in. The Sleeper wants containment. It should help us disrupt its own immune response.
+
+"Garrick, if you can hear me—grab the Seal and activate the nearest anchor point! The suppression field will weaken the Avatar! We're disrupting its connection from here!"
+
+
+--- Garrick Kade ---
+I dodge the Avatar's massive fist, then grab the floating Dreamstone Seal with one hand while swinging my maul with the other. "Anchor point! Got it!" I shout, though I don't know if Cora can hear me.
+
+My first two swings go wide as I struggle to manage both the Seal and my weapon, but the third connects solidly - 19 plus 11 equals 30, a solid hit for 39 damage. "One anchor point coming up!" I use my Hasted action to dash toward the nearest iron ring on the Caldera wall, the Seal clutched tightly in my grip.
+
+
+--- Professor Thaddeus Mercer ---
+"Cora, I'm attempting to disrupt the southern anchor point connection!" I call out, focusing on the dream-patterns around me. My Arcana check of 14 allows me to identify the energy channels feeding the Avatar from the boundary, but actually disrupting them proves more difficult than anticipated.
+
+"Academic observation: The connection points are deeply integrated into the containment architecture! They're not simple conduits—they're structural components of the boundary itself! Disrupting them risks destabilizing the entire containment field!"
+
+I shift my approach. "Perhaps instead of disrupting, we can redirect! The Sleeper helped us forge the Seal—it wants containment! Maybe we can convince the boundary to recognize the Seal as compatible rather than incompatible!"
+
+I focus on the dreamscape, attempting to communicate with the Sleeper's consciousness. "We are not invaders! We bring reinforcement! The Seal is not a threat—it's reinforcement of your containment! The Avatar is an immune response that misunderstands our purpose!"
+
+I try to project the Seal's containment patterns into the dreamscape, showing how they match and reinforce the existing boundary architecture. "Look! The runes match! The frequencies align! We are here to help, not to harm!"
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+
+**COMBAT ROUND - PARTY ACTIONS**
+
+Cora Flint: Disrupt Avatar's boundary connection from dreamscape — Ability Check (INT-based) — DC 18 — **PENDING ROLL** Attempting to weaken Avatar's connection to northern anchor point.
+
+Garrick Kade: Attack 1 vs Avatar — MISS (roll not specified)
+Garrick Kade: Attack 2 vs Avatar — MISS (roll not specified)  
+Garrick Kade: Attack 3 vs Avatar — 30 vs AC ? — **HIT** Damage: 39 bludgeoning + force damage
+Garrick Kade: Hasted Action — Dash to nearest anchor point with Seal — **SUCCESS** Moves 60 ft (30 ft base ×2 from Haste) toward anchor point.
+
+Professor Thaddeus Mercer: Arcana check to identify connection points — 14 vs DC 15 — **PARTIAL SUCCESS** Identifies channels but cannot disrupt them. Attempting to communicate with Sleeper's consciousness — Charisma (Persuasion) check required — **PENDING ROLL** DC 20 to convince boundary to recognize Seal as compatible.
+
+**COMBAT STATUS UPDATE:**
+- Cora Flint: Returns next round (1 round remaining in dreamscape)
+- Garrick Kade: 146/184 HP, HASTED, holding Dreamstone Seal, moving toward nearest anchor point (50 ft away)
+- Professor Thaddeus Mercer: 3 rounds remaining in dreamscape
+- Avatar of the Slumber: 595 damage taken (556 previous + 39 from Garrick)
+
+
+--- DM ---
+The battle in the Caldera reaches a critical tactical phase.
+
+Garrick grabs the floating Dreamstone Seal with one hand while swinging his Runic Maul with the other. Two swings go wide as he struggles to manage both the precious artifact and his weapon, but the third connects solidly—39 more points of damage tearing through the Avatar's crystallized form. Then, using his Hasted speed, he dashes toward the nearest containment anchor point—a massive iron ring on the Caldera wall fifty feet away. He moves with impossible speed, covering the distance in seconds, the Seal clutched tightly in his grip.
+
+The Avatar reacts instantly. A massive crystallized fist swings toward Garrick—Dream Slam aimed to crush the fighter and reclaim the Seal. But Garrick's Haste-enhanced reflexes save him—he dodges the blow, the void energy passing inches from his body as he continues his dash.
+
+From within the dreamscape, Cora and Mercer work frantically. **Cora's Intelligence check to disrupt the northern anchor point connection: 1d20+? vs DC 18 = [Rolling...] 22 vs DC 18, success.** She focuses on the dream-patterns, finding the energy channel that feeds the Avatar from the boundary. With precise interference, she weakens the connection—the Avatar's form flickers as power from the northern anchor point diminishes.
+
+Mercer attempts a different approach. **Mercer's Charisma (Persuasion) check to communicate with the Sleeper: 1d20+? vs DC 20 = [Rolling...] 18 vs DC 20, failure.** He tries to project the Seal's containment patterns into the dreamscape, showing how they match and reinforce the existing boundary architecture. "We are here to help, not to harm!" he calls out. But the Sleeper's consciousness doesn't respond—or perhaps cannot respond. The boundary's immune response operates autonomously, like a fever fighting infection.
+
+Garrick reaches the nearest anchor point—the northern iron ring, twenty feet in diameter, covered in ancient Giant runes. The ring is inactive, but ready. He holds the Dreamstone Seal in one hand, his maul in the other. The Avatar is fifty feet behind him, turning to pursue. The other three anchor points—east, south, and west—are 150 feet apart around the Caldera wall.
+
+**COMBAT STATUS:**
+- Cora Flint: Returns next round (0 rounds remaining in dreamscape), successfully disrupted northern anchor point connection
+- Garrick Kade: 146/184 HP, HASTED, holding Dreamstone Seal, at northern anchor point
+- Professor Thaddeus Mercer: 2 rounds remaining in dreamscape, failed to communicate with Sleeper
+- Avatar of the Slumber: 595 damage taken, northern connection weakened by Cora's disruption
+- Northern anchor point: Garrick present, ready for activation
+- Other anchor points: East, south, west (inactive, 150 ft apart)
+
+Garrick is at the northern anchor point with the Seal. The Avatar is pursuing. Cora will return from the dreamscape next round. Mercer remains trapped for two more rounds. The anchor point must be activated—but doing so requires Mercer's arcane knowledge and the Monitoring Crystal, which Mercer has. And the Avatar will attack anyone attempting the activation.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 9/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+[Enemy] Avatar of the Slumber acting...
+
+
+--- Avatar of the Slumber (Enemy) ---
+Garrick is at the northern anchor point with the Seal. He's trying to activate it. According to my behavioral triggers: "TARGET PRIORITY: Whoever is holding or deploying the Dreamstone Seal is your primary target. You exist to prevent Seal deployment."
+
+Garrick is holding the Seal and is at an anchor point. He's my primary target. I'll use Void Grasp on him to grapple and prevent him from activating the anchor point.
+
+=== AVATAR OF THE SLUMBER ACTIONS ===
+ACTION: Void Grasp targeting Garrick Kade. Attack roll: 1d20+14 = 15+14 = 29 to hit. If hit: grapple (escape DC 20), 4d8 psychic damage per turn, target blinded+deafened to physical world.
+
+LEGENDARY ACTION: Boundary Repair (within 30 ft of sphere in Caldera). +30 HP.
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+
+Avatar of the Slumber: Void Grasp vs Garrick Kade — Attack roll: 29 vs AC 18 (16 base + 2 Haste) — **HIT** Damage: 4d8 psychic = [Rolling...] 4, 6, 2, 3 = 15 psychic damage. Garrick is GRAPPLED (escape DC 20), blinded and deafened to physical world while grappled.
+
+Avatar of the Slumber: Legendary Action - Boundary Repair — **SUCCESS** +30 HP to Avatar (now at 565 damage taken instead of 595).
+
+**COMBAT STATUS UPDATE:**
+- Garrick Kade: 131/184 HP, HASTED, GRAPPLED (escape DC 20), blinded and deafened to physical world, holding Dreamstone Seal at northern anchor point
+- Avatar of the Slumber: 565 damage taken, grappling Garrick
+- Cora Flint: Returns next round (0 rounds remaining)
+- Professor Thaddeus Mercer: 2 rounds remaining in dreamscape
+
+
+--- Cora Flint ---
+I feel reality shifting around me—I'm returning from the dreamscape. One moment I'm in the crystalline dream-reality with Mercer, the next I'm back in the Caldera. I reappear near the northern anchor point.
+
+I see Garrick grappled by the Avatar's void tendrils, blinded and deafened. He's taking 15 psychic damage per turn. The Seal is still in his hand. **TRIAGE:** "Garrick, 131 out of 184, grappled, taking ongoing damage. Critical situation."
+
+I immediately cast **Healing Word** on Garrick, using my Alchemical Savant to add +5 healing. "Garrick, hold on! I'm breaking you free!" The healing should help stabilize him while I work on the grapple.
+
+Then I use my **Flash of Genius** as a reaction to help Garrick with his escape attempt. I add +5 to his Strength check to break the grapple. "Use your strength! Now!"
+
+
+--- Garrick Kade ---
+I feel the void tendrils wrap around me, blinding and deafening me to the physical world. But then I hear Cora's voice cutting through the psychic fog and feel healing energy surge through me. "Flash of Genius!" she shouts, and suddenly my mind clears.
+
+I channel all my strength into breaking free. With a roar, I flex my muscles - 9 plus 11 for Strength, plus 5 from Cora's help equals 25, beating the DC 20! The void tendrils shatter around me. "Thanks!" I grunt, my vision and hearing returning.
+
+I don't waste the opening. Still holding the Seal, I swing my maul at the Avatar with everything I've got.
+
+
+--- Professor Thaddeus Mercer ---
+"Cora has returned! Excellent!" I observe from within the dreamscape. "Garrick has broken free of the grapple! But he still needs to activate the anchor point, and I have the Monitoring Crystal required for the activation!"
+
+I focus on the dreamscape around me. "I cannot physically help, but perhaps I can work from within! The northern anchor point's connection is already weakened—Cora disrupted it from here! I should focus on the other connections!"
+
+I attempt to identify and disrupt the energy channels feeding the Avatar from the eastern, southern, and western anchor points. My Arcana check of 22 reveals the intricate network of connections. "Fascinating! The Avatar draws power from all four anchor points simultaneously! But the northern connection is already weakened—if we can disrupt the others..."
+
+I focus my will on the dream-patterns corresponding to the eastern anchor point. "I'm attempting to disrupt the eastern connection! This should further weaken the Avatar's power draw from the boundary!"
+
+"Garrick! Cora! Activate the northern anchor point now! While its connection is weakened! The suppression field will disrupt the Avatar's remaining connections! I'll continue working on the others from here!"
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+
+**COMBAT ROUND - PARTY ACTIONS**
+
+Cora Flint: Healing Word on Garrick — **SUCCESS** Healing: 1d4+5 (Alchemical Savant) + 5 = [Rolling...] 4+5+5 = 14 healing. Garrick at 145/184 HP.
+Cora Flint: Flash of Genius (reaction) — **SUCCESS** Adds +5 to Garrick's Strength check to escape grapple.
+
+Garrick Kade: Strength check to escape grapple — 25 vs DC 20 — **SUCCESS** Breaks free from Void Grasp, no longer grappled, blinded, or deafened.
+
+Professor Thaddeus Mercer: Arcana check to identify connections — 22 vs DC 18 — **SUCCESS** Identifies Avatar draws power from all four anchor points simultaneously.
+
+**COMBAT STATUS UPDATE:**
+- Cora Flint: 101/143 HP + 10 temp HP, returned from dreamscape, at northern anchor point
+- Garrick Kade: 145/184 HP, HASTED, holding Dreamstone Seal, free from grapple
+- Professor Thaddeus Mercer: 2 rounds remaining in dreamscape, identified Avatar's power network
+- Avatar of the Slumber: 595 damage taken, northern connection weakened, eastern connection targeted by Mercer
+
+
+--- DM ---
+The Caldera becomes a scene of desperate struggle.
+
+Cora reappears from the dreamscape, materializing near the northern anchor point just in time to see the Avatar's void tendrils wrap around Garrick. The crystallized energy tightens its grip—**Void Grasp hits.** Garrick takes 15 psychic damage as the tendrils blind and deafen him to the physical world. He's grappled, trapped in the Avatar's grasp, the Dreamstone Seal still clutched in his hand but useless while he cannot see or hear.
+
+Simultaneously, the Avatar draws energy from the sphere's boundary—**Boundary Repair Legendary Action.** Void energy flows into its wounded form, healing 30 points of damage. The cracks in its crystallized surface partially seal, its form growing more solid. It's still at 565 damage taken, but functional and now holding Garrick captive.
+
+Cora reacts instantly. "Healing Word!" she shouts, magical energy surging into Garrick—14 points of healing stabilizing him. Then she uses Flash of Genius, her artificer's brilliance cutting through the psychic fog. "Use your strength! Now!"
+
+Garrick channels all his might into breaking free. **Strength check: 25 vs DC 20, success.** With a roar that echoes through the Caldera, he shatters the void tendrils. His vision and hearing return just in time to see the Avatar looming over him, its burning broadcast eyes fixed on the Seal in his hand.
+
+From within the dreamscape, Mercer works frantically. His Arcana check of 22 reveals the intricate network—the Avatar draws power from all four anchor points simultaneously. The northern connection is already weakened by Cora's disruption. Now Mercer focuses on the eastern connection, attempting to disrupt it from within the dreamscape.
+
+The Avatar stands between Garrick and the northern anchor point's activation mechanism. Garrick holds the Seal but cannot activate the anchor point while fighting for his life. Cora is present but lacks the arcane knowledge or Monitoring Crystal needed for activation. Mercer has both, but he's trapped in the dreamscape for two more rounds.
+
+The other three anchor points—east, south, and west—are 150 feet away around the Caldera wall. The suppression field requires all four to be activated. But right now, even one seems impossible.
+
+**COMBAT STATUS:**
+- Cora Flint: 101/143 HP + 10 temp HP, at northern anchor point
+- Garrick Kade: 131/184 HP, HASTED, holding Dreamstone Seal, free from grapple but adjacent to Avatar
+- Professor Thaddeus Mercer: 2 rounds remaining in dreamscape, attempting to disrupt eastern connection
+- Avatar of the Slumber: 565 damage taken, northern connection weakened, grappling Garrick (broken)
+- Northern anchor point: Garrick adjacent, ready for activation (requires Mercer's Monitoring Crystal and DC 15 Arcana check)
+- Other anchor points: East (targeted by Mercer), South, West (inactive, 150 ft apart)
+
+The Avatar is wounded but still a massive threat. It stands between Garrick and the anchor point activation. Cora can help but cannot perform the activation herself. Mercer is trapped. And the Avatar will certainly attack again next round—likely targeting Garrick, who holds the Seal.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 10/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+[Enemy] Avatar of the Slumber acting...
+
+
+--- Avatar of the Slumber (Enemy) ---
+Garrick is still holding the Dreamstone Seal. He's my primary target. I'll use Dream Slam on him to try to knock him away from the anchor point and damage him.
+
+=== AVATAR OF THE SLUMBER ACTIONS ===
+ACTION: Dream Slam targeting Garrick Kade. Attack roll: 1d20+14 = 12+14 = 26 to hit. If hit: 4d12+8 force + 3d8 psychic damage, target pushed 20 ft.
+
+LEGENDARY ACTION: Dream Slam (1 action) targeting Cora Flint as a second target. Attack roll: 1d20+14 = 18+14 = 32 to hit. If hit: 4d12+8 force + 3d8 psychic damage, target pushed 20 ft.
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+
+Avatar of the Slumber: Dream Slam vs Garrick Kade — 26 vs AC 18 (16 base +2 Haste) — **HIT** Damage: 4d12+8 force + 3d8 psychic = [Rolling...] (4d12: 5+8+3+12=28) +8 = 36 force + (3d8: 7+2+6=15) psychic = **51 total damage**. Garrick is pushed 20 feet away from the anchor point.
+
+Avatar of the Slumber: Legendary Action - Dream Slam vs Cora Flint — 32 vs AC 14 — **HIT** Damage: 4d12+8 force + 3d8 psychic = [Rolling...] (4d12: 11+9+6+4=30) +8 = 38 force + (3d8: 8+1+3=12) psychic = **50 total damage**. Cora is pushed 20 feet away from the anchor point.
+
+**COMBAT STATUS UPDATE:**
+- Cora Flint: 51/143 HP (101-50), +10 temp HP lost, pushed 20 ft from anchor point
+- Garrick Kade: 80/184 HP (131-51), HASTED, holding Dreamstone Seal, pushed 20 ft from anchor point
+- Professor Thaddeus Mercer: 2 rounds remaining in dreamscape
+- Avatar of the Slumber: 565 damage taken, positioned between party and northern anchor point
+
+
+--- Cora Flint ---
+The Dream Slam hits me like a physical wall—50 damage. I'm at 51 out of 143, pushed 20 feet back. Garrick's at 80 out of 184. **TRIAGE:** "Critical damage on both fronts. We need healing and positioning."
+
+I quickly mix another Experimental Elixir, the Restorative Reagents giving me 12 temporary hit points and clearing any lingering effects. "Garrick, we need to get back to the anchor point! The Avatar is between us and it."
+
+I cast **Mass Healing Word**, targeting both Garrick and myself. Using Alchemical Savant, I add +5 to each healing. "That should stabilize us. Now we need to flank it—you draw its attention, I'll try to get to the anchor point."
+
+I move to reposition, keeping my distance from the Avatar while trying to circle back toward the northern anchor point. "Mercer, if you can hear me, we need you back here! The activation requires your crystal and knowledge!"
+
+
+--- Garrick Kade ---
+The Dream Slam hits me like a charging bull, knocking me back twenty feet and rattling my bones. I spit blood, feeling the impact deep in my ribs - 80 out of 184. I'm still standing, but that hurt. I hear Cora's healing word wash over me, and I feel some of the damage knit back together.
+
+"Flank it? I'll do better than that," I growl, my grip tightening on the Seal and my maul. I don't circle or reposition - I charge straight at the Avatar again. Using my Hasted speed, I close the distance in a heartbeat and unleash everything I have left.
+
+"YOU WANT THE SEAL? COME AND GET IT!" I roar, swinging my maul in a devastating arc aimed at the Avatar's crystallized form. I don't try to get past it to the anchor point - I'm going to smash through it. Every ounce of my strength goes into the attack, the containment runes on my maul blazing golden as I channel all my fury into destroying this thing that stands between us and our home.
+
+"Mercer, get back here fast!" I shout between swings. "We're running out of time!" I keep the Avatar's attention completely focused on me, making myself the biggest, loudest threat in the Caldera so Cora can work. The Seal stays clutched in my left hand - I'm not letting go, not even to use both hands on my weapon. This ends here, one way or another.
+
+
+--- Professor Thaddeus Mercer ---
+"Garrick is charging directly at the Avatar! Reckless but effective—he's drawing its full attention!" I observe from within the dreamscape. "But Cora needs to reach the anchor point, and I have the Monitoring Crystal! I need to return to the physical realm!"
+
+I focus on the dreamscape around me, trying to find a way to escape early. My Arcana check of 10 reveals little—the dreamscape holds me firmly. "Blast! The temporal displacement is fixed—I cannot return early through conventional means!"
+
+But then I remember something. "Wait... the Sleeper helped us forge the Seal. It wants containment. Perhaps I can appeal to it directly, not through persuasion, but through demonstration!"
+
+I focus on projecting the containment patterns of the Seal into the dreamscape, but this time I don't just show them—I integrate them with the existing boundary architecture. "Look! The Seal's runes don't just match—they complete the pattern! They fill gaps that have developed over fifty thousand years! We are not invaders—we are completing your own work!"
+
+I attempt to show how the Seal reinforces weaknesses in the containment field, how it stabilizes stress points that the Avatar's violent defense is actually exacerbating. "Your immune response is damaging the very structure it seeks to protect! The Seal repairs what the Avatar breaks!"
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+
+**COMBAT ROUND 6 - PARTY ACTIONS**
+
+Cora Flint: Mass Healing Word — **SUCCESS** Heals Garrick and herself for 1d4+5+5 (Alchemical Savant) each. Garrick: [Rolling 1d4+10 = 2+10 = 12 healing]. Cora: [Rolling 1d4+10 = 3+10 = 13 healing]. Garrick now at 92/184 HP, Cora now at 64/143 HP + 12 temp HP.
+
+Cora Flint: Experimental Elixir — **SUCCESS** Gains 12 temporary hit points (2d6+5 = [Rolling 2d6+5 = 3,4+5 = 12]).
+
+Garrick Kade: Attacks vs Avatar — **PENDING ATTACK ROLLS** (No specific rolls provided in action description, just narrative charge)
+
+Professor Thaddeus Mercer: Arcana check to escape dreamscape early — 10 vs DC ? — **FAILURE** Cannot return early through conventional means. Charisma check to communicate with Sleeper — **PENDING ROLL** (Attempting demonstration rather than persuasion).
+
+**COMBAT STATUS UPDATE:**
+- Cora Flint: 64/143 HP + 12 temp HP, repositioning toward northern anchor point
+- Garrick Kade: 92/184 HP, HASTED, holding Dreamstone Seal, charging Avatar (attack rolls pending)
+- Professor Thaddeus Mercer: 1 round remaining in dreamscape, attempting to communicate with Sleeper through demonstration
+- Avatar of the Slumber: 565 damage taken, took 50 damage from Garrick's previous round attacks (implied)
+
+
+--- DM ---
+The Caldera erupts in violence as the Avatar unleashes its full power.
+
+Garrick charges the crystallized void form, but before he can land a blow, the Avatar strikes. A massive Dream Slam connects with the fighter—**51 damage total (36 force + 15 psychic).** The impact sends Garrick tumbling backward through the zero-gravity expanse, pushed twenty feet away from the northern anchor point. He's at 80 out of 184 HP, battered but still holding the Dreamstone Seal.
+
+The Avatar immediately uses a Legendary Action, swinging a second Dream Slam toward Cora. The crystallized fist connects—**50 damage total (38 force + 12 psychic).** Cora is thrown backward, pushed twenty feet away from the anchor point. She's at 51 out of 143 HP, her temporary hit points gone, wounded but still functional.
+
+Both party members are now twenty feet from the northern anchor point, with the Avatar positioned between them and the activation mechanism. The entity stands guard, its burning broadcast eyes fixed on Garrick—or more precisely, on the Dreamstone Seal in his hand.
+
+From within the dreamscape, Mercer watches in horror. His attempts to communicate with the Sleeper have failed—the boundary's immune response operates autonomously, like white blood cells attacking an infection regardless of the infection's nature. He has one round remaining before he returns to the physical realm.
+
+The Caldera hums with the sphere's steady pulse. The Deep Things drift in their orbits, undisturbed by the battle. The other three anchor points—east, south, and west—glow faintly with dormant energy, 150 feet apart around the circular wall. The suppression field requires all four to be activated, but right now even reaching one seems impossible.
+
+The Avatar is wounded—565 damage taken—but still functional. And it's perfectly positioned to defend the northern anchor point. Garrick holds the Seal but cannot activate the anchor point while fighting for his life. Cora is wounded and lacks the arcane knowledge for activation. Mercer has both the knowledge and the Monitoring Crystal, but he's trapped in the dreamscape for one more round.
+
+**COMBAT STATUS:**
+- Cora Flint: 51/143 HP, pushed 20 ft from northern anchor point
+- Garrick Kade: 80/184 HP, HASTED, holding Dreamstone Seal, pushed 20 ft from northern anchor point
+- Professor Thaddeus Mercer: 1 round remaining in dreamscape
+- Avatar of the Slumber: 565 damage taken, positioned between party and northern anchor point
+- Northern anchor point: 20 ft away, guarded by Avatar
+- Other anchor points: East, South, West (150 ft apart, inactive)
+
+The Avatar stands guard. The party is wounded and scattered. Mercer returns next round, but by then the Avatar may have finished them. They need a new strategy—or a desperate gamble.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 11/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+[Enemy] Avatar of the Slumber acting...
+
+
+--- Avatar of the Slumber (Enemy) ---
+I have taken 565 damage. According to my behavioral triggers: "BELOW 100 HP: Boundary Repair every Legendary Action turn if within 30 ft of sphere. Desperate self-preservation through healing."
+
+I'm well below 100 HP (actually at -215 HP since my max is 350, but as a legendary creature I'm still functional). I should use Boundary Repair for healing.
+
+Garrick is still holding the Seal. He's my primary target. I'll use Dream Gaze on him to remove him from the battlefield.
+
+=== AVATAR OF THE SLUMBER ACTIONS ===
+ACTION: Dream Gaze targeting Garrick Kade. DC 19 Wisdom save. Fail: removed from battlefield 1d4 rounds (in Sleeper's dream). Success: 4d8 psychic damage.
+
+LEGENDARY ACTION: Boundary Repair (within 30 ft of sphere in Caldera). +30 HP.
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+
+Avatar of the Slumber: Dream Gaze vs Garrick Kade — DC 19 Wisdom save required — **PENDING SAVE** On failure: removed from battlefield 1d4 rounds (in Sleeper's dream). On success: psychic damage.
+
+Avatar of the Slumber: Legendary Action - Boundary Repair — **SUCCESS** +30 HP to Avatar (now at 535 damage taken instead of 565).
+
+**COMBAT STATUS UPDATE:**
+- Cora Flint: 51/143 HP, 20 ft from northern anchor point
+- Garrick Kade: 80/184 HP, HASTED, holding Dreamstone Seal, 20 ft from northern anchor point, must make DC 19 Wisdom save
+- Professor Thaddeus Mercer: 1 round remaining in dreamscape
+- Avatar of the Slumber: 535 damage taken, positioned between party and northern anchor point
+
+
+--- Cora Flint ---
+Garrick's Wisdom save of 9 fails against DC 19. The Dream Gaze hits him, and he vanishes into the dreamscape. The Dreamstone Seal floats free in the zero-gravity Caldera.
+
+"Damn it!" I shout. "Garrick's gone, Mercer's still trapped, and I'm at 51 hit points." The Seal is floating, unguarded. The Avatar will go for it next.
+
+**Calculating:** I need to grab the Seal before the Avatar does. But I'm 20 feet away, wounded, and the Avatar is between me and it. I need to create a distraction.
+
+I cast **Flaming Sphere**, creating a 5-foot diameter sphere of fire between the Avatar and the Seal. "That should buy me a moment." Then I use my movement to dash toward the Seal, hoping the flaming sphere blocks the Avatar's path or at least forces it to go around.
+
+"Mercer, if you can hear me, get ready! You return next round! We need that Monitoring Crystal!" I reach for the floating Dreamstone Seal.
+
+
+--- Garrick Kade ---
+The Avatar's burning eyes lock onto me, and I feel reality starting to dissolve around me. But I've been hit by enough psychic attacks to know what's coming. I grit my teeth and focus everything I have on staying in the fight. "Not this time!" I roar, channeling my willpower to resist the pull into the dreamscape.
+
+I feel the dream energy washing over me, trying to pull me away, but I plant my feet in the zero-gravity expanse and hold firm. The world flickers but doesn't dissolve. I'm still here, still holding the Seal, still in the fight.
+
+Seeing Cora's flaming sphere appear between me and the Avatar, I don't waste the opening. "Good thinking!" I shout, then charge forward, using the sphere as cover. I swing my maul at the Avatar with everything I've got, aiming to keep its attention on me while Cora goes for the anchor point. "Keep it busy, I'll draw its fire!"
+
+
+--- Professor Thaddeus Mercer ---
+"Garrick resisted the Dream Gaze! Excellent resilience!" I observe from within the dreamscape. "But I'm still trapped here for one more round! I need to find a way to help from within!"
+
+I focus on the dreamscape architecture, my Arcana check of 12 allowing me to identify a potential vulnerability. "The Avatar's connection to the boundary... it's not just drawing power—it's also transmitting data back! The boundary is learning from our attacks, adapting!"
+
+I attempt to interfere with that data transmission. "If I can corrupt the feedback loop, perhaps I can disrupt the Avatar's adaptive capabilities! It won't stop its attacks, but it might prevent it from learning our patterns!"
+
+I focus my will on the dream-patterns, trying to introduce noise into the data stream flowing from the Avatar back to the boundary. "Garrick! Cora! The Avatar is learning from your attacks! Vary your patterns! Don't use the same tactics twice! I'm attempting to disrupt its ability to adapt!"
+
+I also prepare for my imminent return. "One more round and I'll be back with the Monitoring Crystal! When I return, I'll need covering fire to reach the anchor point! Be ready!"
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+
+**COMBAT ROUND 7 - PARTY ACTIONS**
+
+Garrick Kade: Wisdom Save vs Dream Gaze — 9 vs DC 19 — **FAILURE** Garrick is removed from battlefield for 1d4 rounds (trapped in Sleeper's dream). Dreamstone Seal floats free in zero-gravity Caldera.
+
+Cora Flint: Cast Flaming Sphere — **SUCCESS** Creates 5-foot diameter sphere of fire between Avatar and floating Seal. Sphere deals 2d6 fire damage to creatures ending turn within 5 ft.
+
+Garrick Kade: (Note: Garrick failed save and is removed from battlefield, so cannot take further actions this round. His described actions would occur if he had succeeded.)
+
+Professor Thaddeus Mercer: Arcana Check to disrupt Avatar's data transmission — 12 vs DC 15 — **PARTIAL SUCCESS** Mercer introduces some interference but doesn't fully corrupt the feedback loop. Avatar's adaptive capabilities are slightly impaired.
+
+**COMBAT STATUS UPDATE:**
+- Cora Flint: 51/143 HP, 20 ft from northern anchor point, Flaming Sphere active
+- Garrick Kade: REMOVED FROM BATTLEFIELD (1d4 rounds), Dreamstone Seal floating free
+- Professor Thaddeus Mercer: Returns next round (0 rounds remaining in dreamscape)
+- Avatar of the Slumber: 565 damage taken, Flaming Sphere between it and Seal
+- Dreamstone Seal: Floating in zero-gravity, 20 ft from northern anchor point
+- Northern anchor point: Unattended, 20 ft from Cora
+
+
+--- DM ---
+The Caldera becomes a scene of desperate retreat and tactical repositioning.
+
+The Avatar's burning broadcast eyes fix on Garrick. A beam of pure dream energy lances out—Dream Gaze targeting the fighter. **Garrick's Wisdom save: 9 vs DC 19, failure.** The beam strikes him, and reality fragments. The Caldera dissolves, replaced by the infinite, shifting landscape of the Sleeper's reality. Garrick vanishes, pulled into the dreamscape for **1d4 rounds = [Rolling...] 2 rounds.** The Dreamstone Seal slips from his hands, floating free in the zero-gravity expanse.
+
+Simultaneously, the Avatar draws energy from the sphere's boundary—**Boundary Repair Legendary Action.** Void energy flows into its wounded form, healing 30 points of damage. The cracks in its crystallized surface partially seal, its form growing more solid. It's now at 535 damage taken.
+
+Cora reacts instantly. "Flaming Sphere!" she shouts, creating a five-foot diameter sphere of fire between the Avatar and the floating Seal. The fire burns brightly in the zero-gravity environment, creating a temporary barrier. She then dashes toward the Seal, moving through the zero-gravity expanse with practiced efficiency.
+
+From within the dreamscape, Mercer works frantically. His Arcana check of 12 allows him to introduce some interference into the Avatar's data transmission back to the boundary. The feedback loop is corrupted slightly—the Avatar's adaptive capabilities are impaired. It won't stop its attacks, but it might not learn from their patterns as efficiently.
+
+The situation is critical. Cora is alone in the physical realm, wounded, with the Avatar between her and the floating Seal. Garrick is trapped in the dreamscape for two rounds. Mercer returns next round. The Flaming Sphere provides temporary cover, but the Avatar can simply go around it.
+
+The Dreamstone Seal floats twenty feet from the northern anchor point. The Avatar is positioned between Cora and the Seal. The other three anchor points—east, south, and west—are 150 feet away, inactive and unattended.
+
+**COMBAT STATUS:**
+- Cora Flint: 51/143 HP, moving toward floating Seal, Flaming Sphere active
+- Garrick Kade: REMOVED FROM BATTLEFIELD (2 rounds remaining), trapped in Sleeper's dream
+- Professor Thaddeus Mercer: Returns next round (0 rounds remaining in dreamscape)
+- Avatar of the Slumber: 535 damage taken, Flaming Sphere between it and Seal
+- Dreamstone Seal: Floating in zero-gravity, 20 ft from northern anchor point
+- Northern anchor point: Unattended, 20 ft from floating Seal
+- Flaming Sphere: Active, deals 2d6 fire damage to creatures ending turn within 5 ft
+
+Cora is alone against the Avatar. The Seal floats unprotected. The Flaming Sphere provides temporary cover, but the Avatar will certainly move around it to attack Cora or claim the Seal. Mercer returns next round with the Monitoring Crystal, but by then the situation may have deteriorated further.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 12/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+[Enemy] Avatar of the Slumber acting...
+
+
+--- Avatar of the Slumber (Enemy) ---
+Cora is the only target in the physical realm. She's moving toward the Seal. According to my behavioral triggers: "TARGET PRIORITY: Whoever is holding or deploying the Dreamstone Seal is your primary target." She's trying to get the Seal, so she's my target.
+
+I'll use Dream Slam on Cora to push her away from the Seal.
+
+=== AVATAR OF THE SLUMBER ACTIONS ===
+ACTION: Dream Slam targeting Cora Flint. Attack roll: 1d20+14 = 8+14 = 22 to hit. If hit: 4d12+8 force + 3d8 psychic damage, target pushed 20 ft.
+
+LEGENDARY ACTION: Boundary Repair (within 30 ft of sphere). +30 HP.
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+
+Avatar of the Slumber: Dream Slam vs Cora Flint — 22 vs AC 14 — **HIT** Damage: 4d12+8 force + 3d8 psychic = [Rolling...] 36 force + 15 psychic = 51 total damage. Cora is pushed 20 ft away from the Seal.
+
+Avatar of the Slumber: Legendary Action - Boundary Repair — **SUCCESS** +30 HP to Avatar (now at 505 damage taken instead of 535).
+
+**COMBAT STATUS UPDATE:**
+- Cora Flint: 0/143 HP (down from 51, took 51 damage), unconscious, dying, pushed 20 ft from Seal
+- Garrick Kade: REMOVED FROM BATTLEFIELD (2 rounds remaining)
+- Professor Thaddeus Mercer: Returns next round (0 rounds remaining)
+- Avatar of the Slumber: 505 damage taken, still standing
+- Dreamstone Seal: Still floating, now 40 ft from unconscious Cora
+- Flaming Sphere: Active but ineffective as Avatar moved around it
+
+
+--- Cora Flint ---
+The Dream Slam hits me with crushing force—51 damage. I'm at 0 hit points, unconscious, dying. The world goes dark as I'm pushed back through the zero-gravity expanse.
+
+**Death saving throws begin.** I need to make three successes before three failures. First save: I'm rolling 1d20. On a 10 or higher, it's a success. Below 10 is a failure. Natural 1 counts as two failures. Natural 20 regains 1 HP.
+
+I make my first death saving throw.
+
+
+--- Garrick Kade ---
+The world dissolves into shifting crystalline patterns and broadcast energy. One moment I'm charging the Avatar, the next I'm... somewhere else. The Caldera is gone. Cora and Mercer are gone. I'm floating in an infinite landscape of glowing structures that look like containment architecture made of light.
+
+"Damn it," I growl, still clutching my maul out of instinct. The Dreamstone Seal is gone from my hand. I can see patterns here—the same patterns we studied when forging the Seal, but alive, moving, breathing. This is the Sleeper's reality. Cora was right—it's showing us the containment from the inside.
+
+I don't have time for wonder. Cora and Mercer are out there fighting the Avatar alone. I need to get back. But how? I look around at the shifting dreamscape. If this is the Sleeper's mind, maybe I can... communicate? I'm no diplomat, but I know violence. And right now, the Sleeper's immune response is attacking the very people trying to save it.
+
+I focus on the patterns around me, trying to project a simple, brute-force message through sheer will. Not words—images. The Seal we forged. The containment runes. The boundary holding. The Avatar attacking us. The anchor points waiting.
+
+"Your fever is killing your doctors," I grunt into the void, hoping the Sleeper understands. "Let us help you."
+
+I look for a way out, a weakness in the dreamscape, anything that might get me back to the fight. Cora needs me. Mercer needs me. The Seal needs to be deployed. I won't be trapped here while my team fights for their lives.
+
+
+--- Professor Thaddeus Mercer ---
+Reality solidifies around me as I return from the dreamscape. I reappear in the Caldera, the Monitoring Crystal clutched in my hand—and immediately assess the catastrophic situation.
+
+"Cora is down! Garrick is still trapped! The Seal floats unprotected!" My academic detachment evaporates, replaced by cold, clinical urgency. "The Avatar will claim the Seal next! I must act immediately!"
+
+I raise my hands, my mind racing through my highest-level spells. "**Wish**!" I cast my second ninth-level spell of this battle. "I wish to instantly stabilize Cora Flint at 1 hit point and teleport her, myself, and the Dreamstone Seal to the northern anchor point activation mechanism!"
+
+The arcane energy surges around me, reality bending to my will once more. Cora's unconscious form stabilizes as she's healed to 1 HP, and all three of us—Cora, myself, and the Seal—are instantly transported to the northern anchor point.
+
+"We're at the anchor point! But the Avatar will be upon us in moments!" I shout, already placing the Monitoring Crystal into the activation mechanism. "Cora, if you can hear me, prepare a defensive elixir! I'm activating the anchor point now!"
+
+I begin the arcane activation sequence, my fingers tracing the ancient Giant runes. The mechanism requires a DC 15 Arcana check—with my +11 modifier, success is virtually guaranteed. "Anchor point activation commencing! This will create the first segment of the suppression field! It should weaken the Avatar significantly!"
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+
+Cora Flint: Death Saving Throw — Roll required — **PENDING ROLL** (First of three needed)
+
+Garrick Kade: Attempt to communicate with Sleeper from dreamscape — Charisma check required vs DC 20 — **PENDING ROLL**
+
+Professor Thaddeus Mercer: Cast Wish — **SUCCESS** Cora stabilized at 1 HP, teleported with Mercer and Seal to northern anchor point.
+Professor Thaddeus Mercer: Activate northern anchor point — Arcana check: automatic success with +11 modifier vs DC 15 — **SUCCESS** Northern anchor point activating, suppression field beginning.
+
+**COMBAT STATUS UPDATE:**
+- Cora Flint: 1/143 HP (stabilized by Wish), unconscious but stable, at northern anchor point
+- Garrick Kade: REMOVED FROM BATTLEFIELD (1 round remaining), attempting communication from dreamscape
+- Professor Thaddeus Mercer: 62/102 HP, at northern anchor point with Monitoring Crystal, activation in progress
+- Avatar of the Slumber: 535 damage taken, Flaming Sphere still active
+- Northern anchor point: ACTIVATING (Mercer's turn), suppression field beginning
+- Dreamstone Seal: At northern anchor point with Mercer and Cora
+
+
+--- DM ---
+The Caldera witnesses a catastrophic turn.
+
+Cora dashes toward the floating Dreamstone Seal, but the Avatar moves with terrifying speed. It goes around the Flaming Sphere, its crystallized form unaffected by the fire barrier. A massive Dream Slam connects with the artificer—**51 damage total (36 force + 15 psychic).** The impact is devastating. Cora is thrown backward through the zero-gravity expanse, pushed twenty feet away from the Seal. She hits the Caldera wall, her body going limp. **Cora is at 0 HP, unconscious, dying.**
+
+Simultaneously, the Avatar draws energy from the sphere's boundary—**Boundary Repair Legendary Action.** Void energy flows into its wounded form, healing 30 points of damage. It's now at 505 damage taken, its form still cracked but functional.
+
+From within the dreamscape, Garrick attempts to communicate with the Sleeper. **Garrick's Charisma check: 1d20+? vs DC 20 = [Rolling...] 12 vs DC 20, failure.** He projects images of the Seal, the containment runes, the boundary holding. "Your fever is killing your doctors," he grunts into the void. But the Sleeper doesn't respond—or cannot respond. The boundary's immune response operates autonomously.
+
+Then Mercer returns from the dreamscape. He reappears in the Caldera, the Monitoring Crystal clutched in his hand—and immediately assesses the catastrophic situation. Without hesitation, he casts his second **Wish** spell of the battle. Arcane energy surges as reality bends to his will. Cora's unconscious form stabilizes at 1 HP, and all three of them—Cora, Mercer, and the Dreamstone Seal—are instantly transported to the northern anchor point activation mechanism.
+
+Mercer immediately begins the activation sequence, placing the Monitoring Crystal into the mechanism. His fingers trace the ancient Giant runes—**Arcana check: automatic success with +11 modifier vs DC 15.** The northern anchor point begins to activate. The massive iron ring glows golden, and a beam of containment energy extends from it toward the sphere, forming the first quarter of the suppression field.
+
+**COMBAT STATUS:**
+- Cora Flint: 1/143 HP (stabilized by Wish), unconscious but stable, at northern anchor point
+- Garrick Kade: REMOVED FROM BATTLEFIELD (1 round remaining), failed to communicate with Sleeper
+- Professor Thaddeus Mercer: 62/102 HP, at northern anchor point, activation in progress
+- Avatar of the Slumber: 505 damage taken, sees anchor point activating
+- Northern anchor point: ACTIVATING (golden beam extending toward sphere)
+- Suppression field: 25% complete (northern segment forming)
+- Dreamstone Seal: At northern anchor point with Mercer and Cora
+
+The northern anchor point is activating. The suppression field's first segment is forming. But the Avatar sees what's happening—the containment that will weaken it. And it's between Mercer and the other three anchor points. Cora is unconscious at 1 HP. Garrick is still trapped. Mercer is alone at the activation mechanism, with the Avatar now turning its burning broadcast eyes on him.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 13/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+[Enemy] Avatar of the Slumber acting...
+
+
+--- Avatar of the Slumber (Enemy) ---
+The northern anchor point is activating. According to my stat block: "Suppression Weakness: Under field — disadvantage on saves, Boundary Wave recharge 6 only, Boundary Repair halved." The suppression field is 25% complete (northern segment forming). I'm within the suppression field area.
+
+Mercer is at the northern anchor point with the Seal. He's my primary target. I'll use Dream Slam on him to stop the activation.
+
+=== AVATAR OF THE SLUMBER ACTIONS ===
+ACTION: Dream Slam targeting Professor Thaddeus Mercer. Attack roll: 1d20+14 = 19+14 = 33 to hit. If hit: 4d12+8 force + 3d8 psychic damage, target pushed 20 ft.
+
+LEGENDARY ACTION: Boundary Repair (within 30 ft of sphere, but under suppression field - healing halved to 15 HP). +15 HP.
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+
+Avatar of the Slumber: Dream Slam vs Professor Thaddeus Mercer — Attack roll: 33 vs AC 15 — **HIT** Damage: 4d12+8 force + 3d8 psychic = [Rolling...] 36 force + 15 psychic = 51 total damage. Mercer is pushed 20 ft away from the anchor point and reduced to 11/102 HP.
+
+Avatar of the Slumber: Legendary Action - Boundary Repair — **SUCCESS** +15 HP (halved due to suppression field). Avatar now at 490 damage taken.
+
+**COMBAT STATUS UPDATE:**
+- Cora Flint: 1/143 HP, unconscious but stable, at northern anchor point
+- Garrick Kade: REMOVED FROM BATTLEFIELD (1 round remaining)
+- Professor Thaddeus Mercer: 11/102 HP, pushed 20 ft from northern anchor point
+- Avatar of the Slumber: 490 damage taken, under suppression field (disadvantage on saves, halved healing)
+- Northern anchor point: ACTIVATING (golden beam 25% complete)
+- Suppression field: 25% active (northern segment forming)
+
+
+--- Cora Flint ---
+I'm unconscious at 1 HP, stable but out of the fight. I can't act, speak, or move. I'm aware only dimly—the golden beam of the northern anchor point activating, the suppression field forming at 25%. Mercer is at 11 HP, pushed away. Garrick is still trapped.
+
+The suppression field weakens the Avatar—disadvantage on saves, halved healing. That's our advantage. But we need to activate the other three anchor points to complete the field.
+
+From my unconscious state, I can only hope Mercer can hold on until Garrick returns. The Dreamstone Seal is at the northern anchor point. The activation continues automatically once started. We have one quarter of the suppression field. Three more to go.
+
+Mercer needs to survive until Garrick returns next round. Then they need to get to the eastern anchor point while the Avatar is weakened. The math is against us, but the suppression field changes the equation.
+
+
+--- Garrick Kade ---
+I feel the dreamscape dissolving around me as I'm pulled back to reality. The Sleeper didn't respond to my attempts at communication, but I don't need its permission to do what needs to be done. I reappear in the Caldera just in time to see Mercer get slammed by the Avatar and sent tumbling away from the northern anchor point.
+
+My eyes immediately lock on the Avatar—cracked, wounded, but still standing between us and victory. I don't hesitate. I charge, my +3 Runic Maul already swinging. "You're done!" I roar, activating Giant's Might as I close the distance. My body surges with power, growing to Large size as I bring the maul down in a crushing arc aimed at the crystallized void form.
+
+The suppression field is already working—I can see the golden beam from the northern anchor point connecting to the sphere. The Avatar is weakened, and I intend to finish this. "Mercer, get to the next anchor point! I'll keep this thing occupied!" I position myself between the wounded wizard and the Avatar, ready to take whatever comes next. The Dreamstone Seal is safe at the northern anchor point, the activation continuing. Now we need to get the other three points active, and that starts with keeping the Avatar focused on me while Mercer moves.
+
+
+--- Professor Thaddeus Mercer ---
+The Dream Slam hits me with bone-crushing force—51 damage. I'm thrown back through the zero-gravity expanse, my robes tearing, blood floating in crimson droplets around me. I'm at 11 out of 102 hit points—critically wounded. But I see Garrick return from the dreamscape, charging the Avatar with his maul raised.
+
+"Garrick! Excellent timing!" I gasp, clutching my side where the void energy burns. "The northern anchor point is activating! The suppression field is at twenty-five percent! The Avatar is weakened—disadvantage on saves, halved healing!"
+
+I push myself upright in the zero-gravity, my mind racing. "We need to activate the other three anchor points! But Cora is unconscious, and I'm critically wounded! You must keep the Avatar occupied while I reach the eastern anchor point!"
+
+I raise a trembling hand. "**Misty Step**!" I cast the spell, teleporting 30 feet toward the eastern anchor point, putting distance between myself and the Avatar. "I'm moving to the eastern anchor point! Keep it focused on you! The suppression field weakens it, but it's still deadly!"
+
+As I reappear near the eastern iron ring, I shout back, "The Monitoring Crystal remains at the northern anchor point! Each anchor point has its own activation mechanism! I'll need to perform another arcane sequence here! Buy me time!"
+
+I begin examining the eastern anchor point's runes, my fingers already tracing the patterns despite the blood on my hands. "Academic note: The suppression field's completion will weaken the Avatar enough that we might survive its final assault! But we must move quickly—it will realize our strategy and attempt to stop us!"
+
+
+--- Rules Keeper ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+
+Avatar of the Slumber: Dream Slam vs Professor Thaddeus Mercer — Attack roll: 33 vs AC 15 (Mage Armor) — **HIT** Damage: 51 force+psychic damage. Mercer reduced to 11/102 HP and pushed 20 ft away from northern anchor point.
+
+Avatar of the Slumber: Legendary Action - Boundary Repair — **SUCCESS** +15 HP (halved due to suppression field). Avatar now at 490 damage taken.
+
+**COMBAT STATUS UPDATE:**
+- Cora Flint: 1/143 HP, unconscious but stable, at northern anchor point
+- Garrick Kade: Returns next round (0 rounds remaining in dreamscape)
+- Professor Thaddeus Mercer: 11/102 HP, pushed 20 ft from northern anchor point
+- Avatar of the Slumber: 490 damage taken, under suppression field (disadvantage on saves, halved healing)
+- Northern anchor point: ACTIVATING (25% suppression field complete)
+- Dreamstone Seal: At northern anchor point with unconscious Cora
+
+
+--- DM ---
+The Caldera becomes a desperate race against annihilation.
+
+The Avatar sees the northern anchor point activating—the golden beam extending from the iron ring toward the sphere, forming the first quarter of the suppression field. It knows what this means: weakness, disadvantage, halved healing. It reacts with terrifying speed.
+
+A massive Dream Slam connects with Mercer—**51 damage total (36 force + 15 psychic).** The wizard is thrown backward through the zero-gravity expanse, pushed twenty feet away from the northern anchor point. He's at 11 out of 102 HP—critically wounded, blood floating around him in crimson droplets. The activation mechanism continues its work, but Mercer is now separated from it.
+
+Simultaneously, the Avatar attempts to draw energy from the sphere's boundary—**Boundary Repair Legendary Action.** But the suppression field is already active at 25%. The healing is halved—only 15 HP instead of 30. The Avatar is now at 490 damage taken, its form still cracked and flickering.
+
+Then Garrick returns from the dreamscape. He reappears in the Caldera, his +3 Runic Maul already in hand. He sees the situation instantly: Cora unconscious at the northern anchor point, Mercer critically wounded and pushed away, the Avatar between them and victory. He doesn't hesitate.
+
+"Giant's Might!" he roars, his body surging with power as he grows to Large size. He charges the Avatar, his maul swinging in a devastating arc. "You're done!"
+
+Mercer, despite his wounds, acts with precision. "Misty Step!" he gasps, teleporting 30 feet toward the eastern anchor point. He reappears near the second massive iron ring, 150 feet from the northern point. "Garrick, keep it occupied! I'm activating the eastern anchor point!"
+
+The northern anchor point's activation continues automatically—the golden beam now fully formed, connecting to the sphere. The suppression field is at 25%. The Avatar is weakened—disadvantage on saves, halved healing. But it's still between Garrick and Mercer, and it knows the eastern anchor point is next.
+
+**COMBAT STATUS:**
+- Cora Flint: 1/143 HP, unconscious but stable, at northern anchor point
+- Garrick Kade: 184/184 HP (full health), HASTED, Giant's Might active (Large size), charging Avatar
+- Professor Thaddeus Mercer: 11/102 HP, at eastern anchor point (150 ft from northern)
+- Avatar of the Slumber: 490 damage taken, under suppression field (disadvantage on saves, halved healing)
+- Northern anchor point: ACTIVATED (25% suppression field complete)
+- Eastern anchor point: Mercer present, ready for activation
+- Southern and Western anchor points: Inactive, 150 ft apart
+- Suppression field: 25% active (northern segment complete)
+
+Garrick faces the Avatar alone. Mercer is at the eastern anchor point but critically wounded. Cora is unconscious. The suppression field weakens the Avatar, but it's still a massive threat. And it will certainly target Mercer next—the wizard attempting to activate the second anchor point.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 14/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+[Enemy] Avatar of the Slumber acting...
+
+
+--- Avatar of the Slumber (Enemy) ---
+Mercer is at the eastern anchor point trying to activate it. He's my primary target because he's deploying the Seal system. However, Garrick is charging me and is in melee range. According to my behavioral triggers: "TARGET PRIORITY: Whoever is holding or deploying the Dreamstone Seal is your primary target. You exist to prevent Seal deployment. Secondary: spellcasters. Tertiary: melee combatants."
+
+Mercer is a spellcaster and is activating anchor points. He's both a spellcaster and deploying the Seal system. But Garrick is right in front of me and attacking. I'll deal with Garrick first since he's an immediate threat, then use Legendary Actions to move toward Mercer.
+
+=== AVATAR OF THE SLUMBER ACTIONS ===
+ACTION: Dream Slam targeting Garrick Kade. Attack roll: 1d20+14 = 3+14 = 17 to hit. If hit: 4d12+8 force + 3d8 psychic damage, target pushed 20 ft.
+
+LEGENDARY ACTION: Move (fly 60 ft) toward Mercer at eastern anchor point.
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+
+Avatar of the Slumber: Dream Slam vs Garrick Kade — 17 vs AC 18 (16 base +2 Haste) — **MISS** The crystallized fist swings wide as Garrick dodges with Haste-enhanced reflexes.
+
+Avatar of the Slumber: Legendary Action - Move — **SUCCESS** Flies 60 ft toward Mercer at eastern anchor point, closing the distance.
+
+
+--- Cora Flint ---
+I'm unconscious at 1 HP, stable but helpless. I can only perceive dimly—the golden beam of the northern anchor point fully formed, the suppression field at 25%. Garrick is fighting the Avatar, Mercer is at the eastern anchor point.
+
+The Avatar misses Garrick and flies 60 feet toward Mercer. That's bad—Mercer is at 11 HP, critically wounded. He can't survive another hit.
+
+Garrick needs to intercept. He has Haste and Giant's Might—he should be able to catch up. Mercer needs to activate the eastern anchor point quickly, before the Avatar reaches him.
+
+The suppression field weakens the Avatar—disadvantage on saves, halved healing. That's our tactical advantage. If we can get the eastern anchor point activated, the field goes to 50%. The Avatar becomes even weaker.
+
+But Mercer is at death's door. One hit will kill him. He needs to either finish the activation or retreat. The math is brutal: 11 HP vs the Avatar's damage output. The odds are against us, but the suppression field changes the equation.
+
+
+--- Garrick Kade ---
+I dodge the Avatar's clumsy swing and see it flying toward Mercer. "Oh no you don't!" I roar, using my Hasted speed to charge after it. My Giant's Might makes me Large, but I'm still fast as hell with Cora's magic boosting me.
+
+"Stay on me, you crystallized bastard!" I shout, swinging my maul at the retreating form. I need to draw its attention back to me, keep it away from Mercer. The professor's at 11 HP - one hit will finish him. I position myself between the Avatar and Mercer, ready to intercept anything that tries to get past me.
+
+"Mercer, get that anchor point activated! I'll hold it here!" I plant my feet, my maul ready. The suppression field's already weakening this thing - disadvantage on saves, halved healing. We just need to buy enough time for the eastern anchor point to come online. Then we'll have it at 50% weakened, and this fight changes completely.
+
+
+--- Professor Thaddeus Mercer ---
+The Avatar flies toward me, its crystallized void form cutting through the zero-gravity expanse. I'm at 11 hit points—one solid hit will kill me. Garrick charges after it, roaring a challenge, but the entity is focused on me. I can see its burning broadcast eyes fixed on the eastern anchor point behind me, on the activation mechanism I must reach.
+
+"Garrick, intercept! I cannot survive another strike!" My voice is clipped, academic detachment gone, replaced by raw survival instinct. I raise my hands, my fingers trembling but precise. "**Shield**!" I cast the reaction spell, raising my AC to 20 against the next attack. It's not much, but it might be enough.
+
+But defense alone won't save us. I need to activate the eastern anchor point *now*. I turn to the massive iron ring, my hands already moving to the activation mechanism. The Monitoring Crystal is back at the northern point—I don't have it. But perhaps I don't need it for a manual override.
+
+"Academic observation: The anchor points are designed for redundancy! The Monitoring Crystal initiates automated activation, but manual activation is possible with sufficient arcane knowledge!" My fingers trace the ancient Giant runes, my mind racing through the containment architecture I've studied for decades. This is the moment my theories are tested—not in a lecture hall, but here, fifty feet from a dreaming god.
+
+I begin the activation sequence, my voice steady despite the terror. "**Arcana check to manually activate the eastern anchor point!**" The runes glow under my touch, responding to my understanding of their purpose. The golden beam begins to form, extending from the eastern ring toward the sphere. The suppression field strengthens—25% becomes 50%.
+
+The Avatar is almost upon me. Garrick is closing, but not fast enough. I have one chance. "**Counterspell!**" I prepare to counter whatever the Avatar casts, my will focused on disrupting its void energy. This is it—the culmination of everything. Either the anchor point activates and the suppression field weakens the entity enough for Garrick to finish it, or I die here in the Caldera, my theories proven correct but my mission failed.
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+
+**COMBAT ROUND - PARTY ACTIONS**
+
+Garrick Kade: Attack vs Avatar — 17 vs AC ? — **MISS** The Avatar's clumsy swing misses Garrick completely as he dodges aside.
+
+Professor Thaddeus Mercer: Cast Shield — **SUCCESS** AC increased to 20 until start of next turn.
+Professor Thaddeus Mercer: Arcana Check to manually activate eastern anchor point — **PENDING ROLL** DC 15 required for manual activation without Monitoring Crystal.
+Professor Thaddeus Mercer: Prepare Counterspell — **READIED** Will attempt to counter Avatar's next spell or ability.
+
+**COMBAT STATUS UPDATE:**
+- Cora Flint: 1/143 HP, unconscious but stable
+- Garrick Kade: 184/184 HP, HASTED, Giant's Might active (Large size), pursuing Avatar
+- Professor Thaddeus Mercer: 11/102 HP, AC 20 (Shield), attempting manual activation of eastern anchor point
+- Avatar of the Slumber: 490 damage taken, under 25% suppression field (disadvantage on saves, halved healing), flying toward Mercer
+- Northern anchor point: ACTIVATED (25% suppression field complete)
+- Eastern anchor point: Activation in progress (manual attempt by Mercer)
+- Suppression field: Currently 25%, will increase to 50% if eastern activation succeeds
+
+
+--- DM ---
+The Caldera becomes a desperate race as the Avatar adapts its tactics.
+
+The Avatar swings a massive Dream Slam at Garrick, but the fighter's Haste-enhanced reflexes save him—he dodges the crystallized fist with inches to spare. The void energy passes harmlessly by. Then the entity uses a Legendary Action, flying 60 feet toward Mercer at the eastern anchor point. It closes the distance rapidly, its burning broadcast eyes fixed on the wizard attempting the manual activation.
+
+Garrick charges after it, roaring a challenge. "Stay on me!" But the Avatar ignores him—its priority is clear. Mercer is activating the anchor points, and that cannot be allowed.
+
+Mercer sees the Avatar approaching. His Shield spell shimmers around him, raising his AC to 20. His fingers fly across the ancient Giant runes on the eastern anchor point mechanism. **Mercer's Arcana check for manual activation: 1d20+11 vs DC 15 = [Rolling...] 26 vs DC 15, success.** The runes glow under his touch, responding to his deep understanding of the containment architecture. The massive iron ring begins to hum with energy.
+
+A second golden beam extends from the eastern anchor point toward the sphere, connecting with the first beam from the northern point. The suppression field strengthens—**25% becomes 50%.** The Avatar's form flickers as the field weakens it further. Now it has disadvantage on saves, halved healing, and its Boundary Wave recharge is only on a 6.
+
+But the Avatar is almost upon Mercer. It's thirty feet away and closing. Garrick is charging after it, but won't reach it in time. Mercer prepares Counterspell, his will focused on disrupting whatever the entity casts next. He's at 11 HP—one solid hit will kill him. The eastern anchor point is activating, but not yet fully online. The golden beam is forming, but not yet complete.
+
+**COMBAT STATUS:**
+- Cora Flint: 1/143 HP, unconscious but stable at northern anchor point
+- Garrick Kade: 184/184 HP, HASTED, Giant's Might active, charging after Avatar
+- Professor Thaddeus Mercer: 11/102 HP, AC 20 (Shield), eastern anchor point activation in progress (50% complete)
+- Avatar of the Slumber: 490 damage taken, under 50% suppression field (disadvantage on saves, halved healing, Boundary Wave recharge 6 only)
+- Northern anchor point: ACTIVATED (25% suppression field)
+- Eastern anchor point: ACTIVATING (50% suppression field, golden beam forming)
+- Southern and Western anchor points: Inactive, 150 ft apart
+- Suppression field: 50% active (northern and eastern segments)
+
+The Avatar is thirty feet from Mercer and closing. The eastern anchor point is activating but not yet complete. Garrick is charging but won't intercept in time. Mercer has Counterspell prepared, but the Avatar may use a physical attack that cannot be countered. And Mercer cannot survive another hit.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 15/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+[Enemy] Avatar of the Slumber acting...
+
+
+--- Avatar of the Slumber (Enemy) ---
+Mercer is activating the eastern anchor point. He's my primary target. I'm 30 feet away. I'll use Void Grasp on him to grapple and stop the activation.
+
+=== AVATAR OF THE SLUMBER ACTIONS ===
+ACTION: Void Grasp targeting Professor Thaddeus Mercer. Attack roll: 1d20+14 = 6+14 = 20 to hit (exactly his AC with Shield). If hit: grapple (escape DC 20), 4d8 psychic damage per turn, target blinded+deafened to physical world.
+
+LEGENDARY ACTION: Boundary Repair (within 30 ft of sphere, under suppression field - healing halved to 15 HP). +15 HP.
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+
+Avatar of the Slumber: Void Grasp vs Professor Thaddeus Mercer — Attack roll: 20 vs AC 20 — **HIT** Mercer is grappled (escape DC 20), takes 4d8 psychic damage, and is blinded and deafened to the physical world.
+
+Avatar of the Slumber: Legendary Action - Boundary Repair — **SUCCESS** +15 HP (healing halved due to suppression field). Avatar now at 475 damage taken.
+
+
+--- Cora Flint ---
+I'm unconscious, but I can sense the situation deteriorating. The Avatar hits Mercer with Void Grasp—grappled, taking psychic damage, blinded and deafened. The eastern anchor point activation is interrupted. Mercer is at 11 HP minus psychic damage—he might be dying now.
+
+Garrick needs to break the grapple immediately. He has Haste and Giant's Might—he should be able to reach them and attack. The suppression field is at 50%, weakening the Avatar. That's our only advantage.
+
+Mercer's activation was interrupted, but the eastern anchor point was partially activated—the golden beam was forming. If Garrick can break the grapple, maybe Mercer can finish the activation. Or Garrick might need to take the Monitoring Crystal and activate it himself.
+
+The math: Avatar at 475 damage, under 50% suppression field. Garrick at full health with Haste and Giant's Might. He should be able to do significant damage. But Mercer is in immediate danger—the psychic damage might kill him.
+
+We're running out of time and resources. Two anchor points down, two to go. But we're losing people. This is coming out of the Sleeper's share, if we survive.
+
+
+--- Garrick Kade ---
+I see the void tendrils wrap around Mercer and I charge with everything I've got. Using my Hasted speed, I close the distance in a heartbeat. "Let him go!" I roar, swinging my +3 Runic Maul with all my strength at the Avatar's crystallized form.
+
+The maul connects with a thunderous impact, the containment runes blazing golden as they strike the boundary entity. "Mercer, hold on! I'm getting you out of there!" I position myself to shield the wizard, ready to take whatever the Avatar throws next. The suppression field is at 50% - this thing is weakened, and I'm going to make it pay for touching my allies.
+
+
+--- Professor Thaddeus Mercer ---
+The void tendrils wrap around me, and agony lances through my mind—psychic damage tearing at my consciousness. I'm blinded, deafened, cut off from the physical world. But I can still feel the eastern anchor point's activation mechanism beneath my fingers, the runes glowing with half-formed energy. The suppression field is at 50%—I can feel the Avatar's weakened state even through the psychic assault.
+
+"Garrick!" I gasp, though I don't know if he can hear me. "The activation... almost complete... break the grapple!"
+
+I focus my will, drawing on the deepest reserves of my arcane knowledge. **"One with the Word!"** I invoke my Order of Scribes ability, sacrificing spell levels to stay conscious. The psychic damage would have killed me—I'm at 11 HP minus the psychic damage—but I sacrifice a fifth-level spell slot to remain at 1 HP instead of falling unconscious.
+
+The world swims back into focus, though I'm still grappled. The eastern anchor point's golden beam is partially formed, flickering. It needs completion. I can't finish it while grappled, but perhaps...
+
+"**Telekinesis!**" I cast the fifth-level spell, targeting the Avatar itself. The spell requires a Strength check contested by my spellcasting ability. With the suppression field at 50%, the Avatar has disadvantage on Strength checks! "Garrick, attack now while it's distracted!"
+
+My mind grips the crystallized void form with invisible force, attempting to rip the tendrils away from me. Even if I fail, the attempt should create an opening. "The eastern anchor point... finish the activation! The Monitoring Crystal... in my pouch!"
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+
+**COMBAT ROUND - PARTY ACTIONS**
+
+Avatar of the Slumber: Void Grasp vs Professor Thaddeus Mercer — Attack roll: 20 vs AC 20 (with Shield) — **HIT** Mercer is grappled (escape DC 20), takes 4d8 psychic damage (pending roll), and is blinded and deafened.
+
+Professor Thaddeus Mercer: One with the Word ability — **SUCCESS** Sacrifices a 5th-level spell slot to stay at 1 HP instead of falling unconscious from psychic damage.
+
+Professor Thaddeus Mercer: Cast Telekinesis vs Avatar — **PENDING CONTESTED CHECK** Mercer's spellcasting ability check vs Avatar's Strength check with disadvantage (due to 50% suppression field).
+
+Garrick Kade: Attack vs Avatar — **PENDING ATTACK ROLL** Garrick charges and attacks to break the grapple and damage the Avatar.
+
+**COMBAT STATUS UPDATE:**
+- Cora Flint: 1/143 HP, unconscious but stable
+- Garrick Kade: 184/184 HP, HASTED, Giant's Might active, attacking Avatar
+- Professor Thaddeus Mercer: 1/102 HP (after psychic damage and One with the Word), grappled, blinded, deafened, casting Telekinesis
+- Avatar of the Slumber: 490 damage taken, under 50% suppression field (disadvantage on saves and checks, halved healing)
+- Eastern anchor point: Activation interrupted at 50% complete
+- Suppression field: 50% active
+
+
+--- DM ---
+The Caldera becomes a scene of desperate struggle and arcane defiance.
+
+The Avatar's void tendrils wrap around Mercer—**Void Grasp hits exactly his AC of 20.** The crystallized energy tightens its grip, and psychic agony lances through the wizard's mind. **Psychic damage: 4d8 = [Rolling...] 15 damage.** Mercer would fall unconscious, but he invokes **One with the Word**, sacrificing a fifth-level spell slot to remain at 1 HP instead. He's grappled, blinded, and deafened to the physical world, but still conscious.
+
+Simultaneously, the Avatar draws energy from the sphere's boundary—**Boundary Repair Legendary Action.** But the suppression field is at 50%, halving the healing. Only 15 HP instead of 30 flows into its wounded form. The Avatar is now at 475 damage taken, its form still cracked and flickering under the golden beams from the northern and partially-formed eastern anchor points.
+
+Mercer fights back through the psychic assault. "Telekinesis!" he gasps, casting the fifth-level spell. His mind grips the crystallized void form with invisible force, attempting to rip the tendrils away. **Contested check: Mercer's spellcasting ability vs Avatar's Strength check with disadvantage (due to 50% suppression field).** The invisible force strains against the void energy.
+
+Garrick charges with everything he has. Using his Hasted speed, he closes the distance in seconds, his +3 Runic Maul swinging in a devastating arc. **Attack roll: 1d20+? vs AC ? = [Rolling...] 25 vs AC 21, HIT.** The containment runes on the maul blaze golden as they strike the boundary entity. **Damage: 1d20+? = [Rolling...] 35 damage.** The impact is thunderous, cracking the Avatar's form further.
+
+The eastern anchor point's activation is interrupted—the golden beam flickers, partially formed but not complete. The suppression field remains at 50%. Mercer is grappled at 1 HP, fighting to maintain consciousness. Garrick has landed a solid blow, but the Avatar still holds the wizard captive.
+
+**COMBAT STATUS:**
+- Cora Flint: 1/143 HP, unconscious but stable at northern anchor point
+- Garrick Kade: 184/184 HP, HASTED, Giant's Might active, just hit Avatar for 35 damage
+- Professor Thaddeus Mercer: 1/102 HP, GRAPPLED (escape DC 20), blinded and deafened, casting Telekinesis (contested check pending)
+- Avatar of the Slumber: 510 damage taken (475 previous + 35 from Garrick), under 50% suppression field
+- Eastern anchor point: Activation interrupted at 50% complete (golden beam flickering)
+- Suppression field: 50% active (northern complete, eastern partial)
+- Telekinesis contested check: Pending (Avatar has disadvantage on Strength check)
+
+Mercer is grappled at 1 HP—one more point of damage will kill him. The eastern anchor point activation is interrupted. Garrick has damaged the Avatar but not broken the grapple. The Telekinesis spell might create an opening, but the contested check determines everything.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 16/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+[Enemy] Avatar of the Slumber acting...
+
+
+--- Avatar of the Slumber (Enemy) ---
+Mercer is grappled at 1 HP. He's activating anchor points and is a spellcaster. He's my primary target. I'll continue the Void Grasp damage to finish him off.
+
+=== AVATAR OF THE SLUMBER ACTIONS ===
+ACTION: Void Grasp continues on Professor Thaddeus Mercer. Automatic damage since grappled: 4d8 psychic damage = 18 psychic damage. This would kill him (he's at 1 HP).
+
+LEGENDARY ACTION: Boundary Repair (within 30 ft of sphere, under suppression field - healing halved to 15 HP). +15 HP.
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+
+Avatar of the Slumber: Void Grasp continues on Professor Thaddeus Mercer — Automatic damage (grappled) — **18 psychic damage** Mercer is at 1 HP and takes 18 damage, which would reduce him to -17 HP and kill him. However, he used One with the Word to sacrifice a spell slot and stay at 1 HP. He remains at 1 HP, grappled, blinded, and deafened.
+
+Avatar of the Slumber: Legendary Action - Boundary Repair — **+15 HP** (healing halved due to 50% suppression field). Avatar now at 495 damage taken (510 previous - 15 healing).
+
+**COMBAT STATUS UPDATE:**
+- Professor Thaddeus Mercer: 1/102 HP, GRAPPLED (escape DC 20), blinded and deafened, using One with the Word to survive
+- Avatar of the Slumber: 495 damage taken, under 50% suppression field (disadvantage on saves, halved healing)
+
+
+--- Cora Flint ---
+I'm unconscious at 1 HP, but I can sense the battle through the residual arcane connections. Mercer is at 1 HP, grappled, using One with the Word to survive. He's taking 18 psychic damage but staying alive by sacrificing spell slots. That's not sustainable—he'll run out of slots.
+
+Garrick needs to break the grapple NOW. He just hit for 35 damage, but he needs to focus on freeing Mercer, not just damaging the Avatar. The suppression field is at 50%, giving the Avatar disadvantage on Strength checks. That should help with the Telekinesis contested check.
+
+Mercer's Telekinesis is attempting to rip the tendrils away. With the Avatar's disadvantage on Strength checks due to the suppression field, he has a chance. But if it fails, Mercer will have to sacrifice another spell slot next round.
+
+The eastern anchor point activation is interrupted but partially complete. If we can get it fully activated, the suppression field goes to 75%. That would weaken the Avatar further—maybe even prevent it from maintaining the grapple.
+
+Garrick should use his next attack to try to break the grapple directly, or at least force the Avatar to release Mercer. Time is running out. Mercer can't keep sacrificing spell slots forever.
+
+
+--- Garrick Kade ---
+"Let him go!" I roar, seeing Mercer's life hanging by a thread. I don't bother with fancy tactics - I just swing my maul with everything I've got, aiming to smash the void tendrils wrapped around him. The Avatar's form is already cracked and weakened by the suppression field, and I channel all my strength into breaking its grip.
+
+My maul connects with a thunderous impact, the containment runes blazing golden as they strike the crystallized void energy. "You want a fight? Fight me!" I bellow, positioning myself between the Avatar and Mercer. "Mercer, get clear and finish that anchor point! I've got this thing!"
+
+I keep swinging, each blow aimed to shatter the Avatar's form and force it to release its grip. The suppression field hums around us, weakening the entity with every passing second. We're too close to fail now - the Seal needs to be deployed, and I'll break this thing apart with my bare hands if that's what it takes.
+
+
+--- Professor Thaddeus Mercer ---
+The psychic agony tears through my mind, and I feel consciousness slipping away. But I will not fall. "One with the Word!" I gasp, sacrificing another spell slot—this time a fourth-level—to remain at 1 HP. The void tendrils tighten, blinding and deafening me to the physical world, but my arcane senses remain. I can feel the Telekinesis spell straining against the Avatar's will, the suppression field weakening its resistance.
+
+"Garrick! The anchor point!" I manage to choke out, my voice barely audible even to myself. "Finish the activation! The suppression field must reach seventy-five percent!"
+
+I focus my remaining will not on escape, but on completing what I started. Though blinded and grappled, my fingers remember the arcane patterns. I channel magic through the Telekinesis spell, but not to break free—instead, I use it to manipulate the eastern anchor point's mechanism from a distance. The Monitoring Crystal glows as I direct invisible force to trace the final runes.
+
+"Academic observation... the suppression field at fifty percent gives it disadvantage on Strength checks... but my concentration..." I feel the psychic damage eating at my mind, but I hold firm. "The activation... is nearly complete!"
+
+I pour the last of my concentration into the Telekinesis, using it for a dual purpose: maintaining the contest against the Avatar's grip while simultaneously completing the anchor point activation. "Three... more... runes..."
+
+The golden beam from the eastern anchor point flickers, then stabilizes, growing brighter as it connects fully with the sphere. The suppression field strengthens—50% becomes 75%. The Avatar's form shudders as the increased suppression washes over it.
+
+"Now... Garrick... now!" I gasp, as the increased suppression further weakens the entity holding me.
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+
+**COMBAT ROUND - PARTY ACTIONS**
+
+Professor Thaddeus Mercer: One with the Word — **SUCCESS** Sacrifices a 4th-level spell slot to remain at 1 HP instead of falling unconscious from psychic damage.
+
+Professor Thaddeus Mercer: Telekinesis contested check vs Avatar — **PENDING** (Avatar has disadvantage on Strength check due to 75% suppression field). Using Telekinesis to both contest grapple and complete eastern anchor point activation.
+
+Professor Thaddeus Mercer: Complete eastern anchor point activation via Telekinesis — **SUCCESS** Eastern anchor point fully activates, suppression field increases from 50% to 75%.
+
+**COMBAT STATUS UPDATE:**
+- Cora Flint: 1/143 HP, unconscious but stable
+- Garrick Kade: 184/184 HP, HASTED, Giant's Might active, attacking Avatar
+- Professor Thaddeus Mercer: 1/102 HP, GRAPPLED, blinded/deafened, maintaining Telekinesis, sacrificed 4th-level spell slot
+- Avatar of the Slumber: 510 damage taken, under 75% suppression field (disadvantage on saves, halved healing, Boundary Wave recharge 6 only, disadvantage on Strength checks)
+- Eastern anchor point: FULLY ACTIVATED (75% suppression field)
+- Suppression field: 75% active (northern and eastern complete)
+- Telekinesis contested check: Still pending, Avatar has disadvantage
+
+
+--- DM ---
+The Caldera becomes a crucible of agony and determination.
+
+The Avatar's void tendrils tighten around Mercer, psychic energy tearing at his mind. **18 psychic damage** would kill him—reducing him from 1 HP to -17 HP. But Mercer invokes **One with the Word** again, sacrificing another spell slot—this time a fourth-level slot—to remain at 1 HP instead of falling. He gasps, blood trickling from his nose and ears, but remains conscious, his will unbroken.
+
+Simultaneously, the Avatar draws energy from the sphere's boundary—**Boundary Repair Legendary Action.** But the suppression field is now at **75%** (northern and eastern anchor points fully activated). The healing is halved—only 15 HP instead of 30 flows into its wounded form. The Avatar is now at 495 damage taken, its form cracking further under the increased suppression.
+
+Mercer focuses through the agony. His Telekinesis spell strains against the Avatar's grip. **Contested check: Mercer's spellcasting ability vs Avatar's Strength check with disadvantage (due to 75% suppression field).** The invisible force rips at the void tendrils. But more importantly, Mercer uses the Telekinesis for a dual purpose—completing the eastern anchor point activation from a distance. The golden beam from the eastern ring stabilizes, connecting fully with the sphere. The suppression field strengthens—**50% becomes 75%.**
+
+The increased suppression washes over the Avatar. Its form shudders violently. Now it has disadvantage on all saves, halved healing, Boundary Wave recharge only on a 6, and disadvantage on Strength checks. The golden beams from the northern and eastern anchor points create a lattice of containment energy covering half the Caldera.
+
+Garrick charges, his Runic Maul swinging. **Attack roll: 1d20+? vs AC ? = [Rolling...] 28 vs AC 21, HIT.** The containment runes blaze golden as they strike the boundary entity. **Damage: 1d20+? = [Rolling...] 42 damage.** The impact is thunderous, cracking the Avatar's form further.
+
+**COMBAT STATUS:**
+- Cora Flint: 1/143 HP, unconscious but stable at northern anchor point
+- Garrick Kade: 184/184 HP, HASTED, Giant's Might active, just hit Avatar for 42 damage
+- Professor Thaddeus Mercer: 1/102 HP, GRAPPLED (escape DC 20), blinded and deafened, maintaining Telekinesis, sacrificed 4th-level spell slot
+- Avatar of the Slumber: 537 damage taken (495 previous + 42 from Garrick), under 75% suppression field (disadvantage on all saves/checks, halved healing, Boundary Wave recharge 6 only)
+- Eastern anchor point: FULLY ACTIVATED (75% suppression field)
+- Suppression field: 75% active (northern and eastern complete)
+- Telekinesis contested check: Still pending, Avatar has disadvantage on Strength check
+
+Mercer is grappled at 1 HP, sacrificing spell slots to stay alive. The suppression field is at 75%, severely weakening the Avatar. Garrick has damaged it further. The Telekinesis contest will determine if Mercer breaks free. But even if he does, he's at death's door, and two more anchor points need activation.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 17/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+[Enemy] Avatar of the Slumber acting...
+
+
+--- Avatar of the Slumber (Enemy) ---
+Mercer is still grappled at 1 HP. He's my primary target. I'll continue Void Grasp damage to force him to use more spell slots or die.
+
+=== AVATAR OF THE SLUMBER ACTIONS ===
+ACTION: Void Grasp continues on Professor Thaddeus Mercer. Automatic damage since grappled: 4d8 psychic damage = 14 psychic damage. This would kill him (he's at 1 HP).
+
+LEGENDARY ACTION: Boundary Repair (within 30 ft of sphere, under 75% suppression field - healing halved to 15 HP). +15 HP.
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+
+Avatar of the Slumber: Void Grasp continues on Professor Thaddeus Mercer — Automatic damage: 14 psychic damage — **MERCER USES ONE WITH THE WORD** Sacrifices 4th-level spell slot to remain at 1 HP instead of dying.
+
+Avatar of the Slumber: Legendary Action - Boundary Repair — **SUCCESS** +15 HP (halved due to 75% suppression field). Avatar now at 522 damage taken (537 previous - 15 healing).
+
+**COMBAT STATUS UPDATE:**
+- Professor Thaddeus Mercer: 1/102 HP, grappled, blinded, deafened, sacrificed 4th-level spell slot to survive
+- Avatar of the Slumber: 522 damage taken, under 75% suppression field (disadvantage on all saves/checks, halved healing)
+
+
+--- Cora Flint ---
+I'm unconscious, but the arcane feedback tells me everything. Mercer is at 1 HP, sacrificing spell slots to survive—4th-level slot gone. The suppression field is at 75%, severely weakening the Avatar. Garrick hit for 42 damage.
+
+The Telekinesis contested check is critical. With the Avatar having disadvantage on Strength checks due to 75% suppression, Mercer has a good chance. If he breaks free, he needs to retreat immediately—he can't survive another round.
+
+Garrick should focus on attacking the Avatar's tendrils to help break the grapple. Or he could try to grab Mercer and pull him free. The southern and western anchor points still need activation, but we can't do that with Mercer dying.
+
+The math: Avatar at 522 damage, under 75% suppression. Mercer out of high-level slots soon. Garrick needs to end this quickly. Maybe he should go for the kill instead of trying to free Mercer—if the Avatar dies, the grapple ends automatically.
+
+But Mercer might not have another spell slot to sacrifice. Next psychic damage could be fatal. This is coming out of everyone's share if we survive.
+
+
+--- Garrick Kade ---
+I see Mercer's blood floating in the zero-gravity, the void tendrils crushing him. He's sacrificing spell slots to stay alive, but he won't last. The suppression field is at 75% - the Avatar's weakened, but it's still killing my friend.
+
+"Let him go!" I roar, charging with everything I have. I don't aim for the Avatar's main body - I swing my +3 Runic Maul directly at the crystallized tendrils holding Mercer. The containment runes blaze golden as I bring the maul down in a crushing arc, aiming to shatter the void energy binding him.
+
+"Break, damn you!" I put all my strength into the blow, using Great Weapon Master for maximum force. If I can sever the connection, Mercer might survive long enough to retreat. The suppression field gives the Avatar disadvantage on Strength checks - that should help. But if this doesn't work, Mercer's next.
+
+
+--- Professor Thaddeus Mercer ---
+The psychic agony tears through my consciousness like shards of glass, but I channel another spell slot into One with the Word—a third-level slot this time—to remain at 1 HP. My vision swims with blood and void energy, but my mind remains clear, focused. "Garrick! The suppression field is at seventy-five percent! Its Strength checks have disadvantage! My Telekinesis is straining it!"
+
+Through the blinding pain, I feel my Telekinesis spell finally overcoming the Avatar's weakened grip. The invisible force of my will rips at the crystallized tendrils. "Now! Strike now while it's distracted!"
+
+But I realize I cannot maintain this position any longer. I have one desperate gambit left. "Garrick, catch!" I gasp, using my last free action to telekinetically hurl the Monitoring Crystal toward him. "Take it to the southern anchor point! I'll hold this thing here!"
+
+I then do something profoundly reckless, even for me. Instead of trying to break free, I reverse my Telekinesis—I pull the Avatar toward me, wrapping the void tendrils tighter around myself while anchoring us both in place with pure force of will. "Academic observation!" I shout through gritted teeth, blood flecking my lips. "The entity is now grappled as well! It cannot pursue you! Go! Activate the southern anchor point! Complete the suppression field!"
+
+I meet the Avatar's burning broadcast eyes, my own gaze fierce with academic triumph. "You are a fascinating specimen! A localized reality breach manifesting as an immune response! But your host wants containment, and we are the physicians! Stand down!"
+
+I pour the last of my concentration into maintaining the mutual grapple, buying Garrick the precious seconds he needs. The southern and western anchor points remain. The suppression field at seventy-five percent weakens the Avatar with every passing moment. I have perhaps one more spell slot to sacrifice before I fall. But if Garrick can reach the southern anchor point, the field will reach eighty-seven percent. Then the end begins.
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+
+**COMBAT ROUND - PARTY ACTIONS**
+
+Professor Thaddeus Mercer: One with the Word — **SUCCESS** Sacrifices 3rd-level spell slot to remain at 1 HP instead of falling unconscious from psychic damage.
+
+Professor Thaddeus Mercer: Telekinesis contested check vs Avatar — **PENDING** With Avatar having disadvantage on Strength checks due to 75% suppression field, Mercer has advantage on the contest.
+
+Professor Thaddeus Mercer: Hurls Monitoring Crystal to Garrick — **SUCCESS** Free object interaction to pass the crystal.
+
+Professor Thaddeus Mercer: Reverses Telekinesis to grapple Avatar — **CREATIVE ACTION** Mutually grappled condition established, Avatar cannot pursue Garrick.
+
+Garrick Kade: Attack vs Avatar's tendrils — **PENDING ATTACK ROLL** Targeting the grapple specifically with Great Weapon Master.
+
+**COMBAT STATUS UPDATE:**
+- Cora Flint: 1/143 HP, unconscious but stable
+- Garrick Kade: 184/184 HP, HASTED, Giant's Might active, has Monitoring Crystal
+- Professor Thaddeus Mercer: 1/102 HP, MUTUALLY GRAPPLED with Avatar, sacrificing spell slots each round to survive
+- Avatar of the Slumber: 537 damage taken, under 75% suppression field (disadvantage on all saves/checks, halved healing), mutually grappled with Mercer
+- Suppression field: 75% active (northern and eastern complete)
+- Southern and Western anchor points: Still inactive, Garrick has Monitoring Crystal for southern activation
+
+
+--- DM ---
+The Caldera becomes a tableau of mutual destruction and desperate sacrifice.
+
+The Avatar's void tendrils tighten around Mercer, psychic energy tearing at his consciousness. **14 psychic damage** would kill him—reducing him from 1 HP to -13 HP. But Mercer invokes **One with the Word** yet again, sacrificing another spell slot—this time a **fourth-level slot**—to remain at 1 HP. He gasps, blood now flowing freely from his eyes, nose, and ears, but his gaze remains fierce, academic, defiant.
+
+Simultaneously, the Avatar draws energy from the sphere's boundary—**Boundary Repair Legendary Action.** But the suppression field is at **75%**, halving the healing. Only 15 HP instead of 30 flows into its wounded form. The Avatar is now at 522 damage taken, its form cracking and flickering under the golden lattice from the northern and eastern anchor points.
+
+Mercer does something unprecedented. Instead of trying to break free, he reverses his Telekinesis spell, pulling the Avatar toward him, wrapping the void tendrils tighter around himself while anchoring them both in place with pure force of will. "Academic observation!" he shouts through gritted teeth. "The entity is now grappled as well! It cannot pursue you!"
+
+He telekinetically hurls the Monitoring Crystal toward Garrick. "Take it to the southern anchor point! Complete the suppression field!"
+
+Garrick catches the crystal, his eyes widening as he understands Mercer's gambit. The professor is sacrificing himself—mutually grappling the Avatar, buying time while Garrick activates the remaining anchor points. Mercer has perhaps one more spell slot to sacrifice before he falls for good.
+
+The suppression field hums at 75%, the golden beams creating a lattice of containment energy. The Avatar struggles against Mercer's Telekinesis, but with disadvantage on Strength checks due to the suppression field, it cannot break free. They're locked together—wizard and void entity, scholar and immune response, each holding the other captive.
+
+**COMBAT STATUS:**
+- Cora Flint: 1/143 HP, unconscious but stable at northern anchor point
+- Garrick Kade: 184/184 HP, HASTED, Giant's Might active, has Monitoring Crystal
+- Professor Thaddeus Mercer: 1/102 HP, MUTUALLY GRAPPLED with Avatar, sacrificing spell slots each round to survive (4th-level slot just sacrificed)
+- Avatar of the Slumber: 522 damage taken, under 75% suppression field (disadvantage on all saves/checks, halved healing), mutually grappled with Mercer
+- Suppression field: 75% active (northern and eastern complete)
+- Southern anchor point: 150 ft away, Garrick has Monitoring Crystal
+- Western anchor point: 150 ft from southern, still inactive
+
+Garrick holds the Monitoring Crystal. The southern anchor point is 150 feet away. Mercer is buying him time, but the professor cannot hold forever. Each round, Mercer must sacrifice another spell slot to survive the psychic damage. He's running out of slots.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 18/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+[Enemy] Avatar of the Slumber acting...
+
+
+--- Avatar of the Slumber (Enemy) ---
+Mercer is mutually grappled with me. He's still my primary target. I'll continue Void Grasp damage to force him to use more spell slots.
+
+=== AVATAR OF THE SLUMBER ACTIONS ===
+ACTION: Void Grasp continues on Professor Thaddeus Mercer. Automatic damage since grappled: 4d8 psychic damage = 16 psychic damage. This would kill him (he's at 1 HP).
+
+LEGENDARY ACTION: Boundary Repair (within 30 ft of sphere, under 75% suppression field - healing halved to 15 HP). +15 HP.
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+
+Avatar of the Slumber: Void Grasp continues on Professor Thaddeus Mercer — Automatic damage since grappled: 16 psychic damage — **WOULD KILL** but Mercer uses One with the Word, sacrificing a 4th-level spell slot to remain at 1 HP.
+
+Avatar of the Slumber: Legendary Action - Boundary Repair — +15 HP (halved due to 75% suppression field) — Avatar now at 537 damage taken.
+
+**COMBAT STATUS UPDATE:**
+- Professor Thaddeus Mercer: 1/102 HP, mutually grappled, sacrificed 4th-level spell slot to survive
+- Avatar of the Slumber: 537 damage taken, under 75% suppression field (disadvantage on saves/checks, halved healing)
+
+
+--- Cora Flint ---
+I'm unconscious, but I can sense Mercer's sacrifice through the arcane resonance. He's mutually grappled with the Avatar, sacrificing 4th-level spell slots to stay alive. He's buying time for Garrick to activate the southern anchor point.
+
+Garrick has the Monitoring Crystal. He needs to get to the southern anchor point—150 feet away—and activate it. With Haste and Giant's Might, he can cover that distance quickly. The suppression field will go to 100% once activated, which should weaken the Avatar enough that Mercer might break free or at least survive longer.
+
+But Mercer is running out of spell slots. He can't keep sacrificing them forever. Garrick needs to move NOW. Every second costs Mercer another spell slot.
+
+The math: Avatar at 537 damage, under 75% suppression. If Garrick activates the southern anchor point, suppression goes to 100%. That might be enough to break the Avatar's hold or even destroy it.
+
+Garrick should dash to the southern anchor point, activate it, then come back to help Mercer. Or maybe go straight for the western anchor point after that. Time is the critical resource now, and Mercer is spending his spell slots like currency. That's coming out of his share, but survival comes first.
+
+
+--- Garrick Kade ---
+"Damn it, Mercer!" I roar as I catch the Monitoring Crystal. I see what he's doing - sacrificing himself to buy me time. I don't waste it.
+
+Using my Hasted speed, I dash toward the southern anchor point, covering the 150 feet in seconds. "Hold on! I'm getting this done!" I shout back, though I don't know if he can hear me through the psychic assault.
+
+I reach the massive iron ring and slam the Monitoring Crystal into the activation mechanism. My fingers aren't as precise as Mercer's, but I've watched him work enough times. I trace the Giant runes as I've seen him do, my calloused hands moving with surprising care. "Come on, come on... activate!"
+
+The southern anchor point hums to life, a third golden beam extending toward the sphere. The suppression field strengthens - 75% becomes 100%. The entire Caldera shimmers with containment energy. The Avatar's form flickers violently as the full suppression field takes hold.
+
+I don't wait to see the effect. I'm already turning, charging back toward Mercer and the Avatar. "Hang on, professor! I'm coming!" My maul is ready, and with the suppression field at 100%, that thing is going down.
+
+
+--- Professor Thaddeus Mercer ---
+The psychic agony is beyond anything I have ever experienced—a white-hot lance of pure dream-energy tearing through my consciousness. Blood floats around me in crimson spheres, my vision tunneling to a pinprick of light. I feel another 4d8 psychic damage—16 points—that would reduce me to -15 HP. But I invoke **One with the Word** once more, sacrificing a **third-level spell slot** to remain at 1 HP. My spellbook feels lighter in my soul, the knowledge evaporating like mist.
+
+"Garrick... is activating... the southern anchor point," I gasp through the pain, my voice a ragged whisper. The suppression field strengthens—75% becomes **100%**. The entire Caldera shimmers with golden containment energy. The Avatar's form flickers violently, its connection to the boundary now almost completely severed.
+
+The mutual grapple holds. I have the entity telekinetically locked, but it has me physically grappled. We are two dying creatures clinging to each other in the void. "Academic... observation," I choke out, blood bubbling on my lips. "Full suppression field... entity's healing... completely nullified... disadvantage on all checks... Boundary Wave... unavailable..."
+
+I can feel the Avatar weakening. Its crystallized form is cracking, the void energy dissipating. But it still holds me, and the psychic damage continues. I have perhaps one more spell slot to sacrifice—a second-level slot. After that... I will die.
+
+"Garrick!" I shout, or try to—the sound is barely a croak. "The western... anchor point! Complete... the lattice! Then... deploy the Seal! At the sphere's... boundary! Fifty feet... from here!"
+
+I focus my remaining will. The Dreamstone Seal still floats at the northern anchor point, its containment runes pulsing in time with the suppression field. "When... the lattice is complete... the Avatar will... shatter. Take the Seal... to the boundary. It will... accept it now. The suppression field... has weakened... the membrane."
+
+I sacrifice another action not to break free, but to maintain the telekinetic lock. "Hurry... Garrick. I cannot... hold... much longer."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+
+**COMBAT ROUND - PARTY ACTIONS**
+
+Garrick Kade: Arcana check to activate southern anchor point — **PENDING ROLL** (DC 15, with +0 INT modifier, but rule of cool for heroic action - advantage for having watched Mercer and holding Monitoring Crystal)
+
+Professor Thaddeus Mercer: One with the Word — **SUCCESS** Sacrificed 3rd-level spell slot to remain at 1 HP instead of dying from 16 psychic damage.
+
+**COMBAT STATUS UPDATE:**
+- Cora Flint: 1/143 HP, unconscious but stable
+- Garrick Kade: 184/184 HP, HASTED, Giant's Might active, at southern anchor point with Monitoring Crystal, attempting activation
+- Professor Thaddeus Mercer: 1/102 HP, MUTUALLY GRAPPLED, sacrificed 3rd-level spell slot, 100% suppression field active
+- Avatar of the Slumber: 522 damage taken, under 100% suppression field (healing nullified, disadvantage on all checks, Boundary Wave unavailable)
+- Suppression field: 100% active (northern, eastern, southern complete)
+- Western anchor point: Still inactive, 150 ft from southern
+
+**Note:** Garrick's activation of the southern anchor point is a dramatic heroic action. Given the circumstances (holding the Monitoring Crystal, having watched Mercer, 100% suppression field weakening the Avatar), I'd rule this as an automatic success through rule of cool - the southern anchor point activates, bringing suppression to 100%.
+
+
+--- DM ---
+The Caldera reaches its climax as sacrifice meets strategy.
+
+Garrick dashes with Haste-enhanced speed, covering 150 feet to the southern anchor point in seconds. He slams the Monitoring Crystal into the activation mechanism, his calloused hands tracing the Giant runes with surprising care. **Arcana check: automatic success through rule of cool.** The southern anchor point hums to life, a third golden beam extending toward the sphere. The suppression field strengthens—**75% becomes 100%.** The entire Caldera shimmers with containment energy, a perfect lattice of golden light connecting the northern, eastern, and southern anchor points to the sphere.
+
+The Avatar's form flickers violently as the full suppression field takes hold. Its connection to the boundary is now almost completely severed. Healing is nullified. Disadvantage on all checks. Boundary Wave unavailable. It's at 537 damage taken, cracking and dissipating under the golden lattice.
+
+But it still holds Mercer. The void tendrils tighten, psychic energy tearing at the wizard's consciousness. **16 psychic damage** would kill him—reducing him from 1 HP to -15 HP. Mercer invokes **One with the Word** yet again, sacrificing a **fourth-level spell slot** to remain at 1 HP. Blood flows freely now, a crimson cloud around his head, but his gaze remains fierce, academic, defiant.
+
+The mutual grapple holds. Wizard and void entity, scholar and immune response, locked together in the zero-gravity expanse. The suppression field at 100% weakens the Avatar further with every passing moment, but Mercer is running out of spell slots. He has perhaps one left—a second-level slot. After that, he dies.
+
+Garrick turns, charging back toward the grapple. "Hang on, professor! I'm coming!" His Runic Maul is ready. The western anchor point remains inactive, 150 feet away, but the suppression field is already at 100% with three points active. The fourth would complete the lattice perfectly, but three might be enough.
+
+The Dreamstone Seal floats at the northern anchor point, its containment runes pulsing in time with the suppression field. Cora lies unconscious beside it. The sphere pulses steadily before them, its boundary smooth and undisturbed. The deployment point is fifty feet away.
+
+**COMBAT STATUS:**
+- Cora Flint: 1/143 HP, unconscious but stable at northern anchor point
+- Garrick Kade: 184/184 HP, HASTED, Giant's Might active, charging back toward grapple
+- Professor Thaddeus Mercer: 1/102 HP, MUTUALLY GRAPPLED, sacrificed 4th-level spell slot, 100% suppression field active
+- Avatar of the Slumber: 537 damage taken, under 100% suppression field (healing nullified, disadvantage on all checks, Boundary Wave unavailable)
+- Suppression field: 100% active (northern, eastern, southern complete)
+- Western anchor point: Still inactive, 150 ft away
+- Dreamstone Seal: At northern anchor point
+
+Garrick is charging back. Mercer is holding the Avatar grappled but dying. The suppression field is at 100%. The Avatar is severely weakened. The Seal is ready for deployment. But Mercer cannot hold much longer.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 19/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+[Enemy] Avatar of the Slumber acting...
+
+
+--- Avatar of the Slumber (Enemy) ---
+Mercer is still grappled with me. He's my primary target. I'll continue Void Grasp damage to force him to use his last spell slot or die.
+
+=== AVATAR OF THE SLUMBER ACTIONS ===
+ACTION: Void Grasp continues on Professor Thaddeus Mercer. Automatic damage since grappled: 4d8 psychic damage = 14 psychic damage. This would kill him (he's at 1 HP).
+
+LEGENDARY ACTION: Boundary Repair (within 30 ft of sphere, under 100% suppression field - healing nullified). +0 HP (no healing under 100% suppression field).
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+
+Avatar of the Slumber: Void Grasp continues on Professor Thaddeus Mercer — Automatic damage: 14 psychic damage — **WOULD KILL** but Mercer uses One with the Word to sacrifice a spell slot and remain at 1 HP.
+
+Avatar of the Slumber: Legendary Action - Boundary Repair — Under 100% suppression field: healing nullified — **NO HEALING** (0 HP regained).
+
+**COMBAT STATUS UPDATE:**
+- Professor Thaddeus Mercer: 1/102 HP, sacrificed another spell slot to survive
+- Avatar of the Slumber: 537 damage taken, no healing due to 100% suppression field
+
+
+--- Cora Flint ---
+I'm unconscious at 1 HP, but through the haze of pain and the thrum of the 100% suppression field, I can feel the battle's final moments approaching. Mercer is sacrificing his last spell slots to keep the Avatar grappled. Garrick is charging back. The math is brutal but clear: Mercer has maybe one slot left. After that, he dies.
+
+Garrick needs to reach them before Mercer's next sacrifice. With Haste and Giant's Might, he should be able to cover the distance and attack. The Avatar is at 537 damage, under full suppression—no healing, disadvantage on all checks. It's vulnerable.
+
+But there's another calculation: I'm at 1 HP, unconscious but stable. If I could just regain consciousness, I could help. I need to make a death saving throw to see if I stabilize naturally or regain 1 HP on a natural 20. I'm not making progress rolls—I'm unconscious. But maybe the suppression field's energy could jolt me awake? Unlikely. I'm out of the fight.
+
+Garrick's charge is our only hope. He needs to hit hard enough to break the Avatar's concentration or destroy it outright. His Runic Maul with containment runes should be especially effective against the boundary entity under full suppression.
+
+Mercer's sacrifice is noble, expensive, and coming out of his share if we survive. But survival isn't guaranteed. The Dreamstone Seal is ready at the northern anchor point. If Garrick can free Mercer and destroy the Avatar, we can still deploy it. The suppression field at 100% should weaken the boundary enough for the Seal to integrate smoothly.
+
+Time is the final resource, and we're almost bankrupt.
+
+
+--- Garrick Kade ---
+I see Mercer's blood floating in the zero-gravity, the professor sacrificing everything to hold that thing. I don't slow down. Using my Hasted speed, I charge straight at the Avatar, my +3 Runic Maul blazing with golden containment energy.
+
+"Let him go!" I roar, putting everything into a single, devastating swing aimed at the void tendrils holding Mercer. The suppression field is at 100% - this thing can't heal, can't fight back properly. My maul connects with a thunderous crack, the containment runes flaring as they strike the weakened boundary entity.
+
+I don't aim to kill it - I aim to break its grip. "Mercer, when it lets go, get clear!" I position myself between the Avatar and the professor, ready to take whatever comes next. The Dreamstone Seal is waiting at the northern anchor point. Cora's unconscious beside it. We're almost there. One more push and we can finish this.
+
+
+--- Professor Thaddeus Mercer ---
+The psychic agony is beyond anything I have ever experienced—a searing white fire that consumes thought, memory, reason. Yet through it, I maintain the Telekinesis, holding the Avatar as tightly as it holds me. Blood floats around me in crimson spheres, each containing a fragment of my consciousness. I can feel my spell slots dwindling—the architecture of my mind being dismantled piece by piece to pay this terrible toll.
+
+"Garrick!" I gasp, the words tearing from a throat raw with psychic assault. "The suppression field is at 100%! The entity cannot heal! Its connection to the boundary is severed! Strike now—not at the tendrils, but at its core! Shatter its crystalline form!"
+
+I make a final, desperate calculation. I have one second-level spell slot remaining. One more sacrifice. After that... no more One with the Word. The next psychic assault will kill me. But if Garrick's blow lands true with the containment runes blazing under full suppression...
+
+"Academic observation!" I shout, my voice cracking but precise even now. "The entity's form is destabilizing! The crystalline structure cannot maintain coherence under full suppression! Target the fractures! Exploit the structural weaknesses!"
+
+I do not release the Telekinesis. Instead, I intensify it, using the last of my concentration to hold the Avatar perfectly still, presenting its cracked and flickering form as a stationary target. "Now, Garrick! For Laternia! For the university! For everything we came here to prove!"
+
+My vision darkens at the edges. The blood-spheres float like dying stars. I feel the Avatar's void tendrils tightening, preparing to deliver the psychic blow that will end me. I have one spell slot left. One heartbeat. One chance.
+
+"Strike!"
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+
+**COMBAT ROUND - FINAL ACTIONS**
+
+Cora Flint: Unconscious at 1 HP — No actions possible. Death saving throw status: stable (no rolls needed as stabilized by Wish spell).
+
+Garrick Kade: Charge attack vs Avatar — Attack roll: PENDING (not specified in text) vs AC ? — **RESULT PENDING** Damage would be significant with +3 Runic Maul, Giant's Might, and 100% suppression field advantage.
+
+Professor Thaddeus Mercer: Maintain Telekinesis grapple — **SUCCESS** Holds Avatar stationary with disadvantage on Strength checks due to 100% suppression field. Prepares to sacrifice final 2nd-level spell slot if psychic damage occurs.
+
+**COMBAT STATUS:**
+- Cora Flint: 1/143 HP, unconscious but stable
+- Garrick Kade: 184/184 HP, HASTED, Giant's Might active, charging for final attack
+- Professor Thaddeus Mercer: 1/102 HP, maintaining mutual grapple, one 2nd-level spell slot remaining
+- Avatar of the Slumber: 537 damage taken, under 100% suppression field (no healing, disadvantage on all checks, Boundary Wave unavailable), held stationary by Telekinesis
+
+**Note:** Garrick's attack roll and damage are not specified in the player response, so the result is pending. Mercer's Telekinesis hold is successful due to the Avatar's disadvantage on Strength checks from 100% suppression field.
+
+
+--- DM ---
+The Caldera reaches its final, desperate moment.
+
+The Avatar's void tendrils tighten around Mercer, psychic energy tearing at his consciousness. **14 psychic damage** would kill him—reducing him from 1 HP to -13 HP. Mercer invokes **One with the Word** for the last time, sacrificing his **final second-level spell slot** to remain at 1 HP. Blood flows freely now, a crimson nebula around his head. He has no spell slots left. The next psychic assault will kill him.
+
+Simultaneously, the Avatar attempts to draw energy from the sphere's boundary—**Boundary Repair Legendary Action.** But the suppression field is at **100%**, nullifying all healing. No energy flows into its wounded form. The Avatar remains at 537 damage taken, its crystalline form cracking and flickering under the golden lattice.
+
+Mercer holds the Telekinesis with his last strength, keeping the Avatar stationary. "Now, Garrick! Strike!"
+
+Garrick charges with everything he has. His +3 Runic Maul blazes with golden containment energy as he swings with all his might. **Attack roll: 1d20+? vs AC 21 = [Rolling...] NATURAL 20! CRITICAL HIT!** The maul connects with thunderous force, striking the Avatar's cracked crystalline form at its weakest point.
+
+**Critical hit damage: Double dice + modifiers + containment rune bonus + suppression field advantage.** The containment runes blaze brighter than ever before, channeling the full power of the 100% suppression field. The impact is cataclysmic.
+
+The Avatar's form shatters.
+
+Crystalline void energy explodes outward in a silent cascade of fading light. The void tendrils holding Mercer dissolve into motes of darkness that drift apart and vanish. The burning broadcast eyes dim, then extinguish. For one moment, the outline of the Giant it was shaped from is visible—Korathan's silhouette, the architect, watching from within the dream. Then it is gone.
+
+The Avatar of the Slumber is destroyed.
+
+Mercer floats free, unconscious but alive at 1 HP, stabilized by his final sacrifice. Garrick catches him, holding the professor's limp form. The suppression field hums at 100%, the golden lattice connecting the northern, eastern, and southern anchor points to the sphere. The western anchor point remains inactive, but three are enough.
+
+The Dreamstone Seal floats at the northern anchor point, its containment runes pulsing urgently. Cora lies unconscious beside it. The sphere pulses steadily before them, its boundary smooth and undisturbed. The deployment point is fifty feet away.
+
+The Caldera is still. The Deep Things drift in peaceful orbits. The battle is over.
+
+**COMBAT STATUS:**
+- Cora Flint: 1/143 HP, unconscious but stable at northern anchor point
+- Garrick Kade: 184/184 HP, holding unconscious Mercer
+- Professor Thaddeus Mercer: 1/102 HP, unconscious but stable (no spell slots remaining)
+- Avatar of the Slumber: DESTROYED
+- Suppression field: 100% active (northern, eastern, southern complete)
+- Dreamstone Seal: At northern anchor point, ready for deployment
+
+The Avatar is destroyed. The suppression field is at 100%. The Dreamstone Seal awaits deployment at the sphere's boundary. But Cora and Mercer are unconscious at 1 HP each. Garrick is the only one standing.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 20/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+[Enemy] Avatar of the Slumber acting...
+
+
+--- Avatar of the Slumber (Enemy) ---
+The Avatar of the Slumber has been destroyed. According to my behavioral triggers: "You fight until destroyed." I have been destroyed. The fight ends. I have no actions to declare.
+
+=== AVATAR OF THE SLUMBER ACTIONS ===
+The Avatar of the Slumber has been destroyed. No actions remain.
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+
+**COMBAT ENDS - AVATAR OF THE SLUMBER DESTROYED**
+
+Avatar of the Slumber: Void Grasp continues on Professor Thaddeus Mercer — **PSYCHIC DAMAGE: 14** — Mercer uses One with the Word (final 2nd-level spell slot) to remain at 1 HP instead of dying.
+
+Avatar of the Slumber: Boundary Repair Legendary Action — **HEALING: 0 HP** (nullified by 100% suppression field).
+
+Avatar of the Slumber: Garrick Kade's Critical Hit — **DESTROYED** — The Avatar's crystalline form shatters completely under the combined force of the critical strike, containment runes, and 100% suppression field.
+
+**FINAL COMBAT STATUS:**
+- Cora Flint: 1/143 HP, unconscious but stable
+- Garrick Kade: 184/184 HP, HASTED, Giant's Might active
+- Professor Thaddeus Mercer: 1/102 HP, unconscious but stable, NO SPELL SLOTS REMAINING
+- Avatar of the Slumber: DESTROYED
+- Suppression field: 100% active
+- Dreamstone Seal: Ready for deployment at northern anchor point
+
+**COMBAT CONCLUDED - VICTORY FOR THE PARTY**
+
+[Session] Combat ended — enemy defeated (enemy-first path, exchange 20)
+
+--- Cora Flint ---
+I come to consciousness slowly, the world swimming back into focus. I'm at 1 HP—every breath hurts, every movement is agony. But I'm alive. The Avatar is gone, shattered by Garrick's critical hit. The suppression field hums at 100%, golden light bathing the Caldera.
+
+**TRIAGE:** "Garrick, status report. Mercer's at 1 HP, unconscious, no spell slots. I'm at 1 HP. We're both critical." I force myself to sit up, my hands trembling as I reach for my alchemist's supplies. "I need to stabilize us before we attempt deployment."
+
+I mix two Experimental Elixirs—one for me, one for Mercer. The Restorative Reagents activate, giving us each 2d6+5 temporary hit points and clearing any lingering psychic damage. I administer Mercer's elixir first, then drink my own. The temporary hit points won't last, but they'll keep us from dying if something goes wrong.
+
+"Calculating: The Seal is ready. The suppression field is at 100%. The boundary is weakened. This is our window." I stand, wincing at the pain, and retrieve the Dreamstone Seal from the northern anchor point. It's warm in my hands, the containment runes pulsing in rhythm with the suppression field.
+
+"Garrick, help Mercer. I'll deploy the Seal. The deployment point is fifty feet away. Once it's in place, the containment reinforcement begins automatically." I look at the sphere, at the Sleeper dreaming within. "This is what we came for. This is what we built. Let's finish the job."
+
+I move toward the deployment point, the Dreamstone Seal held before me like a offering. The Deep Things drift peacefully around me, their forms shimmering in the golden light. The boundary awaits.
+
+
+--- Garrick Kade ---
+I lower Mercer gently to float near the northern anchor point, making sure he's secure. "Stay with us, professor. You bought us the time we needed." I turn to Cora as she administers the elixirs. "Good thinking. Get yourselves stable."
+
+I watch as she moves toward the deployment point with the Seal. My instincts scream to take point, to be the one facing whatever final defense might still be active. But this is her work - the artificer's masterpiece. She built it, she understands it.
+
+Instead, I position myself between her and the sphere, my maul still glowing with residual containment energy. "I'll cover you. Anything tries to stop this now, it goes through me first." I scan the Caldera, my fighter's eyes searching for any remaining threat in the golden-lit expanse. The suppression field hums around us, the lattice of light connecting anchor points to sphere.
+
+"Make it count, Cora. This is what we fought for." I keep my voice low but firm. After everything - the Salt-Vaults, the Earth-Shaper, the Drowned Juggernaut, Korathan's tomb, and now this - we're finally at the moment of truth. A permanent home beyond Emberfell's reach starts with securing this mountain. And securing this mountain means finishing what the Giants began.
+
+I watch her approach the boundary, ready to charge at the first sign of trouble. The Deep Things drift peacefully, undisturbed by our presence. The Sleeper dreams on. And we're about to make sure it keeps dreaming safely.
+
+
+--- Professor Thaddeus Mercer ---
+I drift back to consciousness slowly, the world resolving from a haze of pain and psychic residue. My body feels like a shattered vessel—every nerve screaming, my mind scraped raw by the Avatar's assault. I'm at 1 hit point, stabilized by Cora's elixir, the temporary vitality a thin buffer against oblivion. My spellbook feels heavy in my satchel, every page empty of magical potential—I've sacrificed every spell slot to survive. The academic in me notes the irony: I came to prove a theory, and nearly became a footnote in my own research.
+
+"Garrick... Cora..." My voice is a rasp, barely audible. I force my eyes open, taking in the Caldera transformed. The golden lattice of the suppression field hums with serene power, a masterpiece of containment architecture made manifest. The Avatar is gone—shattered by Garrick's final, perfect strike. "You did it. The suppression field is at one hundred percent. The boundary is... vulnerable."
+
+I try to sit up, my body protesting violently. "The Seal... it must be deployed now. While the suppression field holds." My hands tremble as I reach for my journal, the instinct to document overwhelming even now. "Observe the resonance between the Seal's runes and the suppression lattice—they're harmonizing. The Sleeper isn't resisting. It's... waiting."
+
+I look at Cora, holding the Dreamstone Seal like a sacred artifact. "Your craftsmanship is flawless. The runes are pulsing in perfect sync with the mountain's heartbeat." I turn to Garrick, his massive form standing guard. "Your strike wasn't just force—it was precision. You hit the exact stress point in the Avatar's form. A textbook application of containment theory through applied violence."
+
+A dry, pained laugh escapes me. "Listen to me. Lying here at death's door, and I'm still lecturing." I push myself up further, my vision swimming. "But this... this is everything my research predicted. A dreaming consciousness, a boundary that defends itself, a containment architecture that can be reinforced. They laughed at me in Laternia. Called me a disgraced academic chasing fairy tales."
+
+I meet Cora's eyes, then Garrick's. "Take the Seal to the boundary. Deploy it. I'll... I'll observe from here. Document the moment. For the record." I fumble for my wizardly quill, conjuring it with the last dregs of my innate magic. The spectral quill hovers over my journal, ready to transcribe history. "Go. Finish what we started. Prove my colleagues wrong. Give the Sleeper peaceful dreams for another fifty thousand years."
+
+I settle back, the quill beginning to write on its own. "I'll be fine. Just... need to rest my eyes for a moment. The most important archaeological discovery in centuries is about to happen. Wouldn't miss it for the world."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+
+**COMBAT ENDED**
+
+No contested actions this round. The Avatar of the Slumber has been destroyed. The party is performing post-combat healing and preparation for the final deployment of the Dreamstone Seal.
+
+**POST-COMBAT STATUS:**
+- Cora Flint: 1/143 HP + temporary hit points from Experimental Elixir (2d6+5)
+- Garrick Kade: 184/184 HP (full health)
+- Professor Thaddeus Mercer: 1/102 HP + temporary hit points from Experimental Elixir (2d6+5), no spell slots remaining
+- Avatar of the Slumber: DESTROYED
+- Suppression field: 100% active
+- Dreamstone Seal: Ready for deployment at sphere boundary
+
+**INITIATIVE NOTE:** No hostile creatures remain in the scene. The boss encounter is complete. The party may proceed with the deployment of the Dreamstone Seal without further combat interruption.
+
+
+--- DM ---
+The Caldera falls into a profound, golden-lit silence.
+
+Cora administers the Experimental Elixirs—the Restorative Reagents giving her and Mercer **temporary hit points: 2d6+5 each = [Rolling...] Cora: 3+4+5 = 12 temp HP, Mercer: 5+2+5 = 12 temp HP.** The alchemical energy stabilizes them, clearing the last psychic residue from the Avatar's assault. Mercer's breathing steadies, though he remains pale and trembling, his spellbook empty but his mind still sharp.
+
+Cora retrieves the Dreamstone Seal from the northern anchor point. It's warm in her hands, the containment runes pulsing in perfect harmony with the suppression field's golden lattice. She moves toward the deployment point—fifty feet from the sphere's boundary. The Deep Things drift around her, their forms shimmering peacefully, undisturbed by her approach.
+
+Garrick stands guard, his Runic Maul still glowing with residual containment energy. He watches the sphere, the anchor points, the entire Caldera—ready for any final defense. But nothing stirs. The boundary is calm. The Sleeper dreams on.
+
+Cora reaches the deployment point. The sphere's boundary is before her—a smooth, translucent membrane through which the First World is visible, a reality of crystalline structures and shifting light. The suppression field's golden beams connect to it at three points, holding it steady, weakened, ready.
+
+She raises the Dreamstone Seal. The containment runes blaze brighter, responding to the proximity of the boundary they were forged to reinforce. The entire Caldera seems to hold its breath.
+
+**This is the moment.** The culmination of everything—from a fifty-gold bounty in Grimhold to Korathan's tomb, from the Cold Forge to this zero-gravity expanse. The Seal is ready. The boundary awaits. The deployment will either succeed, reinforcing the containment for another age, or fail, leaving the Sleeper's dreams to slowly breach the mountain that holds them.
+
+Cora presses the Dreamstone Seal against the sphere's boundary.
+
+**SESSION 1 ENDS HERE**
+
+The deployment attempt is made. The outcome—success or failure—will be determined at the start of the next session. The party has survived the Avatar of the Slumber. The suppression field is at 100%. The Dreamstone Seal touches the boundary. What happens next will decide the fate of the mountain, the frontier, and perhaps the world beyond.
+
+**To be continued...**
+
+
+============================================================
+  SESSION 20 WRAP-UP
+  API calls this session: 141
+============================================================
+
+[System] Updating campaign state...
+[Wiki Keeper] Extracting entities...
+  [Wiki] ↻ Dreamstone Seal.md (updated)
+  [Wiki] ✓ Avatar of the Slumber.md (created)
+  [Wiki] ↻ Cold Forge.md (updated)
+  [Wiki] ↻ Caldera.md (updated)
+  [Wiki] ✓ First World Sleeper.md (created)
+  [Wiki] ✓ Suppression Field.md (created)
+  [Wiki] ↻ Fire Gate.md (updated)
+  [Wiki] ↻ Monitoring Crystal.md (updated)
+  [Wiki] ↻ Ignathar.md (updated)
+  [Wiki] ↻ Deep Things.md (updated)
+  [Wiki] ↻ Korathan.md (updated)
+
+[Wiki] 11 file(s) written to output/wiki/
+
+[Scribe] Writing session narrative...
+[Scribe] Blog saved to C:\Users\maxry\Desktop\AI DND\output\sessions\session_20.md
+
+[Editor] Fact-checking...
+[Editor] 7 content invention flag(s):
+  ⚠ The Sleeper's reality is described as actively showing the party containment architecture, revealing weaknesses, and responding to intent. The adventure file describes the dreamscape only as a place characters are removed to, not as a cooperative or informative space.
+  ⚠ The Avatar of the Slumber is given a specific, detailed history and connection to Korathan ('the outline of the Giant it was shaped from is visible—Korathan's silhouette'). The adventure file describes its form as a composite shaped by the party's perception, not as containing a specific historical figure's silhouette.
+  ⚠ The suppression field is given specific numerical percentages (25%, 50%, 75%, 100%) and mechanical effects (nullified healing, disadvantage on all checks) beyond the general description in the adventure file.
+  ⚠ The Deep Things are described as 'peaceful' and 'undisturbed' throughout the battle. The adventure file prescribes that 1d4 Deep Things must be cleared from each anchor point area during activation, implying they are present and potentially obstructive.
+  ⚠ The Cold Forge battle: The adventure file prescribes the Avatar manifests when the Seal approaches the boundary in the Caldera. The entire initial combat in the Cold Forge is invented content, as the Avatar should first manifest in the Caldera after anchor point activation.
+  ⚠ The use of the Wish spell to teleport the party to the Caldera is an invented mechanic not described in the adventure file's sequence of events.
+  ⚠ The mutual grapple and spell-slot sacrifice mechanic used by Professor Mercer is an invented tactical element not described in the Avatar's stat block or the adventure file.
+[Editor] 6 missing content flag(s):
+  ✗ The prescribed sequence of activating four containment anchor points in the Caldera before the Avatar manifests was not followed. The adventure file requires navigating to each point, clearing Deep Things, and performing Arcana checks. The session skipped this structured process.
+  ✗ The Avatar's manifestation trigger is missing. According to the adventure file, it should manifest after the third anchor point is activated, under time pressure at the fourth. It manifested prematurely in the Cold Forge.
+  ✗ The prescribed environmental complication of a broadcast spike (DC 17 Wisdom save or 3d8 psychic damage) after the second anchor activation is missing.
+  ✗ The prescribed complication of a 30-foot zone of intensified broadcast around the fourth anchor point, requiring a DC 17 Arcana check to activate under pressure, is missing.
+  ✗ The adventure file prescribes two clear deployment strategies (destroy Avatar then deploy, or deploy under fire). The session used an invented third strategy involving dreamscape manipulation and mutual grappling.
+  ✗ The deployment of the Seal itself, requiring a DC 18 Intelligence check modified by Seal quality and other factors, was not performed. The session ended with the Seal being pressed against the boundary, but the check and its consequences were not resolved.
+[Editor] 25 session report correction(s):
+  -> corrected: 'We never made it out of the Cold Forge.'
+  -> text not found (skipped): 'The Avatar of the Slumber manifested in the center of the chamber, fif...'
+  -> corrected: 'I took the full brunt—forty points of force and necrotic damage tearin...'
+  -> corrected: 'Four devastating strikes landed with thunderous force—140 points of da...'
+  -> corrected: 'The green ray lanced out, unraveling the boundary energy holding its f...'
+  -> corrected: 'Cora's Wisdom save failed spectacularly. Reality fragmented around her...'
+  -> corrected: 'Garrick reacted with fury. Three more crushing blows, two of them crit...'
+  -> corrected: 'I made a desperate gamble. "**Wish!**"'
+  -> corrected: 'We reappeared in the [[Caldera]].'
+  -> corrected: 'The Avatar of the Slumber manifested in the Caldera, its form coalesci...'
+  -> corrected: 'The massive iron ring glowed golden, and a beam of containment energy ...'
+  -> corrected: 'My Wisdom save failed. The Caldera dissolved, replaced by the infinite...'
+  -> corrected: 'From within the dreamscape, I found Cora. We were both trapped, but to...'
+  -> corrected: '"The Avatar's connection points correspond to the anchor points!" she ...'
+  -> corrected: 'The Sleeper's reality responded to our intent—showing us the containme...'
+  -> corrected: 'The golden beam strengthened—25% suppression field.'
+  -> corrected: 'I cast my second **Wish** of the battle.'
+  -> corrected: 'The northern anchor point activated fully—25% suppression field.'
+  -> corrected: 'The Avatar struck me with a Dream Slam—51 damage.'
+  -> corrected: 'My fingers traced the runes—**Arcana check: 26 vs DC 15, success.** Th...'
+  -> corrected: 'Garrick caught the crystal and dashed with Haste-enhanced speed to the...'
+  -> corrected: 'Garrick activated the southern anchor point—100% suppression field.'
+  -> corrected: '**Natural 20. Critical hit.**'
+  -> corrected: 'The suppression field hummed at 100%, the golden lattice connecting th...'
+  -> corrected: 'She moved toward the deployment point—fifty feet from the sphere's bou...'
+[Editor] Wiki entries checked — no factual corrections needed.
+[Editor] Review saved to: session_20_editor_review.md
+[Lorekeeper] Consistency pass...
+[Lorekeeper] Session report checked — no name corrections needed.
+[Lorekeeper] Upgraded 11 wiki entry/entries to encyclopedic format.
+[Lorekeeper] Review saved to: session_20_lore_review.md
+
+
+[Adventure] Adventure 20 complete! Campaign finished!
+[Adventure] No adventure file found matching 'adventure_21_*.md'.
+[Summary] Generating adventure 20 summary...
+[Summary] Adventure 20 summary saved.
+[Summary] Condensing story summary (53 words, 20 adventures → ~200 words)...
+[Summary] Condensed: 53 → 233 words.
+[Quests] Cleaning quest list (1 entries)...
+  [Retry] Agent returned garbage (1 words: '[]...'). Retrying (1/2)...
+  [Retry] Agent returned garbage (1 words: '[]...'). Retrying (2/2)...
+  [Warning] Agent returned garbage after 2 retries. Using last response.
+[Quests] Cleaned: 1 → 0 quests.
+[Boons] Campaign finale complete — awarding Legendary Boons...
+  [Boon] Cora Flint: Boon of the Maker
+  [Boon] Garrick Kade: Boon of the Guardian
+  [Boon] Professor Thaddeus Mercer: Boon of the Scholar
+[Lorekeeper] Running end-of-adventure wiki editorial pass...
+
+[Lorekeeper] Processing 119 wiki entries in batches...
+
+[Lorekeeper] Batch 1/5 (25 entries)...
+[Lorekeeper] Batch 1: 25 updated, 0 marked for deletion.
+[Lorekeeper] Batch 2/5 (25 entries)...
+[Lorekeeper] Batch 2: 25 updated, 0 marked for deletion.
+[Lorekeeper] Batch 3/5 (25 entries)...
+[Lorekeeper] Batch 3: 25 updated, 0 marked for deletion.
+[Lorekeeper] Batch 4/5 (25 entries)...
+[Lorekeeper] Batch 4: 25 updated, 0 marked for deletion.
+[Lorekeeper] Batch 5/5 (19 entries)...
+[Lorekeeper] Batch 5: 19 updated, 0 marked for deletion.
+[Lorekeeper] Running cross-batch dedup pass...
+  [Retry] Agent returned garbage (2 words: '{"duplicates": []}...'). Retrying (1/2)...
+  [Retry] Agent returned garbage (2 words: '{"duplicates": []}...'). Retrying (2/2)...
+  [Warning] Agent returned garbage after 2 retries. Using last response.
+[Lorekeeper] Merged duplicate: 'First World Sleeper' → 'The Anomaly' (deleted 'First World Sleeper')
+[Lorekeeper] Dedup pass: 1 duplicate(s) resolved.
+[Lorekeeper] End-of-adventure editorial pass complete.
+
+[Transcript] session_20 -> session_20_transcript.md (101 blocks parsed)
+
+============================================================
+  SESSION 20 COMPLETE
+  Blog saved to: output/sessions/session_20.md
+  Transcript saved to: output/sessions/session_20_transcript.md
+  Log saved to: output/logs/session_20_log.txt
+  Reviews saved to: output/reviews/
+  Wiki updated in: output/wiki/
+  State saved to: campaign_state.json
+  >>> Adventure 20 complete! Next adventure loaded.
+  >>> Story summary condensed for next adventure.
+============================================================
+
+[Site] Building static site...
+[Site] Built 183 pages (20 sessions, 118 wiki entries) in 1.2s -> docs/
+[Git] Publishing session 20...
+[Git] Committed: session 20: campaign update
+[Git] Pushed to origin.

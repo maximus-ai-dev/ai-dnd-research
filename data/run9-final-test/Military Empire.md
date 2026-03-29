@@ -1,0 +1,1 @@
+The **Military Empire** was a penultimate human civilization that occupied the [[Asymmetrical Mountain]], building its monumental architecture directly atop older dwarven ruins. Known for its conquest and regimented construction, the Empire's lower levels contain archives and relic basements. Its building practices contributed to structural instability in the deeper layers.

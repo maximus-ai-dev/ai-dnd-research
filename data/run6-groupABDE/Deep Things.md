@@ -1,0 +1,7 @@
+**Deep Things** are anomalous entities that manifest within the [[Caldera]], the chamber containing the [[First World Sleeper]]. They are emergent phenomena composed of crystallized void energy and are native to the zero-gravity environment.
+
+## Description and Behavior
+Deep Things typically appear as floating, shifting polyhedra roughly three feet across. They move effortlessly through the Caldera, exhibiting curious and investigative behavior. They are drawn to sources of energy or disruption within their environment, such as the opening of the [[Fire Gate]] or the forging of the [[Dreamstone Seal]]. While not inherently aggressive, their incidental [[Void Touch]] can inflict significant force damage.
+
+## Nature and Origin
+Deep Things are reactive manifestations, likely crystallized fragments influenced by the Sleeper's dreaming broadcast. Their behavior shifts in response to changes in the Caldera's stability or the Sleeper's containment field. During the forging of the Dreamstone Seal, their orbits changed, and they converged on the staging position to investigate. At the precise moment the Seal was completed and its frequency harmonized with the sphere, every Deep Thing in the Caldera froze in place for a single, simultaneous heartbeat before resuming their movements.

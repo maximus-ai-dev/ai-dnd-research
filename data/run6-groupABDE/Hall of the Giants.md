@@ -1,0 +1,1 @@
+The **Hall of the Giants** is a massive chamber within the surface fortress of the [[Asymmetrical Mountain]]. It contains the [[Giant stairway]], a monumental staircase that descends into the [[Dwarven Layer]] below.

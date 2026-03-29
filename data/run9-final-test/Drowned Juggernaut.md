@@ -1,0 +1,4 @@
+The **Drowned Juggernaut** was a salvaged vessel discovered by the party in the flooded lower levels of the [[Asymmetrical Mountain]].
+
+## Significance
+Adamantine plating salvaged from the Juggernaut's chassis provided the raw material for several critical projects. This unworked adamantine ore was shaped at the [[Cold Forge]] during an intermission and later used to create the structural casing for the [[Dreamstone Seal]]. Under the guidance of [[Cora Flint]], [[Garrick Kade]] shaped these plates into a precisely fitted spherical shell to house and protect the Seal's Dreamstone core and rune matrix during the forging process and its eventual deployment.

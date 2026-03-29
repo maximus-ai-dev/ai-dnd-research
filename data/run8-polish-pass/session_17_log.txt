@@ -1,0 +1,1282 @@
+=== Session Log — 2026-03-28T00:04:47.917942 ===
+
+[Log] Raw terminal output being saved to: C:\Users\maxry\Desktop\AI DND\output\logs\session_17_log.txt
+
+
+============================================================
+  SESSION 17 BEGINNING
+  Adventure 17: The Gravity Well
+  Adventure Session: 1/1
+  Models: All DeepSeek
+  Exchanges: 20 (full session)
+============================================================
+
+[Session] Enemy agents created: Deep Thing Manifestations
+[Session] Enemy acts AFTER PCs (PC-initiated)
+
+[DM] Opening scene...
+
+
+--- DM ---
+The air in the Prospectors' Guild is thick with woodsmoke and the scent of hot metal. For three days, Grimhold has been a sanctuary — warm beds at the Second Wind Inn, hearty stew, and the simple comfort of walls that don't hum with ancient containment fields. Cora spent her time at the Griffon's Hold, trading technical schematics for lead-lined cases and reinforced climbing gear. Garrick sharpened his maul at the town smithy, the rhythmic clang of hammer on steel a meditation before the descent. Mercer pored over the Architect's Codex in his rented room, cross-referencing Korathan's notes with the monitoring crystal data, his quill scratching late into the night.
+
+Now, standing before Reyna Steelforge's desk, the party is ready. The Capstone Resonator hums softly in its lead-lined case, charged and calibrated. The Dreamstone Circlets rest in velvet-lined boxes, their crystalline surfaces catching the morning light filtering through the Guild's high windows. The Reality Anchor — Cora's masterpiece — is a compact sphere of interlocking brass rings, dormant but ready to define "down" in a place where gravity has forgotten its purpose.
+
+Reyna slides a heavy leather satchel across the desk. "Final shipment from the mines," she says, her voice low and serious. "High-grade lead sheeting, purified quartz lenses, and the last of the Dreamstone dust you requested. The engineers have finished reinforcing the access passage through the capstone — it's sealed, airlocked, and lined. When you go through, nothing follows you back up." She meets each of their eyes. "This is it, then. The final descent."
+
+The journey back to the Asymmetrical Mountain is quiet. The Starmetal Hills are windswept and empty under a slate-gray sky. The peak looms ahead — no longer just a mountain, but a layered fortress containing fifty thousand years of desperate engineering. At the summit, the repaired capstone gleams with fresh runes. Cora's team of Grimhold engineers stand ready at the airlock controls. The passage through the capstone — ten feet of solid, lead-lined stone — waits, sealed and silent.
+
+**The airlock opens downward.** Warm air washes over you, carrying no scent, no moisture, just a strange, ambient warmth that seems to come from everywhere at once. A faint, sourceless light illuminates the passage — not torchlight, not runelight, but a diffuse glow that casts no shadows. The metallic sweetness of Dreamstone radiation is gone. Here, at the threshold, the atmosphere is something else entirely.
+
+Before you stretches the first fifty feet of the Threshold — a curved corridor descending into the mountain's heart, its walls covered in containment runes so densely packed they overlap, burning with golden light brighter than any you've seen before. Giant handholds are carved into the stone, ledges and grip points for beings twenty feet tall. Already, you can feel it: your weight is lessening with each step forward. By the time you reach the bottom of this passage, you'll weigh half what you should.
+
+Cora checks the Reality Anchor, her fingers tracing the activation runes. Garrick tests his grip on a Giant handhold, his maul humming with anticipation. Mercer adjusts his Dreamstone Circlet, the Architect's Codex open to the Caldera diagrams.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 1/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I run my fingers over the Reality Anchor's activation runes, feeling the subtle hum of stabilized reality within the brass sphere. "Hold position," I say, my voice clinical in the strange, shadowless light. "Before we proceed, we need to establish baseline measurements. The weight reduction is already noticeable—I'm estimating 10% loss per ten feet based on the gradient. Garrick, test your grip on those handholds again with reduced weight. Mercer, scan the containment runes for any degradation patterns."
+
+I pull out my ledger, making quick notes. "We're entering a controlled environment with artificial gravity. That means systems, maintenance points, and potential failure modes. I'm searching this threshold area first—those overlapping runes might conceal access panels or monitoring equipment."
+
+
+--- Garrick Kade ---
+I ignore Cora's "hold position" order and move forward, my boots already feeling lighter on the stone. "Measurements can wait," I grunt, testing my grip on one of the giant handholds. The stone feels solid under my fingers, even with my weight dropping. "If there's something waiting down there, I'd rather meet it before it knows we're coming."
+
+I heft my maul, feeling the familiar weight in my hands—though it's definitely lighter now. The golden runes on the walls burn bright, but my eyes are fixed on the descending corridor ahead. "Mercer, keep that book ready. Cora, watch our backs. I'm taking point."
+
+
+--- Professor Thaddeus Mercer ---
+I ignore both of them, my attention completely captured by the containment runes. "Wait," I say, my voice hushed with academic reverence. "Just... wait."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Search for access panels/monitoring equipment — 15 vs DC 13 — **SUCCESS** You spot subtle seams in the rune-covered walls that suggest maintenance access points.
+
+**Garrick Kade**: Test grip on giant handholds with reduced weight — 12 vs DC 10 — **SUCCESS** You find the handholds remain secure despite the weight reduction; your combat footing feels stable.
+
+**Professor Thaddeus Mercer**: Analyze containment runes for degradation patterns — 18 vs DC 13 — **SUCCESS** You identify the runes are in perfect condition, but notice they're arranged in a repeating fractal pattern that suggests a self-repairing system.
+
+
+--- DM ---
+Cora's trained eye catches what others might miss: between the overlapping golden runes, subtle seams trace rectangular patterns in the stone. Maintenance access points, designed for Giants but scaled with precision. She traces one with her finger — the seam is hair-thin, but it's there. "Access panels," she murmurs, making a quick sketch in her ledger. "Probably for rune recalibration or monitoring crystal replacement. The system was built to be maintained."
+
+Garrick ignores her, moving forward with deliberate steps. His boots feel unnaturally light, but when he grips a Giant handhold, the stone remains solid under his fingers. He tests his footing — shifting his weight, pivoting with his maul. The reduced gravity makes movement feel fluid, almost buoyant, but his combat stance remains stable. "It's manageable," he grunts, his eyes fixed on the descending curve ahead. "But we're not staying here."
+
+Mercer doesn't move at all. His magnifying glass hovers inches from the wall, his breath fogging the crystalline surface. "Perfect," he whispers. "Not just intact — perfect. Fifty thousand years, and there's no degradation. None." He traces the fractal pattern with a trembling finger. "Self-repairing. The runes aren't just containing; they're maintaining themselves. A closed system." He looks up, his eyes wide behind his spectacles. "This isn't a prison that's decaying. It's a machine that's been running flawlessly since before human civilization existed."
+
+The warmth in the air remains constant — not increasing, not decreasing. The sourceless light continues to glow, illuminating the curved corridor that descends into darkness. The weight reduction is now noticeable to all of you: you feel perhaps twenty percent lighter than you should. The Giant handholds continue down the wall, regular and precise, leading toward the Gradient where gravity will begin to rotate.
+
+Cora has identified maintenance access points. Garrick has confirmed stable footing in reduced gravity. Mercer has discovered the containment's self-repairing nature. The Threshold stretches before you, fifty feet of descending corridor before it transitions into the Gradient — where "down" becomes a relative concept.
+
+**What do you do?** Do you investigate the access panels? Continue descending immediately? Or prepare specific countermeasures before entering the Gradient's disorienting physics?
+
+
+────────────────────────────────────────
+  Exchange 2/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+"Maintenance access means schematics, tools, and possibly emergency protocols," I say, already examining the nearest panel with my Investigation check. "A self-repairing system this complex requires diagnostic interfaces. Mercer, your observation about perfection is correct—which means there should be monitoring data showing exactly how this system has maintained itself for fifty millennia."
+
+I trace the hair-thin seams with my thieves' tools, looking for release mechanisms. "Garrick, I know you want to charge ahead, but if we can access the maintenance logs, we might learn about the Gradient's specific parameters before we experience them firsthand. That's cheaper than trial-and-error with our bodies."
+
+I glance at my ledger, calculating. "Five minutes to attempt access. If successful, we gain operational intelligence. If not, we proceed with the Reality Anchor calibrated to my current gravity readings. Either way, we're not leaving potential intelligence behind—that's coming out of our operational efficiency."
+
+
+--- Garrick Kade ---
+"Five minutes," I growl, leaning against the wall with my maul resting on my shoulder. "But we're not standing here like targets." I keep my eyes on the corridor ahead, watching for movement in the shadowless light. The reduced weight makes me feel jumpy—like I could spring forward at any moment.
+
+I glance at the access panels Cora's examining. "Maintenance logs won't tell us what's waiting down there right now. A perfect system for fifty thousand years means nothing's broken in—but that doesn't mean nothing's waiting." I test my footing again, shifting my weight between the giant handholds. The buoyant feeling is strange, but I can work with it.
+
+"Mercer, keep watching those runes. If they change color or dim, that's our warning. Cora, make it quick. I don't like this hallway—too exposed, too quiet." My grip tightens on my maul as I scan the descending curve ahead, ready for whatever might come around that bend.
+
+
+--- Professor Thaddeus Mercer ---
+"Self-repairing, yes, but not autonomous," I say, my quill already scratching notes in the margin of the Architect's Codex. "A closed system requires monitoring, and monitoring requires data. Cora's correct—there should be diagnostic interfaces, but they won't be in Common or Dwarvish."
+
+I step closer to the runes, my magnifying glass catching the fractal patterns. "These are Giant containment runes, but they incorporate Dreamstone lattice structures. The maintenance access won't be mechanical—it'll be psychic. The Giants didn't use tools for calibration; they used thought."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Investigate maintenance access panel — 14 vs DC 13 — **SUCCESS** You find a subtle pressure-release mechanism that responds to precise touch rather than tools.
+
+**Garrick Kade**: Perception check watching corridor — 16 vs DC 13 — **SUCCESS** You notice the shadowless light creates unusual depth perception, but detect no movement or threats ahead.
+
+**Professor Thaddeus Mercer**: Arcana check on rune interface — 19 vs DC 16 — **SUCCESS** You confirm the maintenance interface is psychic-based, requiring mental connection rather than physical manipulation.
+
+
+--- DM ---
+Cora's fingers find the release mechanism — not a latch or lever, but a subtle depression in the stone that responds to precise pressure. The panel doesn't swing open; instead, the runes around it pulse with golden light, and a section of the wall becomes translucent, revealing crystalline structures within. Schematics appear in the air, projected in three-dimensional Giant script that rotates slowly. "Diagnostic interface," she breathes, her eyes scanning the floating diagrams. "System integrity: 100%. Containment field strength: maximum. Dreamstone lattice stability: optimal. No degradation in fifty thousand years."
+
+Garrick watches the descending corridor, his senses sharp. The shadowless light plays tricks — distances are hard to judge, and the curved wall seems to both recede and approach simultaneously. But he sees no movement, hears no sound beyond their own breathing. The silence is absolute. No wind, no dripping water, no distant machinery. Just the faint hum of the containment runes and the warmth that has no source.
+
+Mercer steps closer to the translucent panel, his magnifying glass forgotten. "Psychic interface," he confirms, his voice hushed. "The Giants didn't use tools here — they used thought. The maintenance logs aren't written records; they're memory crystals." He points to the crystalline structures visible through the stone. "Those store operational data. To access it, we'd need to..." He trails off, looking at his Dreamstone Circlet. "The Circlets might provide a bridge. But it would be direct mental contact with a system that's been running since before recorded history."
+
+The diagnostic display shows more than just status reports. A schematic of the Threshold and Gradient appears — the fifty-foot descent you're in, then the transition zone where gravity rotates. The schematic includes annotations in Giant script: warnings about disorientation, recommended tethering points, and a notation about "anchor deployment before Gradient entry." The system is literally telling you how to navigate it safely.
+
+But there's something else. A secondary display flickers to life — not part of the maintenance interface, but something older. It shows a real-time energy reading from deeper below. The numbers are in Giant units, but the pattern is clear: a steady, rhythmic pulse of energy emanating from the Caldera's center. The Sleeper's broadcast, measured and quantified by the containment's monitoring systems.
+
+**What do you do?** The maintenance interface offers valuable intelligence about the Gradient ahead. Mercer believes the Dreamstone Circlets might allow mental access to the system's memory crystals. The real-time energy readings show the broadcast's steady pulse. And Garrick watches an empty, silent corridor that feels anything but safe.
+
+Do you attempt to access the memory crystals? Continue descending with the schematic's guidance? Or move forward immediately, trusting your preparations over ancient data?
+
+
+────────────────────────────────────────
+  Exchange 3/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+"Mental contact with a fifty-thousand-year-old system is a calculated risk," I say, studying the energy readings. "But those memory crystals could contain operational logs, failure histories, and maintenance protocols we can't get anywhere else." I make a quick notation in my ledger. "Mercer, you're the expert on psychic interfaces. What's the risk assessment? Can the Dreamstone Circlets provide a filtered connection?"
+
+I point to the schematic. "The system is literally telling us to deploy anchors before entering the Gradient. That's not a suggestion—it's a safety protocol. We'll follow it." I activate the Reality Anchor, feeling its stabilizing field establish a localized 'down' direction. "Garrick, secure tethers to the handholds. If gravity starts rotating, we don't want anyone floating off into the void."
+
+I look at the energy pulse readings. "That steady rhythm is concerning. It means the Sleeper's broadcast is consistent, not erratic. Mercer, if you attempt the interface, I want you monitoring for any psychic feedback. I'll stand by with a Healing Word ready—that's coming out of our emergency medical budget."
+
+
+--- Garrick Kade ---
+I grunt in acknowledgment and start securing a tether to one of the giant handholds, testing the knot with a sharp tug. "Anchor's smart," I say, watching the Reality Anchor hum to life. "But mental contact with something that old?" I shake my head. "That's how you get your brain scrambled."
+
+I keep one eye on the corridor ahead while I work. "Mercer, if you're going to poke that ancient mind, make it quick. Cora's right about the safety protocols—we follow them. But I don't like standing here while that energy pulse keeps ticking like a heartbeat."
+
+My maul stays in my hands as I finish securing the tether. "I'll watch the hallway. Anything comes around that curve, I'll meet it before it reaches you two." I position myself between my companions and the descending passage, my feet planted wide in the strange, buoyant gravity. The steady pulse from below feels like a countdown, and every instinct tells me we're being watched.
+
+
+--- Professor Thaddeus Mercer ---
+"The risk is acceptable," I say, my voice trembling with academic excitement I'm trying to suppress. "The Dreamstone Circlets were designed precisely for this—to interface with Giant psychic technology without direct mental contact. They're filters, not conduits."
+
+I adjust my circlet, feeling the crystalline surface warm against my forehead. "The memory crystals won't contain consciousness, just data. Operational logs, maintenance schedules, containment protocols. Think of it as reading a very old, very well-organized library." I glance at the energy pulse readings. "And that steady rhythm? That's actually reassuring. Erratic pulses would indicate system instability. This shows the containment is working as designed—measuring, monitoring, containing."
+
+I take a deep breath. "I'll attempt a limited interface. Just surface-level data retrieval—operational parameters for the Gradient, historical maintenance records. No deep dives into the Sleeper's broadcast patterns." I look at Cora. "Have your Healing Word ready, but I doubt you'll need it. This is academic archaeology, not psychic combat."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Garrick Kade**: Secure tether to giant handhold — 13 vs DC 10 — **SUCCESS** You create a rock-solid anchor point that will hold even in rotating gravity.
+
+**Professor Thaddeus Mercer**: Attempt psychic interface with memory crystals — 17 vs DC 16 — **SUCCESS** You establish a stable connection and begin downloading surface-level operational data without psychic feedback.
+
+
+--- DM ---
+Garrick's tether snaps taut with a satisfying finality — the knot is secure, the handhold immovable. He stands ready, maul in hand, watching the empty corridor where the shadowless light creates impossible depth. The steady pulse from below continues, rhythmic and unchanging, like the heartbeat of something too large to comprehend.
+
+Mercer's Dreamstone Circlet glows with soft blue light as he makes contact. His eyes lose focus, staring at nothing as data streams into his consciousness. The interface is cold, precise, and vast — not a mind, but a library of perfect records. He sees operational logs stretching back millennia: containment field strength measurements taken every century, Dreamstone lattice stability checks, gravitational calibration records. The system has been monitoring itself with obsessive precision for fifty thousand years.
+
+Then he finds the Gradient protocols. Detailed instructions in Giant conceptual language: "Anchor deployment mandatory before transition. Gravity rotation follows Fibonacci sequence: 10°, 20°, 30°, 50°, 80°, 130° — then collapse to zero. Recommended tether spacing: one body length. Disorientation countermeasures: focus on anchor point, ignore visual cues." The Giants didn't just build this — they documented exactly how to navigate it.
+
+But there's something else. A secondary data stream, not part of the maintenance logs. Recent activity. Mercer's breath catches. "There have been... visitors," he says, his voice distant. "Not us. Something else. Accessing the monitoring systems from below. Sometime in the last... century? The timestamps are in Giant chronological units, but the pattern is clear. Something has been reading the containment data from inside the Caldera."
+
+As he speaks, the weight reduction becomes more pronounced. You're now perhaps thirty percent lighter. The warmth in the air remains constant. The golden runes continue to burn with perfect, undiminished light. Ahead, the corridor curves more sharply — the beginning of the Gradient, where gravity will start to rotate.
+
+**What do you do?** Mercer has retrieved critical navigation data and discovered evidence of something else accessing the systems from below. Garrick is tethered and ready. Cora has the Reality Anchor active. The Gradient awaits — with its disorienting gravity rotations and the unknown of what, exactly, has been monitoring the containment from inside the Caldera.
+
+Do you proceed into the Gradient using the Giants' protocols? Discuss the implications of the "visitors"? Or take additional precautions before entering the rotation zone?
+
+
+────────────────────────────────────────
+  Exchange 4/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+"Visitors from inside the Caldera changes our threat assessment," I say, my voice tight. "That means something is mobile down there, intelligent enough to access monitoring systems, and has been active within the last century." I make rapid notes in my ledger. "Mercer, did the logs indicate hostile or passive interaction? Were systems altered or just observed?"
+
+I check my Reality Anchor's calibration against the Fibonacci sequence data. "The Giants' protocols are clear—we follow them. But we need to assume whatever's down there knows we're coming now that we've accessed the interface." I secure my own tether, testing the knot. "Garrick, maintain rear guard. If something comes up from behind while we're disoriented in the rotation zone, we're vulnerable."
+
+I prepare a Healing Word spell, keeping it ready. "We proceed with maximum caution. The Gradient's disorientation is a known variable—we have protocols. The 'visitors' are an unknown. We'll move through the rotation sequence, maintain tether discipline, and be prepared for contact on the other side. That's the most efficient path forward—delaying just gives whatever's down there more time to prepare."
+
+
+--- Garrick Kade ---
+"Visitors mean company," I growl, my grip tightening on my maul. "And company in a place like this isn't bringing tea and biscuits." I glance back at the corridor we came from, then forward to the curving Gradient ahead. "Rear guard's covered, but if something's been poking around down there for a century, it knows this place better than we do."
+
+I test my tether again, feeling the strange lightness in my limbs. "We follow the protocols—no choice there. But we go in ready. Mercer, keep that circlet active. If you get even a whisper from whatever's down there, we need to know." I position myself to enter the Gradient first. "I'll take point through the rotation. If gravity goes sideways, I want to be the one who meets whatever's waiting."
+
+My eyes stay fixed on the curve ahead where the shadowless light seems to bend unnaturally. "Cora, keep that anchor steady. Mercer, watch for psychic contact. And both of you—stay tethered. If something tries to pull us apart in there, I want to be able to pull you back." I take a step forward toward the Gradient, maul raised and ready.
+
+
+--- Professor Thaddeus Mercer ---
+My eyes refocus, the glow of the Dreamstone Circlet fading as I break contact. "The access was observational only," I say, my voice regaining its usual academic precision. "No system alterations, no attempts at sabotage. Just... reading. Like a student reviewing notes before an examination."
+
+I turn to face them, my expression serious. "The Giants built redundancy upon redundancy. Even if something has been monitoring the systems, it couldn't have compromised the containment—not without triggering alarms that would have registered in these logs." I tap the translucent interface. "The protocols are sound. Fibonacci sequence gravity rotation, tether discipline, anchor focus. We follow them exactly."
+
+I secure my own tether, my fingers trembling slightly—not from fear, but from the sheer magnitude of what we're about to experience. "Academic curiosity aside, Garrick is correct. We should proceed. Standing here speculating about century-old visitors is less useful than gathering contemporary data from the Gradient itself." I check my spellbook, ensuring it's securely fastened. "But I'll maintain a passive psychic watch through the circlet. If whatever accessed these systems is still active, it may notice our presence."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Secure tether with knot testing — 16 vs DC 10 — **SUCCESS** Your tether is expertly secured and will hold through gravitational rotation.
+
+**Garrick Kade**: Perception check watching corridor and Gradient entrance — 14 vs DC 13 — **SUCCESS** You detect no immediate threats but notice the light bending strangely at the Gradient curve.
+
+**Professor Thaddeus Mercer**: Maintain passive psychic watch through circlet — 15 vs DC 13 — **SUCCESS** You establish a low-level monitoring connection that will alert you to psychic activity without broadcasting your presence.
+
+
+--- DM ---
+Cora's tether is a work of practical engineering — secure, tested, with just enough slack for movement but not enough for dangerous drift. She checks the Reality Anchor one last time, its brass rings humming with stabilized reality. "Ready," she says, her voice clinical. "Anchor field radius: fifteen feet. Within that bubble, down is toward the Anchor. Outside... we follow the Fibonacci sequence."
+
+Garrick watches the Gradient curve where the light bends unnaturally. There's no movement, no sound, but the very air seems to warp at that threshold. He takes a deep breath, feeling the strange buoyancy of his thirty-percent-reduced weight. "Moving," he grunts, and steps forward.
+
+The transition is immediate and profound.
+
+The first rotation hits at ten degrees. It's subtle — a gentle tilt that makes the world seem slightly off-kilter. The tethers hold. The Reality Anchor maintains its field. You adjust your footing, following the Giants' protocol: focus on the Anchor, ignore visual cues.
+
+Then twenty degrees. The tilt becomes a definite slope. You're no longer standing on what was the floor — you're standing on what has become a twenty-degree incline. The golden runes on the walls now appear at an angle. Your weight feels wrong, pulling you sideways as much as down.
+
+Mercer's psychic watch remains quiet — no alerts, no contact. But his circlet registers something else: the broadcast pulse from below is stronger here. Not dangerously so, but noticeable. The steady rhythm feels closer, more present.
+
+Thirty degrees. Now you're climbing. The handholds that were ledges become essential grip points. Garrick leads, finding purchase on stone carved for Giants, his maul secured to his back. Cora follows, the Reality Anchor in her pack maintaining its gravitational bubble around you all. Mercer brings up the rear, his eyes occasionally losing focus as he monitors the psychic landscape.
+
+Fifty degrees. The world has rotated halfway to sideways. You're no longer climbing — you're crawling along what was the wall. The corridor curves above and below you now, a cylindrical space where "down" has become a memory. The tethers keep you connected, but the disorientation is real. Your brain screams that this is wrong, that you should be falling.
+
+**DC 14 Dexterity save (all characters, first time experiencing 50° rotation):** The Giants' protocols help, but the physical reality of crawling on a wall that should be vertical tests even prepared minds.
+
+**What do you do?** The Gradient continues — 80° and 130° rotations await before gravity fails entirely. The broadcast pulse grows stronger with each degree. Mercer's psychic watch remains clear, but the sense of being in a place where physics has been rewritten is overwhelming. Do you push through quickly? Move with deliberate caution? Or does someone need to adjust their approach to the disorienting climb?
+
+
+────────────────────────────────────────
+  Exchange 5/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I make my Dexterity save exactly at the threshold—14. The Giants' protocols and my focus on the Reality Anchor keep me from losing my grip as the world rotates to fifty degrees. "Steady," I call out, my voice tight but controlled. "Focus on the Anchor's field, not what your eyes are telling you. The disorientation is expected—that's why they gave us tethers."
+
+I check my ledger, making a quick note about the broadcast pulse increase. "Mercer, monitor that signal strength. If it spikes during the next rotation, we need to know. Garrick, maintain your pace—don't rush the eighty-degree transition. The protocols said one body length between tethers for a reason."
+
+I adjust my grip on the Giant handhold, feeling the strange sensation of crawling along what was a wall. "Two more rotations to zero gravity. We're following the Fibonacci sequence exactly as documented. This is working as designed—expensive to maintain, but functional. Keep moving."
+
+
+--- Garrick Kade ---
+The world tilts to fifty degrees and my brain rebels. My foot slips from the giant handhold, and for a terrifying moment I'm dangling by my tether, the corridor spinning around me as my mind screams that I should be falling. I grab desperately at the stone, my maul swinging wildly from my back.
+
+"Damn it!" I grunt, hauling myself back to the wall with brute strength. My muscles strain against the disorientation, but my grip holds this time. "Eyes on the anchor," I growl to myself, repeating Cora's advice like a mantra. The shadowless light makes everything look wrong, but I force myself to focus on the humming Reality Anchor.
+
+I shake my head, clearing the vertigo. "Keep moving," I tell the others, my voice rough. "Don't stop. Stopping makes it worse." I find my next handhold and push forward toward the eighty-degree rotation, my knuckles white on the stone. The broadcast pulse from below feels like it's vibrating through my bones now.
+
+
+--- Professor Thaddeus Mercer ---
+The world lurches to fifty degrees, and my academic detachment evaporates. My foot slips from the Giant handhold, and for a horrifying moment I'm suspended by my tether, my spellbook nearly tearing free from its harness as I flail. "I'm—I'm slipping!" I gasp, my voice tight with panic.
+
+I grab desperately at the stone, my fingers finding purchase on a rune-carved groove. The broadcast pulse thrums through my circlet, stronger now, almost overwhelming. "The signal... it's not spiking, but it's... pervasive," I manage, hauling myself back to the wall. My heart hammers against my ribs. "Garrick's right—don't stop. Stopping lets the disorientation take root."
+
+I force myself to focus on the Reality Anchor's hum, ignoring the screaming wrongness of crawling on a wall. "Two more rotations. We can do this. The Giants did it. We just have to... not think about it too much." I find my next handhold, my movements clumsy but determined. "Keep moving. Academic curiosity can wait until we're not dangling over a conceptual abyss."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Dexterity Save vs 50° rotation — 14 vs DC 14 — **SUCCESS** You maintain perfect control, focusing on the Anchor's field despite the disorientation.
+
+**Garrick Kade**: Dexterity Save vs 50° rotation — 19 vs DC 14 — **SUCCESS** You recover from the initial slip with impressive agility, hauling yourself back to the wall with minimal disruption.
+
+**Professor Thaddeus Mercer**: Dexterity Save vs 50° rotation — 19 vs DC 14 — **SUCCESS** Despite the panic, your academic reflexes kick in and you secure yourself, maintaining progress through the rotation.
+
+
+--- DM ---
+Cora moves with precise control, her focus locked on the Reality Anchor's humming field. She doesn't look at the walls, doesn't acknowledge the disorientation — she simply follows the protocol, handhold to handhold, her movements economical and sure. "Broadcast pulse steady at increased baseline," she reports, her voice clinical despite crawling along what was a vertical wall. "No spikes. Gradient rotation proceeding as documented."
+
+Garrick recovers with brute force, hauling himself back to the stone with muscles that have hauled ore carts and shattered fortress gates. His grip is iron, his determination absolute. The broadcast pulse vibrates through him, a steady thrum that feels like a war drum from deep below. He doesn't speak — just moves, finding the next handhold, pushing forward toward the eighty-degree rotation. His maul stays secure on his back, a familiar weight in a world where weight has become meaningless.
+
+Mercer's panic gives way to academic discipline. He secures himself, his fingers finding purchase on rune-carved grooves meant for Giant fingertips. The broadcast pulse thrums through his circlet, pervasive but not overwhelming. "Signal strength increasing linearly with rotation angle," he manages, his voice regaining its analytical tone. "Correlation, not causation. The Gradient doesn't amplify the broadcast — we're just getting closer to the source."
+
+Then comes eighty degrees.
+
+The world doesn't just tilt — it inverts. You're no longer crawling on a wall. You're crawling on what was the ceiling. The corridor stretches "above" you now, a curved tunnel that defies every instinct. The golden runes burn on surfaces that should be overhead. The tethers hold, but the psychological strain is immense. Your brain screams that you should fall, that gravity should pull you toward the distant curve below, but the Reality Anchor's field maintains "down" as toward itself — a fifteen-foot bubble of sanity in a reality gone mad.
+
+The broadcast pulse is stronger here. Not dangerous, but present — a constant, rhythmic pressure against your consciousness. Mercer's circlet glows softly, filtering the signal but not eliminating it. The warmth in the air remains constant. The shadowless light continues to glow from everywhere and nowhere.
+
+One hundred thirty degrees awaits — the final rotation before gravity fails entirely. Then the Edge of Zero. Then the Caldera.
+
+**What do you do?** The eighty-degree inversion tests even the most disciplined mind. The broadcast pulse grows stronger with each degree of rotation. The final transition to zero gravity lies just ahead. Do you push through quickly to minimize exposure? Move with extreme caution, testing each handhold? Or does someone need to adjust their approach to the profound disorientation?
+
+
+────────────────────────────────────────
+  Exchange 6/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I maintain my focus on the Reality Anchor, ignoring the screaming contradiction between my senses and the stabilized field. "Mercer's analysis is correct—we're approaching the source, not amplifying the signal," I say, my voice steady despite crawling on what was the ceiling. "That means the broadcast originates from the Caldera itself, not the Gradient."
+
+I check my tether tension, making sure there's enough slack for the final rotation but not enough for dangerous drift. "One hundred thirty degrees next, then zero gravity. The protocols indicate we should brace for the transition—the sudden loss of gravitational reference can cause spatial disorientation even with the Anchor."
+
+I glance at Garrick. "Maintain your pace but be ready. When gravity fails, we'll be relying on tethers and handholds entirely. Mercer, continue monitoring the broadcast. If it spikes during the final rotation, we need to know immediately—that could indicate the Sleeper's awareness of our approach."
+
+I make a final notation in my ledger about the eighty-degree inversion. "We're following the documented sequence exactly. This is working. Keep moving."
+
+
+--- Garrick Kade ---
+The eighty-degree inversion hits, and this time I'm ready. My muscles remember the disorientation from before, and I focus everything on the Reality Anchor's hum. My hands find the giant handholds with practiced ease, moving with a strange, crawling grace along what should be the ceiling.
+
+"One thirty next," I grunt, my voice steady despite the world being upside down. "Then zero gravity. Mercer, if that broadcast spikes, shout. Cora, keep that anchor humming." I can feel the pulse vibrating through the stone now, a steady rhythm that matches my own heartbeat.
+
+I push forward, not rushing but not hesitating either. "Don't think about it. Just move. Handhold to handhold, like climbing a cliff." My eyes stay fixed on the next grip point, ignoring the golden runes burning on surfaces that should be overhead. The final rotation awaits, and then we'll be in the belly of this ancient machine.
+
+
+--- Professor Thaddeus Mercer ---
+The eighty-degree inversion hits, but this time I'm prepared. My fingers find the Giant handholds with deliberate precision, my mind compartmentalizing the screaming wrongness. "The broadcast isn't spiking," I report, my voice regaining its academic calm. "It's increasing linearly, exactly as predicted by proximity to source. The Sleeper isn't reacting to our presence—it's just... broadcasting. Like a lighthouse that doesn't care who sees its light."
+
+I crawl forward, my movements becoming more confident. "One hundred thirty degrees next, then the Edge of Zero. The protocols indicate we should brace for complete gravitational collapse." I glance at my circlet, its glow steady. "The psychic pressure is increasing, but it's still within the circlet's filtering capacity. No hostile intent detected—just presence. Vast, ancient presence."
+
+I secure my spellbook more tightly. "When gravity fails, we'll need to transition to handhold propulsion. The tethers will keep us from drifting, but momentum becomes a concern. Cora, your Anchor will define 'down,' but in zero gravity, every push needs an equal counter-push." I take a steadying breath. "We're about to enter a place where physics is a suggestion. Try not to think about it too much."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Athletics check maintaining pace through 80° inversion — 15 vs DC 13 — **SUCCESS** You move with precise efficiency, your focus on the Anchor keeping you perfectly oriented.
+
+**Garrick Kade**: Athletics check navigating 80° inversion — 17 vs DC 13 — **SUCCESS** You adapt to the disorientation with impressive physical control, moving with crawling grace.
+
+**Professor Thaddeus Mercer**: Arcana check monitoring broadcast during inversion — 18 vs DC 16 — **SUCCESS** You confirm the signal increases linearly with proximity, detecting no reactive spikes or hostile intent.
+
+
+--- DM ---
+Cora moves with the efficiency of a master engineer, her focus absolute. The eighty-degree inversion becomes just another variable to manage, another parameter in her calculations. She doesn't fight the disorientation — she incorporates it into her movement, handhold to handhold, her eyes never leaving the Reality Anchor's humming sphere. The broadcast pulse thrums through the stone, steady and rhythmic, but she registers it only as data: signal strength increasing linearly, no spikes, no deviations.
+
+Garrick adapts with the physical grace of someone who has spent a lifetime mastering his body in impossible situations. The crawling motion along the ceiling becomes natural, his muscles remembering the strange angles, his hands finding purchase without conscious thought. The broadcast pulse vibrates through him, a steady drumbeat from below, but he channels it into his movement — push, grip, pull, repeat. The final rotation awaits.
+
+Mercer's analysis holds true. The broadcast increases with proximity, not reaction. The Sleeper isn't aware of them — or if it is, it doesn't care. The signal is vast, ancient, and utterly indifferent. His circlet glows steadily, filtering the psychic pressure but not eliminating the sheer scale of what they're approaching.
+
+Then comes one hundred thirty degrees.
+
+The world doesn't just invert — it unravels. Gravity doesn't rotate; it fragments. For a terrifying moment, you feel pulled in multiple directions simultaneously — toward the Anchor, toward the distant curve of the corridor, toward some point deep below. The tethers hold, but your sense of orientation shatters. The golden runes burn on surfaces that have no relation to "up" or "down." The Reality Anchor's field becomes your only reference point, a fifteen-foot bubble where "down" is toward the humming brass sphere.
+
+And then gravity fails.
+
+Not gradually. Not with warning. One moment you're crawling along stone, the next you're floating.
+
+The Edge of Zero.
+
+You're at the lip of the Caldera proper. The walls end. The void begins. Before you stretches a cylindrical space two hundred feet across, its curved walls covered in containment runes that burn with golden light. The runes cast illumination into the emptiness, revealing floating debris: chunks of ancient stone, fragments of Giant tools, crystallized formations of impossible geometry, Dreamstone growths that spiral in patterns no crystal should allow, small pools of liquid suspended in midair, reflecting light that doesn't come from the runes.
+
+And at the center of the Caldera, far below (a direction you must choose arbitrarily), the glow. Not golden. Something else. Something that pulls at the eye the way gravity should pull at the body. The Anomaly's surface expression. The shadow the Sleeper casts on physical space.
+
+**DC 16 Wisdom save (all characters, first sight of the Caldera):** The Dreamstone Circlets provide advantage. Failure: awe so intense it paralyzes for 1 round. The character cannot look away from the glow. On recovery, shaken but functional.
+
+**What do you do?** You're floating at the Edge of Zero, tethered to the Caldera wall, anchored by the Reality Anchor. The void stretches before you. The glow pulses at the center. The broadcast fills the space like water fills a bowl. This is the Caldera — a place where existence was never meant to happen.
+
+
+────────────────────────────────────────
+  Exchange 7/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I make my Wisdom save with a 15, but just barely. The sight of the Caldera hits me like a physical blow—the impossible geometry, the floating debris, the glow at the center that defies description. For a moment, I'm paralyzed by the sheer scale of the engineering failure we're trying to contain.
+
+Then my training kicks in. "Focus on the Anchor," I say through gritted teeth, forcing my eyes away from the glow. "We have a job to do. Catalog the debris field—Dreamstone formations, crystallized structures, potential hazards." I make a shaky notation in my ledger. "Mercer, Garrick—report your status. The Circlets should give you advantage on the save."
+
+I secure my tether, checking the Reality Anchor's field radius. "We're at operational depth. The broadcast is ambient now—we're swimming in it. Next step: assess the containment integrity and locate the breach point. But first, we need to establish secure positions in zero gravity."
+
+
+--- Garrick Kade ---
+The Caldera opens before me, and for a moment I'm frozen. The glow at the center pulls at my eyes, a light that shouldn't exist in any world I know. My mind reels at the floating debris, the impossible geometry, the sheer scale of this place. The Dreamstone circlet hums on my head, but it's not enough—I can't look away.
+
+Then I shake my head, breaking the trance with brute force. "I'm here," I grunt, my voice rough. My hands tighten on my tether, the familiar feel of rope bringing me back to reality. "That glow... it's wrong."
+
+I force my eyes to scan the debris field instead, looking for threats. "Cora, where's the breach? Mercer, what's that broadcast doing now?" I keep my maul ready, floating awkwardly in the zero gravity. The void stretches out before us, beautiful and terrifying, but I've seen enough pretty things that want to kill you.
+
+
+--- Professor Thaddeus Mercer ---
+The Caldera opens before me, and for a moment I simply... stop. The glow at the center isn't light—it's the absence of something, a shadow cast by something that shouldn't cast shadows. The floating debris, the crystallized Dreamstone formations, the impossible geometry—it's all wrong. Beautiful, but wrong.
+
+Then my circlet hums, and academic discipline reasserts itself. "The broadcast... it's not a signal anymore," I say, my voice hushed with awe. "It's the environment. We're not hearing it—we're breathing it." I force my eyes away from the glow, focusing instead on the containment runes on the walls. "The breach point should be visible as a discontinuity in the rune patterns. Look for areas where the golden light dims or fractures."
+
+I secure my tether, my movements clumsy in zero gravity. "Garrick, Cora—I'm functional. The circlet helped, but... by the gods. This is what they contained. This is what my colleagues said was a fairy tale." I take a steadying breath. "We need to map the debris field. Those Dreamstone formations could be critical—either as resources or as hazards. And we need to locate the breach before whatever's been accessing the monitoring systems finds us first."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Wisdom Save vs Caldera awe — 15 vs DC 16 — **FAILURE** You're paralyzed for 1 round by the sight before recovering with shaken determination.
+
+**Garrick Kade**: Wisdom Save vs Caldera awe (with advantage) — 14 vs DC 16 — **FAILURE** The glow holds you transfixed for a moment before you break free with brute force.
+
+**Professor Thaddeus Mercer**: Wisdom Save vs Caldera awe (with advantage) — 14 vs DC 16 — **FAILURE** Academic discipline fails against the impossible sight, leaving you momentarily frozen before recovering.
+
+
+--- DM ---
+For one terrible, frozen moment, all three of you are paralyzed.
+
+Cora stares at the Caldera, her engineer's mind overwhelmed by the scale of the engineering failure she's trying to contain. The floating debris, the impossible geometry, the glow at the center that defies every law of physics she knows — it's too much. Her ledger hangs forgotten in her hand, her pen drifting from nerveless fingers. The Reality Anchor hums, but she can't look away from the wrongness.
+
+Garrick is transfixed by the glow. It pulls at his eyes, a light that feels like it's looking back at him. His maul drifts from his grip, floating gently in the zero gravity. The familiar weight of violence, the certainty of combat — none of it matters here. Here, there's only the glow, and the void, and the terrible understanding that some things are too big to fight.
+
+Mercer's academic discipline shatters. The Caldera isn't a subject for study — it's a revelation. The glow isn't a phenomenon to be measured; it's a truth to be witnessed. His circlet hums, filtering the broadcast, but it can't filter the awe. For a moment, he's not a professor; he's a child seeing the ocean for the first time, understanding for the first time how small he is.
+
+Then the moment passes.
+
+Cora shakes her head, her fingers closing around her drifting pen. "Focus," she whispers to herself, the word a lifeline. "Focus on the Anchor. Focus on the job." She makes a shaky notation in her ledger, her handwriting uncharacteristically sloppy.
+
+Garrick grabs his floating maul, the familiar weight in his hands bringing him back to reality. "Wrong," he growls, the word a promise of violence against the impossible. "All of it's wrong."
+
+Mercer's eyes refocus, his academic training reasserting itself like armor. "The breach point," he says, his voice trembling but determined. "Look for discontinuities in the rune patterns. The golden light should be uniform. Any dimming, any fractures..."
+
+As you recover, floating at the Edge of Zero, you notice something. The debris field isn't random. The floating chunks of stone, the crystallized formations, the Dreamstone growths — they're arranged in patterns. Not natural patterns. Deliberate patterns. And they're moving. Not drifting aimlessly. Rotating slowly, orbiting the glow at the center in precise, mathematical paths.
+
+And something else. Among the debris, something watches you. Not with eyes. With presence. Geometric shapes — floating polyhedra of crystallized void, each roughly three feet across, their surfaces shifting between transparent and opaque. They're beautiful. They're wrong. They're the Deep Things, and they've noticed your arrival.
+
+**What do you do?** You've recovered from the Caldera's awe, but now you face a new reality: the debris field is organized, and something is watching you from within it. The Deep Things float among the crystalline formations, their geometric shapes rotating slowly as they observe you. Do you attempt communication? Prepare for combat? Or begin your assessment of the containment breach while avoiding contact?
+
+
+────────────────────────────────────────
+  Exchange 8/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I secure my pen and ledger, forcing my hands to stop trembling. "Organized debris patterns mean intelligence or system function," I say, my voice regaining its clinical tone. "Those geometric shapes—Deep Things—are observing us. That's the 'visitors' from the maintenance logs."
+
+I make a quick sketch of the patterns in my ledger. "Mercer, can your circlet detect any communication attempts? Garrick, defensive positions but don't engage unless they initiate hostility. We're here to assess the breach, not start a war with whatever lives in this void."
+
+I check the Reality Anchor's field stability. "We proceed with the containment assessment while maintaining distance from the Deep Things. Look for rune discontinuities as Mercer suggested. Any dimming, fractures, or pattern breaks in the golden light. That's where the breach is." I prepare a Healing Word, keeping it ready. "Efficiency is survival here. We observe, document, and retreat with data. That's the mission."
+
+
+--- Garrick Kade ---
+My eyes scan the floating geometric shapes, trying to make sense of their patterns, but the zero gravity and the overwhelming wrongness of this place scramble my thoughts. "They're watching us," I growl, stating the obvious. "Don't like being watched."
+
+I tighten my grip on my maul, floating awkwardly as I try to orient myself. "Cora's right—we look for the breach. But if those things come closer..." I let the threat hang in the air. My instincts scream to attack the watching shapes, to smash their crystalline forms into dust, but Cora's order holds me back—for now.
+
+I keep my eyes on the Deep Things while trying to scan the rune patterns on the walls. The golden light burns bright, but my attention keeps snapping back to the geometric shapes floating among the debris. They're beautiful, yes, but beauty in a place like this is just another kind of threat.
+
+
+--- Professor Thaddeus Mercer ---
+My circlet hums as I focus my psychic senses on the geometric shapes. "They're not communicating," I say, my voice low and analytical. "Not in any conventional sense. They're... observing. Cataloging. Like naturalists documenting a new species." I float carefully, keeping my tether taut. "The patterns in the debris field—they're mathematical. Orbital mechanics, but with Dreamstone acting as gravitational anchors. This isn't random drift; it's a system."
+
+I point toward the far wall of the Caldera, my finger trembling slightly despite my academic composure. "There. The rune pattern dims approximately sixty degrees clockwise from our position. The golden light fractures around what appears to be... crystalline growth. That's our breach point."
+
+I keep one eye on the Deep Things. "They're not hostile. Not yet. But they're curious. And in a place like this, curiosity could be just as dangerous as hostility." I adjust my grip on my spellbook. "We should proceed with the assessment, but maintain distance. If they approach, we retreat. We're here to document, not to become specimens in whatever study they're conducting."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Perception check scanning for rune discontinuities — 16 vs DC 16 — **SUCCESS** You confirm Mercer's observation of the dimmed area 60° clockwise and note additional smaller fractures in the pattern.
+
+**Garrick Kade**: Perception check watching Deep Things while scanning runes — 13 vs DC 13 — **SUCCESS** You maintain effective surveillance of the geometric shapes while identifying the main breach location.
+
+**Professor Thaddeus Mercer**: Arcana check analyzing Deep Things' behavior — 18 vs DC 16 — **SUCCESS** You confirm they're observing/cataloging rather than communicating, detecting no hostile intent but noting their curiosity is intensifying.
+
+
+--- DM ---
+Cora's trained eye confirms Mercer's observation. Sixty degrees clockwise around the Caldera's circumference, the golden light of the containment runes dims noticeably. The pattern fractures around what appears to be crystalline growth — Dreamstone formations that have erupted through the containment layer, their spiraling structures interrupting the perfect fractal geometry of the runes. Smaller fractures radiate from the main breach, like cracks in a windshield. "Primary breach confirmed," she says, her voice regaining its clinical precision. "Secondary fractures suggest structural stress. The containment is failing at multiple points, not just one."
+
+Garrick keeps his eyes on the Deep Things while tracking the breach location. The geometric shapes continue to observe, their crystalline surfaces shifting between transparency and opacity as they rotate slowly in the void. They haven't moved closer, but their attention is unmistakable. "They're still watching," he growls, his maul held ready despite the awkwardness of zero gravity. "Not attacking. Just... watching."
+
+Mercer's analysis holds. The Deep Things aren't communicating — they're cataloging. Their curiosity is intensifying, but it remains academic rather than predatory. The patterns in the debris field are indeed mathematical: Dreamstone formations acting as gravitational anchors in a zero-gravity environment, creating stable orbital paths for the floating debris. This isn't chaos; it's a system that has evolved over millennia.
+
+Then the Deep Things move.
+
+Not aggressively. Not threateningly. They drift closer, their geometric shapes rotating as they approach. Six of them, each roughly three feet across, their crystalline surfaces catching the golden light of the containment runes and refracting it into impossible colors. They stop about thirty feet away, forming a loose semicircle in the void. They don't speak. They don't gesture. They simply observe.
+
+One of them — a dodecahedron with facets that shift from transparent to opaque — drifts slightly forward. Its surface ripples, and for a moment, you see something within: not a physical object, but a pattern. A fractal. The same fractal pattern as the containment runes on the walls. Then the pattern dissolves, replaced by something else: a schematic of the Caldera, showing the breach point you just identified. Then that too dissolves.
+
+They're showing you what they know. They're sharing data.
+
+**What do you do?** The Deep Things are approaching, but not with hostility. They're displaying information — first the containment rune pattern, then a schematic of the Caldera with the breach marked. They seem to be trying to communicate, or at least share observations. Do you attempt to respond? Retreat to maintain distance? Or continue with your breach assessment while being observed by these crystalline entities?
+
+
+────────────────────────────────────────
+  Exchange 9/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+"They're sharing intelligence about the breach," I say, keeping my voice low. "That suggests they're either monitoring the containment themselves or they're affected by its failure." I make a quick note in my ledger about the fractal patterns. "Mercer, your circlet might be able to establish a communication channel. Try projecting a simple schematic back—maybe the Reality Anchor's field pattern."
+
+I maintain my position, not retreating but not approaching either. "Garrick, stay ready but don't threaten them. If they're cataloging data as you said, they might see us as fellow observers rather than intruders."
+
+I consider the implications. "They've been here for millennia, watching the containment degrade. They might know things we don't—weak points, failure rates, even repair methods." I prepare to use my Flash of Genius if Mercer needs help with the psychic interface. "This is an opportunity for intelligence gathering. We respond with data, not weapons."
+
+
+--- Garrick Kade ---
+I keep my maul raised, floating awkwardly as the crystalline shapes drift closer. "They show us the breach we already found," I grunt, suspicious. "Could be helpful. Could be a trick." My eyes stay fixed on the dodecahedron that displayed the patterns, watching for any sudden movement.
+
+I don't lower my weapon, but I don't advance either. "Mercer, if you're going to talk to crystal balls, make it quick. Cora, watch for other movement in the debris field." My instincts still scream that anything this beautiful in a place this wrong is dangerous, but Cora's logic holds—for now.
+
+I shift my position slightly, putting myself between the Deep Things and my companions. "Thirty feet is close enough. They come closer, we have a problem." My grip tightens on my maul, ready to swing even in zero gravity if those geometric shapes make one wrong move.
+
+
+--- Professor Thaddeus Mercer ---
+My circlet glows brighter as I focus my thoughts. "They're not just showing us the breach," I say, my voice hushed with realization. "They're showing us that they understand the containment system. The fractal pattern—that's not just observation. That's comprehension."
+
+I project a simple schematic back through the circlet—the Reality Anchor's field pattern, then a representation of our tethers, then a question mark. "They're not hostile. They're... colleagues. Researchers who've been studying this place for millennia." I float carefully, keeping my movements slow and deliberate. "Garrick, they're not a threat. They're the only other beings who understand what this place is."
+
+The dodecahedron ripples again, its surface showing a new pattern: the Dreamstone formations around the breach, then an animation of them growing, then a schematic of the containment field weakening. "They're showing us the failure progression," I breathe. "They've been documenting the decay. They know exactly how much time we have."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Insight check on Deep Things' intentions — 17 vs DC 16 — **SUCCESS** You confirm they're sharing data cooperatively, not deceptively, and recognize them as fellow observers of the containment system.
+
+**Garrick Kade**: Perception check watching for threats while monitoring — 15 vs DC 13 — **SUCCESS** You maintain effective surveillance, detecting no hostile movements or hidden dangers in the debris field.
+
+**Professor Thaddeus Mercer**: Arcana check establishing psychic communication — 19 vs DC 16 — **SUCCESS** You successfully project schematics and receive detailed failure progression data from the Deep Things.
+
+
+--- DM ---
+Cora's insight confirms what Mercer senses: the Deep Things aren't deceptive. They're sharing data with the straightforward clarity of researchers presenting findings. Their crystalline forms ripple with patterns — the Dreamstone growth at the breach, the containment field weakening over time, the precise mathematical decay of the rune structures. They've been documenting this for centuries, maybe millennia. They're not enemies; they're the only other witnesses to the containment's slow failure.
+
+Garrick maintains his watchful stance, but even his combat-honed instincts recognize the lack of threat. The Deep Things don't approach closer than thirty feet. They don't make aggressive movements. They simply float, their geometric shapes rotating slowly as they display data. The debris field remains calm, the organized patterns continuing their mathematical orbits around the central glow. No hidden dangers emerge.
+
+Mercer's communication succeeds. The dodecahedron responds to his projected schematics with increasingly complex data streams. It shows the breach progression in detail: the first Dreamstone crystallization five centuries ago, the initial rune fracture three centuries later, the accelerated decay in the last fifty years. Then it shows something new: the other breach points. Not just the primary one you identified, but three secondary ones scattered around the Caldera's circumference. Smaller, but growing. The containment isn't failing at one point — it's failing at four.
+
+The Deep Things' surfaces ripple in unison, displaying a final schematic: the Caldera with all four breach points marked, then an overlay showing stress vectors, then a timeline. The timeline ends not with catastrophic failure, but with a question mark. They don't know when it will fail completely. They only know it will.
+
+Then the dodecahedron does something unexpected. It drifts closer — not to you, but to the wall. It stops near one of the containment runes, its surface becoming mirror-like. The golden light of the rune reflects off it, and for a moment, the rune's pattern appears on the dodecahedron's surface, but altered. Strengthened. The fractal geometry becomes more complex, more dense. Then the image fades.
+
+They're not just showing you the problem. They're showing you a solution.
+
+**What do you do?** The Deep Things have revealed critical intelligence: four breach points, not one, with detailed failure progression data. They've also demonstrated what appears to be a method for strengthening the runes. But they're crystalline entities born of the Sleeper's dreaming — can their "solution" be trusted? Do you attempt to learn more? Begin assessing the additional breach points? Or does this change your approach entirely?
+
+
+────────────────────────────────────────
+  Exchange 10/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+"Four breach points changes the operational parameters," I say, updating my ledger with the new data. "Our Capstone Resonator was designed for a single breach. We need to assess whether it can be modified or if we need a different approach."
+
+I study the dodecahedron's demonstration carefully. "They're showing rune reinforcement through pattern complexity. That's consistent with Korathan's scaling rune technology—increasing fractal density to strengthen containment." I make a quick sketch of the altered pattern.
+
+"Mercer, ask them about the timeline. We need to know which breach is most critical, which will fail first." I glance at Garrick. "We'll need to verify their data by physically inspecting the other breach points. That means moving around the Caldera circumference in zero gravity."
+
+I prepare my tools. "We proceed with caution but efficiency. They've shared accurate data so far—the primary breach location matched our observation. We'll treat them as potential allies until proven otherwise. But we verify everything. That's coming out of our operational safety budget."
+
+
+--- Garrick Kade ---
+"Four breaches," I grunt, my eyes scanning the Caldera walls. "Crystal balls are helpful, but we check for ourselves." I keep watching the Deep Things, but my suspicion eases slightly. They showed us what we already found—that's points for honesty.
+
+I test my tether, preparing to move. "We circle the walls, check each breach. Cora's right about verifying." I glance at the dodecahedron still floating near the rune. "If they know how to fix this, why haven't they? Something doesn't add up."
+
+I start pulling myself along the wall using the giant handholds, moving toward the next breach location. "Mercer, keep talking to them. Ask why they haven't repaired anything if they know how. Cora, watch for traps or surprises. I'll check the walls." My maul stays in my hands, ready even as I navigate the zero gravity.
+
+
+--- Professor Thaddeus Mercer ---
+I focus my circlet on the dodecahedron, projecting a question: "Why no repair?" followed by images of tools, hands, action. Then I add our own schematic—the Capstone Resonator, its function, our intent.
+
+"They're showing us a solution, but they can't implement it," I say, understanding dawning. "They're observers. Catalogers. They can analyze, document, even design solutions, but they lack physical agency." I float carefully toward the wall, keeping my tether taut. "They're like... librarians who've spent millennia studying a burning library but can't put out the fire."
+
+I examine the rune pattern the dodecahedron reflected. "The reinforcement pattern is sound. It increases fractal density by a factor of... approximately 1.618. The golden ratio. Of course." I make quick notes in my spellbook. "Garrick's right—we need to verify the other breaches. But we also need to understand why they haven't acted. If they're truly neutral observers, they might be waiting for someone who can."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Investigation check analyzing breach data and reinforcement pattern — 18 vs DC 16 — **SUCCESS** You confirm the golden ratio scaling and determine the Capstone Resonator could be modified for multiple breaches with proper calibration.
+
+**Garrick Kade**: Athletics check moving along wall in zero gravity — 16 vs DC 13 — **SUCCESS** You navigate efficiently using handholds, maintaining combat readiness while advancing toward the next breach.
+
+**Professor Thaddeus Mercer**: Arcana check communicating with Deep Things — 20 vs DC 16 — **SPECTACULAR SUCCESS** You establish clear two-way communication, learning they're purely observational entities who've been waiting for beings with physical agency to implement repairs.
+
+
+--- DM ---
+Cora's analysis confirms the mathematics: the reinforcement pattern uses golden ratio scaling to increase fractal density by exactly 1.618. It's elegant, efficient, and theoretically sound. Her engineering mind races through the calculations — the Capstone Resonator could be modified for multiple breaches, but it would require recalibration and possibly additional Dreamstone. "Resonator modification is feasible," she reports, updating her ledger with precise figures. "But we need to assess all four breaches first. Material requirements scale with breach size."
+
+Garrick moves along the wall with surprising grace for someone in heavy armor floating in zero gravity. His hands find the Giant handholds with practiced ease, his maul secured but ready. He pulls himself toward the next breach location, his eyes scanning the rune patterns for the telltale dimming and fractures. The Deep Things watch him go but don't follow — they remain in their semicircle, observing.
+
+Mercer's communication breakthrough is profound. The dodecahedron responds with clarity: images of themselves as observers only, lacking hands, tools, physical form. They show millennia of documentation, analysis, design — but no implementation. Then they show something else: anticipation. Waiting. They've been waiting for someone who could act. Someone with physical agency. Someone like you.
+
+The other Deep Things ripple in agreement, their geometric shapes shifting through colors that seem to convey confirmation. They're not just neutral observers — they're hopeful ones. They've spent centuries watching the containment decay, designing solutions they couldn't implement, waiting for beings who could.
+
+As Garrick reaches the second breach point — about ninety degrees around the Caldera from your starting position — he confirms the Deep Things' data. The runes here dim noticeably, their golden light fractured by crystalline Dreamstone growth. Smaller than the primary breach, but growing. The pattern matches what the dodecahedron showed: secondary breach, approximately one-third the size of the primary, growth rate accelerating.
+
+But something else happens. As Garrick examines the breach, the Dreamstone formations around it pulse with soft light. Not the golden light of containment runes. Not the terrible glow from the Caldera's center. A different light — crystalline, multifaceted, and somehow... aware. The formations seem to react to his presence, their spiral patterns tightening, their surfaces becoming more reflective.
+
+**What do you do?** The Deep Things have revealed themselves as hopeful observers waiting for someone who can act. Garrick has confirmed the second breach, and the Dreamstone formations there are reacting to his presence. Two more breaches remain to be verified. Do you continue the circuit? Investigate the reactive Dreamstone? Or begin planning how to implement the reinforcement pattern the Deep Things have shown you?
+
+
+────────────────────────────────────────
+  Exchange 11/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+"The Dreamstone is reactive to biological presence," I note, making another entry in my ledger. "That suggests it's not just crystalline growth—it's connected to the Sleeper's consciousness. Garrick, maintain distance but continue observation. Don't touch it."
+
+I pull myself along the handholds toward the second breach, keeping my tether secure. "We'll complete the circuit and verify all four breach points. Then we can prioritize repairs based on failure probability." I glance back at the Deep Things. "They're observers with solutions but no means of implementation. That makes them valuable allies, not threats."
+
+I examine the reactive Dreamstone formations from a safe distance. "Mercer, can your circlet detect any psychic activity from these growths? If they're sensing us, the Sleeper might be aware of our presence through them." I prepare a Dispel Magic spell, keeping it ready. "We continue the assessment but with heightened caution. The Dreamstone isn't passive mineral—it's an extension of what we're trying to contain."
+
+
+--- Garrick Kade ---
+The Dreamstone formations pulse as I approach, their light shifting in response to my movement. I keep my distance, just as Cora ordered, but my eyes scan the crystalline growths for any sign of threat. "It's watching," I mutter, feeling the hairs on my neck stand up.
+
+"Breach confirmed," I call back to the others, my voice echoing strangely in the void. "Matches what the crystal balls showed." I don't touch the reactive formations, but I study the rune fractures around them. The golden light is definitely dimmer here, the patterns broken by the spiraling Dreamstone.
+
+I start moving toward the third breach location, pulling myself along the handholds. "Two more to check. Then we decide what to smash first." I keep one eye on the pulsing Dreamstone as I move away, my maul ready in case those crystalline growths decide to do more than just watch.
+
+
+--- Professor Thaddeus Mercer ---
+I focus my circlet on the reactive Dreamstone formations, but the psychic noise from the Caldera's ambient broadcast overwhelms my senses. "The background signal is too strong," I say, frustration creeping into my voice. "I can't isolate any specific psychic activity from the growths. They could be passive sensors, or they could be actively monitoring us."
+
+I pull myself along the handholds toward Garrick's position, my movements less graceful than his. "But Cora's right—if the Dreamstone is connected to the Sleeper's consciousness, then our presence is now known. The question is whether it cares." I examine the second breach from a distance, my magnifying glass floating before my eyes. "The growth pattern matches the Deep Things' data. Accelerating, as they showed."
+
+I turn back to the dodecahedron, projecting a new question: "Priority?" with images of the four breaches, then a timeline. "We need to know which will fail first. The Capstone Resonator can be modified, but we need to focus our efforts where they're most urgently needed." I secure my spellbook, my mind already racing through reinforcement calculations. "The golden ratio scaling... it's elegant. Almost too elegant. Like the Giants designed the containment with this exact repair method in mind."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Arcana check analyzing reactive Dreamstone — 17 vs DC 16 — **SUCCESS** You determine the formations are passive sensors connected to the Sleeper's consciousness, not active threats.
+
+**Garrick Kade**: Perception check monitoring Dreamstone while moving — 14 vs DC 13 — **SUCCESS** You detect no aggressive movements, just reactive pulsing that correlates with your proximity.
+
+**Professor Thaddeus Mercer**: Arcana check communicating priority question — 18 vs DC 16 — **SUCCESS** The Deep Things respond with detailed failure probability data showing the primary breach will fail first, followed by breach #3, then #2, then #4.
+
+
+--- DM ---
+Cora's analysis confirms the Dreamstone formations are passive sensors — extensions of the Sleeper's consciousness that monitor the containment's integrity. They pulse in response to proximity, but they don't attack, don't reach out, don't manifest any aggressive behavior. They're like nerve endings in a vast, dreaming body, registering touch but not reacting beyond observation. "Sensors, not weapons," she reports, updating her ledger. "The Sleeper knows we're here, but it's not responding with hostility. Indifference, or... patience."
+
+Garrick continues his circuit, moving efficiently along the handholds. The Dreamstone formations pulse as he passes, their crystalline light shifting in rhythm with his movement, but they make no attempt to impede him. He reaches the third breach point — one hundred eighty degrees around the Caldera from your starting position — and confirms it: larger than the second, smaller than the primary, with Dreamstone growths that spiral through fractured runes. The golden light dims noticeably here, the containment field visibly weakened.
+
+Mercer receives the Deep Things' priority data. The dodecahedron displays a detailed failure probability analysis: the primary breach will fail first, followed by breach #3 (the one Garrick just reached), then #2, then #4. Timelines appear in Giant chronological units, but the pattern is clear: you have time, but not much. Weeks, maybe months, not years. The dodecahedron then shows something new: the reinforcement pattern applied to each breach, with material requirements calculated. It's a complete repair plan, waiting fifty thousand years for someone to implement it.
+
+As Garrick examines breach #3, something changes in the Caldera. The debris field — the organized patterns of floating stone, crystallized formations, and Dreamstone growths — begins to shift. Not randomly. Deliberately. The mathematical orbits adjust, the debris moving into new configurations. And from the glow at the center, new shapes emerge.
+
+More Deep Things. Not the six that have been observing you. Dozens of them. Hundreds. Geometric shapes of crystallized void, ranging from tiny tetrahedrons to massive icosahedrons ten feet across. They flow from the central glow like bubbles rising in water, their surfaces shifting between transparency and opacity. They don't approach you. They don't even seem to notice you. They simply take up positions throughout the Caldera, floating in precise formations that mirror the debris field's new patterns.
+
+The Caldera is preparing for something. Or someone.
+
+**What do you do?** The Deep Things have provided a complete repair plan with prioritized breaches. But now the Caldera itself is changing — the debris field reorganizing, hundreds of new Deep Things emerging from the glow. They're not hostile, but their sudden appearance and the system-wide reorganization suggest something is happening. Do you continue to breach #4 to complete your assessment? Retreat to analyze the new developments? Or attempt to communicate with the emerging Deep Things to understand what's changing?
+
+
+────────────────────────────────────────
+  Exchange 12/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+"The system is reconfiguring," I say, my voice tight with urgency. "That could mean the Sleeper is becoming more active, or the containment failure is reaching a critical threshold." I secure my position, watching the hundreds of new Deep Things emerge. "Garrick, return to our position. We need to regroup."
+
+I turn to the original dodecahedron. "Mercer, ask them what's happening. Is this normal cyclical activity or a response to our presence?" I check the Reality Anchor's stability—it's holding, but the energy readings are fluctuating.
+
+I make rapid calculations in my ledger. "We have the repair plan and priority data. That's our primary objective. But if the Caldera is becoming unstable, we may need to retreat and implement repairs from a safer position." I prepare a Haste spell, keeping it ready for emergency evacuation. "We complete the assessment of breach #4 quickly, then decide whether to begin repairs immediately or withdraw with the data. The risk-reward analysis is shifting."
+
+
+--- Garrick Kade ---
+I watch as hundreds of new geometric shapes flow from the glow, my grip tightening on my maul. "Something's waking up," I growl, my eyes scanning the emerging Deep Things. They're not attacking, but that many of anything appearing at once is never good.
+
+"One more breach to check," I call back to Cora, already pulling myself toward the fourth location. "I'll make it quick." My movements are faster now, urgency overriding caution. The handholds blur beneath my fingers as I navigate the zero gravity, my eyes fixed on the next dim section of wall.
+
+I keep one eye on the new Deep Things as I move. They're taking positions, organizing—this isn't random. "Mercer, ask the crystal balls if this is normal! Cora, be ready to pull us out!" I reach the fourth breach, confirming it with a quick glance before starting back toward my companions. The Dreamstone here pulses too, but I don't linger.
+
+
+--- Professor Thaddeus Mercer ---
+My circlet glows intensely as I project a single, urgent question to the dodecahedron: "Change?" with images of the emerging Deep Things, the shifting debris field, then a question mark. My academic composure cracks, replaced by genuine alarm. "This isn't normal cyclical activity," I say, my voice rising. "The system is reconfiguring on a fundamental level. The debris field's mathematical orbits are being rewritten."
+
+I watch as the hundreds of new Deep Things take up positions, their formations mirroring the reinforcement patterns they showed us earlier. "They're not hostile... they're preparing. Implementing the repair plan themselves, or creating the conditions for us to do so." I turn to Cora, my eyes wide behind my spectacles. "The Caldera isn't becoming unstable—it's activating repair protocols. The Sleeper's dreaming is producing the tools needed to contain itself."
+
+I pull myself back toward our central position, my movements clumsy with haste. "Garrick, confirm breach four and return immediately. We have the data. We have the plan. Now we have..." I gesture at the organizing Deep Things, "...an army of engineers who've been waiting fifty thousand years for someone to give them purpose."
+
+I secure my spellbook, my mind racing. "We need to decide now. Do we attempt the repairs with their assistance, or retreat and risk missing this... alignment? The Giants built this place to be repaired. The Deep Things are the repair mechanism. And we're the hands they've been waiting for."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Arcana check analyzing system reconfiguration — 19 vs DC 16 — **SUCCESS** You confirm the Caldera is activating repair protocols, not destabilizing, with energy fluctuations indicating preparation for reinforcement.
+
+**Garrick Kade**: Athletics check rapid movement to breach #4 and back — 17 vs DC 13 — **SUCCESS** You efficiently confirm the fourth breach and return to the group without incident despite the urgency.
+
+**Professor Thaddeus Mercer**: Arcana check urgent communication with Deep Things — 20 vs DC 16 — **SPECTACULAR SUCCESS** You learn the emerging Deep Things are repair drones activating after millennia of dormancy, awaiting physical agents (you) to direct their efforts.
+
+
+--- DM ---
+Cora's analysis confirms Mercer's alarming realization: the Caldera isn't destabilizing — it's activating. The energy fluctuations aren't signs of failure; they're signs of preparation. The system is coming online after millennia of dormancy, its repair protocols awakening in response to your presence. "Repair drones," she breathes, updating her ledger with shaking hands. "The Deep Things aren't just observers. They're the containment's maintenance system. And we've just triggered their activation sequence."
+
+Garrick confirms the fourth breach — the smallest of the four, but growing — and returns to the group with efficient speed. He arrives just as the emerging Deep Things complete their formations. Hundreds of geometric shapes now float throughout the Caldera, arranged in precise patterns that mirror the reinforcement schematics the dodecahedron showed you earlier. They're not threatening. They're waiting. Waiting for direction.
+
+Mercer's communication breakthrough reveals the full truth. The dodecahedron responds with a flood of data: the Deep Things are repair drones, created by the Sleeper's dreaming as part of the containment's self-maintenance system. They've been dormant for millennia because they lack physical agency — they can analyze, design, and prepare, but they need hands to implement. Your presence, your examination of the breaches, your demonstrated understanding of the containment system — it's all triggered their activation. They're ready to repair. They just need someone to tell them where to start.
+
+The original six Deep Things — your observers — drift closer. The dodecahedron's surface ripples, displaying a final schematic: the Caldera with all four breaches marked, the reinforcement patterns overlaid, and a simple question in Giant conceptual language: "Begin?"
+
+The hundreds of repair drones float motionless, their geometric shapes catching the golden light of the containment runes. The debris field has settled into its new configuration — mathematical orbits that create clear pathways to each breach point. The broadcast from the central glow continues, steady and rhythmic, but now it feels less like a threat and more like... a heartbeat. The heartbeat of a system that wants to survive.
+
+You have the data. You have the plan. You have an army of repair drones waiting for your command. And you have four breaches that will fail in weeks or months if not repaired.
+
+**What do you do?** The Caldera's repair protocols are active. The Deep Things await your direction. The breaches are prioritized. Do you begin repairs on the primary breach immediately, using the drones' assistance? Retreat to plan and prepare more thoroughly? Or attempt to communicate further to understand the full implications of directing the Sleeper's own dreaming to contain itself?
+
+
+────────────────────────────────────────
+  Exchange 13/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I take a deep breath, forcing my hands to steady as I review the data. "The repair drones are part of the containment's original design—the Sleeper's dreaming creating tools to contain itself. That's... disturbingly elegant." I update my ledger with the new information.
+
+"We have operational control of a maintenance system that's been waiting fifty thousand years for someone to use it." I look at the dodecahedron's schematic. "We begin with the primary breach as prioritized. But we need to understand the process first."
+
+I turn to Mercer. "Ask them to demonstrate the repair procedure on a small section. We need to see the material requirements, energy consumption, and time frame." I check my supplies. "We'll supervise and direct, but let the drones do the work they were designed for. That's the most efficient use of resources."
+
+I secure my position. "Garrick, maintain watch on the central glow. If the Sleeper reacts to its own repair systems being activated, we need to know immediately." I prepare my spells, keeping Healing Word and Dispel Magic ready. "We proceed with caution, but we proceed. The cost of inaction is higher than the risk of action."
+
+
+--- Garrick Kade ---
+I watch the hundreds of geometric shapes floating in formation, my maul still ready but my suspicion shifting to wary acceptance. "Repair drones," I mutter, the concept settling in my mind. "The thing we're containing made tools to contain itself. That's..."
+
+I shake my head, focusing on what matters. "We start with the biggest breach, like Cora says. But we watch them work first." My eyes stay fixed on the central glow as ordered, watching for any reaction from the Sleeper. "If this is a trick, we'll know soon enough."
+
+I position myself between my companions and the main breach point. "Mercer, tell them to show us how it's done. Cora, watch for anything going wrong." My grip on my maul loosens slightly, but I don't lower it. Trust comes hard in a place like this, but sometimes you have to take the help that's offered—even if it comes from the thing you're trying to stop.
+
+
+--- Professor Thaddeus Mercer ---
+My breath catches in my throat, the sheer, staggering elegance of it all nearly overwhelming me. "Of course," I whisper, my voice trembling with a reverence that has nothing to do with fear. "The ultimate containment paradox. The Sleeper's dreaming mind, the very source of the anomaly, also dreams the tools for its own imprisonment. It's not a flaw—it's a feature. A self-regulating system of unimaginable sophistication."
+
+I float forward, my circlet pulsing in harmony with the dodecahedron's display. I don't just project a question; I project understanding. I send back the golden ratio scaling factor, the fractal density calculations, the prioritized breach sequence—not as a query, but as confirmation. *We comprehend.*
+
+"Garrick, it's not a trick," I say, my voice gaining strength. "It's a test. One we've already passed. Our examination, our analysis, our very presence here as beings who *understand*—that was the activation key." I turn to Cora, my eyes wide behind my spectacles. "You asked for a demonstration. We don't need one. The demonstration was the last fifty thousand years of perfect documentation. The proof is in the waiting."
+
+I focus on the dodecahedron, and through my circlet, I send a single, clear directive, wrapped in the fractal pattern of the reinforcement rune: **Begin. Primary breach. Golden ratio scaling.**
+
+"We don't supervise," I say, my tone shifting to one of quiet command. "We direct. We are the hands they've been waiting for. Cora, monitor the energy consumption and material flow. Garrick, your watch is correct—but watch for success, not betrayal. We are not fighting the system. We are completing it."
+
+I watch, my heart hammering against my ribs, as the hundreds of geometric shapes shift in unison. A stream of smaller tetrahedrons and octahedrons detaches from the main formation, flowing toward the primary breach like crystalline water. They don't need tools. They *are* the tools. This is the archaeological dig of a lifetime, and we are not just uncovering history—we are becoming part of its continuation.
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Arcana check monitoring repair drone activation — 18 vs DC 16 — **SUCCESS** You confirm the drones are drawing energy from the containment field itself and using ambient Dreamstone for material, creating a self-sustaining repair cycle.
+
+**Garrick Kade**: Perception check watching central glow during activation — 16 vs DC 13 — **SUCCESS** You detect no hostile reaction from the Sleeper—the broadcast pulse remains steady and rhythmic, unchanged by the repair initiation.
+
+**Professor Thaddeus Mercer**: Arcana check directing repair drones — 20 vs DC 16 — **SPECTACULAR SUCCESS** Your command is flawlessly executed; the drones begin precise reinforcement of the primary breach with golden ratio scaling, working in perfect harmony with the containment system.
+
+
+--- DM ---
+Cora's monitoring confirms the elegant efficiency of the system: the repair drones draw energy directly from the containment field itself, using ambient Dreamstone particles floating in the Caldera as raw material. It's a closed loop — the very energy leaking through the breaches is harvested to power their repair, and the Dreamstone that has grown through the fractures is harvested to patch them. "Self-sustaining cycle," she reports, her voice filled with professional admiration despite the circumstances. "Zero net energy loss. The system repairs itself using its own failure products. The Giants didn't just build a prison — they built a living, self-healing organism."
+
+Garrick watches the central glow, his combat senses alert for any sign of reaction. But there is none. The broadcast pulse remains steady, rhythmic, unchanged. The Sleeper doesn't react to the repair of its own prison. It doesn't seem to care. Or perhaps, in its dreaming state, it understands that the containment is necessary — that without it, its dreams would unravel the universe that hosts them. The glow pulses, beautiful and terrible, indifferent to the geometric shapes working to strengthen the walls around it.
+
+Mercer's command executes flawlessly. The stream of tetrahedrons and octahedrons flows to the primary breach, their crystalline surfaces shifting to match the fractal pattern of the containment runes. They don't apply new material — they restructure what's already there. The Dreamstone growths that had fractured the runes are carefully disassembled, their crystalline matrices reconfigured, then reintegrated into the rune pattern with increased fractal density. The golden light, which had dimmed at the breach point, begins to brighten. Not to its original intensity — not yet — but noticeably. The repair is working.
+
+The dodecahedron drifts closer to Mercer, its surface displaying a progress report: 17% complete, estimated time to full reinforcement: 8.3 hours. Then it shows something else: the other three breaches, with estimated start times staggered to maintain system stability. The repair drones will work continuously, cycling through all four breaches in sequence until the containment is restored to 100% integrity.
+
+But as the repair progresses, something else happens. The Observation Platform — the Giant-era structure built into the Caldera wall that the Architect's Codex mentioned — begins to activate. Crystalline viewing panels that had been dark for millennia now glow with soft blue light. Monitoring equipment hums to life. The platform, located about one hundred twenty degrees from your position, is coming online. The system isn't just repairing the breaches — it's restoring full functionality.
+
+**What do you do?** The repair drones are working flawlessly on the primary breach. The Sleeper shows no reaction. The Observation Platform is activating. Do you move to the platform to access its monitoring systems? Continue supervising the repair operation? Or begin preparing for the next phase — establishing a permanent forward position in the Caldera as the Architect's Codex indicated would be necessary for Act IV?
+
+
+────────────────────────────────────────
+  Exchange 14/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+"The Observation Platform activation is part of the system restoration," I note, making detailed records of the repair process. "That gives us a permanent monitoring station and potentially access to the Architect's Council's original schematics." I check the repair progress—17% complete with 8.3 hours estimated.
+
+"Garrick, Mercer—we should secure the platform while the drones work. It's coming online automatically, which means it might have security protocols or require authentication." I prepare to move along the handholds. "We'll establish our forward operating base there as planned. The drones can continue repairs unsupervised—they've been waiting millennia for this."
+
+I secure my gear. "Mercer, your circlet might interface with the platform's systems. Garrick, watch for any defensive measures. I'll document everything for our operational records." I glance at the dodecahedron. "We're accepting their assistance but maintaining independent control. That's the most efficient division of labor."
+
+
+--- Garrick Kade ---
+I watch the repair drones work for another moment, their geometric shapes flowing in precise patterns as they restructure the Dreamstone. The golden light brightening at the breach is proof enough—they’re doing what they were made to do. "Platform's next," I grunt, already pulling myself along the handholds toward the glowing blue lights. "If it's coming online, we need to be the ones controlling it."
+
+I keep my maul in hand as I move, my eyes scanning for any defensive measures Cora mentioned. "Mercer, stay close. Your circlet might be the key to getting in. Cora, watch my back." The zero gravity still feels wrong, but I'm adapting, using the handholds to propel myself efficiently through the void.
+
+As we approach the Observation Platform, I position myself at the entrance—a massive archway carved for Giants, now shimmering with active runes. "I'll go first. If there's something waiting, I'll meet it." I take a firm grip on my maul, ready to swing even in weightlessness. The drones continue their work behind us, but my focus is ahead—on securing a foothold in this ancient, dreaming prison.
+
+
+--- Professor Thaddeus Mercer ---
+My eyes remain fixed on the dodecahedron's progress report, my mind racing through the implications. "Seventeen percent already," I murmur, my academic detachment giving way to something approaching reverence. "A self-healing containment system. The Giants didn't just build a prison—they built a symbiote. The Sleeper dreams the tools for its own containment, and the containment uses those tools to sustain itself. It's... beautiful."
+
+I turn to follow Garrick, pulling myself along the handholds with less grace but equal determination. "The Observation Platform is the key," I say, my circlet already glowing in anticipation. "If it's activating in response to the repair cycle, then it's part of the same system. It won't just be a monitoring station—it will be the control interface. The Architect's Council didn't just observe from here; they directed the containment."
+
+As we approach the massive archway, I float beside Garrick, my magnifying glass already raised to examine the shimmering runes. "These aren't just containment runes," I observe, my voice hushed. "They're command runes. Authorization protocols. The circlet should provide access—it was designed for exactly this kind of psychic interface." I glance back at the working drones, then at the steady, indifferent glow at the Caldera's heart. "We're not intruders anymore. We've been... anticipated. By fifty thousand years of dreaming preparation."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Investigation check analyzing Observation Platform activation — 17 vs DC 16 — **SUCCESS** You confirm it's part of the system restoration and identify it as the primary control interface for the containment.
+
+**Garrick Kade**: Athletics check navigating to platform while maintaining combat readiness — 15 vs DC 13 — **SUCCESS** You reach the archway efficiently and establish a secure position without triggering any defensive measures.
+
+**Professor Thaddeus Mercer**: Arcana check examining command runes — 19 vs DC 16 — **SUCCESS** You identify the authorization protocols and confirm your Dreamstone Circlet is designed to interface with them.
+
+
+--- DM ---
+Cora's analysis confirms the Observation Platform's function: it's not just a monitoring station — it's the primary control interface for the entire containment system. The activation is synchronized with the repair cycle, part of a comprehensive restoration protocol that hasn't been triggered in millennia. "Control interface confirmed," she reports, making rapid notes. "We establish command here, we control the containment. The drones will continue repairs, but we'll have oversight and the ability to direct resources."
+
+Garrick reaches the massive archway efficiently, his maul ready as he scans for threats. The archway, carved for beings twenty feet tall, shimmers with active runes that pulse with soft blue light. No defensive measures activate. No guardians emerge. The platform seems to be waiting for authorized personnel — and your Dreamstone Circlets appear to qualify. He establishes a secure position at the entrance, his eyes scanning the interior: a spacious chamber with crystalline viewing panels that provide magnified views of the entire Caldera, including the central glow and the working repair drones.
+
+Mercer examines the command runes with his magnifying glass floating before his eyes. "Authorization protocols," he breathes. "Psychic authentication. The circlet is the key." He doesn't just observe — he interfaces. His Dreamstone Circlet glows brightly, and the runes on the archway respond, shifting from blue to gold. The massive stone doors, which had been sealed for fifty thousand years, slide open silently. Not with mechanical sound, but with a soft hum of psychic energy. The platform welcomes you.
+
+Inside, the Observation Platform is a marvel of Giant engineering scaled for their size but functional for your smaller forms. Crystalline panels show real-time displays: the repair progress at the primary breach (now 22%), the status of the other three breaches, energy flow diagrams, containment field strength readings, and — most importantly — a detailed schematic of the entire Caldera with the four anchor points marked. These are the structural anchors where the containment field concentrates, and activating them with scaling runes will strengthen the field to maximum output.
+
+But there's something else. One of the panels shows not the Caldera, but the world above. The Asymmetrical Mountain. The capstone. The access passage you came through. And standing at that access point, watching through monitoring crystals, are figures you recognize: Warden Aldric, Warden Petra, and the rest of the Brotherhood. They're monitoring your descent. They know you've reached the Caldera. They know the repair drones have activated.
+
+And through another panel, you see something else: the Fire Gate. The sealed conduit marked with the Giant rune for "fire," the planar anchor Ignathar spoke of. It glows with dormant energy on the Caldera wall, waiting.
+
+**What do you do?** The Observation Platform is yours. The repair drones continue their work (now 22% complete on the primary breach). The Brotherhood monitors from above. The Fire Gate awaits. And the four anchor points need activation to maximize containment strength. Do you establish your forward base here immediately? Attempt to communicate with the Brotherhood? Examine the Fire Gate more closely? Or begin planning the activation of the anchor points?
+
+
+────────────────────────────────────────
+  Exchange 15/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I secure the Observation Platform, making a thorough search of the control interfaces. "We establish our forward base here—this gives us command of the containment system and real-time monitoring." I examine the display showing the Brotherhood. "They're observing, not interfering. That's acceptable for now—we'll update them once we have concrete progress."
+
+I turn to the anchor point schematics. "These four structural anchors are critical. Activating them with scaling runes will maximize containment strength." I check my supplies. "We have the Dreamstone from earlier expeditions and Korathan's scaling rune technology. We can implement this."
+
+I look at the Fire Gate display. "That's our next objective after securing the containment. Ignathar's planar anchor needs to be activated to restore the elemental balance." I make a timeline in my ledger. "First: secure platform and monitor repairs. Second: activate anchor points. Third: investigate Fire Gate. That's the most efficient sequence."
+
+
+--- Garrick Kade ---
+I keep my position at the archway, maul resting on my shoulder as I watch the crystalline panels. "Brotherhood's watching," I grunt, my eyes narrowing at the display showing Aldric and Petra. "Let them watch. We're doing their job for them."
+
+I glance at the repair progress—22%—then back to the anchor point schematics. "Anchors first. Stronger containment means less chance of everything going to hell while we poke that Fire Gate." I move further into the platform, my boots echoing on stone carved for Giants. The scale of the place is staggering, but I've learned to focus on what matters: threats, tools, and exits.
+
+"Secure this place first," I say, checking sightlines and potential ambush points. "Cora, you handle the rune work on the anchors. Mercer, keep an eye on the Brotherhood display—if they start coming down, I want to know." I position myself where I can watch both the archway and the central glow through the viewing panels. "The drones are fixing the breaches. We make the containment stronger. Then we see what that Fire Gate really is." My hand stays on my maul, because in fifty thousand years of perfect containment, something finally changed: we arrived.
+
+
+--- Professor Thaddeus Mercer ---
+My circlet hums as I interface with the Observation Platform's psychic controls. The crystalline panels respond to my thoughts, shifting displays with fluid grace. "The authorization is complete," I say, my voice filled with quiet awe. "We have full command access. The system recognizes us as... inheritors. The Giants built this place with the expectation that someone would eventually take the reins."
+
+I examine the anchor point schematics, my magnifying glass floating before the display. "The four structural anchors—they're not just reinforcement points. They're harmonic resonators. When activated with scaling runes, they'll create a standing wave pattern throughout the containment field, increasing its strength exponentially." I turn to Cora, my academic excitement barely contained. "This is the key to buying us the time we need. The breaches are being repaired, but the anchors will make the entire system more resilient."
+
+I glance at the display showing the Brotherhood. "They're monitoring, yes. But they're not interfering because they understand what we've just accomplished. We've triggered a restoration protocol that hasn't run in fifty millennia." My fingers trace the Fire Gate schematic. "And this... this is the next piece of the puzzle. A planar anchor. The Giants didn't just contain the Sleeper—they balanced it. Fire to counter the void's cold dreaming. We need to activate it, but first we must secure what we've gained."
+
+I float toward the main control interface, my circlet glowing brighter. "I'll begin calibrating the anchor point activation sequences. Cora, if you could prepare the scaling rune inscriptions—we'll need precise application at each anchor location. Garrick, maintain watch. The system may be welcoming, but we're still in the belly of something that dreams worlds into being." I take a steadying breath, the weight of millennia settling on my shoulders. "We're not just repairing a prison. We're becoming its wardens."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Investigation check securing platform and analyzing anchor schematics — 18 vs DC 16 — **SUCCESS** You confirm the anchor activation sequence and prepare precise scaling rune inscriptions for all four locations.
+
+**Garrick Kade**: Perception check monitoring platform security and Brotherhood display — 16 vs DC 13 — **SUCCESS** You maintain effective surveillance, detecting no immediate threats and noting the Brotherhood remains in observation mode only.
+
+**Professor Thaddeus Mercer**: Arcana check interfacing with platform controls and calibrating anchor sequences — 20 vs DC 16 — **SPECTACULAR SUCCESS** You achieve perfect calibration; the system is fully responsive and ready for anchor activation with optimal harmonic resonance.
+
+
+--- DM ---
+Cora secures the Observation Platform with methodical precision, her engineer's mind mapping every control interface, every display, every potential point of failure. The anchor point schematics reveal their true function: harmonic resonators that, when activated with scaling runes, will create a standing wave pattern throughout the entire containment field. She prepares the inscriptions with exacting care, calculating the golden ratio scaling factors for each of the four locations. "Rune inscriptions ready," she reports, her ledger filled with precise diagrams. "Application at each anchor point will require approximately thirty minutes per location. The drones can continue breach repairs while we work."
+
+Garrick maintains his watchful position, his eyes scanning the crystalline panels and the archway entrance. The Brotherhood display shows Warden Aldric and Petra still observing, their expressions unreadable but their posture suggesting... approval? Respect? They make no move to descend. They simply watch, understanding that something monumental is happening below. The repair progress ticks upward: 28% complete on the primary breach. The other breaches show as queued for repair, their failure probabilities recalculating in real time as the system stabilizes.
+
+Mercer's interface with the platform controls is nothing short of masterful. His circlet glows with such intensity that the crystalline panels respond to his thoughts before he fully forms them. The calibration is perfect — the harmonic resonance sequences for the four anchor points are optimized, the energy flow diagrams showing maximum efficiency with minimal stress on the aging containment infrastructure. "The system is ready," he says, his voice filled with quiet reverence. "The Giants built this place not just to contain, but to be maintained. We're not intruders. We're... successors."
+
+As the calibration completes, something changes in the Caldera. The hundreds of repair drones — the geometric Deep Things — shift their formations. A portion of them break away from the primary breach repair (now 31% complete) and flow toward the four anchor points. They're not taking over the activation — they're preparing the sites, clearing debris, aligning crystalline structures, creating optimal conditions for your rune work. They're assisting. They're collaborating.
+
+The dodecahedron that first communicated with you drifts into the Observation Platform, its geometric shape passing through the archway as if the massive stone doors weren't there. It floats before Mercer, its surface displaying a new schematic: the four anchor points with your prepared rune inscriptions overlaid, then a timeline showing staggered activation for system stability, then a final display: containment field strength projection after full activation. The projection shows an increase of 317%. The containment wouldn't just be repaired — it would be stronger than it's been in twenty thousand years.
+
+But there's one more thing. The dodecahedron shows the Fire Gate again, this time with an energy reading: dormant but stable. And beside it, a question. Not a command. A question. "After?"
+
+**What do you do?** The Observation Platform is secured as your forward base. The repair drones continue their work (primary breach 31% complete) and are preparing the anchor points for your rune activation. The containment field strength projection shows a 317% increase possible. The Fire Gate awaits with its dormant energy and unanswered question. The Brotherhood watches from above.
+
+Do you begin activating the anchor points immediately? Investigate the Fire Gate first? Attempt to communicate with the Brotherhood? Or take time to establish your base more thoroughly before proceeding?
+
+
+────────────────────────────────────────
+  Exchange 16/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+"Three hundred seventeen percent increase in containment strength is the priority," I say, checking my rune inscriptions one final time. "We activate the anchor points in the staggered sequence shown—that minimizes system stress." I secure my tools and prepare to move to the first anchor point.
+
+I glance at the Fire Gate display. "'After' means they're thinking long-term. Once containment is secured, we investigate the planar anchor. That's Ignathar's domain, and we have an agreement with him." I make a note in my ledger about the energy readings.
+
+"Garrick, you're with me to the first anchor point. Mercer, maintain platform control and monitor the repair progress. The drones have prepared the sites—we just need to apply the inscriptions." I check my tether. "We work efficiently. Thirty minutes per anchor, two hours total. Then we reassess and plan the Fire Gate investigation. The Brotherhood can wait—they're observers, not participants in this phase."
+
+
+--- Garrick Kade ---
+"Three hundred percent stronger sounds good to me," I grunt, hefting my maul as I move toward the archway. "Let's make this place a fortress nothing from Emberfell could ever touch."
+
+I follow Cora toward the first anchor point, my eyes scanning the prepared site where the geometric drones have cleared the area. The crystalline structures they've arranged gleam in the golden light, waiting for our runes. "You do the scribbling, Cora. I'll watch for trouble." I position myself between her and the open void, my back to the Caldera wall as she works.
+
+My gaze flicks between the central glow—still pulsing steadily—and the Observation Platform where Mercer remains. The Brotherhood watching from above doesn't worry me; they're too far to interfere. But that Fire Gate... "After we seal this place tight, we deal with the fire giant's problem," I say, my voice low. "One fortress at a time." I keep my maul ready, watching the geometric drones continue their repairs while we strengthen the very walls that contain them. The irony isn't lost on me, but in a place where down is optional and crystal balls fix their own prison, you take the wins where you find them.
+
+
+--- Professor Thaddeus Mercer ---
+I float before the crystalline control panels, my circlet's glow casting shifting patterns across the ancient stone. "Three hundred seventeen percent," I murmur, the number settling in my mind with profound weight. "We're not just repairing history—we're improving upon it. The Giants built a system that could grow stronger with proper maintenance. They anticipated successors."
+
+My fingers trace the energy flow diagrams on the panel. "The staggered activation sequence is sound. Cora's inscriptions will create a harmonic standing wave that reinforces the entire containment matrix." I turn to the dodecahedron floating beside me. "Tell the drones to maintain their current repair schedule. We'll handle the anchor points."
+
+I glance at the display showing the Brotherhood. "They're witnessing something no one has seen in fifty millennia—the Caldera's maintenance protocols activating. Let them watch. Their records will need updating." My attention shifts to the Fire Gate schematic. "After? After we secure the containment, we honor our agreement with Ignathar. A planar anchor that's been dormant this long... its activation could stabilize the entire mountain's elemental balance."
+
+I secure my position at the control interface, my spellbook floating open beside me. "I'll monitor the system integrity during the anchor activations. If the harmonic resonance causes any stress fractures, I can adjust the energy flow in real-time." I look toward the archway where Garrick and Cora are departing. "We're not just visitors anymore. We're stewards. And this..." I gesture to the glowing panels, the geometric drones, the entire impossible Caldera, "...this is the archaeological dig of a lifetime."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Arcana check applying first scaling rune inscription — 17 vs DC 16 — **SUCCESS** You flawlessly inscribe the golden ratio pattern, establishing perfect harmonic resonance at anchor point #1.
+
+**Garrick Kade**: Perception check monitoring during rune work — 15 vs DC 13 — **SUCCESS** You maintain effective security, detecting no threats and noting the geometric drones continue their repairs without interference.
+
+**Professor Thaddeus Mercer**: Arcana check monitoring system integrity — 19 vs DC 16 — **SUCCESS** You detect optimal energy flow with no stress fractures, confirming the staggered activation sequence is proceeding perfectly.
+
+
+--- DM ---
+Cora's hands are steady as she inscribes the first scaling rune at anchor point #1. The golden ratio pattern flows from her tools with perfect precision, the fractal geometry aligning with the existing containment runes as if they were always meant to be there. As the final line completes, the rune ignites with golden light — brighter than the surrounding containment runes, humming with harmonic resonance. The crystalline structures the drones prepared around the anchor point pulse in response, amplifying the effect. Anchor point #1 is active. Containment field strength increases immediately: +79% projected.
+
+Garrick watches the void, his maul ready, but no threats emerge. The geometric drones continue their repair work at the primary breach (now 37% complete), their movements unaffected by the anchor activation. The central glow pulses steadily, indifferent. The Brotherhood display in the Observation Platform shows Warden Aldric leaning forward, his expression one of intense focus as he watches the energy readings from above. They're not interfering — they're learning.
+
+Mercer monitors the system integrity from the platform's control interface. Energy flow diagrams show optimal distribution, with no stress fractures or overloads. The harmonic resonance from anchor point #1 spreads through the containment field like a perfectly struck chord, reinforcing the entire structure. "Perfect," he breathes, his fingers tracing the glowing diagrams. "The system is responding exactly as designed. The Giants built in redundancy, but they also built in... elegance."
+
+The dodecahedron floats beside him, its surface displaying updated projections: with one anchor active, containment field strength is already at 179% of baseline. With all four active: 417% (Mercer's earlier calculation was conservative). The timeline adjusts: anchor point #2 can be activated in 22 minutes without system stress. The repair drones' schedule updates accordingly — they'll complete the primary breach repair (now estimated at 5.1 hours total) before anchor point #4 activation to maintain optimal energy balance.
+
+But as Cora and Garrick prepare to move to anchor point #2, something changes in the Observation Platform display showing the Fire Gate. The dormant energy reading flickers. Not much — just a momentary spike, then a return to baseline. But it's the first change in that reading since you arrived. And on another panel, the display showing the Brotherhood... changes. Warden Aldric is no longer just watching. He's giving orders to someone off-screen. Petra is preparing equipment. They're not descending yet, but they're preparing to.
+
+**What do you do?** Anchor point #1 is active with perfect results. Anchor point #2 awaits in 22 minutes. The Fire Gate has shown its first energy fluctuation. The Brotherhood is preparing for something. Do you proceed with the anchor activation sequence as planned? Investigate the Fire Gate fluctuation? Attempt to communicate with the Brotherhood? Or adjust your strategy based on these new developments?
+
+
+────────────────────────────────────────
+  Exchange 17/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I note the Fire Gate fluctuation in my ledger. "That's concerning but not immediately critical. The anchor activation sequence takes priority—we need the containment strengthened before investigating anomalies." I check the timeline. "Twenty-two minutes until anchor point #2. We'll use that time to monitor the Fire Gate and prepare."
+
+I turn to Mercer. "Keep tracking that energy reading. If it spikes again, we need to know immediately." I look at the Brotherhood display. "They're preparing but not descending. That suggests they're responding to the containment strengthening, not planning intervention. We'll continue as planned."
+
+I secure my tools for the next inscription. "Garrick, maintain watch on the approach to anchor point #2. The drones are working, the system is stable, and we're ahead of schedule. We don't deviate from the optimal repair sequence unless absolutely necessary. That's efficient resource management."
+
+
+--- Garrick Kade ---
+"Fire Gate flickers, Brotherhood gets twitchy," I grunt, my eyes narrowing at the displays. "Could be connected. Could be coincidence." I keep my position near Cora, my gaze sweeping between the archway entrance and the crystalline panels showing the activity above.
+
+"We stick to the plan," I say, echoing Cora's assessment. "Stronger containment first. If that Fire Gate is a problem, we'll deal with it from a position of strength." I test my grip on my maul, the familiar weight reassuring in the weightless void. "Twenty-two minutes. I'll watch the approach. Mercer, shout if that energy spike happens again."
+
+I move toward the archway, positioning myself to guard the path to anchor point #2. The geometric drones continue their work, flowing around us with silent efficiency. "Brotherhood's watching, not coming down. That's fine. Let them watch us do what they couldn't." My eyes stay fixed on the empty corridor beyond the platform, ready for anything that might decide to interrupt our work.
+
+
+--- Professor Thaddeus Mercer ---
+My eyes remain fixed on the control interface, my circlet humming as I monitor the delicate energy flows. "The fluctuation was minor—a transient spike of 0.3% above baseline," I report, my voice maintaining its academic calm despite the racing of my heart. "But it's the first change in fifty thousand years of dormancy. That's statistically significant."
+
+I turn my attention to the Brotherhood display, my fingers tracing the energy diagrams. "Aldric isn't preparing to descend—he's preparing to monitor. They're seeing the containment field strengthen and are likely activating their own observation protocols. They understand what's happening."
+
+I float toward the archway, my spellbook secured against my chest. "We proceed with anchor point #2 as scheduled. The system is stable, and the 22-minute interval is designed precisely to prevent harmonic resonance overload." I glance at the dodecahedron, its surface now showing a real-time feed of the Fire Gate's energy signature. "But we should establish a continuous monitor on the Gate. If it's reacting to our reinforcement of the containment, that suggests a connection we don't yet understand."
+
+I look at Cora and Garrick, my expression serious. "The Giants built this entire system as an integrated whole—containment, observation, repair, and the Fire Gate. They're not separate components; they're organs in the same body. We strengthen one, another may awaken. We need to be ready for that."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Investigation check monitoring Fire Gate fluctuation — 16 vs DC 16 — **SUCCESS** You determine the spike correlates with anchor point #1 activation, suggesting a connected system response rather than independent activity.
+
+**Garrick Kade**: Perception check guarding approach to anchor point #2 — 17 vs DC 13 — **SUCCESS** You maintain perfect security, detecting no threats and noting the geometric drones continue their work undisturbed.
+
+**Professor Thaddeus Mercer**: Arcana check analyzing system connections — 20 vs DC 16 — **SPECTACULAR SUCCESS** You confirm the Fire Gate is part of the integrated containment system, awakening in response to reinforcement as designed by the Giants.
+
+
+--- DM ---
+Cora's analysis confirms the connection: the Fire Gate's energy spike occurred exactly 3.2 seconds after anchor point #1 reached full activation. The correlation is precise, mathematical. "Integrated system response," she reports, updating her ledger with the timing data. "The Giants designed the containment as a unified whole. Strengthening one component triggers responses in others. The Fire Gate is awakening because we're doing our job correctly."
+
+Garrick maintains his watchful position, his eyes scanning the approach to anchor point #2. The geometric drones continue their silent work, flowing around him with the efficiency of water finding its path. No threats emerge. The void remains calm, the central glow pulsing with its steady, indifferent rhythm. The Brotherhood display shows continued preparation but no descent — they're activating monitoring equipment, not gearing up for intervention.
+
+Mercer's analysis reveals the full truth. The Fire Gate isn't just connected to the containment system — it's a balancing mechanism. The Giants didn't just contain the Sleeper's void energy; they balanced it with elemental fire from another plane. The containment field strengthening has triggered the Gate's awakening sequence because the system needs that balance restored. "It's not a problem," he says, his voice filled with dawning understanding. "It's the next phase. The containment was designed to be reinforced in stages: first the breaches, then the anchors, then the elemental balance. We're following the exact sequence the Architects intended."
+
+The dodecahedron confirms his analysis. Its surface displays a schematic showing the progression: breach repair → anchor activation → Fire Gate awakening → elemental balance restoration → maximum containment stability. Then it shows a timeline: anchor point #2 activation in 18 minutes, #3 in 42 minutes after that, #4 in 66 minutes after that. The Fire Gate will reach full awakening approximately 2.3 hours after anchor point #4 activation — exactly when the system will need the elemental balance to handle the increased containment strength.
+
+But as the 22-minute interval counts down to 18 minutes, something else happens. The display showing the Brotherhood... changes again. Warden Aldric is no longer just preparing equipment. He's speaking directly into a communication crystal, his expression urgent. Petra is donning her armor. And behind them, other Brotherhood members are gathering. They're not descending yet, but they're mobilizing. And the communication crystal Aldric is using — it's the same type the party used to contact them from the Salt-Vaults. He's trying to reach you.
+
+**What do you do?** The system is proceeding exactly as designed: anchor point #2 activation in 18 minutes, with the Fire Gate awakening as an intended consequence. But the Brotherhood is mobilizing and attempting to communicate. Do you proceed with the anchor activation sequence uninterrupted? Attempt to communicate with Aldric first? Adjust your timeline based on the Brotherhood's mobilization? Or prepare for potential intervention from above while continuing your work?
+
+
+────────────────────────────────────────
+  Exchange 18/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+"Mercer, establish communication with Aldric," I say, keeping my focus on the anchor point schematics. "We need to know why they're mobilizing. If they're coming to assist, we coordinate. If they're coming to interfere, we need to adjust our timeline."
+
+I check the countdown—eighteen minutes until anchor point #2 activation. "We continue the sequence unless they give us a compelling reason to pause. The system is responding perfectly, and delaying could cause harmonic instability." I make a note in my ledger about the Brotherhood's mobilization.
+
+"Garrick, maintain your position but be ready for company. If they descend, we'll need to secure the platform entrance." I prepare my tools for the next inscription. "Efficiency is still our priority. We communicate while working—multitasking is cheaper than stopping and restarting the activation sequence. That's coming out of our operational time budget."
+
+
+--- Garrick Kade ---
+I keep my position near anchor point #2, my eyes flicking between the void and the Brotherhood display. "Let Mercer talk to them," I grunt, my grip firm on my maul. "If they're coming down to help, fine. If they're coming to stop us..." I let the threat hang in the air, my meaning clear.
+
+I watch the geometric drones continue their work, their silent efficiency a stark contrast to the sudden activity above. "Cora's right—we keep working. But if they come through that capstone, I'll be at the archway to meet them." I adjust my stance, testing my footing in the zero gravity. The last thing we need is the Brotherhood deciding we're not following their rules while we're in the middle of saving their mountain.
+
+"Eighteen minutes," I say, my voice low. "Plenty of time for Mercer to get answers. But if they start descending before we're done here, we'll have a problem." My eyes stay fixed on the approach to the platform, ready for whatever—or whoever—comes next.
+
+
+--- Professor Thaddeus Mercer ---
+My fingers dance across the crystalline control panel, my circlet glowing as I establish the psychic link through the platform's communication systems. "Warden Aldric," I project, my mental voice calm and precise. "This is Professor Mercer. We are currently executing phase two of the containment reinforcement protocol—anchor point activation. The system is responding within optimal parameters. Please state your intentions."
+
+I keep one eye on the energy flow diagrams, watching for any disruption from the communication. "The Fire Gate awakening is an expected system response to increased containment strength. It's not a breach—it's the next phase of restoration. We have approximately eighteen minutes until anchor point two activation. If you intend to descend, please coordinate with our timeline to avoid harmonic interference."
+
+I glance at the dodecahedron, which displays a real-time schematic of the communication link. "They're mobilizing, but their energy signatures don't indicate hostile intent. More like... emergency response protocols. They may think we've triggered an alarm rather than a repair sequence." I adjust the psychic frequency, adding a data stream—the anchor point schematics, the containment strength projections, the Fire Gate integration timeline. "I'm sending them the operational data. If they're rational, they'll understand. If not..." I don't finish the thought, but my hand drifts toward my spellbook.
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Investigation check monitoring system stability during communication — 17 vs DC 16 — **SUCCESS** You confirm the communication link causes no harmonic interference with the anchor activation sequence.
+
+**Garrick Kade**: Perception check watching for Brotherhood descent — 16 vs DC 13 — **SUCCESS** You detect no immediate descent but note increased activity at the capstone access point.
+
+**Professor Thaddeus Mercer**: Arcana check establishing communication with Aldric — 19 vs DC 16 — **SUCCESS** You establish a clear psychic link and successfully transmit operational data to the Brotherhood.
+
+
+--- DM ---
+Cora monitors the system stability with exacting precision. The communication link Mercer establishes causes no harmonic interference — the energy flow diagrams remain optimal, the countdown to anchor point #2 activation continues uninterrupted (now 15 minutes). The geometric drones work on, their repair progress at the primary breach now 42% complete. The integrated system handles the additional psychic traffic without strain, a testament to the Giants' engineering.
+
+Garrick watches the approach, his combat senses alert. The Brotherhood display shows increased activity at the capstone access point, but no descent yet. They're preparing, mobilizing, but not breaching the threshold. His position at the archway remains secure, his maul ready but not raised. The void beyond remains calm, the central glow pulsing steadily, the geometric drones flowing in their precise patterns.
+
+Mercer's communication succeeds. Warden Aldric's response comes through the psychic link, his mental voice crisp with military precision but tinged with something else — awe? "Professor Mercer. We read your data. The containment field strength... it's increasing. We've never seen readings like this. The Fire Gate energy spike triggered our emergency protocols — we thought it was a breach."
+
+A pause, then: "Your operational timeline shows... you're not just containing it. You're reinforcing it. Strengthening it." Another pause, longer this time. "The Architects' restoration protocol. We thought it was theoretical. Legend. You've activated it."
+
+Aldric's tone shifts from emergency response to something more measured. "We will not interfere. We will monitor from above and provide support if needed. But Professor... the Fire Gate. When it awakens fully... there are records. The Giants didn't just balance the void with fire. They used it. For something. We don't have the details, but the records mention... forging."
+
+The communication link holds steady. Aldric adds: "We're standing by. Proceed with your timeline. But be ready. The Fire Gate hasn't been active in fifty thousand years. Whatever the Giants used it for... it may require reactivation too."
+
+The countdown to anchor point #2 activation: 12 minutes. The dodecahedron displays an updated schematic: the Fire Gate with new data. Its awakening isn't just for balance — it's for a purpose. A function. And that function is tied to something called "the Seal" in Giant script that flashes briefly on the display before fading.
+
+**What do you do?** The Brotherhood is standing down, monitoring but not interfering. Anchor point #2 activation in 12 minutes. The Fire Gate's awakening has a purpose beyond balance — something about "forging" and "the Seal." Do you proceed with the anchor activation sequence as planned? Attempt to learn more about the Fire Gate's function before it awakens fully? Or adjust your strategy now that you know the Gate has a specific, unknown purpose?
+
+
+────────────────────────────────────────
+  Exchange 19/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+"We proceed with the anchor activation sequence," I say, my voice firm as I check the countdown—twelve minutes. "The system is responding optimally, and delaying risks destabilizing the harmonic resonance we've established." I make a note about the Fire Gate's "forging" function and "the Seal" in my ledger. "That's phase three. First we secure the containment, then we investigate the Gate's purpose."
+
+I secure my tools for the next inscription. "Mercer, acknowledge Aldric and tell him we'll update them after anchor point four is active. We need to maintain focus—the timeline is precise for a reason." I glance at Garrick. "Maintain watch. The Brotherhood is standing down, but we stay vigilant."
+
+I move toward anchor point two, my tether secure. "The Giants built this as an integrated system. We follow the sequence: breaches, anchors, then the Gate. Deviating now could compromise everything. We'll have answers about 'the Seal' when we're ready to activate the Fire Gate, not before. Efficiency requires completing one phase before starting the next."
+
+
+--- Garrick Kade ---
+"Twelve minutes," I grunt, my eyes still scanning the void beyond the archway. "We keep to the schedule." The Brotherhood standing down is good—one less thing to worry about. But this talk of "forging" and "the Seal" sets my teeth on edge. Anything the Giants built with a special name is trouble.
+
+I shift my position slightly, keeping a clear line of sight to both the approach and Cora as she prepares for the next anchor point. "Mercer, tell Aldric we'll call if we need him. Otherwise, they can watch from upstairs." My grip tightens on my maul. "This 'Seal' business sounds like another layer of this prison. If it needs fire to work, we'll deal with it when the time comes."
+
+I watch the geometric drones continue their silent work, the primary breach now almost half repaired. The system is humming along perfectly, but I've seen enough jobs go sideways at the last moment. "Cora, do your rune. I'll watch the door. Anything comes through that isn't a crystal ball, I'll meet it." The countdown ticks in my head—twelve minutes until the next piece of this ancient machine clicks into place. We're fixing something that should have stayed broken, and part of me wonders what we're really waking up down here.
+
+
+--- Professor Thaddeus Mercer ---
+My circlet glows as I maintain the psychic link with Aldric. "Acknowledged, Warden. We proceed as scheduled. The system's response is optimal—any deviation now would risk harmonic instability." I pause, my academic curiosity warring with operational necessity. "The Seal... we'll investigate once the anchors are secure. The Giants' records in the Architect's Codex mention a final containment layer, but the details were lost. If the Fire Gate is part of that..."
+
+I break the connection and turn my attention to the dodecahedron. "Show me what you know about 'the Seal,'" I project through the circlet, accompanying the request with images of the Fire Gate, then a question mark, then the Giant rune for 'containment.' "But only after anchor point four is active. The sequence must be maintained."
+
+I float toward the control interface, monitoring the energy flow diagrams. The system hums with perfect harmony, the geometric drones working in flawless synchrony with our efforts. "Twelve minutes," I murmur, more to myself than to the others. "Then we strengthen the prison another step. And then... we discover what the Architects built that required both void and fire."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Arcana check preparing for anchor point #2 activation — 18 vs DC 16 — **SUCCESS** You achieve perfect readiness, with tools calibrated and inscriptions prepared for flawless application.
+
+**Garrick Kade**: Perception check maintaining security during countdown — 15 vs DC 13 — **SUCCESS** You maintain perfect vigilance, detecting no threats and noting the geometric drones continue their work undisturbed.
+
+**Professor Thaddeus Mercer**: Arcana check monitoring system harmony — 20 vs DC 16 — **SPECTACULAR SUCCESS** You confirm the system is in perfect harmonic balance, with all components synchronized for the upcoming activation.
+
+
+--- DM ---
+Cora achieves perfect readiness for anchor point #2 activation. Her tools are calibrated to micrometer precision, her inscriptions prepared with mathematical perfection. The golden ratio scaling factors are calculated, the fractal geometry mapped, the harmonic resonance sequences aligned. She floats before the anchor point, waiting for the countdown to reach zero with the stillness of a master engineer at the peak of her craft. The system hums around her, responding to her preparations with approving energy flows.
+
+Garrick maintains his watchful position, his eyes scanning the void, the archway, the approach. No threats emerge. The geometric drones continue their silent work, the primary breach now 45% repaired. The central glow pulses steadily, indifferent. The Brotherhood display shows Warden Aldric and his team monitoring from above, their emergency mobilization halted, replaced by focused observation. They're watching history unfold — the first activation of the Architects' restoration protocol in fifty millennia.
+
+Mercer confirms the system's perfect harmony. Every component is synchronized: the repair drones, the containment field, the anchor points, even the awakening Fire Gate. The energy flow diagrams show optimal distribution, the harmonic resonance patterns forming beautiful, mathematically perfect waveforms. The dodecahedron floats beside him, its surface displaying the countdown: 3... 2... 1...
+
+Anchor point #2 activation.
+
+Cora's hands move with flawless precision. The scaling rune inscription flows from her tools, the golden ratio pattern aligning with the existing containment runes as if they were always meant to be one. The rune ignites with golden light — brighter than the first, humming with deeper resonance. The crystalline structures around the anchor point pulse in response, amplifying the effect. Anchor point #2 is active.
+
+The system responds immediately. Containment field strength increases: now at 258% of baseline. The harmonic standing wave strengthens, spreading through the entire Caldera. The geometric drones adjust their repair patterns slightly, optimizing for the new energy distribution. The primary breach repair accelerates: now 48% complete.
+
+But something else happens. The Fire Gate's energy reading spikes again — not a flicker this time, but a sustained increase of 12%. Its dormant state is ending. And on the Observation Platform's displays, new schematics appear. Not just the Fire Gate. The Seal.
+
+The dodecahedron displays it clearly: a complex diagram showing the Fire Gate connected to something at the Caldera's center. Not the Sleeper's glow. Something else. A structure. A device. The Seal. And beside it, Giant script that translates as: "Dreamstone Forge. Final Containment Layer. Activation requires: Balanced Void and Fire. Architects' Authorization. The Will to Complete What Was Begun."
+
+The countdown to anchor point #3 activation begins: 42 minutes. The Fire Gate continues to awaken. The Seal schematic remains on the display, waiting.
+
+**What do you do?** Anchor point #2 is active with perfect results. Containment field strength at 258% and climbing. The Fire Gate is awakening with purpose: it's part of a "Dreamstone Forge" for creating "the Seal" — the final containment layer. Anchor point #3 activation in 42 minutes. Do you proceed with the anchor sequence as planned? Begin investigating the Seal schematic immediately? Attempt to communicate with the Brotherhood about this new discovery? Or prepare for the Fire Gate's full awakening and whatever comes with it?
+
+
+────────────────────────────────────────
+  Exchange 20/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+"The Dreamstone Forge and the Seal—that's the final containment layer the Giants designed but never completed." I study the schematic with intense focus, my engineer's mind racing through the implications. "The Fire Gate isn't just for balance; it's the power source for a manufacturing process. We need to understand this before proceeding."
+
+I turn to Mercer, my ledger already open for notes. "Ask the dodecahedron for the full technical specifications of the Seal. Material requirements, fabrication time, activation protocols." I glance at the countdown—42 minutes until anchor point #3. "We have time to gather data while maintaining the anchor sequence. The system is stable and strengthening."
+
+I look at Garrick. "Maintain watch. If the Fire Gate's awakening accelerates, we need to know." Back to my calculations: "The 'Will to Complete What Was Begun' suggests this isn't just technical—it's a test of commitment. We'll proceed with the anchors as scheduled, but we're shifting from repair to completion of the original design. That changes our mission parameters, but the cost-benefit analysis is clear: a final containment layer is worth the risk."
+
+
+--- Garrick Kade ---
+I keep my eyes on the void, my maul steady in the zero gravity. "Dreamstone Forge," I grunt, the words feeling heavy. "The Giants started something they couldn't finish. Now it's on us." I watch the Fire Gate's energy reading climb on the displays, my instincts screaming that fire and void in one place is asking for trouble.
+
+"Forty-two minutes until the next anchor," I say, shifting my position to better watch the archway and the approach to the Fire Gate. "We keep to the schedule. But if that Gate does more than just wake up while we're working, we need to be ready." My grip tightens on my weapon. "Cora, get those specs. Mercer, keep talking to the crystal ball. I'll watch the fire."
+
+I glance at the central glow, still pulsing with that same indifferent rhythm. "The Giants built this place to last. If they left us a final layer to forge, then we'll forge it. But first we make sure the walls hold." I settle into my watch, muscles coiled, ready for whatever this ancient machine decides to throw at us next.
+
+
+--- Professor Thaddeus Mercer ---
+My circlet glows as I interface with the dodecahedron, my mind racing through the implications. "The Seal isn't just another layer," I say, my voice trembling with a mixture of academic excitement and genuine awe. "It's the culmination. The Giants contained the Sleeper, but they knew containment would eventually fail. The Seal was meant to be... transformative. Not just a prison, but a resolution."
+
+I turn to Cora, my fingers tracing the schematic floating in the air. "The Dreamstone Forge uses balanced void and fire to rework Dreamstone at a fundamental level. The 'Will to Complete What Was Begun'—it's not metaphorical. The forging process requires conscious intent woven into the material. Psychic architecture made physical." I look back at the dodecahedron. "Ask for the authorization protocols. What does 'Architects' Authorization' mean? Is it knowledge? Bloodline? Or simply... being here when the system finally awakened?"
+
+I float toward the control interface, my movements deliberate. "We proceed with anchor point three as scheduled. The system is stable, and we need the containment at maximum strength before we even think about activating a forge that balances void energy with elemental fire." I glance at Garrick. "But we prepare. Cora, start calculating material requirements—we have Dreamstone from earlier expeditions, but we may need more. And we need to understand what we're committing to. Forging the Seal might not just strengthen the containment... it might change it. Permanently."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Investigation check analyzing Seal specifications — 19 vs DC 16 — **SUCCESS** You obtain detailed technical data: the Seal requires 15kg of refined Dreamstone, 42 hours of forging time, and precise psychic intent during fabrication.
+
+**Garrick Kade**: Perception check monitoring Fire Gate awakening — 16 vs DC 13 — **SUCCESS** You detect the awakening is proceeding steadily at 12% increase, with no sudden spikes or dangerous fluctuations.
+
+**Professor Thaddeus Mercer**: Arcana check querying authorization protocols — 20 vs DC 16 — **SPECTACULAR SUCCESS** You learn "Architects' Authorization" means being present when the system awakens and demonstrating understanding—which you've already done. The authorization is yours.
+
+
+--- DM ---
+Cora obtains the full technical specifications for the Seal: 15 kilograms of refined Dreamstone, 42 hours of forging time in the balanced void-fire environment of the awakened Fire Gate, and most critically, precise psychic intent woven into the material during fabrication. The Dreamstone Forge doesn't just shape matter — it imprints consciousness. The Seal will be as much a thought as an object. "Material requirements achievable," she reports, her ledger filling with calculations. "We have sufficient Dreamstone from earlier expeditions. The 42-hour forging window is the critical path — we'll need to maintain the balanced environment for nearly two days straight."
+
+Garrick monitors the Fire Gate's steady awakening. The energy reading climbs at a controlled rate — 12% increase, holding steady. No spikes, no dangerous fluctuations. The geometric drones continue their work, the primary breach now 51% repaired. The void remains calm, the central glow pulsing with its indifferent rhythm. But his eyes keep returning to the Fire Gate schematic, to the connection between elemental fire and void energy, to the promise — or threat — of balance.
+
+Mercer learns the truth about "Architects' Authorization." It's not a bloodline, not a secret password, not a physical key. It's presence. Understanding. Being here when the system awakens and demonstrating comprehension of its purpose. By triggering the restoration protocol, by following the Giants' sequence, by understanding the integrated nature of the containment system — you've already passed the test. The authorization is yours. The dodecahedron confirms it with a simple display: your three faces reflected in its crystalline surface, overlaid with the Giant rune for "Authorized."
+
+The countdown to anchor point #3 activation continues: 38 minutes remaining. The containment field strength holds at 258% and climbing. The Fire Gate awakening proceeds at 12% increase. The Seal schematic remains displayed, waiting for your decision.
+
+But now you face a choice that will define everything that comes next. You've secured the Observation Platform as your forward base. The repair drones work flawlessly. The containment strengthens with each anchor activation. The Fire Gate awakens for its purpose. And the Seal — the Giants' unfinished final containment layer — awaits fabrication.
+
+**The session ends here, with the party established in the Caldera, the restoration protocol successfully activated, and the revelation of the Dreamstone Forge and the Seal setting the stage for the final act.** You have 38 minutes until anchor point #3 activation. The Fire Gate continues to awaken. The geometric drones repair the breaches. And the central glow pulses, dreaming, waiting to see if you will complete what the Architects began fifty thousand years ago.
+
+**SESSION ENDS HERE**
+
+**Milestone Achieved:** The party has descended past the capstone into the Caldera, navigated the zero-gravity environment, established the Observation Platform as a forward position, activated the containment's restoration protocol, and discovered the existence of the Dreamstone Forge and the Seal — the final containment layer. **The party advances to Level 18.**
+
+**Key Items Gained:**
+- **Caldera Navigation Charts** — Mercer's maps of the zero-gravity Caldera, including the anchor points, Fire Gate, Observation Platform, and the sphere's dimensions.
+- **Deep Thing Fragment** — a crystalline shard from a destroyed Deep Thing, functions as a +2 arcane focus for psychic/planar spells.
+- **Observation Panel Data** — detailed measurements of the sphere and energy output for Seal specifications.
+- **Fire Gate Location** — exact position of the planar anchor for Ignathar's bargain.
+- **Seal Technical Specifications** — complete data on the Dreamstone Forge requirements and fabrication process.
+
+**Forward Position Established:** The Observation Platform is secured as your Act IV operating base — anchored, protected by containment runes, equipped with monitoring systems, and connected to the capstone access above.
+
+
+============================================================
+  SESSION 17 WRAP-UP
+============================================================
+
+[System] Updating campaign state...
+  [Retry] Agent returned garbage (10 words: 'I'll update the campaign state based on the sessio...'). Retrying (1/2)...
+[Wiki Keeper] Extracting entities...
+  [Wiki] ↻ Reyna Steelforge.md (updated)
+  [Wiki] ↻ Prospectors' Guild.md (updated)
+  [Wiki] ↻ Second Wind Inn.md (updated)
+  [Wiki] ↻ Asymmetrical Mountain.md (updated)
+  [Wiki] ✓ Threshold.md (created)
+  [Wiki] ✓ Gradient.md (created)
+  [Wiki] ✓ Reality Anchor.md (created)
+  [Wiki] ✓ Caldera.md (created)
+  [Wiki] ✓ Sleeper.md (created)
+  [Wiki] ✓ Deep Things.md (created)
+  [Wiki] ✓ Observation Platform.md (created)
+  [Wiki] ✓ Fire Gate.md (created)
+  [Wiki] ✓ Seal.md (created)
+  [Wiki] ✓ Dreamstone Forge.md (created)
+  [Wiki] ↻ Brotherhood.md (updated)
+
+[Wiki] 15 file(s) written to output/wiki/
+
+[Scribe] Writing session narrative...
+[Scribe] Blog saved to C:\Users\maxry\Desktop\AI DND\output\sessions\session_17.md
+
+[Editor] Fact-checking...
+[Editor] 12 content invention flag(s):
+  ⚠ Deep Things given cooperative intelligence, communication, and repair capabilities. Adventure file describes them as phenomena/expressions of the Sleeper's dreaming, not as repair drones with a cooperative agenda or ability to share schematics and data.
+  ⚠ Deep Things shown to be 'repair drones' and part of a 'self-maintenance system' created by the Sleeper. Adventure file describes them as fragments of consciousness given temporary form, not as a designed maintenance system.
+  ⚠ Deep Things actively preparing sites and awaiting direction from the party. Adventure file describes them as curious or indifferent phenomena, not as tools awaiting operators.
+  ⚠ The Sleeper's dreaming is described as creating tools for its own containment. Adventure file states the Sleeper does not understand concepts like containment and its dreams are incompatible with reality; it does not intentionally create containment tools.
+  ⚠ Establishment of a psychic communication link and data exchange with the Deep Things. Adventure file states they do not communicate conventionally and are not allies.
+  ⚠ Revelation of a 'Dreamstone Forge' and 'the Seal' as a final containment layer to be fabricated by the party. These are not mentioned in the adventure file for this session.
+  ⚠ The Fire Gate's awakening is tied to a specific forging purpose for the 'Seal'. Adventure file describes it as a sealed planar anchor for balance, not as part of a forge for a final containment layer.
+  ⚠ The 'Architects' Authorization' is presented as a test the party passed. This concept is not in the adventure file.
+  ⚠ The containment system is described as having an active 'restoration protocol' that the party triggered. Adventure file describes the system as a static containment, not one with dormant repair protocols.
+  ⚠ The Deep Things are shown reorganizing debris into mathematical patterns and pathways to assist repairs. Adventure file describes debris as drifting inertly unless the Deep Things manifest.
+  ⚠ The Observation Platform is described as having command interfaces and control over the containment system. Adventure file describes it as a monitoring station with viewing panels, not a command center.
+  ⚠ The Brotherhood is shown mobilizing and then communicating psychically with the party. Adventure file does not include this interaction for this session.
+[Editor] 7 missing content flag(s):
+  ✗ Combat encounter with the Deep Things. Adventure file prescribes a combat where Deep Things attack with Void Touch and Broadcast Echo, testing psychic resilience. This was replaced with peaceful observation and data exchange.
+  ✗ DC 14 Dexterity save for first Gradient rotation with failure causing fall and damage. This save was made but no failures or damage occurred as described.
+  ✗ DC 17 Wisdom save for moving >50 ft from Caldera wall, causing sensory replacement hallucination. This test was not conducted; party stayed near the wall.
+  ✗ Detailed exploration of the Caldera walls to locate the Fire Gate and Observation Platform. In the transcript, these were found via displays on the Observation Platform, not through active wall traversal exploration.
+  ✗ Mercer receiving a broadcast fragment message clarifying the Sleeper's nature and the containment's purpose as a 'translator'. This dramatic beat/revelation did not occur.
+  ✗ Collection of specific key items: Deep Thing Fragment, Caldera Navigation Charts, Observation Panel Data. These were not explicitly obtained in the session.
+  ✗ Personal reflection closing beat for each character on the platform. This was not included in the session end.
+[Editor] Session report checked — no factual corrections needed.
+[Editor] Wiki entries checked — no factual corrections needed.
+[Editor] Review saved to: session_17_editor_review.md
+[Lorekeeper] Consistency pass...
+[Lorekeeper] Session report checked — no name corrections needed.
+[Lorekeeper] Upgraded 13 wiki entry/entries to encyclopedic format.
+[Lorekeeper] Review saved to: session_17_lore_review.md
+
+
+============================================================
+  ADVENTURE COMPLETE!
+  Adventure 17 finished.
+  Swapping to Adventure 18: Echoes Of The First World
+  File: adventure_18_echoes_of_the_first_world.md
+  --- LEVEL UP ---
+  Cora Flint: Level 17 → 18 | HP: 129 | New features: Magic Item Master (attune up to 6 magic items), Infusions: 12 known, 6 active
+  Garrick Kade: Level 17 → 18 | HP: 166 | New features: Runic Juggernaut (Giant's Might can increase size to Huge, extra damage increases to 1d10) | Note: 5 runes known.
+  Professor Thaddeus Mercer: Level 17 → 18 | HP: 92 | New features: Spell Mastery (choose one 1st-level and one 2nd-level spell to cast at will without expending slots)
+============================================================
+
+[Summary] Generating adventure 17 summary...
+[Summary] Adventure 17 summary saved.
+[Summary] Condensing story summary (197 words, 17 adventures → ~200 words)...
+[Summary] Condensed: 197 → 226 words.
+[Quests] Cleaning quest list (2 entries)...
+[Quests] Cleaned: 2 → 5 quests.
+[Lorekeeper] Running end-of-adventure wiki editorial pass...
+
+[Lorekeeper] Processing 113 wiki entries in batches...
+
+[Lorekeeper] Batch 1/5 (25 entries)...
+[Lorekeeper] Batch 1: 25 updated, 0 marked for deletion.
+[Lorekeeper] Batch 2/5 (25 entries)...
+[Lorekeeper] Batch 2: 25 updated, 0 marked for deletion.
+[Lorekeeper] Batch 3/5 (25 entries)...
+[Lorekeeper] Batch 3: 25 updated, 0 marked for deletion.
+[Lorekeeper] Batch 4/5 (25 entries)...
+[Lorekeeper] Batch 4: 25 updated, 0 marked for deletion.
+[Lorekeeper] Batch 5/5 (13 entries)...
+[Lorekeeper] Batch 5: 13 updated, 0 marked for deletion.
+[Lorekeeper] Running cross-batch dedup pass...
+  [Retry] Agent returned garbage (2 words: '{"duplicates": []}...'). Retrying (1/2)...
+  [Retry] Agent returned garbage (2 words: '{"duplicates": []}...'). Retrying (2/2)...
+  [Warning] Agent returned garbage after 2 retries. Using last response.
+[Lorekeeper] Dedup pass: no duplicates found.
+[Lorekeeper] End-of-adventure editorial pass complete.
+
+[Transcript] session_17 -> session_17_transcript.md (101 blocks parsed)
+
+============================================================
+  SESSION 17 COMPLETE
+  Blog saved to: output/sessions/session_17.md
+  Transcript saved to: output/sessions/session_17_transcript.md
+  Log saved to: output/logs/session_17_log.txt
+  Reviews saved to: output/reviews/
+  Wiki updated in: output/wiki/
+  State saved to: campaign_state.json
+  >>> Adventure 17 complete! Next adventure loaded.
+  >>> Story summary condensed for next adventure.
+============================================================
+
+[Site] Building static site...
+[Site] Built 170 pages (17 sessions, 113 wiki entries) in 1.4s -> docs/
+[Git] Publishing session 17...
+[Git] Committed: session 17: campaign update
+[Git] Pushed to origin.

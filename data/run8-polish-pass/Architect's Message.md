@@ -1,0 +1,4 @@
+The **Architect's Message** is a recorded psychic communication left by the Giant architect [[Korathan]] within his tomb, [[The Maker's Rest]].
+
+## Content and Revelation
+The message, activated when Korathan's [[Scaling Runes]] are fully transcribed, conveys information through visual images and emotional impressions. It reveals four key points: the discovery of the [[First World Sleeper]] as a vast, non-malicious but incompatible entity; the [[Architect's Council]]'s decision to contain it; the warning that the containment was designed to last 100,000 years and is weakening on schedule at its halfway point; and the explanation that the scaling runes within the tomb are a deliberate gift, a technology transfer to the younger races expected to inherit the responsibility of maintenance.

@@ -1,0 +1,7 @@
+The Reanimated Warden is a colossal, void-corrupted Giant skeleton that served as the guardian of a major breach in the [[Giant Capstone]] within the [[Asymmetrical Mountain]].
+
+## Description and Origin
+Reanimated by a surge of void energy from a [[Twisted]]-created breach, it stands approximately forty feet tall, its bones held together by threads of dark energy and its skull crowned with corrupted [[Dreamstone]] growths. It is tethered to the breach it guards, drawing power directly from the void below. Originally a Giant guardian entombed in a containment sarcophagus within the [[Warden's Post]], the construct was designed as an emergency defender to activate if the primary seal was breached. The void energy that reanimated it also corrupted its purpose, transforming it into a hostile sentinel that defends the breach itself.
+
+## Capabilities and Demise
+The Reanimated Warden possesses immense physical strength, capable of shattering stone with its blows. It can project the [[Sleeper]]'s broadcast frequency as a powerful psychic attack and regenerates its form by drawing void energy from the nearby breach. It is vulnerable to radiant damage and to weapons forged from Dreamstone, which can disrupt its corrupted control nodes. The construct was destroyed in a confrontation with the adventuring party.

@@ -1,0 +1,1 @@
+**Amplifier Alpha** was the first and smallest organic broadcast amplifier in the [[Twisted]] network, located in the northwest quadrant of the [[Giant foundation]] level. It was a prototype structure, smaller and older than the other amplifiers. Amplifier Alpha was destroyed by alchemical dissolution, severing its root connections to the containment runes.

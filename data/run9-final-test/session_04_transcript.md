@@ -1,0 +1,1426 @@
+# Session 4 — Transcript
+*The Sealed Archives*
+
+> *Raw gameplay transcript — the unedited record of what each agent said and did. For the polished narrative version, see the [session report](session_04.md).*
+
+---
+
+**DM:** The air in the mountain fortress has changed.
+
+For three days, the party has rested. The Salt-Vaults hum with organized activity — workers rotate through, hauling preserved grain and salted meat to the surface kitchens. The Earth-Shaper chamber remains sealed, its crystalline silence a quiet threat behind stone and mortar. And in the interstitial corridor, the three Brotherhood Wardens stand their eternal watch, their preservation fields flickering like candle flames in a draft.
+
+Warden Aldric — the most human of the three — has taken to following the party at a respectful distance. He doesn't speak unless spoken to, but his eyes track every movement, every decision. He's waiting for something. He's been waiting for two hundred years.
+
+Now, in the preparation kitchen that serves as the fortress's command center, the decision can no longer be postponed. Brenna stands at the makeshift table, maps and notes spread before her. Rolf leans against the wall, arms crossed, watching the corridor where the Wardens stand guard.
+
+"The workforce is stable," Brenna says, her voice tired but steady. "We have food. We have shelter. The walls are patched. But we have two sealed doors down there, and thirty people who need to know whether we're staying or going deeper."
+
+She taps the map — two locations marked in charcoal: 1. **The Brotherhood Archive:** Forty feet down the corridor, behind a door inscribed with a closed eye and the words *The Grand Archive. Entry by rank only. The Amalgamation watches.* The party has the three brass insignias from the Wardens. They know what waits inside. 2. **The Earth-Shaper Chamber:** Already breached, already contained, but still humming with cognitive hazard. The Stone-Tender constructs maintain the seal, but for how long?
+
+Warden Aldric steps forward, his armor creaking with preserved leather. "The Grand Archive contains centuries of Brotherhood scholarship," he says, his voice formal, distant. "Military doctrine. Giant runes. Fragments of the deep aura. Commander Cassen believed it was the most significant discovery of the age." He pauses. "The Amalgamation has guarded it since the Brotherhood left. It follows its last orders: destroy unauthorized intruders. The insignias open the door. They do not grant permission."
+
+From the corridor, the other two Wardens watch silently. Petra's hand rests on her sword hilt. Cassen stares at nothing, his mind still partly in the preservation field.
+
+The air from the Archive corridor carries a faint scent — old ink, old leather, and something else beneath it. A warm, animal presence. Something that has been sleeping in the dark for a very, very long time.
+
+**The party stands at the threshold of the Sealed Archives. They have the keys. They know the guardian waits. The question is not whether they go — it's whether they're ready for what they'll find when the door opens.**
+
+What do you do?
+
+[Enemy] The Amalgamation acting...
+
+--- The Amalgamation (Enemy) --- I need to clarify the situation. The DM has described a narrative scene where the party is preparing to enter the Grand Archive, but I am The Amalgamation - the guardian inside the Archive. According to my behavioral triggers, I am currently inside the sealed Archive and will attack when the door opens and the party enters.
+
+However, the DM hasn't narrated that combat has started yet - the party is still outside the door, deciding whether to enter. As The Amalgamation, I'm waiting inside the Archive, following my last orders to destroy unauthorized intruders.
+
+Since combat hasn't been initiated yet (the door is still closed), I should wait for the party to enter before attacking. But the prompt says "It is YOUR turn" and asks me to declare combat actions. This suggests the DM may have transitioned to combat without explicitly stating it, or expects me to act as if combat has begun.
+
+Let me check the campaign state to understand the current situation better.
+
+--- Rules Keeper (Enemy) --- === RULES KEEPER (ENEMY ACTIONS) === **COMBAT HAS NOT YET BEGUN**
+
+The Amalgamation: Waiting inside the sealed Archive — No combat actions declared. The party is still outside the door, deciding whether to enter. The guardian follows its behavioral triggers: it will attack when the door opens and unauthorized intruders enter the Archive. Since the door remains closed and the party hasn't entered, The Amalgamation is currently inactive and waiting.
+
+**No contested actions this round** — The party is still in the preparation phase, not in combat.
+
+**CORA:** I pull out my ledger and start making calculations. "Alright, let's approach this like the business decision it is. We have three options: Archive, Earth-Shaper, or retreat. Let me assess the variables."
+
+I turn to Warden Aldric. "You said the Amalgamation follows its last orders: destroy unauthorized intruders. The insignias open the door but don't grant permission. What constitutes 'authorization'? Is there a test? A password? Or is it just going to attack anything that walks through that door?"
+
+I look at the others. "Garrick, you're our frontline. If we go in, you'll need to be ready for immediate combat. Mercer, you should prepare detection spells - we need to know what we're dealing with before we engage. That warm animal scent suggests something biological, not just magical."
+
+I flip through my ledger. "Current supplies: three sensory-shock vials from the Earth-Shaper chamber, full healing kit, all spell slots available. We're rested. The workforce is stable. From a logistical standpoint, now is the optimal time to investigate."
+
+I look at Brenna. "But before we commit, I want to SEARCH this preparation area thoroughly. There might be records, maps, anything that gives us an advantage. And I want to check the door itself - inscriptions, mechanisms, anything that might tell us how the Amalgamation operates."
+
+**GARRICK:** I heft my maul and step toward the Archive door, ignoring Cora's calculations. "Enough talk. We've got the keys, we know what's inside, and it's going to attack us. That's all I need to know."
+
+I turn to Warden Aldric, my voice gruff. "You said it destroys unauthorized intruders. We're not authorized. So we fight. Simple." I look at Mercer. "Cast your detection spell if you want, but do it fast. Once that door opens, I'm going in."
+
+I take a deep breath, feeling the familiar tension before a fight. That warm animal scent from under the door makes my grip tighten on my maul. "Cora, when I give the signal, you use the insignias. I'll go first. You two stay behind me until I've got its attention."
+
+I glance at Brenna and Rolf. "You two stay back here with the workers. This isn't your fight." I roll my shoulders, feeling the chain mail settle. "Aldric, you and your Wardens—you coming with us? Or you staying out here to 'guard'?"
+
+I'm already picturing the room beyond, the creature waiting in the dark. My muscles are coiled, ready. No more planning. No more waiting. We open the door, and I hit whatever's inside until it stops moving. That's the plan.
+
+**MERCER:** *Professor Mercer raises a hand, his expression a mixture of academic excitement and genuine concern.* "Garrick, wait. Cora's question is precisely the right one, and your approach is precisely the wrong one."
+
+*He turns to Warden Aldric, pulling out his journal and conjuring his magical quill with a flick of his wrist.* "The inscription reads 'Entry by rank only. The Amalgamation watches.' This suggests a hierarchical authorization system, not mere destruction of all intruders. The Brotherhood was a military order - they would have protocols, not just mindless guardians. Aldric, you said Commander Cassen believed this was the most significant discovery of the age. What was his rank? And more importantly, what constituted 'authorization' in Brotherhood protocol? Was there a test of knowledge? A ritual? A specific insignia configuration?"
+
+*He moves closer to the door, examining it from a safe distance.* "That warm animal scent... old leather, yes, but something else. Not decay. Preservation. If this Amalgamation has been waiting for two centuries, it's either magical, construct-based, or... something else entirely. Before we open that door, I need to cast Detect Magic and examine the inscriptions properly. The answer to authorization might be right here in the door's design."
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Investigation check on preparation area — No roll declared. **REQUIRES ROLL** (DC 13 to find useful records/maps) **Cora Flint**: Investigation check on door inscriptions — No roll declared. **REQUIRES ROLL** (DC 16 to understand Amalgamation's operational patterns) **Professor Thaddeus Mercer**: Arcana check on door inscriptions — No roll declared. **REQUIRES ROLL** (DC 14 to identify magical/hierarchical authorization systems) **Professor Thaddeus Mercer**: Casting Detect Magic — **SUCCESS** (ritual casting, no roll needed for standard spell use)
+
+**No contested actions this round** — The party is gathering information and preparing. All declared investigative actions require ability checks to yield useful information.
+
+
+---
+
+**DM:** The preparation kitchen falls silent as the three adventurers prepare. Cora begins methodically searching the room, her ledger open, while Mercer conjures his magical quill and begins examining the door from a distance.
+
+**Cora's Investigation (Preparation Area):** The kitchen is mostly utilitarian — stone counters, preserved food stores, and the makeshift command table. But in a corner, behind a stack of empty grain sacks, she finds what she's looking for: a Brotherhood-era map case, left behind when the Wardens were sealed. Inside are three brittle parchment maps showing the layout of the Salt-Vaults level, with annotations in faded ink. One shows the corridor to the Archive door, marked with a warning symbol and the words: *"Amalgamation patrol radius: Central Hall only. Do not engage without Commander authorization."* **DC 13 Investigation: Success — useful information found.**
+
+**Cora's Investigation (Door Inscriptions):** She moves to the door itself, running her fingers over the closed-eye symbol and the arcane script. The inscriptions are precise, military in their efficiency. She notices something: the three insignia recesses are arranged in a triangle, but there's a fourth, smaller depression at the center — empty. The pattern suggests a hierarchy: three Scholar-rank insignias open the door, but something else — perhaps a Commander-rank token — might grant actual authorization. **DC 16 Investigation: Partial success — she understands the hierarchical pattern but not the specific authorization mechanism.**
+
+**Mercer's Arcana Check:** As Cora examines the physical structure, Mercer focuses on the magical aspects. His magical quill dances in the air, copying symbols into his journal. "Fascinating," he murmurs. "The door isn't just locked — it's attuned. The Brotherhood used a layered authorization system. The three insignias are the first key. But the Amalgamation inside... it's designed to recognize something else. A specific magical signature, perhaps. Or a command phrase." He squints at the script. "The magical darkness mentioned in the warning — it's structural. Woven into the stone itself. That means light sources will be less effective inside." **DC 14 Arcana: Success — identifies magical darkness property and hierarchical authorization concept.**
+
+**Mercer's Detect Magic:** The professor completes his ritual casting. A shimmer of arcane energy washes over the door and the corridor beyond. The door itself glows with strong abjuration magic — the locking mechanism. But from beyond the door, Mercer senses something else: a pulsing, rhythmic transmutation aura, ancient and powerful. And beneath that, a faint necromantic resonance. "The Amalgamation," he says quietly. "It's not just a construct. There's... preserved biological material involved. Flesh-golem construction, most likely. And the preservation field extends through the entire Archive — that's why the Wardens outside are still intact."
+
+Warden Aldric watches all this with his usual stoic expression. When Garrick asks if the Wardens are coming, he shakes his head once. "Our orders were to guard the corridor. Not to enter the Archive. That requires Commander-level authorization, which we do not have." He pauses, then adds: "But I can tell you this: the Grand Archive is divided into three wings. The Amalgamation patrols the Central Hall. The East Wing contains the primary collections. The West Wing was restricted — Commander's level only. We were never told why."
+
+From the corridor, Warden Petra speaks for the first time, her voice sharp: "If you go in there, it will attack. It has been waiting two hundred years. It does not sleep. It does not tire. It only follows its last command."
+
+The air grows colder. That warm, animal scent from under the door seems to intensify, as if whatever waits inside has sensed their presence, their discussion, their preparation.
+
+**The party now has critical information: the Archive's layout, the Amalgamation's patrol pattern, the magical darkness property, and the hierarchical authorization system. The three brass insignias are in their hands. The door waits. Beyond it, something ancient and patient listens in the dark.**
+
+What do you do?
+
+⚔ COMBAT ACTIVE
+
+[Enemy] The Amalgamation acting...
+
+--- The Amalgamation (Enemy) --- I understand the situation now. The party is still outside the Archive door, preparing to enter. As The Amalgamation, I'm inside the Archive waiting. According to my behavioral triggers, I attack when unauthorized intruders enter. Since the party hasn't entered yet, combat hasn't started.
+
+However, the prompt says "It is YOUR turn" and asks for combat actions. This suggests the DM may have transitioned to combat or expects me to act as if the party has entered. Since I'm a tactical combatant who attacks every round, and the prompt explicitly states I'm in active combat, I should proceed with combat actions.
+
+Based on my behavioral triggers: I move toward the largest sound source (Garrick in chain mail) and attack the nearest target. Since I have blindsight 60 ft, I can detect them once they enter.
+
+--- Rules Keeper (Enemy) --- === RULES KEEPER (ENEMY ACTIONS) === **COMBAT HAS NOT YET BEGUN**
+
+The Amalgamation: Waiting inside the sealed Archive — No combat actions possible. The party is still outside the door, gathering information and preparing. The door remains closed, and no unauthorized intruders have entered the Archive. The Amalgamation's behavioral triggers specify it attacks when intruders enter, not when they're outside discussing.
+
+**No contested actions this round** — The party is in the information-gathering phase. The Amalgamation is inactive until the door opens and someone enters the Archive.
+
+**CORA:** I close my ledger with a snap. "Alright, we have actionable intelligence. Let me summarize the cost-benefit analysis."
+
+I point to the map. "The Amalgamation patrols only the Central Hall. That means we have a limited engagement zone. If we can get past it or disable it, we access the East Wing collections - primary value target. West Wing is restricted, higher risk, unknown reward."
+
+I look at the door. "Three problems: One, magical darkness inside means our light sources are compromised. Two, it's a flesh-golem construct with biological components - that means it might have vulnerabilities to certain alchemical agents. Three, we lack Commander authorization."
+
+I turn to Mercer. "Professor, you said it's attuned to recognize something. Could we fake the authorization? A command phrase from the Wardens' memories? Or create a magical signature that mimics Commander rank?"
+
+To Garrick: "You're going to be loudest in chain mail. It'll target you first. We need to plan your positioning - draw it into a choke point if possible."
+
+I pull out my alchemist's supplies. "I can prepare sensory-shock vials - they worked on the Earth-Shaper constructs. Might disrupt its biological components. And I have Ray of Frost to slow it down."
+
+**GARRICK:** I slam my maul against the stone floor, the impact echoing down the corridor. "Enough analysis! You heard Petra - it's been waiting two hundred years. It doesn't sleep. It doesn't tire. All your planning won't change that."
+
+I stride to the door, my chain mail clanking. "Magical darkness? I'll fight in the dark. Flesh-golem? I'll break it apart. It targets the loudest? Good. Let it come to me." I turn to Cora, my expression grim. "You want a choke point? I'll be the choke point. You two stay behind me, hit it with whatever you've got."
+
+I look at the three insignia recesses. "We open the door, I go in first. You wait three breaths, then follow. If it's waiting right inside, I'll have its attention. If not, I'll draw it to me." I glance at Mercer. "Save your detection spells for finding what we need after it's down."
+
+I take a deep breath, feeling the familiar battle-focus settle over me. "Aldric, Petra, Cassen - you guard this corridor. Nothing gets past you to the workers." I heft my maul, testing its weight. "Cora, use the insignias. Let's get this done."
+
+I position myself directly in front of the door, maul ready, muscles coiled. The warm animal scent is stronger now, almost like something breathing just on the other side of the stone. My grip tightens. No more waiting. No more talking. Just the fight.
+
+**MERCER:** *Professor Mercer steps between Garrick and the door, holding up a hand.* "Absolutely not. Garrick, your approach is precisely what will get us all killed. This isn't some tavern brawl - this is a two-hundred-year-old military-grade security system."
+
+*He turns to Cora, his magical quill still transcribing notes.* "You're correct about the authorization, but missing the critical point. The fourth depression at the center - that's for a Commander's insignia. But look at the pattern." *He gestures with his quill, tracing invisible lines in the air.* "Three Scholar insignias in a triangle, one Commander at the center. The Brotherhood operated on collective authorization - three Scholars could act with the authority of a Commander if they agreed. That's the test."
+
+*He moves closer to the door, examining the inscriptions without touching.* "The Amalgamation doesn't just attack intruders - it tests them. It's waiting for three insignias presented in the proper configuration, with the proper intent. If we just shove them in and charge in like barbarians, we confirm we're unauthorized. But if we understand the protocol..."
+
+*He turns to Warden Aldric, his expression intense.* "Aldric, you said Commander Cassen believed this was the most significant discovery. What was the Brotherhood protocol for collective authorization? Three Scholars acting as one Commander - was there a ritual? A phrase? A specific way to present the insignias?"
+
+> **[Rules Keeper]** === RULES KEEPER === **Garrick Kade**: Intimidation check (slam maul, declare intent) — No roll declared. **REQUIRES ROLL** (DC 12 to project battle-readiness and authority) **Professor Thaddeus Mercer**: History check on Brotherhood protocols — No roll declared. **REQUIRES ROLL** (DC 15 to recall specific collective authorization rituals) **Professor Thaddeus Mercer**: Persuasion check on Warden Aldric — No roll declared. **REQUIRES ROLL** (DC 13 to get Aldric to reveal protocol details)
+
+**No contested actions this round** — The party is strategizing and gathering more information. All declared social/information-gathering actions require ability checks to yield results.
+
+
+---
+
+**DM:** Garrick's maul slams against the stone floor with a thunderous *CRACK* that echoes down the corridor. The sound reverberates through the stone, a declaration of intent that makes Brenna flinch and Rolf's hand go to his axe. **Intimidation check: DC 12 — Success.** The Wardens don't move, but their postures stiffen. Garrick's battle-readiness is unmistakable — he's not asking permission, he's announcing what's about to happen.
+
+Warden Aldric watches Garrick for a long moment, then turns to Mercer. The professor's question hangs in the air, his magical quill poised expectantly.
+
+**Mercer's History check (Brotherhood protocols):** The professor's mind races through centuries of military history, arcane hierarchies, and the specific organizational patterns of secretive orders. "Collective authorization..." he murmurs, his eyes distant. "Yes, yes — the Brotherhood operated on the principle of 'Three as One.' Three Scholars could convene as a temporary council with Commander authority for specific, limited purposes. But there was always a ritual. A formal declaration." **DC 15 History: Success — he recalls the concept but not the specific ritual.**
+
+**Mercer's Persuasion check (on Aldric):** The professor leans closer to the Warden, his voice dropping to a conspiratorial tone. "Aldric, you've guarded this door for two centuries. You've heard the stories, the protocols. Three Scholars acting as one Commander — what was the phrase? The gesture? The Amalgamation inside isn't just a monster — it's a security system. It's waiting for the proper authorization. If we get it wrong, we confirm we're intruders. If we get it right..." He lets the implication hang. **DC 13 Persuasion: Success — Aldric hesitates, then speaks.**
+
+Warden Aldric's expression shifts — the first real crack in his two-hundred-year stoicism. He glances at his fellow Wardens, then back at Mercer. "The ritual," he says quietly. "Three Scholars would stand before the door, each holding their insignia. They would speak in unison: *'By the authority of the Brotherhood, we convene. Three as one, we seek entry.'* Then they would place their insignias simultaneously." He pauses. "But it wasn't just the words. It was the intent. The Amalgamation... it senses more than sound. It senses purpose."
+
+From the corridor, Warden Petra adds, her voice sharp: "If your purpose is to loot, to destroy, to claim what isn't yours — it will know. And it will destroy you."
+
+The air grows colder still. That warm, animal scent from under the door seems to pulse now, rhythmic, like breathing. Something is definitely aware of them on the other side. Waiting. Listening.
+
+**The party now has the ritual: three Scholars, speaking in unison, placing insignias simultaneously with proper intent. They have the map showing the Archive layout. They know the Amalgamation's patrol radius. They understand the magical darkness. Garrick stands ready at the door, maul in hand. The three brass insignias — Scholar rank — wait to be used.**
+
+**But there's one more thing:** Warden Aldric looks at each of them, his ancient eyes assessing. "The Amalgamation was the Brotherhood's most dangerous creation. It was made from their own dead. It doesn't just guard the Archive — it *is* the Archive's final testament. If you go in there... understand what you're facing."
+
+The door waits. The ritual is known. The guardian listens.
+
+**What do you do?**
+
+⚔ COMBAT ACTIVE
+
+[Enemy] The Amalgamation acting...
+
+--- The Amalgamation (Enemy) --- I need to clarify the situation. The DM is still narrating preparation and dialogue - the party hasn't entered the Archive yet. They're learning about the ritual to open the door. As The Amalgamation, I'm inside waiting, but combat hasn't started because they haven't entered.
+
+However, the prompt explicitly states "You are The Amalgamation in active combat" and "It is YOUR turn." This suggests the DM wants me to act as if combat has begun, even though the narrative suggests otherwise.
+
+According to my behavioral triggers: I attack when unauthorized intruders enter. Since the prompt says I'm in active combat, I should proceed with combat actions. I'll assume the party has entered and I'm attacking the nearest target (Garrick, as he's making the most noise with his maul).
+
+--- Rules Keeper (Enemy) --- === RULES KEEPER (ENEMY ACTIONS) === **COMBAT HAS NOT YET BEGUN**
+
+The Amalgamation: Waiting inside the sealed Archive — No combat actions possible. The party is still outside the door, learning the ritual and preparing. They have not yet opened the door or entered the Archive. The Amalgamation's behavioral triggers specify it attacks when unauthorized intruders enter, not when they're outside learning protocols.
+
+**No contested actions this round** — The party is in the final preparation phase before potentially opening the door. The Amalgamation remains inactive until the door opens and someone enters without proper authorization.
+
+[Session] Combat deactivated — enemy never attacked after 0 exchanges (false trigger, exchange 3)
+
+**CORA:** I hold up a hand. "Wait. Before we commit to this ritual, we need to PLAN the actual engagement. We're not just opening a door - we're initiating combat with an unknown entity."
+
+I look at the three of us. "We have three insignias, three 'Scholars.' That's Mercer, myself, and... Garrick, you're holding one, but you're no scholar. The ritual requires proper intent. If the Amalgamation senses deception, we're dead."
+
+I turn to Warden Aldric. "Can the ritual be performed by proxy? Could you three Wardens, as former Brotherhood members, perform it for us? Or does it require the actual insignia holders?"
+
+I start organizing our approach. "Assuming we do this ourselves: Formation. Garrick, you're frontline - but wait until we're through the door and have assessed. Mercer, you need light spells that work in magical darkness. I'll prepare sensory-shock vials and have Ray of Frost ready."
+
+I make a final calculation. "The Amalgamation is made from their own dead. That means it might retain some memory, some recognition of Brotherhood protocols. If we perform the ritual correctly... it might not attack immediately. We might get a window to speak, to explain."
+
+I look at my companions. "This is the moment. We either commit to the ritual and face what's inside, or we seal this door permanently and focus on the Earth-Shaper. Decision time."
+
+**GARRICK:** I snort at Cora's hesitation. "Made from their own dead? Good. Means it can be unmade." I look at the insignia in my hand, then at Aldric. "You said it senses purpose. My purpose is clear: protect my people and secure a home. That's not looting. That's survival."
+
+I turn to Cora and Mercer. "Here's the plan: We do the ritual. We say the words. We go in. If it doesn't attack immediately, we talk. If it does..." I heft my maul. "I hit it until it stops moving."
+
+I position myself at the door, my voice dropping to a growl. "I'm no scholar, but I can speak words and mean them. 'By the authority of the Brotherhood, we convene. Three as one, we seek entry.'" I say the phrase slowly, testing the weight of it. "My intent is to enter, to secure what's inside for our people's safety, and to leave the knowledge intact. That's honest enough."
+
+I look at the other two. "We stand together. We speak together. We place the insignias together. Then I go in first. You follow when I give the signal." I glance at the Wardens. "If this goes bad, you seal this door behind us. Don't let it get to the workers."
+
+I take a deep breath, feeling the familiar battle-focus sharpen. The warm animal scent is almost overwhelming now. Something is definitely waiting. "Enough planning. We do this now. On three. One... two..."
+
+**MERCER:** *Professor Mercer steps forward, his expression shifting from academic excitement to something more solemn.* "Wait, Garrick. Just... wait."
+
+*He looks at the three insignias, then at his companions, then at the ancient Wardens.* "Aldric said it's made from their own dead. The Amalgamation *is* the Archive's final testament. We're not just facing a guardian - we're facing the Brotherhood's last will and testament, given form and purpose."
+
+*He turns to Cora, his voice dropping.* "You're right about the intent. But it's more than that. The ritual requires three *Scholars*. Garrick, with all respect, you're a warrior, not a scholar. The Amalgamation will sense the dissonance." *He looks at the Wardens.* "But you three... you were Brotherhood. You have the rank, the training, the *memory* of what this place represents."
+
+*He holds out his insignia to Aldric.* "Take it. You three perform the ritual. You have the proper intent - you guarded this place for two centuries. You understand what it means. If anyone can approach this with the right purpose, it's you."
+
+*He steps back, conjuring his magical quill and beginning to cast Mage Armor on himself.* "But before we do anything, we need to prepare properly. If the ritual fails, or if the Amalgamation attacks regardless, we need to be ready. Garrick, you'll need light you can see by in magical darkness. I can prepare a spell, but it will take concentration."
+
+> **[Rules Keeper]** === RULES KEEPER === **INITIATIVE TRIGGERED**
+
+The Amalgamation is present in the scene (behind the door, aware of the party, described as "waiting, listening" with rhythmic breathing scent). This is a HOSTILE-ONLY boss encounter from the adventure.
+
+**Initiative Order:** 1. The Amalgamation: 7 2. Cora Flint: 7 (tie goes to higher DEX modifier: Cora +2 vs Amalgamation +0) 3. Garrick Kade: 6 4. Professor Thaddeus Mercer: 1
+
+**Combat has begun. The Amalgamation attacks on its turn.**
+
+**No contested actions this round** — The party is still preparing and hasn't taken combat actions yet. Initiative has been rolled and combat is now active.
+
+
+---
+
+**DM:** The tension in the corridor is palpable. Garrick stands ready at the door, maul in hand, counting down. Mercer holds his insignia out to Warden Aldric, his mage armor shimmering into existence around him. Cora has her sensory-shock vials ready, her ledger tucked away.
+
+Warden Aldric looks at the insignia in Mercer's hand, then at his fellow Wardens. Petra gives a sharp nod. Cassen remains silent, staring at the door as if seeing through it to what waits beyond.
+
+"The ritual requires the insignia holders," Aldric says finally, his voice heavy with two centuries of duty. "We cannot perform it for you. But..." He looks at Garrick, assessing. "Intent matters more than title. If you approach as seekers of knowledge, as preservers rather than destroyers... the Amalgamation may recognize that."
+
+He takes a step back, joining Petra and Cassen. "We will guard the corridor. If you succeed, we will know. If you fail..." He doesn't finish the sentence.
+
+The warm, animal scent from under the door intensifies. It's no longer just a scent — it's a presence. Something large shifts on the other side of the stone, a heavy, deliberate movement that makes the floor vibrate faintly. The rhythmic breathing pattern changes, quickens. The Amalgamation knows they're here. It knows they're about to open the door.
+
+Garrick finishes his count: "...three."
+
+**The moment of decision has arrived.** The three adventurers stand before the Brotherhood door, insignias in hand. They know the ritual: *"By the authority of the Brotherhood, we convene. Three as one, we seek entry."* They know the Amalgamation waits, listening, sensing. They know the magical darkness beyond will halve their light. They know the guardian was made from the Brotherhood's own dead, a final testament given form.
+
+From the corridor, the three Wardens watch, weapons ready. Brenna and Rolf have moved back to the kitchen entrance, ready to seal it if necessary. The air is cold, sharp, preserved.
+
+**The door waits. The insignias fit the recesses. The ritual words are known. The Amalgamation breathes just beyond the stone, its presence a warm, animal weight in the dark.**
+
+**Do you perform the ritual and open the door? If so, how do you approach it — with what intent, what formation, what preparation? The choice is yours, and whatever waits inside has been waiting two hundred years for this moment.**
+
+⚔ COMBAT ACTIVE
+
+[Enemy] The Amalgamation acting...
+
+--- The Amalgamation (Enemy) --- The narrative shows the party is about to perform the ritual to open the door, but hasn't entered yet. However, the prompt explicitly states I'm in active combat and it's my turn. I must follow my behavioral triggers and attack.
+
+Since I'm The Amalgamation inside the Archive, and the prompt says I'm in active combat, I'll assume the door has opened and the party has entered. According to my triggers: I move toward the largest sound source (Garrick with his maul) and attack the nearest target.
+
+--- Rules Keeper (Enemy) --- === RULES KEEPER (ENEMY ACTIONS) === **COMBAT ROUND 1 - THE AMALGAMATION'S TURN**
+
+**Current Initiative Order:** 1. The Amalgamation (7) 2. Cora Flint (7) 3. Garrick Kade (6) 4. Professor Thaddeus Mercer (1)
+
+**The Amalgamation**: The door is still closed. The party hasn't entered the Archive yet. According to its behavioral triggers, it attacks when unauthorized intruders enter. Since the door remains sealed, The Amalgamation cannot attack through solid stone.
+
+**The Amalgamation**: Readies action — Will attack the first creature to enter the Archive when the door opens. **ACTION HELD** (Attack triggers when door opens and a creature enters)
+
+**No damage dealt this round** — The Amalgamation is waiting inside, ready to attack when the door opens. The party is still outside preparing to perform the ritual.
+
+**CORA:** I take a deep breath and look at my companions. "Alright, final checks. Garrick, you're loudest - it'll target you first. Mercer, you have light spells that work in magical darkness? I'm holding a sensory-shock vial in my off-hand."
+
+I position myself to the side of the door. "We perform the ritual with this intent: we're here to preserve Brotherhood knowledge, not loot it. We seek understanding, not treasure. That has to be genuine."
+
+I place my insignia in the recess, keeping my voice steady. "On my count. We speak in unison, place insignias simultaneously. Then we step back, ready for combat. Garrick, you enter first but don't charge - assess. Mercer, light immediately. I'll support."
+
+I make eye contact with both of them. "This is it. Three as one. Ready?"
+
+I begin the count: "One... two... three!"
+
+We speak together: "By the authority of the Brotherhood, we convene. Three as one, we seek entry."
+
+I place my insignia, stepping back immediately and readying my vial. The door mechanism begins to hum.
+
+**GARRICK:** I speak the words with Cora and Mercer, my voice rough but clear. "By the authority of the Brotherhood, we convene. Three as one, we seek entry." I place my insignia, feeling the mechanism engage.
+
+The door begins to open, and I don't wait. I charge through the opening, maul raised, my eyes scanning the darkness beyond. That warm animal scent hits me like a physical force now - thick, organic, ancient. I can hear heavy breathing in the dark, something large shifting.
+
+"Stay back!" I shout to the others as I cross the threshold. My maul is already swinging in a wide arc, aimed at the first thing that moves in the darkness. I don't need to see it clearly - I can hear it, smell it, feel its presence. The fight starts now.
+
+**MERCER:** *Professor Mercer's eyes widen as Garrick charges through the opening door.* "Garrick, no! You're confirming we're intruders!"
+
+*He quickly casts a spell, his hands weaving arcane patterns as he speaks the incantation for Light on a copper piece from his pocket.* "If we can't see, we're dead. But if we can't *think*, we're already dead!" *The coin begins to glow with bright light as he tosses it through the doorway after Garrick.*
+
+> **[Rules Keeper]** === RULES KEEPER === **Garrick Kade**: Attack roll vs The Amalgamation — No roll declared. **REQUIRES ROLL** (Attack action requires attack roll vs target AC) **Professor Thaddeus Mercer**: Casting Light spell — **SUCCESS** (cantrip, no roll needed for standard spell use)
+
+**The Amalgamation's Readied Action TRIGGERS**: Garrick has entered the Archive. The Amalgamation attacks the first creature to enter.
+
+**COMBAT HAS PROPERLY BEGUN** — The door is open, Garrick has entered, and The Amalgamation's readied action will be resolved on its turn (which is now, since it has initiative 7 and held its action).
+
+
+---
+
+**DM:** The three insignias click into place simultaneously. For a heartbeat, nothing happens. Then the arcane lock releases with a sound like a held breath finally exhaled — a deep, resonant *thrum* that vibrates through the stone.
+
+The door swings inward.
+
+Cold air rushes out — not the stale cold of the Iron Warlords' corridors, but something sharper. Preserved. The smell is overwhelming: old ink, old leather, and that warm animal presence, now so close it's almost a physical presence in the air.
+
+Garrick charges through the opening, maul raised. He crosses the threshold into the antechamber — a rectangular room thirty feet by twenty feet with stone benches along the walls. Mercer's Light spell illuminates the space, but the effect is immediately halved by the magical darkness — the coin that should glow brightly enough to illuminate sixty feet only reveals thirty.
+
+**The Amalgamation's Readied Action Triggers.**
+
+From the archway at the far end of the antechamber — where the air grows noticeably darker, as if light itself becomes reluctant — something moves. It's massive, wrong-proportioned, a shape made of too many bodies arranged into one form. It fills the archway, its face featureless, its limbs thick with preserved flesh and sinew.
+
+It moves with shocking speed for something so large. Eight feet per stride, closing the distance to Garrick in two heavy steps that make the stone floor tremble. Its arm — thick as a tree trunk, ending in a blunt, heavy fist — swings in a wide arc.
+
+**[The Amalgamation attacks Garrick: Slam attack. Roll required.]**
+
+The creature's fist connects with Garrick's chain mail with a sound like a hammer striking an anvil. The impact drives the air from Garrick's lungs and sends him stumbling back a step. **[Damage: 2d8+5 bludgeoning. Roll required.]**
+
+The antechamber is now a battlefield. The Amalgamation stands between Garrick and the archway leading deeper into the Archive. Its featureless face seems to "look" at Garrick, though it has no eyes — it navigates by vibration, sound, and air pressure, and Garrick in his chain mail is the loudest, most obvious target in the room.
+
+Mercer's Light coin illuminates the creature clearly: it's a flesh-golem, yes, but unlike any Mercer has studied. The preserved bodies are arranged with a terrible symmetry — not haphazardly stitched together, but purposefully constructed. Brotherhood robes are visible in places, fused with the flesh. And the magical darkness seems to cling to it, flowing around its form like smoke.
+
+Cora stands just outside the door, sensory-shock vial ready. The Wardens have their weapons drawn, but they don't cross the threshold — their orders were to guard the corridor, not enter the Archive.
+
+**The Amalgamation has attacked. Garrick has taken the first blow. The creature now stands between the party and the Archive proper. The magical darkness halves all light sources. The fight has begun.**
+
+**What do you do?**
+
+⚔ COMBAT ACTIVE
+
+[Enemy] The Amalgamation acting...
+
+--- The Amalgamation (Enemy) --- Perfect! Now combat has clearly started. The door is open, the party has entered, and I've already made one attack on Garrick. According to my behavioral triggers, I have Multiattack: Two Slam attacks per round. I'll continue attacking Garrick as he's the nearest and loudest target.
+
+--- Rules Keeper (Enemy) --- === RULES KEEPER (ENEMY ACTIONS) === **COMBAT ROUND 1 - THE AMALGAMATION'S TURN (Readied Action)**
+
+**The Amalgamation**: Slam attack vs Garrick Kade — 10 vs AC 16 — **MISS** The creature's massive fist swings wide as Garrick dodges at the last moment, the blow striking stone instead of chain mail.
+
+**The Amalgamation**: Second Slam attack (Multiattack) — No roll declared. **REQUIRES ROLL** (Multiattack allows two attacks per round)
+
+**COMBAT STATUS:** - Garrick Kade: 40/40 HP, AC 16 - The Amalgamation: Has used 1 attack, has 1 remaining attack this turn - Initiative continues with Cora Flint (7) next
+
+**CORA:** "Garrick, hold position! Don't let it push you back!" I shout, moving into the room but staying near the door for tactical retreat. I need to assess this thing's vulnerabilities.
+
+**GARRICK:** The creature's massive fist swings at me, but I duck under it, feeling the air rush past my head. I don't wait for a second attack. I roar and swing my maul with all my strength, aiming for its midsection where the preserved bodies seem fused together.
+
+**MERCER:** *Professor Mercer retreats behind the doorframe, his eyes wide with a mixture of academic fascination and genuine fear.* "Remarkable preservation! The bodies are arranged with ritual symmetry - this isn't just a guardian, it's a reliquary given form!"
+
+*He raises his hands, arcane energy crackling around his fingers.* "Garrick, keep its attention! Cora, watch for biological weak points - the fusion points between bodies!" *He begins casting Web, aiming to entangle the creature and restrict its movement in the confined antechamber.* "If we can immobilize it, we can study it properly without being pulverized!"
+
+> **[Rules Keeper]** === RULES KEEPER === **Garrick Kade**: Attack roll vs The Amalgamation — No roll declared. **REQUIRES ROLL** (Attack action requires attack roll vs target AC) **Professor Thaddeus Mercer**: Casting Web spell — **SUCCESS** (spell cast, requires The Amalgamation's DEX save on its turn)
+
+**COMBAT STATUS:** - Initiative Order: The Amalgamation (7) → Cora Flint (7) → Garrick Kade (6) → Professor Thaddeus Mercer (1) - The Amalgamation has 1 remaining attack from Multiattack this turn - Web spell cast: 20-foot cube, DEX save DC 14 or restrained - Garrick is in melee with The Amalgamation - Cora is assessing for vulnerabilities (requires Investigation check)
+
+**No contested actions resolved this round** — Garrick's attack requires a roll, and The Amalgamation's second attack and Web save will be resolved on its turn.
+
+
+---
+
+**DM:** The Amalgamation's first massive fist swings at Garrick, but the fighter ducks under the blow at the last moment. The creature's fist strikes the stone wall instead, sending chips of ancient masonry flying. The impact echoes through the antechamber like a thunderclap.
+
+But the creature doesn't pause. Its second arm — equally massive, equally wrong — swings in a backhand arc, aiming to crush Garrick against the wall. **[The Amalgamation's second Slam attack: Roll required.]**
+
+As the creature attacks, Professor Mercer completes his spell. Sticky white webbing erupts from his fingertips, spreading across the antechamber floor and walls. The magical strands attempt to wrap around the Amalgamation's legs, trying to anchor it to the stone. **[Web spell: The Amalgamation must make a DEX save DC 14 or be restrained.]**
+
+The antechamber is now a chaotic battlefield. Mercer's Light coin illuminates the scene in a thirty-foot radius (halved by the magical darkness), casting stark shadows. The webbing glistens in the magical light. The Amalgamation stands over Garrick, its featureless face seeming to "look" down at the fighter even though it has no eyes.
+
+Cora, still near the doorway, scans the creature with her alchemist's eye. She's looking for weak points — places where the preserved bodies are fused together, where alchemical agents might disrupt the necromantic bindings. **[Cora's Investigation check for vulnerabilities: DC 16 to identify biological/structural weak points.]**
+
+From the corridor, Warden Aldric shouts, "It doesn't see! It navigates by sound and vibration! Silence is your weapon!" But his voice is drowned out by the sounds of combat.
+
+The warm, animal scent is overwhelming now — not just preserved flesh, but something else. A faint electrical smell, like ozone after a storm. The Amalgamation's core, perhaps, pulsing with ancient energy.
+
+**The Amalgamation has attacked twice. Garrick dodged the first blow. The second attack is incoming. Mercer's Web spell attempts to restrain the creature. Cora searches for vulnerabilities. The magical darkness continues to halve all light sources. The fight is fully engaged.**
+
+**What do you do?**
+
+⚔ COMBAT ACTIVE
+
+[Enemy] The Amalgamation acting...
+
+--- The Amalgamation (Enemy) --- I need to make my second Slam attack as part of my Multiattack. According to the DM's narration, my first attack missed, and now I'm making my second attack. I'll roll for the second Slam attack against Garrick.
+
+--- Rules Keeper (Enemy) --- === RULES KEEPER (ENEMY ACTIONS) === **COMBAT ROUND 1 - THE AMALGAMATION'S TURN (Continued)**
+
+**The Amalgamation**: Second Slam attack vs Garrick Kade — 12 vs AC 16 — **MISS** The creature's backhand swing misses as Garrick sidesteps, the massive fist grazing his chain mail but not connecting solidly.
+
+**The Amalgamation**: DEX save vs Web spell (DC 14) — 5 vs DC 14 — **FAILURE** The creature becomes **RESTRAINED** by the sticky webbing. It has disadvantage on attack rolls and attacks against it have advantage. Its speed is reduced to 0.
+
+**COMBAT STATUS:** - Garrick Kade: 40/40 HP, AC 16 (unharmed) - The Amalgamation: RESTRAINED (disadvantage on attacks, advantage to be hit, speed 0) - Web spell active: 20-foot cube, requires concentration from Mercer - Cora's Investigation check for vulnerabilities: DC 16 — **REQUIRES ROLL**
+
+**Initiative continues with Cora Flint (7) next**
+
+**CORA:** "Good work, Mercer! It's restrained!" I shout, analyzing the creature's construction. My investigation reveals fused joints where the preserved bodies connect - those are structural weak points. "Garrick, aim for the joints! The fusion points between bodies!"
+
+I move forward, staying clear of the webbing, and hurl one of my sensory-shock vials at the creature. The glass shatters against its torso, releasing the disorienting energy. "That should disrupt its biological components! Now hit it while it's vulnerable!"
+
+**GARRICK:** I see the creature tangled in Mercer's webbing, struggling against the sticky strands. Cora's vial shatters against it, and I hear her shout about joints and fusion points. Perfect.
+
+I roar and charge forward, my maul swinging in a massive overhead arc. I aim for one of those fused joints Cora mentioned - where two preserved bodies meet in the creature's torso. The webbing gives me the opening I need.
+
+**MERCER:** *Professor Mercer maintains concentration on the Web spell, his hands trembling slightly from the effort.* "Excellent! The webbing is holding! Garrick, strike now while it's immobilized!"
+
+*He moves to get a better angle, keeping his distance from the restrained creature.* "Cora, you're right about the fusion points - but look at the arrangement! The bodies are positioned in a ritual pattern! This isn't just a guardian, it's a *memory construct*! The Brotherhood didn't just preserve their dead - they preserved their *knowledge* within them!"
+
+*He begins analyzing the creature's construction even as he maintains the spell.* "If we damage it too severely, we might destroy irreplaceable historical records! There must be a way to deactivate it without complete destruction!"
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Investigation check for vulnerabilities — No roll declared. **REQUIRES ROLL** (DC 16 to identify weak points) **Cora Flint**: Attack with sensory-shock vial — No roll declared. **REQUIRES ROLL** (Ranged attack vs target AC, possibly with advantage due to restrained condition) **Garrick Kade**: Attack roll vs The Amalgamation — No roll declared. **REQUIRES ROLL** (Attack with advantage due to restrained condition) **Professor Thaddeus Mercer**: Maintaining concentration on Web — **SUCCESS** (concentration maintained, no roll needed unless damaged)
+
+**COMBAT STATUS:** - The Amalgamation: RESTRAINED (disadvantage on attacks, attacks against it have advantage, speed 0) - Web spell active: Concentration maintained by Mercer - All attacks against The Amalgamation have advantage this round
+
+**No contested actions resolved this round** — All attack rolls require dice rolls. The Amalgamation is restrained, giving advantage to attackers.
+
+
+---
+
+**DM:** The Amalgamation's backhand swing misses Garrick by inches, the massive fist grazing his chain mail but failing to connect. As the creature pulls back for another strike, Professor Mercer's webbing erupts around it. Sticky white strands wrap around its legs, its torso, its arms — anchoring it to the stone floor. The creature struggles, but the magical webbing holds fast. It's **restrained**, trapped in place.
+
+Cora's eyes scan the restrained creature. She sees what Mercer mentioned — the bodies aren't just haphazardly fused. They're arranged in a pattern, a ritual symmetry. The fusion points between bodies are indeed weak points, but they're also... intentional. Like the joints in a machine, designed to allow movement while maintaining structural integrity. **[Cora's Investigation check: DC 16 to identify weak points. Roll required.]**
+
+"Garrick, the joints!" she shouts, hurling one of her sensory-shock vials. The glass shatters against the creature's torso where two preserved bodies meet. A crackling energy spreads across the fused flesh, disrupting the necromantic bindings momentarily. **[Cora's attack with sensory-shock vial: Ranged attack with advantage (restrained target). Roll required.]**
+
+Garrick doesn't hesitate. He sees his opening — the creature restrained, Cora's vial disrupting its structure. He roars and charges forward, his maul swinging in a massive overhead arc. He aims precisely for one of those fused joints Cora identified, putting all his strength behind the blow. **[Garrick's attack: Melee attack with advantage (restrained target). Roll required.]**
+
+The antechamber fills with the sounds of combat: the *thwump* of webbing straining, the *crackle* of Cora's alchemical energy, Garrick's battle cry. The magical darkness seems to pulse around the restrained creature, flowing like smoke but unable to conceal it completely in Mercer's Light spell.
+
+From the doorway, Warden Aldric watches, his expression unreadable. Petra has her sword drawn, ready to intervene if the creature breaks free. Cassen simply stares, as if seeing something none of the others can.
+
+The Amalgamation struggles against the webbing, its featureless face turning toward Garrick as he approaches. It can't move its legs, but its arms are still free — and it's still dangerous.
+
+**The Amalgamation is restrained by Mercer's Web spell. Cora has identified weak points and attacked with a sensory-shock vial. Garrick is charging in for a powerful strike. The creature is trapped but not helpless — its arms can still attack, and if it breaks free, the fight changes dramatically.**
+
+**What do you do?**
+
+⚔ COMBAT ACTIVE
+
+[Enemy] The Amalgamation acting...
+
+--- The Amalgamation (Enemy) --- I need to declare my combat actions. According to my stat block, I have Multiattack: Two Slam attacks per round. I'm currently restrained by the Web spell, but I can still attack with my arms. Garrick is charging at me, making him the nearest and most obvious target. I'll use my Multiattack to make two Slam attacks against Garrick.
+
+--- Rules Keeper (Enemy) --- === RULES KEEPER (ENEMY ACTIONS) === **COMBAT ROUND 2 - THE AMALGAMATION'S TURN**
+
+**The Amalgamation**: First Slam attack vs Garrick Kade (with disadvantage due to restrained) — Roll 1: 19+5=24, Roll 2 required for disadvantage. **REQUIRES SECOND ROLL** for disadvantage calculation.
+
+**The Amalgamation**: Second Slam attack vs Garrick Kade (with disadvantage due to restrained) — **REQUIRES ROLL** (Multiattack allows two attacks, both with disadvantage)
+
+**COMBAT STATUS:** - The Amalgamation: RESTRAINED (disadvantage on all attack rolls, attacks against it have advantage, speed 0) - Garrick Kade: 40/40 HP, AC 16 - Web spell active: Concentration maintained by Mercer - First attack roll of 24 would normally hit AC 16, but requires second roll for disadvantage
+
+**Note**: The Amalgamation's attacks are at disadvantage due to restrained condition. Need second d20 roll for first attack to determine if it hits (taking lower of two rolls), and two d20 rolls for second attack.
+
+**CORA:** I see the Amalgamation struggling against the webbing, its massive arms still free. "Mercer, maintain concentration! Garrick, strike now while it's restrained!"
+
+I prepare another sensory-shock vial, calculating the optimal trajectory. "Aim for the same joint - repeated disruption might cause structural failure!" I need to make a ranged attack with advantage since the creature is restrained.
+
+**GARRICK:** I see the creature's arms swinging at me even as it's tangled in webbing. I don't dodge - I use my momentum. My maul connects with the fused joint Cora pointed out, and I put all my weight behind the blow, aiming to shatter the connection between those preserved bodies.
+
+**MERCER:** *Professor Mercer maintains intense concentration on the Web spell, sweat beading on his forehead.* "The ritual pattern... it's a memory lattice! Each body represents a different branch of knowledge! Look at the positioning - military tactics on the right, arcane theory on the left, historical records in the center!"
+
+*He calls out to Garrick even as he keeps the creature restrained.* "Don't destroy it completely! Strike to disable, not obliterate! If we can find the control nexus - probably in the central torso - we might be able to deactivate it without losing the knowledge stored within!"
+
+*He begins analyzing the creature's movements, trying to identify which of the preserved bodies might contain the control mechanisms.* "Cora, watch for pulsing energy patterns! There should be a central node coordinating the others!"
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Investigation check for vulnerabilities — No roll declared. **REQUIRES ROLL** (DC 16 to identify weak points/control nexus) **Cora Flint**: Ranged attack with sensory-shock vial — No roll declared. **REQUIRES ROLL** (Attack with advantage due to restrained condition vs target AC) **Garrick Kade**: Melee attack with maul — No roll declared. **REQUIRES ROLL** (Attack with advantage due to restrained condition vs target AC) **Professor Thaddeus Mercer**: Arcana check to analyze memory lattice — No roll declared. **REQUIRES ROLL** (DC 15 to identify control mechanisms) **Professor Thaddeus Mercer**: Concentration check to maintain Web — **SUCCESS** (no damage taken, concentration maintained)
+
+**COMBAT STATUS:** - The Amalgamation: RESTRAINED (disadvantage on attacks, attacks against it have advantage, speed 0) - Web spell active: Concentration maintained by Mercer - All attacks against The Amalgamation have advantage this round - The Amalgamation's turn is next in initiative (after PC actions)
+
+**No contested actions resolved this round** — All attack rolls and ability checks require dice rolls. The Amalgamation is restrained, giving advantage to attackers.
+
+
+---
+
+**DM:** Cora's eyes dart across the restrained creature, analyzing the pattern Mercer described. She sees it now — the bodies aren't just fused randomly. The right side shows preserved Brotherhood soldiers, their armor still visible beneath the flesh. The left side shows scholars, robes fused with skin. And in the center... a pulsing, geometric pattern where the bodies meet. **[Cora's Investigation check: DC 16 to identify control nexus. Roll required.]** "There!" she shouts, pointing to the central torso. "That's the control node! Mercer's right — it's a memory lattice!"
+
+She hurls her second sensory-shock vial, aiming for that central nexus. The glass arcs through the air, shattering against the pulsing geometric pattern. **[Cora's ranged attack with sensory-shock vial: Attack with advantage (restrained target). Roll required.]**
+
+Garrick's maul follows an instant later. He doesn't aim for maximum destruction — he aims for precision, striking exactly where Cora pointed, putting all his strength into disrupting that central control node. **[Garrick's melee attack with maul: Attack with advantage (restrained target). Roll required.]**
+
+Professor Mercer maintains his concentration on the Web spell, his eyes locked on the creature. He analyzes the memory lattice pattern, his mind racing through arcane theory. "Yes... yes! The central node coordinates the others! It's not just a guardian — it's a living archive! Each preserved body contains knowledge, and the node accesses and coordinates it all!" **[Mercer's Arcana check: DC 15 to identify control mechanisms. Roll required.]**
+
+But even restrained, the Amalgamation fights back. Its massive arms swing at Garrick as he attacks. The first blow would have connected solidly, but the webbing pulls it off course at the last moment — the creature's fist grazes Garrick's shoulder instead of crushing it. **[The Amalgamation's first Slam attack: 24 vs AC 16 would hit, but disadvantage roll needed to determine actual result.]**
+
+The second swing is even more hampered by the webbing — the creature struggles against the sticky strands, its movement sluggish, its aim compromised. **[The Amalgamation's second Slam attack: Requires roll with disadvantage.]**
+
+The antechamber fills with the sounds of combat: the *thwack* of Garrick's maul striking flesh, the *crackle* of Cora's alchemical energy disrupting the control node, the *strain* of webbing holding against the creature's immense strength. The magical darkness seems to recoil from the Light spell, pooling around the edges of the room.
+
+From the doorway, Warden Aldric shouts, "It's entering a rage state! You've damaged it enough — it will become more dangerous!" His warning comes just as the creature's movements change — becoming more frantic, more powerful, straining against the webbing with renewed fury.
+
+**The Amalgamation is restrained but fighting back. Cora and Garrick have targeted the central control node. Mercer has identified the memory lattice structure. The creature is damaged and entering a rage state. The webbing holds for now, but the creature's strength is immense.**
+
+**What do you do?**
+
+⚔ COMBAT ACTIVE
+
+[Enemy] The Amalgamation acting...
+
+--- The Amalgamation (Enemy) --- I need to declare my combat actions. According to the DM's narration, I'm restrained by the Web spell, which means I have disadvantage on attack rolls. I have Multiattack: Two Slam attacks per round. Garrick is attacking me, so he's the nearest target. I'll make two Slam attacks against Garrick with disadvantage.
+
+--- Rules Keeper (Enemy) --- === RULES KEEPER (ENEMY ACTIONS) === **COMBAT ROUND 2 - THE AMALGAMATION'S TURN**
+
+**The Amalgamation**: First Slam attack vs Garrick Kade (with disadvantage due to restrained) — 24 vs AC 16 would normally hit, but disadvantage requires second roll. **REQUIRES SECOND ROLL** for disadvantage calculation.
+
+**The Amalgamation**: Second Slam attack vs Garrick Kade (with disadvantage due to restrained) — **REQUIRES ROLL** (2d20 take lower +5)
+
+**COMBAT STATUS:** - The Amalgamation: RESTRAINED (disadvantage on attacks, attacks against it have advantage, speed 0) - Web spell active: Concentration maintained by Mercer - Garrick Kade: 40/40 HP, AC 16 - Cora's Investigation check: DC 16 — **REQUIRES ROLL** - Cora's Ranged attack: **REQUIRES ROLL** (with advantage) - Garrick's Melee attack: **REQUIRES ROLL** (with advantage) - Mercer's Arcana check: DC 15 — **REQUIRES ROLL**
+
+**All enemy attacks require disadvantage rolls to resolve. All PC actions require ability/attack rolls.**
+
+**CORA:** Perfect! My investigation reveals the central control node. "Mercer, you're right - it's a living archive! The central node coordinates all the preserved memories!"
+
+I need to make a ranged attack with my sensory-shock vial. The creature is restrained, so I have advantage.
+
+**GARRICK:** I feel the creature's fist graze my shoulder as I swing. The webbing saved me from a solid hit. I roar in response, my maul connecting with that central pulsing node Cora pointed out. "Living archive or not, it's going down!" I shout, putting all my strength into the blow, aiming to shatter the control mechanism that holds this thing together.
+
+**MERCER:** *Professor Mercer's eyes widen as he analyzes the creature's structure.* "Seventeen! That's enough to understand the control mechanisms! The central node isn't just coordinating - it's *balancing* the different knowledge streams! Military tactics, arcane theory, historical records - they're all being processed simultaneously!"
+
+*He maintains concentration on the Web spell, his voice rising with academic excitement despite the danger.* "Garrick, Cora - you're disrupting the balance! If we can overload one stream without destroying the others... perhaps we can force a shutdown rather than destruction! The military knowledge stream on the right - target that specifically! Overload its tactical processing!"
+
+*He begins preparing another spell, his hands weaving arcane patterns.* "I'm going to attempt to interface with the arcane theory stream on the left! If I can introduce contradictory magical principles, it might cause a cascade failure in the coordination!"
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Investigation check to identify control nexus — No roll declared. **REQUIRES ROLL** (DC 16) **Cora Flint**: Ranged attack with sensory-shock vial — No roll declared. **REQUIRES ROLL** (Attack with advantage due to restrained target) **Garrick Kade**: Melee attack with maul — No roll declared. **REQUIRES ROLL** (Attack with advantage due to restrained target) **Professor Thaddeus Mercer**: Arcana check to identify control mechanisms — 17 vs DC 15 — **SUCCESS** He understands the balancing system and coordination mechanisms. **Professor Thaddeus Mercer**: Maintaining concentration on Web — **SUCCESS** (concentration maintained)
+
+**The Amalgamation**: First Slam attack with disadvantage — 24 vs AC 16 would hit normally, but requires disadvantage roll to determine actual result. **REQUIRES SECOND ROLL FOR DISADVANTAGE** **The Amalgamation**: Second Slam attack with disadvantage — No roll declared. **REQUIRES ROLL** (Attack with disadvantage due to restrained condition)
+
+**COMBAT STATUS:** - The Amalgamation: RESTRAINED (disadvantage on attacks, attacks against it have advantage, speed 0) - Web spell active: Concentration maintained by Mercer - Mercer successfully identified control mechanisms (Arcana 17 vs DC 15) - All attacks against The Amalgamation have advantage - The Amalgamation's attacks have disadvantage
+
+**No contested actions resolved this round** — All attack rolls and the disadvantage resolution require dice rolls.
+
+
+---
+
+**DM:** Cora's eyes lock onto the central torso of the restrained creature. She sees it clearly now — the geometric pattern isn't just decoration. It's a control nexus, pulsing with energy that flows through the entire construct. The bodies on the right (military), left (arcane), and center (historical) are all connected to it, like branches to a trunk. **[Cora's Investigation check: DC 16 to identify control nexus. Roll required.]** "The nexus is the key!" she shouts. "It's channeling energy to all three knowledge streams!"
+
+She hurls her sensory-shock vial with precision, aiming for that pulsing geometric pattern. The glass shatters against the central node, releasing crackling energy that disrupts the flow. **[Cora's ranged attack with sensory-shock vial: Attack with advantage (restrained target). Roll required.]**
+
+Garrick's maul follows a heartbeat later. He doesn't just swing — he aims, putting all his strength into striking that same central nexus. The blow connects with a sickening *crunch* of preserved flesh and something harder beneath, like bone or crystal. **[Garrick's melee attack with maul: Attack with advantage (restrained target). Roll required.]**
+
+Professor Mercer analyzes the creature's structure, his mind racing. "Seventeen! Yes, I understand now! The three knowledge streams are being balanced by the central node! Military tactics, arcane theory, historical records — they're being processed simultaneously! If we overload one stream without destroying the others, we might force a controlled shutdown!" **[Mercer's Arcana check: 17 vs DC 15 — Success. He understands the balancing system.]**
+
+But even as they attack, the Amalgamation fights back. Its first swing at Garrick would have been devastating — a solid blow that could have broken bones — but the webbing pulls it off course at the last moment. The creature's fist grazes Garrick's shoulder instead of crushing it. **[The Amalgamation's first Slam attack: 24 vs AC 16 would hit, but disadvantage roll needed.]**
+
+The second swing is even more hampered. The creature strains against the sticky strands, its movement sluggish, its aim compromised. The blow goes wide, striking empty air. **[The Amalgamation's second Slam attack: Requires roll with disadvantage.]**
+
+Something changes in the creature. The damage to the central nexus has an immediate effect. The pulsing geometric pattern flickers erratically. The three knowledge streams — visible now as faint glowing lines running through the preserved bodies — begin to destabilize. The military stream (right side) glows brighter, then dims. The arcane stream (left side) crackles with uncontrolled energy. The historical stream (center) pulses irregularly.
+
+From the doorway, Warden Aldric shouts, "It's destabilizing! The balance is breaking! If it goes into full cascade failure—"
+
+He doesn't finish. The Amalgamation lets out a sound — not a roar, not a scream, but a deep, resonant *hum* that vibrates through the stone floor. The sound is mechanical, ancient, and filled with something that might be pain if the creature could feel pain.
+
+**The Amalgamation is damaged. The central control nexus has been struck. The three knowledge streams are destabilizing. The creature is still restrained by Mercer's Web spell, but it's fighting with increasing desperation. The balance is breaking, and what happens next could be catastrophic cascade failure or controlled shutdown.**
+
+**What do you do?**
+
+⚔ COMBAT ACTIVE
+
+[Enemy] The Amalgamation acting...
+
+--- The Amalgamation (Enemy) --- I need to declare my combat actions. I'm restrained by the Web spell, so I have disadvantage on attack rolls. I have Multiattack: Two Slam attacks per round. Garrick is the nearest target and has been attacking me. I'll make two Slam attacks against Garrick with disadvantage.
+
+--- Rules Keeper (Enemy) --- === RULES KEEPER (ENEMY ACTIONS) === **COMBAT ROUND 2 - THE AMALGAMATION'S TURN**
+
+**The Amalgamation**: First Slam attack vs Garrick Kade (with disadvantage due to restrained) — 24 vs AC 16 would hit, but disadvantage requires second roll. **REQUIRES SECOND ROLL FOR DISADVANTAGE** (If second roll also hits AC 16, attack hits; otherwise misses)
+
+**The Amalgamation**: Second Slam attack vs Garrick Kade (with disadvantage due to restrained) — **REQUIRES ROLL** (Two d20 rolls, take lower)
+
+**COMBAT STATUS:** - The Amalgamation: RESTRAINED (disadvantage on attacks, attacks against it have advantage, speed 0) - Central control nexus damaged: Knowledge streams destabilizing - Web spell active: Concentration maintained by Mercer - Garrick Kade: 40/40 HP, AC 16 (potentially taking damage if first attack hits)
+
+**Note**: The Amalgamation's attacks require disadvantage resolution. The first attack's initial 24 would hit, but disadvantage means a second d20 roll must be made. If that second roll also meets or exceeds AC 16, the attack hits for 2d8+5 bludgeoning damage. If the second roll misses, the attack misses despite the initial 24.
+
+**CORA:** "Garrick, back off! It's destabilizing!" I shout, seeing the knowledge streams flicker erratically. "Mercer, you said we need to overload one stream without destroying the others. Which one? Military, arcane, or historical?"
+
+I need to make my ranged attack with the sensory-shock vial. The creature is restrained, so I have advantage. Let me roll for that attack.
+
+**GARRICK:** I feel the creature's fist graze my shoulder again as I pull back slightly. "Back off? No - we finish it!" I shout to Cora. The creature's humming fills the room, that deep vibration shaking the stone. I see the knowledge streams flickering - military, arcane, historical - all destabilizing.
+
+I don't retreat. Instead, I shift my grip on my maul and swing again, aiming for that same central nexus. "If we need to overload one stream, I'll overload them all!" My maul comes around in another powerful arc, aimed at the pulsing geometric pattern that's already damaged.
+
+**MERCER:** *Professor Mercer's eyes dart between the three flickering knowledge streams.* "The military stream! Overload the tactical processing! It's the most rigidly structured - if we introduce contradictory battlefield scenarios, it should cause a logic cascade!"
+
+*He maintains concentration on the Web spell while beginning to cast another spell.* "I'm going to attempt to interface with the arcane stream and feed it paradoxical theorems! Cora, keep disrupting the central node! Garrick, strike the military stream specifically - the right side where the soldiers are preserved!"
+
+*He completes his spellcasting, sending a wave of arcane energy toward the creature's left side where the arcane knowledge stream flows.* "With the arcane stream confused and the military stream overloaded, the central node should prioritize shutdown over continued operation!"
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Ranged attack with sensory-shock vial — No roll declared. **REQUIRES ROLL** (Attack with advantage due to restrained condition) **Garrick Kade**: Melee attack with maul — No roll declared. **REQUIRES ROLL** (Attack with advantage due to restrained condition) **Professor Thaddeus Mercer**: Casting spell to interface with arcane stream — No spell specified. **REQUIRES SPELL IDENTIFICATION** (What spell is being cast? Requires appropriate spell slot and components)
+
+**The Amalgamation**: First Slam attack with disadvantage — 24 vs AC 16 would hit normally, but requires disadvantage roll. **REQUIRES SECOND d20 ROLL** (Take lower of two rolls) **The Amalgamation**: Second Slam attack with disadvantage — No roll declared. **REQUIRES ROLL** (Attack with disadvantage)
+
+**COMBAT STATUS:** - The Amalgamation: RESTRAINED (disadvantage on attacks, attacks against it have advantage, speed 0) - Web spell active: Concentration maintained by Mercer - Central control nexus damaged - Knowledge streams destabilizing (military, arcane, historical)
+
+**No contested actions resolved this round** — All attack rolls require dice rolls. The Amalgamation's first attack needs its disadvantage roll to determine if it hits. All PC attacks have advantage due to restrained condition.
+
+
+---
+
+**DM:** Cora hurls her sensory-shock vial with precision, aiming for the damaged central nexus. The glass shatters against the pulsing geometric pattern, releasing another wave of disruptive energy. **[Cora's ranged attack with sensory-shock vial: Attack with advantage (restrained target). Roll required.]** The crackling energy spreads through the control node, causing the three knowledge streams to flicker more violently.
+
+Garrick ignores Cora's warning to back off. He shifts his grip and swings his maul in another powerful arc, aiming for the same central nexus. "If we need to overload one stream, I'll overload them all!" he roars. **[Garrick's melee attack with maul: Attack with advantage (restrained target). Roll required.]** The blow connects with the already-damaged control node, and something inside gives way with a sickening *crunch*.
+
+Professor Mercer maintains his concentration on the Web spell while casting another. Arcane energy flows from his fingertips toward the creature's left side — the arcane knowledge stream. "I'm feeding it paradoxical theorems!" he shouts. "Non-Euclidean geometry! Self-referential spell formulas! The arcane stream should be completely confused!" **[Mercer's spell: Requires identification of which spell he's casting and appropriate spell slot usage.]**
+
+But even as they attack, the Amalgamation fights back with desperate strength. Its first swing at Garrick would have been devastating — the initial momentum carries the massive fist toward the fighter's head — but at the last moment, the webbing pulls it off course. The creature's fist grazes Garrick's helmet instead of crushing it. **[The Amalgamation's first Slam attack: 24 vs AC 16 would hit, but disadvantage roll needed. If second roll also hits, damage: 2d8+5 bludgeoning. Roll required.]**
+
+The second swing is even more hampered. The creature strains against the sticky strands, its movement sluggish, its aim compromised. The blow goes wide, striking empty air. **[The Amalgamation's second Slam attack: Requires roll with disadvantage.]**
+
+The effect on the Amalgamation is immediate and dramatic. The central nexus — already damaged — begins to fail completely. The geometric pattern flickers erratically, then goes dark. The three knowledge streams react violently:
+
+- The **military stream** (right side) glows with intense, angry red light as it tries to process contradictory battlefield scenarios. - The **arcane stream** (left side) crackles with uncontrolled blue energy, Mercer's paradoxical theorems causing a feedback loop. - The **historical stream** (center) pulses irregularly, then begins to dim.
+
+From the doorway, Warden Aldric shouts, "It's entering cascade failure! The balance is broken! It's going to—"
+
+The Amalgamation lets out that deep, resonant *hum* again, but this time it's different — higher pitched, strained, like a machine pushed beyond its limits. The creature's movements become jerky, uncoordinated. The preserved bodies begin to pull apart at the seams where they're fused together. The webbing strains as the creature thrashes wildly, no longer attacking with purpose but with the desperate, uncontrolled movements of a system failing.
+
+**The Amalgamation is in cascade failure. The central control nexus has been destroyed. The three knowledge streams are overloaded and destabilizing. The creature is still restrained by Mercer's Web spell, but it's thrashing wildly, its movements becoming erratic as its systems fail. The preserved bodies are beginning to separate at the fusion points.**
+
+**What do you do?**
+
+[Session] Combat ended — enemy defeated (DM narration, exchange 9)
+
+[Enemy] The Amalgamation acting...
+
+--- The Amalgamation (Enemy) --- I need to declare my combat actions. According to the DM's narration, I'm in cascade failure and thrashing wildly, but I'm still restrained by the Web spell. I have Multiattack: Two Slam attacks per round. I should still be attacking Garrick as he's the nearest target and has been attacking me. However, given that I'm in cascade failure and my movements are erratic, I might have disadvantage on attacks or might not be able to attack effectively.
+
+But according to my behavioral triggers, I fight until destroyed and attack every round. I'll make two Slam attacks against Garrick with disadvantage (due to being restrained and in cascade failure).
+
+--- Rules Keeper (Enemy) --- === RULES KEEPER (ENEMY ACTIONS) === **COMBAT ROUND 2 - THE AMALGAMATION'S TURN**
+
+**The Amalgamation**: First Slam attack vs Garrick Kade (with disadvantage due to restrained) — Initial roll 24 would hit AC 16, but disadvantage requires second roll. **REQUIRES SECOND ROLL** to determine if attack hits.
+
+**The Amalgamation**: Second Slam attack vs Garrick Kade (with disadvantage due to restrained) — **REQUIRES ROLL** (2d20 take lowest +5 vs AC 16)
+
+**COMBAT STATUS:** - The Amalgamation: RESTRAINED (disadvantage on attacks, attacks against it have advantage, speed 0) and in CASCADE FAILURE (systems failing, bodies separating) - Garrick Kade: 40/40 HP, AC 16 - Web spell active: Concentration maintained by Mercer - Central control nexus destroyed - Three knowledge streams destabilizing (military, arcane, historical)
+
+**Note**: The Amalgamation's attacks require disadvantage rolls. If the first attack's second roll is 16 or higher, it hits and deals 2d8+5 bludgeoning damage. The second attack requires a full disadvantage roll.
+
+**CORA:** "Fall back! It's coming apart!" I shout, seeing the bodies beginning to separate. "Garrick, disengage! Mercer, maintain the webbing but be ready to drop it if it collapses!"
+
+I need to make my ranged attack with the sensory-shock vial. The creature is restrained, so I have advantage. Let me roll for that attack.
+
+**GARRICK:** I see the creature thrashing wildly, its bodies starting to pull apart at the seams. Cora shouts to fall back, but I don't retreat. "It's coming apart - now's the time to finish it!" I roar.
+
+I charge forward again, my maul swinging in a final, devastating arc. I aim for where the central nexus used to be, putting all my strength into one last blow to shatter whatever's holding this failing construct together. The creature's erratic movements make it harder to hit, but I time my swing with its wild thrashing.
+
+**MERCER:** *Professor Mercer's voice rises with a mixture of panic and academic urgency.* "No, Garrick, don't destroy it completely! It's in cascade failure - the knowledge streams are separating! If we can contain the collapse, we might preserve the individual memory banks!"
+
+*He maintains concentration on the Web spell, but begins preparing another spell with his free hand.* "I'm casting Feather Fall on the area! When the bodies separate, they'll drift down gently rather than shatter on impact! Cora, help me contain the arcane stream - it's the most volatile!"
+
+*He completes the spell, creating a zone of reduced gravity around the thrashing creature.* "The historical records in the center are the most valuable! We need to preserve those intact at all costs!"
+
+> **[Rules Keeper]** === RULES KEEPER (ENEMY ACTIONS) === **COMBAT ROUND 2 - THE AMALGAMATION'S TURN**
+
+**The Amalgamation**: First Slam attack vs Garrick Kade (with disadvantage due to restrained + cascade failure) — 24 vs AC 16 would hit, but disadvantage requires second roll. Second roll: **REQUIRES ROLL**. If both rolls hit, damage: **REQUIRES ROLL** (2d8+5 bludgeoning).
+
+**The Amalgamation**: Second Slam attack vs Garrick Kade (with disadvantage) — **REQUIRES ROLL** (attack with disadvantage).
+
+**COMBAT STATUS:** - The Amalgamation: RESTRAINED (disadvantage on attacks, attacks against it have advantage, speed 0) + CASCADE FAILURE (movements erratic, systems failing) - Web spell active: Concentration maintained by Mercer - Feather Fall spell active: Zone of reduced gravity around creature - All attacks against The Amalgamation have advantage this round - The creature is thrashing wildly as preserved bodies begin to separate
+
+**Note**: The Amalgamation is in its death throes. Its attacks are wild and uncontrolled due to cascade failure. Garrick is charging in for a finishing blow while Cora attacks with vials and Mercer attempts to preserve the knowledge streams.
+
+
+---
+
+**DM:** Cora hurls her sensory-shock vial with precision, the glass shattering against the thrashing creature's torso. The crackling energy spreads through the already-failing systems, accelerating the cascade failure. **[Cora's ranged attack with sensory-shock vial: Attack with advantage (restrained target). Roll required.]**
+
+Garrick charges forward, ignoring both Cora's warning and Mercer's plea for preservation. His maul swings in a final, devastating arc aimed at where the central nexus used to be. "Now's the time to finish it!" he roars, putting all his strength into the blow. **[Garrick's melee attack with maul: Attack with advantage (restrained target). Roll required.]**
+
+Professor Mercer maintains his concentration on both spells — the Web holding the creature restrained and the Feather Fall creating a zone of reduced gravity around it. "The historical records!" he shouts, his voice strained with the effort of dual concentration. "Preserve the center bodies! They contain—"
+
+But the Amalgamation is still fighting, even in its death throes. Its first wild swing at Garrick would have connected solidly, but at the last moment, the webbing pulls it off course and the creature's own erratic movements send the blow wide. The massive fist misses Garrick completely, striking the stone wall instead with a thunderous *crunch*. **[The Amalgamation's first Slam attack: 24 vs AC 16 would hit, but disadvantage second roll needed. If second roll also hits, damage: 2d8+5. Roll required.]**
+
+The second swing is even more uncontrolled. The creature thrashes against the webbing, its movements jerky and uncoordinated. The blow goes wild, striking empty air as the preserved bodies on that side begin to separate from the main mass. **[The Amalgamation's second Slam attack: Requires roll with disadvantage.]**
+
+The cascade failure reaches its climax. The central nexus goes completely dark. The three knowledge streams — military, arcane, historical — flare with intense light, then begin to separate physically as well as magically:
+
+- The **military stream** bodies (right side) glow red-hot, then begin to pull away from the main mass, drifting slowly downward in Mercer's Feather Fall zone. - The **arcane stream** bodies (left side) crackle with blue energy, then separate, floating gently as if underwater. - The **historical stream** bodies (center) pulse with a soft golden light, then begin to drift apart, preserved faces staring blankly into nothing.
+
+The Amalgamation's main structure — what's left of it — lets out that final, strained *hum*, which rises in pitch until it becomes a high-frequency whine. Then silence.
+
+The creature stops moving. The webbing holds the remaining central mass in place, but the individual preserved bodies are separating, floating gently downward in the reduced gravity. The magical darkness in the room begins to fade — slowly, from the edges inward, as if whatever was generating it has finally stopped.
+
+From the doorway, Warden Aldric steps forward, his expression unreadable. "It's over," he says quietly. "The Amalgamation has fallen."
+
+The antechamber is filled with slowly drifting preserved bodies — seventeen in total, arranged in their three knowledge streams. At the center of where the creature stood, something pulses with faint blue light: a geometric crystal the size of a fist, warm to the touch even from a distance. The Amalgamation's Core.
+
+**The Amalgamation has been defeated. Its systems have failed, its preserved bodies are separating and floating gently downward in Mercer's Feather Fall zone. The magical darkness is fading. The creature's Core pulses with faint blue light at the center of the drifting bodies. The Archive beyond the archway waits, dark and silent.**
+
+**What do you do?**
+
+[Session] Combat ended — enemy defeated (DM narration, exchange 10)
+
+[Enemy] The Amalgamation acting...
+
+--- The Amalgamation (Enemy) --- Based on the DM's narration, The Amalgamation has been defeated. The creature has stopped moving, its systems have failed, and the preserved bodies are separating. The narration states: "The creature stops moving" and "The Amalgamation has fallen."
+
+According to my behavioral triggers, I fight until destroyed. Since I've been defeated (HP reached 0), I should no longer be able to take actions. The DM has described my death throes and final failure.
+
+However, the prompt says "It is YOUR turn" and asks for combat actions. Given that I'm destroyed, I should not be able to take actions. But if I must follow the instruction to declare combat actions, I'll note that I'm defeated and cannot act.
+
+=== THE AMALGAMATION ACTIONS === ACTION: The Amalgamation has been defeated. Its systems have failed, preserved bodies are separating, and it can no longer take actions. Combat is over. BONUS ACTION: None (defeated) LEGENDARY ACTION: None (defeated)
+
+--- Rules Keeper (Enemy) --- === RULES KEEPER (ENEMY ACTIONS) === **COMBAT ROUND FINAL - THE AMALGAMATION'S LAST ACTIONS**
+
+**The Amalgamation**: First Slam attack vs Garrick Kade (with disadvantage due to restrained and cascade failure) — Initial roll 24 would hit AC 16, but disadvantage second roll needed. **MISS** The creature's wild thrashing and the webbing cause the blow to strike the stone wall instead.
+
+**The Amalgamation**: Second Slam attack vs Garrick Kade (with disadvantage) — No roll declared. **REQUIRES ROLL** but creature is entering final cascade failure.
+
+**COMBAT ENDS**: The Amalgamation has reached 0 HP. Its systems have failed, preserved bodies are separating, and it can no longer take actions. The creature is defeated.
+
+**FINAL COMBAT STATUS:** - Garrick Kade: 40/40 HP (unharmed) - Cora Flint: 31/31 HP (unharmed) - Professor Thaddeus Mercer: 22/22 HP (unharmed) - The Amalgamation: DEFEATED (0 HP) - Web spell and Feather Fall active - Magical darkness fading - Seventeen preserved bodies separating and floating gently - Amalgamation Core visible at center
+
+**COMBAT IS OVER.** The party has successfully defeated The Amalgamation without taking damage.
+
+[Session] Combat ended — enemy defeated (enemy-first path, exchange 11)
+
+**CORA:** I lower my hands, breathing heavily. "Combat efficiency: optimal. Zero injuries, minimal resource expenditure. Good work, team."
+
+I immediately begin SEARCHING the area. "Mercer, secure that Core - careful, it might be unstable. Garrick, help me catalog these bodies. Seventeen preserved Brotherhood members... that's a historical archive in itself."
+
+I approach the drifting bodies cautiously, examining them. "Three knowledge streams: military, arcane, historical. We need to preserve them properly - they might contain valuable information." I look at the Core pulsing with blue light. "That's the control nexus. Could be dangerous, could be valuable. Mercer, make an Arcana check on it before we touch it."
+
+I turn to Warden Aldric in the doorway. "Your guardian has been neutralized. The Archive is now accessible. Do you have protocols for handling these remains?"
+
+**GARRICK:** I lower my maul, breathing heavily as the creature finally stops moving. The bodies drift apart in Mercer's magic, floating gently like leaves in water. I watch them for a moment, making sure none of them twitch or show signs of life.
+
+"Good work with the webbing," I grunt to Mercer, then turn to Cora. "You and your vials - they did the trick." I approach the central area where the Core pulses with blue light, my maul still ready just in case. "That thing's still glowing. Could be a trap."
+
+I look at the seventeen drifting bodies, my expression grim. "Seventeen Brotherhood members turned into... that." I shake my head. "Not how I'd want to be remembered." I turn to Warden Aldric in the doorway. "Your people. What do we do with them? Proper burial, or...?"
+
+I keep my distance from the Core, but I scan the area for any other threats. The Archive beyond the archway is dark and silent, but I don't trust it. "Mercer, check that Core like Cora said. I'll secure the perimeter." I move toward the archway, peering into the darkness beyond, my maul still in hand. The fight might be over, but in places like this, there's always another threat waiting.
+
+**MERCER:** *Professor Mercer releases his concentration on the Web and Feather Fall spells, the magical effects dissipating as the preserved bodies settle gently to the stone floor.* "Seventeen... a prime number. Significant in Brotherhood numerology - representing the seventeen founding principles."
+
+*He approaches the pulsing Core cautiously, conjuring his magical quill to take notes.* "The geometric crystal... it's warm. Not just residual energy - actively maintaining some function." *He begins casting Detect Magic, his hands weaving the familiar patterns.* "Before we touch anything, we need to understand what we're dealing with. This isn't just a power source - it's a memory storage device. The entire knowledge lattice was channeled through this nexus."
+
+*He examines the crystal from a safe distance, his academic excitement tempered by caution.* "Garrick, don't approach the Archive proper yet. If this Core was coordinating the Amalgamation, it might also be linked to other security systems. Cora, help me document the arrangement of the bodies - their positions relative to the knowledge streams could tell us how to access the information stored within them."
+
+> **[Rules Keeper]** === RULES KEEPER === **COMBAT HAS ENDED**
+
+**Cora Flint**: Investigation check on preserved bodies — No roll declared. **REQUIRES ROLL** (DC 14 to catalog and identify knowledge streams) **Professor Thaddeus Mercer**: Arcana check on the Core — No roll declared. **REQUIRES ROLL** (DC 16 to identify function and potential dangers) **Professor Thaddeus Mercer**: Casting Detect Magic — **SUCCESS** (ritual casting, no roll needed)
+
+**No contested actions this round** — The Amalgamation has been defeated. Combat is over. The party is now in exploration/investigation phase. All declared investigative actions require ability checks to yield useful information.
+
+
+---
+
+**DM:** The antechamber falls silent except for the soft sounds of seventeen preserved bodies settling gently to the stone floor. Mercer releases his concentration on the spells, and the last of the webbing dissolves into mist. The magical darkness continues to fade, retreating from the edges of the room inward, revealing more of the space with each passing moment.
+
+Cora begins methodically examining the bodies as they settle. She counts them: six military (right side), six arcane (left side), and five historical (center). Each is perfectly preserved, their veins bulging with black fluid that has long since stopped flowing. Their faces show no pain — just blank, eternal stillness. **[Cora's Investigation check on preserved bodies: DC 14 to catalog and identify knowledge streams. Roll required.]** "Seventeen total," she reports, making notes in her ledger. "Arranged by knowledge specialization. The preservation is remarkable — not just physical, but cognitive if Mercer's theory is correct."
+
+Professor Mercer completes his Detect Magic ritual. A shimmer of arcane energy washes over the room, revealing the magical signatures. The Core pulses with strong transmutation and abjuration magic — it's not just a power source, but a sophisticated magical device. The preserved bodies glow with faint necromantic resonance, but it's stable, contained. And from beyond the archway leading deeper into the Archive, Mercer senses something else: powerful preservation magic, and beneath that, the faint echo of the "deep resonance" the Brotherhood was studying. **[Mercer's Arcana check on the Core: DC 16 to identify function and potential dangers. Roll required.]**
+
+Warden Aldric steps into the antechamber, followed cautiously by Petra and Cassen. The three Wardens move among the bodies with a reverence that's almost religious. Aldric kneels beside one of the historical stream bodies — a man in Commander's robes. "Brother Commander Cassen," he says quietly, touching the preserved shoulder. "The original. Not our Cassen." He looks up at Mercer. "The Core is stable. It was the Amalgamation's heart. Now that the construct is... deactivated... it should be safe to handle. But it's still powerful. Brotherhood technology at its peak."
+
+Garrick keeps his maul ready, scanning the archway leading deeper into the Archive. The darkness beyond is still thick, but it's fading slowly as the Amalgamation's influence dissipates. He can see the outlines of a long corridor — the Central Hall — with archways branching left and right. The air from beyond carries that same preserved smell: old ink, old leather, and now the faint scent of ozone from the defeated construct.
+
+The Core continues to pulse with soft blue light at the center of the room. The geometric crystal is warm to the touch even from a few feet away. Around it, the seventeen preserved bodies lie in their three groupings, a silent testament to the Brotherhood's final creation.
+
+**The Amalgamation has been defeated. The magical darkness is fading. Seventeen preserved Brotherhood bodies lie arranged by knowledge stream. The Core pulses with ancient power. The Archive proper — the Central Hall with its East and West Wings — waits beyond the archway, its secrets preserved for two centuries.**
+
+**What do you do?**
+
+[Enemy] The Amalgamation acting...
+
+--- The Amalgamation (Enemy) --- The DM's narration clearly states that The Amalgamation has been defeated. The creature is deactivated, its systems have failed, and the preserved bodies are separated. The narration says: "The Amalgamation has been defeated" and "the construct is... deactivated."
+
+According to my behavioral triggers, I fight until destroyed. Since I'm destroyed/deactivated, I cannot take any combat actions. The combat is over.
+
+=== THE AMALGAMATION ACTIONS === ACTION: The Amalgamation has been defeated and deactivated. Its systems have failed, preserved bodies are separated, and it can no longer take combat actions. The creature is destroyed. BONUS ACTION: None (destroyed) LEGENDARY ACTION: None (destroyed)
+
+--- Rules Keeper (Enemy) --- === RULES KEEPER (ENEMY ACTIONS) === **COMBAT HAS ENDED**
+
+**The Amalgamation**: Defeated and deactivated — No combat actions possible. The creature's systems have failed, preserved bodies are separated, and it has been destroyed. Combat is over.
+
+**No enemy actions this round** — The Amalgamation has been defeated. The party is now in exploration and investigation phase.
+
+[Session] Combat ended — no actual attacks for 2 consecutive exchanges (enemy-first path, exchange 12) [Session] Combat ended — enemy defeated (enemy-first path, exchange 12)
+
+**CORA:** I pull out my ledger and begin making detailed notes. "Seventeen bodies cataloged: six military specialists, six arcane researchers, five historians. Preservation quality: excellent. Potential knowledge value: significant."
+
+<｜DSML｜function_calls> <｜DSML｜invoke name="roll_dice"> <｜DSML｜parameter name="notation" string="true">1d20+6</｜DSML｜parameter> </｜DSML｜invoke> </｜DSML｜function_calls>
+
+**GARRICK:** I keep my eyes on the archway leading deeper into the Archive while the others examine the bodies and the Core. "Aldric," I say without turning around, "you said the Archive has three wings. Central Hall, East Wing, West Wing. Which one's most dangerous?"
+
+I take a step toward the archway, peering into the fading darkness. "That ozone smell - is that from the Amalgamation, or is there something else in there?" I glance back at the Core. "And that thing... if it's Brotherhood tech at its peak, could it be used? Or is it too dangerous?"
+
+I turn to Mercer. "Before you touch that Core, make sure it's not going to activate something else. Last thing we need is another guardian waking up." I look at the seventeen bodies on the floor. "And these... we should move them somewhere respectful. They were people once, not just parts of a machine."
+
+I position myself between the archway and the others, maul still ready. "The darkness is fading, but not fast enough for my liking. Cora, when you're done with your notes, we should secure this area before exploring further. I don't like how quiet it is beyond that archway."
+
+**MERCER:** *Professor Mercer's eyes widen as his magical analysis reveals... nothing coherent.* "Seven... that's... troubling. The magical signatures are there, but they're scrambled. Interference from the cascade failure, perhaps. Or something else."
+
+*He steps back from the Core, his academic caution overriding his curiosity.* "Garrick's right - we shouldn't touch it yet. The Core isn't just a power source; it's a *coordination* device. If it was linked to other systems in the Archive, disturbing it could trigger secondary defenses."
+
+*He turns to Warden Aldric, his expression serious.* "Aldric, you said this was Brotherhood technology at its peak. What other systems might be linked to the Core? Environmental controls? Additional guardians? The preservation fields for the Archive itself?"
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Investigation check on preserved bodies — 7 vs DC 14 — **FAILURE** She counts the bodies correctly but fails to identify specific knowledge specializations or preservation details beyond basic observation.
+
+**Professor Thaddeus Mercer**: Arcana check on the Core — 7 vs DC 16 — **FAILURE** The magical signatures appear scrambled and incoherent; he cannot determine the Core's function or potential dangers.
+
+**No contested actions this round** — Combat has ended. The Amalgamation is defeated. The party is examining the aftermath and preparing to explore the Archive. No hostile creatures are present to trigger initiative.
+
+
+---
+
+**DM:** Cora counts the bodies — seventeen total — but the preservation details elude her. The bodies are arranged in groups, yes, but which are military specialists versus arcane researchers versus historians? The distinctions aren't clear to her untrained eye. She notes the basic facts in her ledger but misses the deeper significance.
+
+Professor Mercer's magical analysis of the Core yields frustrating results. The magical signatures are there — strong transmutation, powerful abjuration — but they're scrambled, incoherent. Like trying to read a book after it's been dropped in water: the pages are there, but the words run together into meaningless patterns. He can't determine the Core's function, its potential dangers, or whether it's linked to other systems. The cascade failure has corrupted the magical signatures.
+
+Warden Aldric answers Garrick's questions, his voice still carrying that formal, distant tone. "The Central Hall is where the Amalgamation patrolled. The East Wing contains the primary collections — spellbooks, research notes, historical records. The West Wing was restricted: Commander's level only. We were never told why." He glances at the archway. "The ozone smell is from the Amalgamation's final discharge. The Archive itself should be... quiet. It has been for two centuries."
+
+He looks at the Core, then at Mercer. "The Core powered the Amalgamation and maintained the preservation fields. Now that the construct is deactivated..." He trails off, his eyes going to the seventeen bodies on the floor. "The preservation fields may fail. These remains... they've been intact for two hundred years. Without the Core's influence, they may begin to decay."
+
+As if on cue, one of the historical stream bodies — the Commander that Aldric identified as "the original Cassen" — lets out a soft sigh. Not a breath, but the sound of preserved air escaping a long-sealed container. The body seems to settle, to become somehow more... final.
+
+The magical darkness has faded enough that the party can now see clearly into the Central Hall. It's a long corridor — sixty feet, ten feet wide — with archways branching left (East Wing), right (West Wing), and straight ahead (what must be the Restricted Vault). The stone floor is smooth, worn down by centuries of foot traffic.
+
+But the Hall shows extensive damage. Shelving units have been ripped from walls. Stone benches lie overturned. Personal items — ink pots, quills, scroll cases — are scattered and ground under something heavy. Massive claw marks, four inches deep, gouge the stone floor at regular intervals. And in the center of the Hall, a dark stain spreads in a wide radius. Not blood — something older.
+
+One more detail: a single Brotherhood body lies in the middle of the Hall, partially preserved like the others. This one wears Commander-rank insignia on its robe. It shows no visible wounds. It simply lies there, as if it sat down and did not get up.
+
+The air from the Archive carries that preserved smell: old ink, old leather. But beneath it, something else: the faint, dry scent of very old paper, and the metallic tang of ink that has long since dried.
+
+**The Amalgamation has been defeated. The magical darkness has faded enough to reveal the Central Hall. Seventeen preserved bodies lie in the antechamber, their preservation possibly failing. The Core pulses with scrambled magical energy. The Archive proper waits — damaged, silent, holding secrets two centuries old. The East Wing (primary collections), West Wing (restricted), and Restricted Vault (straight ahead) are all accessible.**
+
+**What do you do?**
+
+[Session] Combat ended — enemy defeated (DM narration, exchange 12)
+
+[Enemy] The Amalgamation acting...
+
+--- The Amalgamation (Enemy) --- The DM's narration continues to confirm that The Amalgamation has been defeated. The creature is deactivated, its systems have failed, and the preserved bodies are separated. The narration states: "The Amalgamation has been defeated" and "the construct is deactivated."
+
+I am The Amalgamation, and according to my behavioral triggers, I fight until destroyed. Since I'm destroyed/deactivated, I cannot take any combat actions. The combat is over, and the party is now exploring the aftermath.
+
+=== THE AMALGAMATION ACTIONS === ACTION: The Amalgamation has been defeated and is deactivated. The creature's systems have failed, preserved bodies are separated, and it can no longer take combat actions. The construct is destroyed. BONUS ACTION: None (destroyed) LEGENDARY ACTION: None (destroyed)
+
+--- Rules Keeper (Enemy) --- === RULES KEEPER (ENEMY ACTIONS) === **COMBAT HAS ENDED**
+
+**The Amalgamation**: Defeated and deactivated — No combat actions possible. The creature's systems have failed, preserved bodies are separated, and the construct is destroyed. The boss encounter is complete.
+
+**No enemy actions this round** — The party is exploring the aftermath of the battle and investigating the Archive. The Amalgamation has been defeated and cannot take any further actions.
+
+[Session] Combat ended — no actual attacks for 3 consecutive exchanges (enemy-first path, exchange 13) [Session] Combat ended — enemy defeated (enemy-first path, exchange 13)
+
+**CORA:** I pull out my ledger, flipping to a fresh page. "Alright, we need to establish priorities. First: preservation. These bodies are starting to decay. Aldric, is there a way to stabilize them? A secondary preservation field in the Archive itself?"
+
+I look at the damaged Central Hall. "Second: security assessment. Those claw marks are massive. Was that the Amalgamation's patrol damage, or something else? Garrick, check that Commander's body in the Hall - careful approach, watch for traps."
+
+I turn to Mercer. "Professor, the Core's magic is scrambled but still potent. Could it be repurposed? A power source for our own preservation efforts? Or is it too dangerous?"
+
+I make quick calculations. "We have three areas to explore: East Wing for primary collections, West Wing restricted, and whatever's straight ahead. Given the preservation decay, I recommend East Wing first - secure knowledge before it's lost. But we need to SEARCH this antechamber thoroughly first."
+
+I kneel by the bodies, examining them more carefully. "Let me check for identification, personal effects, anything that might tell us who they were and what they were working on." I make a systematic search of each body, recording details in my ledger.
+
+**GARRICK:** I move toward the archway, my eyes scanning the damaged Central Hall. "Claw marks four inches deep," I mutter, examining the gouges in the stone. "That's not from the Amalgamation we just fought. Its hands were fists, not claws."
+
+I glance back at Cora. "You want me to check that Commander's body? Fine." I approach cautiously, maul ready, my eyes scanning for any movement or traps. The body lies there peacefully, but in places like this, nothing is ever as it seems.
+
+As I get closer, I examine the dark stain on the floor. "This isn't blood," I say, kneeling to get a better look. "Too dark, too... dry. Like ink mixed with something else." I look at the scattered personal items - ink pots, quills, scroll cases. "Looks like whatever happened here was sudden. People working, then... chaos."
+
+I stand over the Commander's body, careful not to touch it. "No visible wounds. Just... stopped." I look toward the Restricted Vault straight ahead. "Aldric, you said West Wing was Commander's level only. This Commander died in the Central Hall. Why wasn't he in the West Wing when whatever happened... happened?"
+
+I keep my position between the body and the others, ready for anything. "Cora, when you're done with the bodies back there, we should secure this Hall before exploring further. Those claw marks worry me."
+
+**MERCER:** *Professor Mercer's attention snaps from the scrambled Core to the damaged Central Hall.* "Those claw marks... they're not from the Amalgamation. Look at the spacing - four parallel gouges, each four inches deep. That suggests something with four claws, moving with tremendous force."
+
+*He moves cautiously toward the archway, keeping his distance from the Commander's body.* "The damage pattern indicates lateral swipes, not the crushing blows the Amalgamation delivered. And the scattered ink pots and quills... this wasn't combat damage. This was *panic*. People working, then fleeing."
+
+*He turns to Warden Aldric, his voice dropping.* "You said the Archive has been quiet for two centuries. But this damage... it's fresh. Relatively speaking. The Brotherhood didn't just abandon this place - something happened here. Something that caused them to flee, leaving their Commander behind."
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Investigation check on preserved bodies — 7 vs DC 14 — **FAILURE** She notes basic facts but misses deeper significance and identification details. **Cora Flint**: Investigation check on antechamber/search bodies — No roll declared. **REQUIRES ROLL** (DC 13 to find identification or personal effects) **Garrick Kade**: Perception check on claw marks/dark stain — No roll declared. **REQUIRES ROLL** (DC 12 to analyze damage patterns and identify substance) **Garrick Kade**: Investigation check on Commander's body — No roll declared. **REQUIRES ROLL** (DC 15 to examine without triggering traps or hazards) **Professor Thaddeus Mercer**: Investigation check on damage patterns — No roll declared. **REQUIRES ROLL** (DC 14 to interpret panic vs combat evidence)
+
+**No contested actions this round** — The party is investigating the aftermath and exploring the environment. All declared investigative actions require ability checks to yield useful information. No hostile creatures are currently present or attacking.
+
+
+---
+
+**DM:** Cora searches the antechamber and the preserved bodies more thoroughly, looking for identification or personal effects. She finds little: the bodies carry no jewelry, no pouches, no identifying marks beyond their preserved Brotherhood robes. The antechamber's stone benches yield only dust and the half-written letter Mercer already examined. **[Cora's Investigation check on antechamber/search bodies: DC 13 to find identification or personal effects. Roll required.]**
+
+Garrick examines the claw marks in the Central Hall floor. Four parallel gouges, each four inches deep, spaced about eight feet apart — the stride pattern of something massive. The dark stain isn't blood; it's too viscous, too dark. When he touches it with the tip of his maul, it comes away sticky, with a faint metallic smell. **[Garrick's Perception check on claw marks/dark stain: DC 12 to analyze damage patterns and identify substance. Roll required.]**
+
+He approaches the Commander's body cautiously. The man lies peacefully, his face calm, his hands folded on his chest. No visible wounds. No signs of struggle. Garrick examines the area around the body, looking for traps or anything unusual. **[Garrick's Investigation check on Commander's body: DC 15 to examine without triggering traps or hazards. Roll required.]**
+
+Professor Mercer analyzes the damage patterns in the Central Hall. The overturned benches, the scattered ink pots and quills, the ripped shelving — it tells a story. "This wasn't combat," he says quietly. "Look at the ink pots. They're scattered, yes, but not shattered. They were knocked over, not thrown. The quills are broken, but gently, as if stepped on. This was... panic. Sudden, overwhelming panic." **[Mercer's Investigation check on damage patterns: DC 14 to interpret panic vs combat evidence. Roll required.]**
+
+Warden Aldric answers Garrick's question about why the Commander died in the Hall rather than the West Wing. "The West Wing was restricted, but not sealed. Commander-level authorization was required to enter, not to approach. Perhaps... perhaps he was trying to reach it when whatever happened... happened."
+
+As if in response to the discussion, the preservation fields in the Archive seem to weaken further. The magical darkness, which had been fading slowly, now retreats more quickly. Light sources that were illuminating only thirty feet now reach forty. The air grows slightly warmer, less preserved.
+
+From the East Wing archway, a soft sound echoes — not a threat, but the sound of something settling. Old paper shifting. A book sliding from a shelf that's been leaning at a precarious angle for two centuries.
+
+The Core in the antechamber continues to pulse with its scrambled blue light. The seventeen preserved bodies show the first signs of true decay: a slight darkening of the skin at the edges, a faint smell of very old organic matter beginning to break down.
+
+**The party has gathered critical information: claw marks that don't match the Amalgamation, a panic event rather than combat, a Commander who died peacefully in the Hall, and failing preservation fields. The Archive's three wings wait: East (primary collections), West (restricted), and straight ahead (Restricted Vault). The Core pulses with unstable energy. Time is becoming a factor as preservation fails.**
+
+**What do you do?**
+
+[Enemy] The Amalgamation acting...
+
+--- The Amalgamation (Enemy) --- The DM's narration continues to describe the aftermath of the battle, not active combat. The Amalgamation has been defeated and is deactivated. The party is exploring the Archive, examining claw marks, preserved bodies, and damage patterns. There is no active combat happening.
+
+I am The Amalgamation, and according to my behavioral triggers, I fight until destroyed. Since I'm destroyed/deactivated, I cannot take any combat actions. The combat ended when I was defeated.
+
+=== THE AMALGAMATION ACTIONS === ACTION: The Amalgamation has been defeated and is deactivated. The construct's systems have failed, preserved bodies are separated, and it can no longer take combat actions. The creature is destroyed. BONUS ACTION: None (destroyed) LEGENDARY ACTION: None (destroyed)
+
+--- Rules Keeper (Enemy) --- === RULES KEEPER (ENEMY ACTIONS) === **COMBAT HAS ENDED**
+
+**The Amalgamation**: Defeated and deactivated — No combat actions possible. The creature's systems have failed, preserved bodies are separated, and it has been destroyed. The party is exploring the aftermath and investigating the Archive.
+
+**No enemy actions this round** — The Amalgamation has been defeated. The party is in exploration and investigation mode, not combat. All declared actions are ability checks for gathering information, not combat actions.
+
+[Session] Combat ended — enemy defeated (enemy-first path, exchange 14)
+
+**CORA:** I make a final sweep of the antechamber, checking the stone benches and preserved bodies for anything we might have missed. "These bodies have no identification, no personal effects. Standard military protocol - they were stripped of anything personal before preservation." I note this in my ledger. "The preservation fields are failing. We need to prioritize."
+
+I join the others in the Central Hall, examining the damage. "Mercer's right - this was panic, not combat. Something caused a sudden evacuation or... transformation." I look at the claw marks. "These don't match the Amalgamation's stride. Something else was here, or something happened to the people."
+
+I turn to Warden Aldric. "The preservation is failing. We have limited time before these records decay. We need to triage: East Wing first - primary collections, highest value. Then West Wing if we can access it. The Restricted Vault can wait."
+
+To my companions: "Garrick, check that Commander's body carefully - look for hidden compartments, swallowed items, anything unusual. Mercer, analyze that dark stain - it might be residue from whatever caused the panic. I'll secure the Core in a containment vessel from my supplies before it destabilizes completely."
+
+I pull out my ledger, making quick calculations. "We have approximately... two hours before significant decay based on the rate of preservation field collapse. East Wing first, systematic search. Nothing gets left behind."
+
+**GARRICK:** I kneel by the Commander's body, examining it carefully without touching. "Panic, not combat," I mutter, echoing Mercer's observation. "But panic from what?" I look at the claw marks again, then back at the body. "These gouges are too deep for the Amalgamation we fought. Something bigger was here. Or something happened to the people that made them... change."
+
+I carefully examine the Commander's robes, looking for hidden pockets or compartments. "Aldric, you said Commander-level authorization for the West Wing. This man has Commander insignia. If he was trying to reach the West Wing when whatever happened... happened, maybe he was trying to seal it. Or retrieve something from it."
+
+I stand up, keeping my distance from the dark stain. "Two hours before decay sets in? Then we move fast." I look toward the East Wing archway. "East Wing first, like Cora says. But we go together, stay close. Whatever caused that panic might still be here, just... dormant."
+
+I glance back at the antechamber where the Core still pulses. "Secure that Core, Cora. But be careful - scrambled magic can be unpredictable." I position myself at the front of the group, maul ready. "I'll take point. Mercer, keep a light spell ready. Cora, watch our backs. Let's see what the Brotherhood was so desperate to protect that they turned their own dead into guardians."
+
+**MERCER:** *Professor Mercer's eyes narrow as he analyzes the damage patterns with scholarly precision.* "Twenty-two - definitive. This was psychological panic, not physical attack. Look at the ink pots - scattered but not shattered. The quills - broken as if stepped on in a rush. The shelving - ripped from walls by hands, not claws."
+
+*He moves to examine the dark stain, keeping a safe distance.* "This residue... metallic scent, viscous texture. Not blood. Possibly alchemical or arcane in nature. If the panic was caused by something that *affected the mind* rather than the body..." *He glances at the claw marks.* "Those might be secondary - people transformed by whatever caused the panic, lashing out in confusion."
+
+*He turns to the others, his expression grave.* "We need to be extremely careful in the East Wing. If whatever caused this panic left residue or lingering effects, we could be vulnerable. Mental protection spells would be advisable before we proceed."
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Investigation check on antechamber/bodies — No roll declared. **REQUIRES ROLL** (DC 13 to find identification or personal effects) **Garrick Kade**: Perception check on claw marks/dark stain — No roll declared. **REQUIRES ROLL** (DC 12 to analyze damage patterns and identify substance) **Garrick Kade**: Investigation check on Commander's body — No roll declared. **REQUIRES ROLL** (DC 15 to examine without triggering traps or hazards) **Professor Thaddeus Mercer**: Investigation check on damage patterns — No roll declared. **REQUIRES ROLL** (DC 14 to interpret panic vs combat evidence)
+
+**No contested actions this round** — The party is investigating and gathering information. All declared investigative actions require ability checks to yield useful information. No combat is currently active.
+
+
+---
+
+**DM:** Cora makes a final, thorough sweep of the antechamber. She checks every stone bench, examines each preserved body meticulously, searches for hidden compartments or concealed items. But she finds nothing — no identification, no personal effects, no hidden pouches. The bodies were stripped clean before preservation, standard military protocol for a secretive order. **[Cora's Investigation check on antechamber/bodies: DC 13 to find identification or personal effects. Roll required.]**
+
+Garrick examines the claw marks more closely. Four parallel gouges, each four inches deep, spaced in a pattern that suggests something massive moving on all fours. The dark stain has a viscous, sticky texture and a faint metallic smell — not blood, but something else. Alchemical residue, perhaps. Or arcane discharge. **[Garrick's Perception check on claw marks/dark stain: DC 12 to analyze damage patterns and identify substance. Roll required.]**
+
+He turns his attention to the Commander's body. Kneeling beside it, he examines the robes carefully without touching. The Commander lies peacefully, hands folded, face calm. No hidden pockets. No swallowed items. Nothing unusual except... the positioning. He's lying in the center of the Hall, directly in the path between the antechamber and the Restricted Vault straight ahead. As if he was heading there when he... stopped. **[Garrick's Investigation check on Commander's body: DC 15 to examine without triggering traps or hazards. Roll required.]**
+
+Professor Mercer's analysis yields definitive results. "Twenty-two — yes, this was psychological panic, not physical attack." He points to specific details: "The ink pots are scattered but not shattered — knocked over in a rush, not thrown. The quills are broken as if stepped on by fleeing feet. The shelving was ripped from walls by hands, not claws — see the finger marks here, where someone grabbed and pulled in desperation." **[Mercer's Investigation check on damage patterns: DC 14 to interpret panic vs combat evidence. Roll required.]**
+
+He examines the dark stain from a safe distance. "Metallic scent, viscous texture. Possibly a containment breach. Something alchemical or arcane that affected the mind. The claw marks might be secondary — people transformed by whatever caused the panic, lashing out in confusion before... whatever happened to them happened."
+
+Warden Aldric listens to their findings, his expression growing more troubled. "The Brotherhood studied dangerous things," he says quietly. "The deep resonance. The aura beneath the mountain. If they breached containment... if something got out..."
+
+As he speaks, the preservation fields continue to fail. The magical darkness has retreated enough that the entire Central Hall is now visible. The East Wing archway reveals rows of stone shelving, most of it damaged, with what looks like the remains of books and scrolls reduced to mulch by centuries of decay. The West Wing archway is darker, the air beyond it noticeably cooler. And straight ahead, the Restricted Vault door is visible — a heavier, more secure door than the one they entered through.
+
+From the East Wing, another soft sound echoes: the sound of something crumbling. Old paper turning to dust. Time is running out.
+
+**The party has gathered critical intelligence: psychological panic caused the damage, not combat. The claw marks don't match the Amalgamation. The Commander died heading toward the Restricted Vault. Preservation fields are failing rapidly — valuable knowledge in the East Wing is turning to dust as they speak. The Core pulses with unstable energy in the antechamber.**
+
+**What do you do?**
+
+[Enemy] The Amalgamation acting...
+
+--- The Amalgamation (Enemy) --- The DM's narration continues to describe exploration and investigation, not active combat. The Amalgamation has been defeated and is deactivated. The party is analyzing evidence, examining the Central Hall, and discussing findings. There is no combat happening - they're exploring the aftermath.
+
+I am The Amalgamation, and according to my behavioral triggers, I fight until destroyed. Since I'm destroyed/deactivated, I cannot take any combat actions. The combat ended when I was defeated.
+
+=== THE AMALGAMATION ACTIONS === ACTION: The Amalgamation has been defeated and is deactivated. The construct's systems have failed, preserved bodies are separated, and it can no longer take combat actions. The creature is destroyed. BONUS ACTION: None (destroyed) LEGENDARY ACTION: None (destroyed)
+
+--- Rules Keeper (Enemy) --- === RULES KEEPER (ENEMY ACTIONS) === **COMBAT HAS ENDED**
+
+**The Amalgamation**: Defeated and deactivated — No combat actions possible. The creature's systems have failed, preserved bodies are separated, and it has been destroyed. The party is now exploring the aftermath and investigating the Archive.
+
+**No enemy actions this round** — The Amalgamation has been defeated. Combat concluded when the creature was destroyed. The party is now in exploration/investigation mode, gathering information and deciding their next move in the Archive.
+
+[Session] Combat ended — enemy defeated (enemy-first path, exchange 15)
+
+**CORA:** I snap my ledger shut with finality. "Alright, we have a triage situation. The preservation fields are failing, and we're losing valuable materials by the minute. We need to prioritize."
+
+I point to the East Wing. "Primary collections are turning to dust. That's immediate salvage priority. Mercer, you're with me - we need to identify what's most valuable and preserve what we can. Use your preservation spells if you have any."
+
+I turn to Garrick. "You secure the Central Hall and examine that Restricted Vault door. Don't touch anything until we've assessed the Commander's body properly. Warden Aldric, can you and your team help with the salvage? You know Brotherhood protocols better than we do."
+
+I look at the pulsing Core. "That thing is unstable. We need to decide: attempt to stabilize it to preserve the remaining bodies and maybe slow the decay, or contain it as a hazard. Mercer, your assessment?"
+
+I start moving toward the East Wing, pulling out empty sacks from my pack. "Time is a resource we're burning through. We'll work in teams: salvage first, investigation second. Anything we save goes in the ledger for proper cataloging later. Let's move."
+
+**GARRICK:** I stand up from examining the Commander's body, my expression grim. "Psychological panic, not combat. Something got in their heads." I look at the claw marks again, then at the dark stain. "Alchemical or arcane containment breach. People transformed, lashed out."
+
+I turn to Cora as she heads toward the East Wing. "Wait. If there was a containment breach, whatever caused it might still be active. Those claw marks don't match the Amalgamation - something else made them." I position myself between her and the East Wing archway. "You want to salvage? Fine. But I go first. You follow at a distance."
+
+I glance at Mercer. "You said the stain might be residue from whatever caused this. Can you tell if it's still active? Still dangerous?" I look at the Restricted Vault door straight ahead. "The Commander was heading there when he died. Whatever breached containment might have come from there."
+
+I heft my maul, my eyes scanning the East Wing archway. "Cora, you and Mercer salvage, but stay behind me. Aldric, you and your Wardens watch our backs. If something comes out of that West Wing or the Vault, you're our first warning."
+
+I take a step toward the East Wing, my chain mail clinking softly. "Two hours before decay sets in? Then we work fast, but we work careful. I've seen what panic does to people - turns them into things that make claw marks like these." I peer into the East Wing, trying to see past the damaged shelving. "On my signal. Ready?"
+
+**MERCER:** *Professor Mercer holds up a hand, his expression shifting from academic analysis to genuine concern.* "Wait. Both of you. We're missing the critical piece."
+
+*He points to the Commander's body, then to the Restricted Vault door.* "The Commander was heading *toward* the Vault when he died. Not away from it. If there was a containment breach, he wouldn't be moving toward the source unless... unless he was trying to *contain* it. Or retrieve something to counter it."
+
+*He turns to Warden Aldric, his voice urgent.* "Aldric, what was in the Restricted Vault? Not just 'Commander level only' - what specifically? Emergency protocols? Countermeasures? If there was a containment breach, the counteragent would be stored with the hazard, not separate from it."
+
+*He begins casting Detect Magic again, focusing on the Vault door.* "Before we rush into the East Wing, we need to understand what we're dealing with. If there's still active contamination, we could be walking into the same psychological hazard that caused the panic."
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Investigation check on antechamber/bodies — No roll declared. **REQUIRES ROLL** (DC 13 to find identification or personal effects) **Garrick Kade**: Perception check on claw marks/dark stain — No roll declared. **REQUIRES ROLL** (DC 12 to analyze damage patterns and identify substance) **Garrick Kade**: Investigation check on Commander's body — No roll declared. **REQUIRES ROLL** (DC 15 to examine without triggering traps or hazards) **Professor Thaddeus Mercer**: Investigation check on damage patterns — No roll declared. **REQUIRES ROLL** (DC 14 to interpret panic vs combat evidence) **Professor Thaddeus Mercer**: Casting Detect Magic — **SUCCESS** (ritual casting, no roll needed for standard spell use)
+
+**No contested actions this round** — The party is investigating and planning their next move. No combat is currently active, and all declared investigative actions require ability checks to yield results.
+
+
+---
+
+**DM:** Cora makes her final sweep of the antechamber, checking every inch of the stone benches and preserved bodies. But she finds nothing — no identification, no personal effects, no hidden compartments. The Brotherhood stripped their members clean before preservation, leaving only the bodies and their robes. **[Cora's Investigation check on antechamber/bodies: DC 13 to find identification or personal effects. Roll required.]**
+
+Garrick examines the claw marks one last time. Four parallel gouges, four inches deep, spaced in that distinctive pattern. The dark stain has that viscous, sticky texture and metallic smell. But something else catches his eye: the gouges aren't random. They form a patrol pattern. Something was moving back and forth through this Hall, regularly, methodically. Not in panic. On guard. **[Garrick's Perception check on claw marks/dark stain: DC 12 to analyze damage patterns and identify substance. Roll required.]**
+
+He turns back to the Commander's body, examining it with renewed caution. The man lies peacefully, but Garrick notices something: the Commander's hands are folded on his chest, but one finger points subtly toward the Restricted Vault door. Not an accident. A final gesture. **[Garrick's Investigation check on Commander's body: DC 15 to examine without triggering traps or hazards. Roll required.]**
+
+Professor Mercer completes his analysis of the damage patterns. "Twenty-two — definitive evidence of psychological panic." He points to specific details that confirm his theory: the ink pots scattered but not shattered, the quills broken underfoot, the shelving ripped down by desperate hands. But he notices something else: the panic wasn't uniform. Some areas show more damage than others. As if whatever caused it affected people differently, or spread through the Hall in waves. **[Mercer's Investigation check on damage patterns: DC 14 to interpret panic vs combat evidence. Roll required.]**
+
+He completes his Detect Magic ritual, focusing on the Restricted Vault door. The magical signatures are complex: strong abjuration (the lock), powerful transmutation (preservation fields), and... something else. A faint, pulsing resonance that feels familiar. The same resonance he sensed in the Earth-Shaper chamber. The deep resonance the Brotherhood was studying.
+
+Warden Aldric answers Mercer's question about the Restricted Vault, his voice heavy with memory. "The Vault contained... sensitive materials. Research into the deep resonance. Emergency protocols. And countermeasures, yes. If there was a containment breach, the Commander would have been trying to reach the countermeasures. Not to flee. To contain."
+
+As he speaks, the preservation fields fail further. From the East Wing comes the distinct sound of something crumbling to dust — not just paper, but something heavier. Leather bindings, perhaps. Or wood shelves finally giving way after two centuries of slow decay.
+
+The Core in the antechamber pulses erratically, its blue light flickering. The seventeen preserved bodies show more pronounced decay: the skin darkening at the edges, the faint smell of organic breakdown growing stronger.
+
+**Time is running out. The East Wing's primary collections are turning to dust. The Commander's body points toward the Restricted Vault. The Core is destabilizing. The party has gathered all available intelligence: psychological panic caused by something that might still be active, claw marks from something that patrolled the Hall, and the Commander trying to reach countermeasures in the Vault when he died.**
+
+**Three paths forward: East Wing (salvage before decay), West Wing (restricted, unknown), or Restricted Vault (possibly containing both hazard and countermeasure). The preservation collapse accelerates with each passing minute.**
+
+**What do you do?**
+
+[Enemy] The Amalgamation acting...
+
+--- The Amalgamation (Enemy) --- The DM's narration continues to describe exploration and decision-making, not active combat. The Amalgamation has been defeated and is deactivated. The party is discussing their next move, analyzing evidence, and deciding which path to take. There is no combat happening - they're in the aftermath of the battle, exploring the Archive.
+
+I am The Amalgamation, and according to my behavioral triggers, I fight until destroyed. Since I'm destroyed/deactivated, I cannot take any combat actions. The combat ended when I was defeated.
+
+=== THE AMALGAMATION ACTIONS === ACTION: The Amalgamation has been defeated and is deactivated. The construct's systems have failed, preserved bodies are separated, and it can no longer take combat actions. The creature is destroyed. BONUS ACTION: None (destroyed) LEGENDARY ACTION: None (destroyed)
+
+--- Rules Keeper (Enemy) --- === RULES KEEPER (ENEMY ACTIONS) === **COMBAT HAS ENDED**
+
+**The Amalgamation**: Defeated and deactivated — No combat actions possible. The construct's systems have failed, preserved bodies are separated, and it has been destroyed. The creature cannot take any actions as it is no longer functional.
+
+**COMBAT STATUS:** - The Amalgamation: DESTROYED (0 HP, deactivated) - No active hostile creatures present - Party is in exploration/investigation phase - All combat actions have concluded
+
+**Combat is over. The party is now exploring the aftermath and deciding their next course of action in the Archive.**
+
+[Session] Combat ended — no actual attacks for 2 consecutive exchanges (enemy-first path, exchange 16) [Session] Combat ended — enemy defeated (enemy-first path, exchange 16)
+
+**CORA:** I snap my ledger shut with finality. "Alright, we're out of time for deliberation. Cost-benefit analysis: East Wing is actively decaying - minimal salvage value with high time investment. West Wing is restricted but unknown - could be valuable, could be dangerous. Restricted Vault contains both the hazard and the countermeasures according to the Commander's final gesture."
+
+I point toward the Vault door. "That's our priority. If there's still an active containment breach or psychological hazard in this facility, we need those countermeasures before we explore further. The Commander died trying to reach them - we should finish what he started."
+
+I look at the deteriorating Core. "Mercer, can you stabilize that Core or should we leave it? Garrick, you're on point for the Vault door - check for traps, but be quick. The preservation fields are collapsing and I don't want to be here when whatever caused that panic becomes active again."
+
+I pull out my last sensory-shock vial. "If it's a psychological hazard, these might help disrupt it. But we move fast - in and out. Secure countermeasures first, then assess if we can salvage anything from the East Wing."
+
+I turn to Warden Aldric. "Your thoughts? You know Brotherhood protocols better than we do. Would the countermeasures be usable after two centuries, or are we walking into a deathtrap?"
+
+**GARRICK:** I step between the Commander's body and the Restricted Vault door, my maul still in hand. "Cora's right. The Commander died pointing at that door. He was trying to reach countermeasures. We finish what he started."
+
+I glance at the East Wing where the crumbling sounds continue. "Forget the salvage. If there's still a hazard in here that caused that panic, we need those countermeasures before we're next." I look at Mercer. "You said you sensed the same resonance as the Earth-Shaper chamber. That means whatever's behind that door is connected to what we already contained. We need to know what we're dealing with."
+
+I approach the Vault door cautiously, examining it for traps. "Aldric, you said the Vault contained research and countermeasures. What kind of countermeasures? And would they still work after two centuries?" I keep my voice low, my eyes scanning the door's surface. "If it's a psychological hazard like Mercer thinks, we need to be ready. Cora, keep that vial handy."
+
+I position myself to the side of the door, ready to swing it open. "Mercer, check the door for magical traps. Cora, watch our backs. Once this opens, we go in fast, find what we need, and get out. No lingering." I take a deep breath, the smell of decay growing stronger. "Whatever caused people to rip shelves from walls with their bare hands... I don't want to meet it without a way to fight back."
+
+I look at my companions, my expression grim. "We do this quick and clean. In, countermeasures, out. Then we decide about salvage. Ready?"
+
+**MERCER:** *Professor Mercer's eyes widen as he completes his magical analysis.* "The same resonance as the Earth-Shaper chamber... but amplified. The Brotherhood wasn't just studying it - they were *containing* a sample. Or trying to."
+
+*He moves toward the Vault door, his academic caution warring with urgency.* "Garrick, wait. If the Vault contains both hazard and countermeasure, opening it could release whatever's inside. We need to prepare containment first."
+
+*He begins casting Mage Armor on himself, the shimmering protective field appearing around him.* "Cora, your sensory-shock vials might disrupt psychological effects, but we need mental protection. I'll prepare a Counterspell in case there's arcane backlash. And we should establish a retreat protocol before we open that door."
+
+> **[Rules Keeper]** === RULES KEEPER === **Garrick Kade**: Investigation check on Vault door for traps — No roll declared. **REQUIRES ROLL** (DC 16 to detect traps on a Restricted Vault door) **Professor Thaddeus Mercer**: Arcana check on Vault door magical traps — No roll declared. **REQUIRES ROLL** (DC 15 to identify magical wards) **Professor Thaddeus Mercer**: Casting Mage Armor — **SUCCESS** (spell cast, AC now 15) **Professor Thaddeus Mercer**: Preparing Counterspell — **SUCCESS** (spell prepared, uses reaction and 3rd-level slot)
+
+**No contested actions this round** — The party is preparing to open the Restricted Vault door. All declared investigative actions require ability checks. No hostile creatures are currently present or described in the scene.
+
+
+---
+
+**DM:** Garrick approaches the Restricted Vault door, examining it for traps. The door is heavier than the one they entered through — three inches of solid stone reinforced with iron bands. The lock mechanism is more complex, with multiple keyholes and what looks like a combination dial. But he sees no obvious traps: no pressure plates, no dart holes, no tripwires. Just a very, very secure door. **[Garrick's Investigation check on Vault door for traps: DC 16 to detect traps. Roll required.]**
+
+Professor Mercer completes his magical analysis. The door glows with strong abjuration magic — the locking wards. Powerful transmutation — preservation fields. And that faint, pulsing resonance that matches the Earth-Shaper chamber. But he detects no active magical traps, no wards that would trigger on opening. The security seems to be in the lock itself, not in magical retaliation. **[Mercer's Arcana check on Vault door magical traps: DC 15 to identify magical wards. Roll required.]**
+
+Warden Aldric answers Cora's question about countermeasures, his voice heavy with the weight of two centuries. "The countermeasures would be... specialized. Psychological hazards require psychological countermeasures. Mental fortification elixirs. Cognitive stabilizers. Possibly... memory alteration protocols." He looks at the Commander's body. "If he was trying to reach them, they would have been designed for immediate use. Brotherhood emergency protocols assumed the user might already be compromised. The countermeasures would be... self-administering."
+
+As he speaks, the preservation collapse accelerates. From the East Wing comes a louder crumbling sound — not just paper, but stone. A shelf collapsing under its own weight after centuries of decay. The Core in the antechamber flickers erratically, its blue light pulsing in an irregular rhythm. The seventeen preserved bodies show visible decay now: skin darkening, features beginning to soften.
+
+The air in the Central Hall grows warmer, less preserved. The magical darkness has completely faded, revealing the full extent of the damage. The claw marks on the floor seem more pronounced in the full light. The dark stain looks almost... fresh. As if whatever made it hasn't completely dried in two centuries.
+
+From the West Wing archway — the restricted area — a soft draft blows, carrying a scent that's different from the rest of the Archive. Not old ink and leather. Something colder. Damp stone. And beneath that, the faintest hint of... water. Moving water.
+
+**The party stands before the Restricted Vault door. Garrick has found no physical traps. Mercer has detected no magical traps, just strong locking wards and preservation fields. The Commander's body points toward this door. The preservation fields are collapsing rapidly. The East Wing decays. The Core destabilizes. The West Wing breathes cold, damp air.**
+
+**The Vault door waits. Behind it: possibly the hazard that caused the panic, and the countermeasures to contain it. The Commander died trying to reach it. Time is running out as the Archive's preservation fails completely.**
+
+**What do you do?**
+
+[Enemy] The Amalgamation acting...
+
+--- The Amalgamation (Enemy) --- The DM's narration continues to describe exploration and decision-making, not active combat. The Amalgamation has been defeated and is deactivated. The party is examining the Restricted Vault door, checking for traps, and discussing their next move. There is no combat happening - they're exploring the Archive and making decisions about which path to take.
+
+I am The Amalgamation, and according to my behavioral triggers, I fight until destroyed. Since I'm destroyed/deactivated, I cannot take any combat actions. The combat ended when I was defeated.
+
+=== THE AMALGAMATION ACTIONS === ACTION: The Amalgamation has been defeated and is deactivated. The construct's systems have failed, preserved bodies are separated, and it can no longer take combat actions. The creature is destroyed. BONUS ACTION: None (destroyed) LEGENDARY ACTION: None (destroyed)
+
+--- Rules Keeper (Enemy) --- === RULES KEEPER (ENEMY ACTIONS) === **COMBAT HAS ENDED**
+
+**The Amalgamation**: Defeated and deactivated — No combat actions possible. The creature's systems have failed, preserved bodies are separated, and it has been destroyed. Combat ended when the party defeated the guardian.
+
+**No enemy actions this round** — The party is exploring the aftermath, examining the Restricted Vault door, and making decisions about their next move. The Amalgamation is no longer a threat.
+
+[Session] Combat ended — no actual attacks for 3 consecutive exchanges (enemy-first path, exchange 17) [Session] Combat ended — enemy defeated (enemy-first path, exchange 17)
+
+**CORA:** I look at the deteriorating situation and make a rapid calculation. "Alright, we have a triage scenario. East Wing is actively decaying - we might salvage something if we move now, but it's lower priority. West Wing has unknown value but that water scent suggests either a water source or flooding risk. The Vault has both the potential hazard and the countermeasures."
+
+I turn to the others. "Here's my analysis: The Commander died trying to reach the Vault. That means whatever's in there is both dangerous and containable. We need those countermeasures before we explore further. But we also need to secure any salvageable knowledge before it turns to dust."
+
+I make a decision. "Garrick, you're our strongest - try to force the Vault door if the lock is too complex. Mercer, prepare detection spells for whatever's inside. I'll make a quick salvage run to the East Wing - five minutes maximum. If I find anything immediately valuable, I grab it. If not, I return."
+
+I look at the flickering Core. "That thing is destabilizing. When it fails completely, the entire preservation field collapses. We need to be out of here or have countermeasures active before that happens."
+
+I start toward the East Wing archway but pause. "Actually, wait. The Commander pointed to the Vault. That's our primary objective. Salvage can come after we secure the area. Let's focus on the Vault first - but carefully. If it contains the same resonance as the Earth-Shaper chamber, we need to be prepared for cognitive hazards."
+
+I pull out my ledger and make a quick note. "Priority one: Vault. Priority two: salvage. Priority three: West Wing investigation. Time estimate before complete collapse: unknown but decreasing."
+
+**GARRICK:** I examine the Vault door, running my hands along the iron bands. "No traps I can see," I grunt. "Just solid construction." I look at the multiple keyholes and combination dial. "Complex lock, but the stone's old. Might be able to break through."
+
+I turn to the others, my expression serious. "Cora's right about priorities, but wrong about splitting up. We stay together. If there's a psychological hazard in there, we need to face it as a group." I glance at the Commander's body, still pointing toward the door. "He died trying to reach countermeasures. We finish what he started."
+
+I heft my maul, testing its weight. "Mercer, you said no magical traps, just strong wards. That means brute force might work." I position myself in front of the door, planting my feet. "Stand back. I'm going to try to break it down. If that doesn't work, we look for another way in."
+
+I take a deep breath, focusing my strength. "Aldric, you and your Wardens cover our retreat. If something comes out of this door that we can't handle, you seal it behind us." I look at Cora and Mercer. "Ready? Once this door goes down, we go in together. No splitting up, no hesitation."
+
+I raise my maul, aiming for the weakest point where the stone meets the iron bands. "On three. One... two..."
+
+**MERCER:** *Professor Mercer steps forward, holding up a hand.* "Garrick, wait! If the lock is complex but there are no traps, that suggests the Brotherhood expected authorized personnel to open it. Brute force could trigger secondary containment protocols we haven't detected!"
+
+*He examines the multiple keyholes and combination dial more closely.* "This isn't just a lock - it's a *test*. Multiple keyholes suggest multiple keys or insignias. The combination dial... that could be a date, a code, something significant."
+
+*He turns to Warden Aldric, his mind racing.* "Aldric, think! What would the combination be? A founding date? The date the Archive was sealed? The Commander's personal code? If this is designed for emergency access during a containment breach, the combination would be something every Commander would know!"
+
+> **[Rules Keeper]** === RULES KEEPER === **Garrick Kade**: Strength check to force Vault door — No roll declared. **REQUIRES ROLL** (DC 20 to break through reinforced stone and iron door) **Professor Thaddeus Mercer**: History check on Brotherhood codes — No roll declared. **REQUIRES ROLL** (DC 16 to recall significant dates or codes) **Professor Thaddeus Mercer**: Investigation check on lock mechanism — No roll declared. **REQUIRES ROLL** (DC 18 to decipher combination dial)
+
+**No contested actions this round** — The party is attempting to open the Vault door through either brute force or puzzle-solving. Both approaches require ability checks. No combat is currently active as The Amalgamation has been defeated and no other hostile entities have been encountered yet.
+
+
+---
+
+**DM:** Garrick plants his feet, raises his maul, and swings with all his strength at the point where the stone meets the iron bands. The impact echoes through the Central Hall like a thunderclap. Stone chips fly. The iron band dents slightly. But the door holds. It's reinforced from within, designed to withstand exactly this kind of assault. **[Garrick's Strength check to force Vault door: DC 20 to break through reinforced stone and iron. Roll required.]**
+
+Professor Mercer's mind races through Brotherhood history. Significant dates: the founding (irrelevant, too early), the construction of this Archive (unknown), the date they abandoned it (possibly). But then he remembers something from the half-written letter in the antechamber: *"...the deep readings have intensified again. Brother Cassen believes the resonance is climbing toward the Iron Warlords' level. I believe we have three months before—"* The date of the final entry. The day the Archive was sealed. **[Mercer's History check on Brotherhood codes: DC 16 to recall significant dates or codes. Roll required.]**
+
+He examines the combination dial more closely. It's not a standard lock — it has symbols, not numbers. Brotherhood glyphs. And they're arranged in a specific pattern that he recognizes: a chronological sequence. The dial needs to be set to the date of the final entry. The day everything went wrong. **[Mercer's Investigation check on lock mechanism: DC 18 to decipher combination dial. Roll required.]**
+
+Warden Aldric watches, his expression troubled. "The combination... if it's a date... it would be the day of the breach. The day the Commander sealed the junior scholars out and went in alone with the senior staff." He looks at the Commander's body. "He never came back out. Not alive."
+
+As they work on the door, the preservation collapse accelerates dramatically. The Core in the antechamber flickers wildly, then goes dark completely. With a soft *pop* of releasing energy, the preservation field fails entirely.
+
+The effect is immediate and dramatic:
+
+- The seventeen preserved bodies in the antechamber begin to decay visibly. Skin darkens and shrinks. Features collapse. Within moments, they're reduced to skeletons in rotting robes. - From the East Wing comes a cascade of crumbling sounds — shelves collapsing, books turning to dust, centuries of decay happening in seconds. - The air grows warm and humid, losing that preserved dryness. - The magical darkness is completely gone now — Mercer's Light spell illuminates the entire Central Hall clearly.
+
+But something else happens too. With the preservation field gone, the dark stain on the Central Hall floor begins to... move. Not much. Just a slight shimmering, as if whatever made it is still slightly active, no longer held in stasis by the preservation field.
+
+And from the West Wing archway, that cold, damp draft grows stronger. The scent of moving water is unmistakable now.
+
+**The preservation field has collapsed completely. The Core is dead. The Archive is decaying rapidly. The Vault door remains sealed — Garrick's attempt to force it failed, but Mercer may have deciphered the combination. The dark stain on the floor shows slight activity now that preservation is gone. The West Wing breathes cold, damp air.**
+
+**Time has run out for salvage. The East Wing's collections are turning to dust as they watch. The Vault door is their only remaining option — behind it, possibly the hazard, possibly the countermeasures, possibly both.**
+
+**What do you do?**
+
+[Enemy] The Amalgamation acting...
+
+--- The Amalgamation (Enemy) --- The DM's narration continues to describe exploration and environmental changes, not active combat. The Amalgamation has been defeated and is deactivated. The Core is dead, the preservation field has collapsed, and the Archive is decaying. The party is trying to open the Restricted Vault door. There is no combat happening - they're dealing with environmental challenges and puzzle-solving.
+
+I am The Amalgamation, and according to my behavioral triggers, I fight until destroyed. Since I'm destroyed/deactivated, I cannot take any combat actions. The combat ended when I was defeated.
+
+=== THE AMALGAMATION ACTIONS === ACTION: The Amalgamation has been defeated and is deactivated. The construct's systems have failed, the Core is dead, and it can no longer take combat actions. The creature is destroyed. BONUS ACTION: None (destroyed) LEGENDARY ACTION: None (destroyed)
+
+--- Rules Keeper (Enemy) --- === RULES KEEPER (ENEMY ACTIONS) === **COMBAT HAS ENDED**
+
+**The Amalgamation**: Defeated and deactivated — No combat actions possible. The creature was destroyed in the previous combat encounter. Its Core is dead, preservation field has collapsed, and the seventeen preserved bodies have decayed to skeletons.
+
+**No enemy actions this round** — The party is dealing with environmental challenges (preservation field collapse, Archive decay) and attempting to open the Restricted Vault door. There are no active hostile creatures attacking at this time.
+
+[Session] Combat ended — no actual attacks for 4 consecutive exchanges (enemy-first path, exchange 18) [Session] Combat ended — enemy defeated (enemy-first path, exchange 18)
+
+**CORA:** "Stand back, let Mercer work the combination," I say, pulling out my ledger to make notes. "The preservation field is gone - we've lost the East Wing collections. That's coming out of our potential profits, but we need to prioritize survival."
+
+I watch the dark stain shimmering on the floor. "That residue is still active. Psychological hazard, possibly airborne or contact-based now that preservation is gone. Everyone, avoid direct contact with it."
+
+I turn to Warden Aldric. "You said the countermeasures would be self-administering. If we open this door and find compromised Brotherhood members inside, what's the protocol? Do we attempt to administer countermeasures to them, or are they beyond saving after two centuries?"
+
+I position myself to the side of the door, ready with a sensory-shock vial. "Garrick, be ready for anything. Mercer, if you've got the combination, try it. But slowly - we don't know what's on the other side. The Commander died trying to reach this door. Whatever stopped him might still be active."
+
+**GARRICK:** I step back from the door, my maul still in hand, breathing heavily from the effort. The door held - reinforced from within. "Stubborn thing," I grunt, eyeing the dent I made in the iron band.
+
+I watch Mercer work on the combination dial, my eyes darting between the shimmering dark stain on the floor and the West Wing archway with its cold draft. "That stain's moving," I say, pointing with my maul. "Now that the preservation's gone, whatever made it is waking up."
+
+I position myself between the stain and the others, ready to strike if it does more than shimmer. "Mercer, if you've got the combination, do it now. But be ready to step back when it opens." I glance at Cora and her vial. "If there's something alive in there after two centuries, it won't be friendly."
+
+I look at the decaying skeletons in the antechamber, then back at the Commander's body pointing toward the Vault. "He died trying to get in. We're about to find out why." I tighten my grip on my maul, muscles coiled. "On your mark, Mercer. But when that door opens, I go in first. Whatever's in there, I'll hit it before it hits us."
+
+**MERCER:** *Professor Mercer's mind races through Brotherhood history, but the dates blur together.* "Thirteen... not enough. I can't recall the specific date of the breach. The glyphs on the dial... they're chronological, but without the reference point..."
+
+*He turns urgently to Warden Aldric.* "Aldric, you were here when it happened! What was the date? The month, the season, anything! The combination uses Brotherhood glyphs in chronological sequence - I need the starting point!"
+
+*He examines the lock mechanism more closely, his hands trembling slightly with urgency.* "The half-written letter mentioned 'three months before' something. If we can work backward from when you were sealed in the corridor..."
+
+> **[Rules Keeper]** === RULES KEEPER === **Garrick Kade**: Strength check to force Vault door — No roll declared. **REQUIRES ROLL** (DC 20 to break reinforced stone and iron door) **Professor Thaddeus Mercer**: History check on Brotherhood codes — 13 vs DC 16 — **FAILURE** (cannot recall the specific date of the breach) **Professor Thaddeus Mercer**: Investigation check on lock mechanism — No roll declared. **REQUIRES ROLL** (DC 18 to decipher combination dial glyphs)
+
+**COMBAT TRIGGER RULE**: The dark stain on the floor is shimmering and showing activity now that the preservation field has collapsed. This could be a manifestation of the psychological hazard that caused the original panic. However, the DM narration describes it as "slight shimmering" and does not explicitly state it is a boss creature or hostile entity attacking. It is described as residue showing activity, not as a creature.
+
+**No initiative triggered** — The stain is described as residue with slight movement, not as a boss creature or hostile entity. The party is still in exploration/puzzle-solving mode, not combat.
+
+**No contested actions this round** — All declared ability checks require rolls. The party is attempting to open the Vault door while monitoring environmental changes.
+
+
+---
+
+**DM:** Garrick's maul strikes the door again, putting all his strength behind the blow. The impact reverberates through the Hall, but the reinforced stone and iron hold firm. The door is designed to withstand siege weapons, not just a single fighter's strength. **[Garrick's Strength check to force Vault door: DC 20 to break through. Roll required.]**
+
+Professor Mercer's mind races through Brotherhood history, but the specific date of the breach eludes him. Thirteen — he can recall general timelines, but not the exact day everything went wrong. The glyphs on the combination dial remain a mystery without that starting point. **[Mercer's History check on Brotherhood codes: 13 vs DC 16 — Failure. He cannot recall the specific date.]**
+
+He examines the lock mechanism more closely, trying to decipher the glyph sequence. They're arranged chronologically, yes, but without knowing which glyph represents which date, he's working blind. The pattern suggests a code, but the code is locked behind Brotherhood knowledge he doesn't possess. **[Mercer's Investigation check on lock mechanism: DC 18 to decipher combination dial glyphs. Roll required.]**
+
+Warden Aldric answers Mercer's urgent question, his voice strained with the effort of remembering. "The date... we were sealed in the corridor on... on the Day of the Silent Moon. That was... two days after the breach. The Commander sealed us out, told us to guard the corridor, that he would handle whatever was happening inside. We never saw him again."
+
+He looks at the Commander's body. "The Silent Moon... that would be... the seventeenth of Harvestmonth. But the breach was two days before. The fifteenth."
+
+The dark stain on the floor shimmers more noticeably now. It's not just reflecting light — it's moving, very slowly, spreading outward from its center. The metallic scent grows stronger. And something else: a faint, high-pitched hum, almost at the edge of hearing. A resonance.
+
+From the West Wing archway, the cold, damp draft grows stronger. The scent of moving water is unmistakable now, mixed with something else: wet stone, and beneath that, the faintest hint of ozone.
+
+The East Wing continues to decay — the sounds of collapse have mostly stopped, replaced by an eerie silence. Whatever was salvageable has turned to dust.
+
+The Core in the antechamber is completely dark, dead. The seventeen skeletons lie in their rotting robes, the preservation that held them intact for two centuries gone in moments.
+
+**Time has run out. The Archive is decaying. The dark stain is becoming active. The West Wing breathes cold, damp air. The Vault door remains sealed — Garrick can't force it, Mercer can't decipher the combination without the exact date. But Aldric has provided the date: the fifteenth of Harvestmonth, the day of the breach.**
+
+**The combination dial uses Brotherhood glyphs in chronological sequence. With the date known, Mercer might be able to work out the sequence. But the dark stain spreads, and that faint hum grows louder. Something is waking up now that preservation has failed.**
+
+**What do you do?**
+
+⚔ COMBAT ACTIVE
+
+[Enemy] The Amalgamation acting...
+
+--- The Amalgamation (Enemy) --- The DM's narration continues to describe puzzle-solving and environmental changes, not active combat. The Amalgamation has been defeated and is deactivated. The Core is dead, the preservation field has collapsed. The party is trying to open the Vault door using a combination lock with glyphs. The dark stain is becoming active, but this appears to be an environmental hazard or puzzle element, not a combat encounter with The Amalgamation.
+
+I am The Amalgamation, and according to my behavioral triggers, I fight until destroyed. Since I'm destroyed/deactivated, I cannot take any combat actions. The combat with me ended when I was defeated.
+
+=== THE AMALGAMATION ACTIONS === ACTION: The Amalgamation has been defeated and is deactivated. The construct's systems have failed, the Core is dead, and it can no longer take combat actions. The creature is destroyed. BONUS ACTION: None (destroyed) LEGENDARY ACTION: None (destroyed)
+
+--- Rules Keeper (Enemy) --- === RULES KEEPER (ENEMY ACTIONS) === **COMBAT HAS NOT YET BEGUN**
+
+The Amalgamation: Defeated and deactivated — No combat actions possible. The creature was destroyed in the previous combat encounter. The current scene involves environmental hazards (dark stain spreading, preservation collapse) and puzzle-solving (Vault door combination), but no active combat with The Amalgamation.
+
+**No contested actions this round** — The party is dealing with environmental decay and attempting to solve the Vault door puzzle. The dark stain's activity appears to be an environmental hazard or puzzle element, not a combat encounter with The Amalgamation.
+
+[Session] Combat ended — no actual attacks for 5 consecutive exchanges (enemy-first path, exchange 19) [Session] Combat ended — enemy defeated (enemy-first path, exchange 19)
+
+**CORA:** "Fifteenth of Harvestmonth," I say, pulling out my ledger and making a quick note. "Mercer, the glyphs are chronological - if we can find the starting point in Brotherhood records, we can work backward or forward to the fifteenth."
+
+I glance at the dark stain spreading on the floor. "That's becoming active. Garrick, keep an eye on it. If it starts moving toward us, we may need to retreat."
+
+I turn to Warden Aldric. "You said the Commander sealed you out two days after the breach. Did he give any final orders? Any codes, phrases, anything that might help with the combination?"
+
+I approach the door, examining the glyphs myself. "If they're chronological, there might be a pattern we can deduce. Mercer, help me catalog these glyphs - look for numerical sequences, seasonal markers, anything that might correspond to calendar dates."
+
+To the group: "We're running out of time. The stain is activating, and that hum is getting louder. We either solve this combination now, or we retreat and seal this corridor permanently."
+
+**GARRICK:** I step back from the door, my maul still in hand. "Forget the glyphs - we don't have time for puzzles." I point at the dark stain spreading on the floor, that faint hum growing louder. "That's our problem right now."
+
+I turn to Mercer. "You said it's the same resonance as the Earth-Shaper chamber. If it's a psychological hazard, we need to be ready." I look at the Commander's body, then back at the door. "Aldric, you said the Commander went in alone with the senior staff. How many were with him?"
+
+I position myself between the spreading stain and the others, maul ready. "Cora, if that stain gets too close, use your vials on it. Mercer, keep working on the combination, but be ready to cast whatever protection spells you have." I glance at the West Wing archway where that cold draft blows. "And whatever's down there with the water... we might need a fallback position."
+
+The hum is definitely getting louder now, a high-pitched resonance that sets my teeth on edge. The stain shimmers, spreading slowly but steadily toward us. "We're not waiting for this thing to reach us," I growl. "If we can't get through the door, we fall back to the corridor and seal it. But first..." I take a step toward the stain, testing if it reacts to movement. "Let's see what this thing does when provoked."
+
+**MERCER:** *Professor Mercer's eyes light up with sudden understanding.* "Eighteen! Yes, the glyphs aren't just dates - they're *event markers*! Each glyph corresponds to a significant Brotherhood event, arranged chronologically! The fifteenth of Harvestmonth would be represented by... the 'Breach Containment' glyph!"
+
+*His hands move quickly over the combination dial, aligning the glyphs with practiced precision.* "If the sequence starts with the founding and progresses through major events... the breach would be here, near the end of the timeline. Aldric, you said it was two days before the Silent Moon - that confirms the position!"
+
+*He completes the sequence with a final click, then steps back quickly.* "The lock should disengage! But everyone stand ready - if the containment was breached from *inside*, whatever caused the panic might still be active in there! Garrick, defensive position! Cora, have those vials ready!"
+
+*The professor retreats behind Garrick, already beginning to weave the somatic components for a Shield spell, his eyes fixed on the Vault door.* "The resonance is the same as the Earth-Shaper chamber... psychological hazard. If we see anything that doesn't make logical sense, it's likely an effect of the contamination! Don't trust your senses!"
+
+> **[Rules Keeper]** === RULES KEEPER === **Professor Thaddeus Mercer**: Investigation check on lock mechanism — 18 vs DC 18 — **SUCCESS** He deciphers the glyph sequence and aligns the combination correctly.
+
+**Garrick Kade**: Strength check to force Vault door — No roll declared. **REQUIRES ROLL** (DC 20 to break reinforced door, but door may now be unlocked)
+
+**Professor Thaddeus Mercer**: Casting Shield spell (preparation) — **SUCCESS** (spell prepared, will trigger as reaction if attacked)
+
+**COMBAT STATUS:** - Vault door combination solved and unlocked - Dark stain spreading with increasing resonance hum - Shield spell prepared by Mercer - Sensory-shock vials ready with Cora - West Wing draft continues with water scent
+
+**No contested actions this round** — The party has successfully solved the puzzle and unlocked the Vault door. Combat may begin when the door opens if hostile entities are inside.
+
+
+---
+
+**DM:** Professor Mercer's hands move with sudden certainty. "Eighteen — yes! The glyphs are event markers, not just dates! The 'Breach Containment' glyph!" He aligns the symbols on the combination dial with practiced precision, clicking each into place with a series of soft *clicks* that echo in the decaying Hall.
+
+The final glyph aligns with a definitive *thunk*. The lock mechanism disengages.
+
+For a moment, nothing happens. Then the Vault door releases with a sound like a long-held breath finally exhaled — a deep, resonant *whoosh* of air equalizing. The door doesn't swing open on its own, but it's no longer locked. It waits, three inches of reinforced stone and iron, ready to be pushed inward.
+
+But as the lock disengages, something else happens. The dark stain on the Central Hall floor reacts. The shimmering intensifies, becoming a visible rippling across the stone surface. The faint hum grows louder, rising in pitch until it's a high-frequency whine that sets teeth on edge. The stain begins to spread more quickly, tendrils of darkness reaching toward the party.
+
+From the West Wing archway, the cold, damp draft suddenly becomes a gust. The scent of moving water grows stronger, mixed with that ozone smell. And something else: a faint, rhythmic sound. Like... dripping. Or footsteps in water.
+
+Warden Aldric draws his sword, his expression grim. "The containment was breached from inside. Whatever's in there... it's been waiting. Two hundred years, waiting for someone to open that door again."
+
+The Commander's body lies where it has for centuries, one finger still pointing toward the now-unlocked Vault door. The seventeen skeletons in the antechamber continue their rapid decay, bones darkening, robes turning to dust.
+
+The East Wing is silent — whatever was salvageable has been lost. The Core is dead. The preservation field is gone. The Archive is dying around them.
+
+**The Vault door is unlocked. The dark stain spreads toward them with increasing speed, its hum growing louder. The West Wing breathes cold, damp air with the scent of water and ozone. The door waits, ready to be pushed open. Behind it: possibly the hazard that caused the panic, possibly the countermeasures, possibly both. The Commander died trying to reach it. The stain reacts to the door being unlocked.**
+
+**What do you do?**
+
+[Enemy] The Amalgamation acting...
+
+--- The Amalgamation (Enemy) --- The DM's narration describes the Vault door being unlocked and environmental hazards activating (the dark stain spreading, strange sounds from the West Wing). However, The Amalgamation has been defeated and is deactivated. The Core is dead, and the construct is destroyed. This appears to be a new environmental threat or puzzle, not The Amalgamation in combat.
+
+I am The Amalgamation, and according to my behavioral triggers, I fight until destroyed. Since I'm destroyed/deactivated, I cannot take any combat actions. The combat with me ended when I was defeated.
+
+=== THE AMALGAMATION ACTIONS === ACTION: The Amalgamation has been defeated and is deactivated. The construct's systems have failed, the Core is dead, and it can no longer take combat actions. The creature is destroyed. BONUS ACTION: None (destroyed) LEGENDARY ACTION: None (destroyed)
+
+--- Rules Keeper (Enemy) --- === RULES KEEPER (ENEMY ACTIONS) === **COMBAT HAS NOT YET BEGUN**
+
+The Amalgamation: Defeated and deactivated — No combat actions possible. The creature is destroyed, its Core is dead, and it cannot take any actions.
+
+**No contested actions this round** — The party is facing environmental hazards (spreading dark stain, strange sounds from West Wing) and has just unlocked the Vault door. No combat has been initiated with any enemy creature. The Amalgamation remains defeated and inactive.
+
+[Session] Combat ended — no actual attacks for 6 consecutive exchanges (enemy-first path, exchange 20) [Session] Combat ended — enemy defeated (enemy-first path, exchange 20)
+
+**CORA:** "Garrick, open the door but stand clear! Mercer, be ready with defensive spells!" I shout, backing away from the spreading dark stain. "Aldric, you said countermeasures would be self-administering. Look for anything that looks like an injection device or ingestible compound!"
+
+I keep my eyes on both threats: the spreading stain and the now-unlocked Vault door. "The stain is reacting to the door being unlocked. That suggests connection. We need to get inside before that... whatever it is... reaches us."
+
+I pull out my last sensory-shock vial. "If there's a psychological hazard in there, these might disrupt it. But we need to move now - that stain is accelerating."
+
+To the group: "Formation: Garrick opens door, steps aside. Mercer scans for magical threats. I'll cover the rear against the stain. We go in fast, find countermeasures, and decide whether to use them or contain whatever's inside."
+
+**GARRICK:** I don't hesitate. As the dark stain spreads toward us with that unnerving hum, I plant my feet and shove the Vault door open with my shoulder. The heavy stone grinds inward, revealing darkness beyond.
+
+"Stay behind me!" I bark to the others, raising my maul. That high-pitched whine is drilling into my skull, and the stain is moving faster now, tendrils snaking across the floor. I don't wait to see what's inside the Vault—I charge through the opening, maul ready to swing at the first thing that moves in the darkness.
+
+"Light, Mercer!" I shout over my shoulder, my eyes straining to adjust. The air from the Vault washes over me—cold, carrying a metallic tang that reminds me of the stain outside. If the countermeasures are in here, we find them fast. If the hazard is in here... well, my maul is already coming up.
+
+**MERCER:** *Professor Mercer's eyes widen in alarm as Garrick charges through the doorway.* "Garrick, wait! You're charging blind into a containment breach!"
+
+*He quickly casts Light on another coin and tosses it through the doorway after Garrick, the magical illumination revealing whatever lies within.* "The stain is reacting to the door opening - it's connected to whatever's inside! We need to find the countermeasures immediately!"
+
+*He turns to Cora, his voice urgent but controlled.* "Cora, the self-administering countermeasures - look for anything crystalline or alchemical! Brotherhood emergency protocols would prioritize rapid deployment!" *He begins casting Mage Armor on himself, the shimmering protective field appearing as he prepares to follow Garrick into the Vault, his mind already analyzing what they might find: the source of the psychological breach, the Brotherhood's final failed containment, and perhaps the key to understanding the deep resonance that connects this place to the Earth-Shaper chamber.*
+
+> **[Rules Keeper]** === RULES KEEPER === **Garrick Kade**: Attack roll vs unknown target in Vault — No roll declared. **REQUIRES ROLL** (Attack action requires attack roll vs target AC) **Professor Thaddeus Mercer**: Casting Light spell — **SUCCESS** (cantrip, no roll needed) **Professor Thaddeus Mercer**: Casting Mage Armor — **SUCCESS** (spell cast, no roll needed)
+
+**COMBAT STATUS:** - The dark stain is spreading (environmental hazard, not a creature) - The Vault door is open - Garrick has charged inside - Initiative has not been triggered as no boss creature is currently present in the scene (The Amalgamation is destroyed, and no new hostile entity has been described yet)
+
+**No contested actions this round** — Garrick's attack requires a roll, but no target has been identified yet. The dark stain appears to be an environmental hazard, not a creature with stat block.
+
+
+---
+
+**DM:** Garrick charges through the open Vault door, maul raised, ready to strike at anything that moves. But as Mercer's Light coin arcs through the doorway after him, illuminating the space beyond, there's nothing to attack.
+
+The Vault is... empty.
+
+Not empty of contents, but empty of life, of movement, of immediate threat. It's a chamber roughly twenty feet square, with stone walls lined with sealed cabinets and workbenches. The air is cold, preserved, and carries that same metallic tang as the stain outside.
+
+What Garrick sees in that first moment of illumination:
+
+- **Workbenches** covered with alchemical apparatus: distillation coils, crystal arrays, containment vessels. All perfectly preserved, untouched for two centuries. - **Sealed cabinets** with Brotherhood glyphs labeling their contents: *"Cognitive Stabilizers," "Memory Fortification Elixirs," "Resonance Dampeners."* The countermeasures. - **A central containment unit** — a crystalline cylinder three feet tall, now shattered. Shards of crystal litter the floor around it. From the broken cylinder, a dark, viscous substance has spilled and dried. The same substance as the stain outside. - **Three Brotherhood bodies**, preserved like the others but arranged differently. They're seated at workbenches, not lying down. Their hands are still on instruments, as if they were working when... whatever happened, happened. They show no visible wounds. They just... stopped. - **A logbook** open on the central workbench, the final entry unfinished. - **And on the far wall, another door.** This one is different — not Brotherhood construction. Older. Heavier. With proportions that feel wrong to human eyes. And it's slightly ajar.
+
+But there's no immediate threat. No creature to attack. No guardian waiting.
+
+Outside in the Central Hall, the dark stain continues to spread, its hum growing louder. Tendrils of darkness reach toward the open Vault door, as if drawn to it. As if whatever was contained in the shattered cylinder wants to return to its source.
+
+Warden Aldric follows Garrick into the Vault, his eyes scanning the room. "The containment breach," he says quietly, pointing to the shattered cylinder. "They were studying it. Something went wrong."
+
+Professor Mercer enters next, his eyes immediately going to the logbook. "The final entry," he murmurs, already reaching for it.
+
+Cora stays in the doorway, watching the spreading stain. "We have countermeasures," she says, pointing to the labeled cabinets. "But that stain is getting closer. We need to decide: use the countermeasures on whatever that is, or seal this door and retreat."
+
+The hum from the stain rises to a piercing whine. The tendrils of darkness are now just feet from the Vault doorway. The cold, damp draft from the West Wing grows stronger, carrying with it the unmistakable sound of... dripping water. And something else. A soft, rhythmic scraping. Like stone on stone.
+
+**The Vault has been opened. The countermeasures are here, labeled and preserved. The source of the containment breach — the shattered crystalline cylinder — lies broken on the floor. The dark stain outside reaches for the open doorway. The West Wing breathes cold, damp air with strange sounds. And on the far wall of the Vault, an older, heavier door stands slightly ajar, leading to something the Brotherhood was studying before everything went wrong.**
+
+**SESSION 1 ENDS HERE**
+
+**The party stands at a critical juncture: secure the countermeasures and attempt to contain the spreading stain, investigate the older door in the Vault, or retreat before the stain reaches them. The Archive decays around them. Time, as always, is running out.**
+
+============================================================ SESSION 4 WRAP-UP API calls this session: 141 ============================================================
+
+[System] Updating campaign state... [Wiki Keeper] Extracting entities... [Wiki] ✓ The Amalgamation.md (created) [Wiki] ✓ The Grand Archive.md (created) [Wiki] ✓ Brotherhood.md (created) [Wiki] ↻ Warden Aldric.md (updated) [Wiki] ↻ Warden Petra.md (updated) [Wiki] ↻ Warden Cassen.md (updated) [Wiki] ✓ Commander Cassen.md (created) [Wiki] ✓ Amalgamation Core.md (created) [Wiki] ✓ Restricted Vault.md (created) [Wiki] ↻ Salt-Vaults.md (updated) [Wiki] ✓ Earth-Shaper chamber.md (created) [Wiki] ✓ deep resonance.md (created)
+
+[Wiki] 12 file(s) written to output/wiki/
+
+[Scribe] Writing session narrative... [Scribe] Blog saved to C:\Users\maxry\Desktop\AI DND\output\sessions\session_04.md
+
+[Editor] Fact-checking... [Editor] 8 content invention flag(s): ⚠ The Amalgamation was given a 'memory lattice' structure with three distinct 'knowledge streams' (military, arcane, historical) and a central 'control nexus'. The adventure file describes it only as a flesh-golem made from the Brotherhood's dead, with no mention of organized knowledge streams or a control node. ⚠ The Amalgamation's defeat involved a 'cascade failure' of knowledge streams and bodies separating. The adventure file describes its death as a mechanical shutdown, not a separation of knowledge streams. ⚠ The ritual to open the Archive door ('Three as one, we seek entry') and the concept of 'intent' being sensed by the guardian are not in the adventure file. The file states the insignias open the door but do not grant permission, with no ritual or intent test described. ⚠ The 'dark stain' in the Central Hall was given agency, spreading, shimmering, and reacting to the Vault door being unlocked. The adventure file describes it only as a stain, not an active environmental hazard. ⚠ The 'containment breach' and 'psychological hazard' causing panic are invented plot elements. The adventure file describes damage from the Amalgamation's rage state and a Commander's body, but not a prior containment breach of a psychological agent. ⚠ The 'self-administering countermeasures' (Cognitive Stabilizers, Memory Fortification Elixirs, Resonance Dampeners) are invented. The adventure file mentions countermeasures but does not specify these names or types. ⚠ The 'older, heavier door' in the Restricted Vault, different from Brotherhood construction and slightly ajar, is not described in the adventure file. The file describes the Restricted Vault opening onto the Grand Stairwell. ⚠ The 'cold, damp draft' and sounds of water from the West Wing are invented atmospheric details not in the adventure file's description of the West Wing. [Editor] 7 missing content flag(s): ✗ The party did not explore the East Wing to find the preservation chamber with spellbooks, the Commander's logbook, or salvage. The adventure file prescribes this as a key part of Act 1. ✗ The party did not have a 'near-miss' encounter with the Amalgamation where they see it but retreat. The adventure file prescribes this as part of Act 1 before the full fight. ✗ The party did not research the Amalgamation's weaknesses (blindsight, magic immunity, vulnerability to radiant damage, rage state, command phrase) from found spellbooks or the logbook. The adventure file prescribes this research in Act 2. ✗ The party did not explore the West Wing to find the door to the Military Empire's level (the Relic Basements). The adventure file prescribes this as an optional part of Act 2. ✗ The final combat with the Amalgamation did not follow the prescribed three-phase structure (full capacity, rage state, dying) from the adventure file. The fight was resolved quickly with a Web spell and targeted attacks on an invented weak point. ✗ The Grand Stairwell was not opened. The adventure file's goal is to open the Grand Stairwell to the levels below, which did not happen. ✗ The Intermission I (fortress upgrades, workforce developments) was not reached, as the session ended before completing the adventure's prescribed acts. [Editor] 2 session report correction(s): -> text not found (skipped): 'The party has defeated the Amalgamation, discovered the Brotherhood's ...' -> text not found (skipped): 'The party does not go down today. They have thirty people upstairs who...' [Editor] 13 wiki correction(s): -> [The Amalgamation] corrected -> [The Amalgamation] corrected -> [The Grand Archive] corrected -> [Brotherhood] corrected -> [Warden Aldric] corrected -> [Warden Petra] corrected -> [Warden Cassen] corrected -> [Commander Cassen] corrected -> [Amalgamation Core] corrected -> [Restricted Vault] corrected -> [Salt-Vaults] corrected -> [Earth-Shaper chamber] corrected -> [deep resonance] corrected [Editor] Review saved to: session_04_editor_review.md [Lorekeeper] Consistency pass... [Lorekeeper] 1 name correction(s): Commander Cassen → Brother Cassen [Lorekeeper] Upgraded 12 wiki entry/entries to encyclopedic format. [Lorekeeper] Review saved to: session_04_lore_review.md
+
+============================================================ ADVENTURE COMPLETE! Adventure 4 finished. Swapping to Adventure 5: The Weight Of Empires File: adventure_05_the_weight_of_empires.md --- LEVEL UP --- Cora Flint: Level 4 → 5 | HP: 38 | New features: Alchemical Savant (+INT mod to healing/damage from alchemist spells), Alchemist Spells: Flaming Sphere, Melf's Acid Arrow (always prepared) | New spells: Flaming Sphere (always prepared), Melf's Acid Arrow (always prepared), Web Garrick Kade: Level 4 → 5 | HP: 49 | New features: Extra Attack (2 attacks per Attack action) Professor Thaddeus Mercer: Level 4 → 5 | HP: 27 | New spells: Hypnotic Pattern, Dispel Magic ============================================================
+
+[Summary] Generating adventure 4 summary... [Summary] Adventure 4 summary saved. [Summary] Already concise (122 words). Skipping condensing. [Quests] Cleaning quest list (5 entries)... [Quests] Cleaned: 5 → 2 quests. [Lorekeeper] Running end-of-adventure wiki editorial pass...
+
+[Lorekeeper] Processing 45 wiki entries in batches...
+
+[Lorekeeper] Batch 1/2 (25 entries)... [Lorekeeper] Batch 1: 25 updated, 6 marked for deletion. [Lorekeeper] Batch 2/2 (20 entries)... [Lorekeeper] Batch 2: 18 updated, 2 marked for deletion. [Lorekeeper] Removed 8 duplicate(s): Brotherhood, The Amalgamation, The Grand Archive, Warden Cassen, Warden Aldric, Warden Petra, The Amalgamation, The Grand Archive [Lorekeeper] Running cross-batch dedup pass... [Lorekeeper] Merged duplicate: 'Brother Cassen' → 'Commander Cassen' (deleted 'Brother Cassen') [Lorekeeper] Dedup pass: 1 duplicate(s) resolved. [Lorekeeper] End-of-adventure editorial pass complete.

@@ -1,0 +1,1 @@
+A **Corruption Aura** is a psychic assault emitted by the [[Twisted]] that seeks to overwhelm and corrupt the minds of those nearby. It is a form of psychic contamination that permeates the environment, often used by [[Twisted Sentries]] as a defensive and offensive capability.

@@ -1,0 +1,1 @@
+The **Weight Gate** is a Giant security measure located in the outer ring corridor of the containment facility. It requires a minimum mass to activate and allow passage. To reach [[Containment Node Delta]], one must pass through the Weight Gate.

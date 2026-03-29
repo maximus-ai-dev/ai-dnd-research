@@ -1,0 +1,1 @@
+The **Giant stairway** is a massive stone staircase built by [[Giants]], featuring three-foot-high steps, that descends from the surface fortress into the [[Dwarven Layer]] within the [[Asymmetrical Mountain]]. It provides the primary access route from the upper levels to the deeper architectural strata.

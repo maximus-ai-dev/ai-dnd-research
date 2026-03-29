@@ -1,0 +1,7 @@
+**The Resonant Foundation** is the official name given to the ancient [[Giant]] containment structure discovered beneath the [[Asymmetrical Mountain]].
+
+## Description and Structure
+The Foundation is a vast, cathedral-scale machine built as a containment vessel and reality anchor. Its architecture is scaled for beings twenty feet tall, with corridors thirty feet wide and forty feet high. Every surface is carved with dense, functional runic arrays that form a primary containment network. The outer perimeter, known as the [[Inspection Circuit]], features monitoring alcoves with crystalline instruments for measuring containment field strength. The structure's central chamber is a vast, dark void designed to house the entity known as the [[First World Sleeper]].
+
+## Current Status
+The containment field within the Resonant Foundation is active but weakening over millennia. The structure exhibits an interactive quality, with its runic rhythms adapting to and incorporating the psychic signatures of intruders. The [[Prospectors' Guild]], led by [[Reyna Steelforge]], has authorized the establishment of a forward research camp within its outer corridors to study the containment system and the Sleeper.

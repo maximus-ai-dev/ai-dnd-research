@@ -1,0 +1,4 @@
+The **Fire Gate** is a sealed conduit located within the wall of the [[Caldera]] in the [[Asymmetrical Mountain]].
+
+## Description and Significance
+Marked with the Giant rune for "fire," the Fire Gate is a planar anchor that once connected to the Elemental Plane of Fire. It was used by the Giants during the containment system's construction and then sealed. Its location is noted in the [[Architect's Codex]]. If a prior bargain with the fire elemental [[Ignathar]] requires fulfillment, the Fire Gate is where that promise can be kept. Opening it could provide a source of elemental fire but carries the risk of disrupting the delicate containment balance.

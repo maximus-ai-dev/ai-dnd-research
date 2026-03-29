@@ -1,0 +1,4 @@
+The **Capstone Resonator** is a specialized containment device constructed to seal void energy breaches and suppress corrupted entities.
+
+## Construction and Function
+The resonator is built from several key components: a [[Dreamstone]] Power Cell, the [[Monitoring Crystal]], a replica of [[Korathan's Chisel]], and raw Dreamstone. Its construction requires significant arcane and technical expertise. When activated at a breach site, the device emits a powerful containment pulse in a sixty-foot radius. This pulse suppresses void energy, deals radiant damage to void-corrupted creatures, can stun them, and temporarily seals any breach within its area of effect. It is designed as a decisive tool for confronting major breaches guarded by powerful corrupted guardians like the [[Reanimated Warden]].

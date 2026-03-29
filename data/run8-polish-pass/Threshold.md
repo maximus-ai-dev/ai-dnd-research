@@ -1,0 +1,4 @@
+The **Threshold** is the initial transition zone located directly beneath the [[Giant Capstone]] in the [[Asymmetrical Mountain]].
+
+## Description
+It is a descending corridor approximately fifty feet deep, where the physics of the outside world begin to weaken. Gravity functions but diminishes with each step, reducing weight by roughly half by the zone's end. The walls are densely packed with overlapping containment runes that burn with golden light, representing the primary barrier of the ancient containment system. Giant handholds are carved into the curved walls, designed for navigation in reduced gravity.

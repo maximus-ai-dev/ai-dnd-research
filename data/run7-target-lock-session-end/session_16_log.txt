@@ -1,0 +1,1200 @@
+=== Session Log — 2026-03-27T06:37:14.717098 ===
+
+[Log] Raw terminal output being saved to: C:\Users\maxry\Desktop\AI DND\output\logs\session_16_log.txt
+
+
+============================================================
+  SESSION 16 BEGINNING
+  Adventure 16: The Saboteurs Drill
+  Adventure Session: 1/1
+  Models: All DeepSeek
+  Exchanges: 20 (full session)
+============================================================
+
+[Session] Enemy agents created: Reanimated Warden
+[Session] Enemy acts FIRST (HOSTILE-ONLY)
+
+[DM] Opening scene...
+
+[Session] HOSTILE-ONLY encounter detected in adventure file. Auto-initiative and combat forcing ACTIVE.
+
+--- DM ---
+**SESSION 16: THE SABOTEUR'S DRILL**
+
+**Three days of quiet.**
+
+After the frantic sabotage of the Twisted's biological drill and the desperate retreat from the staging ground, the forward camp in the Giant foundation level has settled into an uneasy routine. The containment field readings have stabilized at seventy percent integrity — not perfect, but holding. The Monitoring Crystal hums steadily on Mercer's workbench, its resonance frequency tracking the Sleeper's muted broadcast. Cora has been refining her Dreamstone-forged crossbow bolts in the Cold Forge, the lead-lined chamber now humming with controlled psychic energy. Garrick has spent the time reinforcing the camp's barricades, his rune-carved maul leaning against the stone wall, ready.
+
+The three of you have taken shifts sleeping, eating preserved rations from the Salt-Vaults, and watching the crystal. The silence is the unnerving part — no distant drilling, no Twisted activity, no new breaches. Just the steady, soft hum of the containment field and the faint, ever-present psychic note from below.
+
+Then, on the morning of the fourth day, the silence shatters.
+
+**The Monitoring Crystal screams.**
+
+Not a spike — a scream. The crystal's resonance frequency leaps from its steady hum to a piercing, glass-shattering pitch. A beaker on Cora's workbench vibrates, cracks, and explodes in a shower of glass. The containment field readings on Mercer's arcane display plummet — 70%... 60%... 50% — freefalling toward zero.
+
+From deep below, through the stone itself, comes a sound like a mountain exhaling — a rush of warm, sweet-smelling air that flows through every corridor of the Giant level, carrying the concentrated essence of the Anomaly's radiation. The air tastes of honey and ozone and something profoundly wrong.
+
+Cora's eyes snap to the Monitoring Crystal's display. The breach location flashes — not at the bore hole you sealed. Not at the Juggernaut's scar. A third site, in the southwest quadrant, roughly 600 feet from the forward camp, in unexplored territory. The containment field readings at that location are zero.
+
+The Twisted had a backup plan. A third drill, hidden deeper, boring from a direction your monitoring didn't cover.
+
+**And something has come through.**
+
+**DC 13 Constitution save (all characters):** Failure: 2d6 psychic damage and you see a flash of the void — the darkness below the capstone, the shapes within it, closer than before. The Dreamstone Circlets provide advantage.
+
+Cora grabs her crossbow, her face pale. "The field's collapsing. Whatever they opened, it's big."
+
+Garrick hefts his maul, the runes along its length glowing faintly in response to the psychic surge. "Then we close it."
+
+Mercer's fingers fly over the Monitoring Crystal, trying to stabilize the readings. "The breach is drawing power from the Sleeper. It's feeding back into the containment architecture. If we don't seal it now, the entire capstone could destabilize."
+
+The corridor toward the breach site already shows damage — containment runes along the walls are cracked and dark, stone fractured by the energy pulse. Worse, the organic resin in the walls, long dormant since the amplifiers' destruction, now glows with faint iridescent light. The void energy is awakening the remnant Twisted infrastructure.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 1/20
+────────────────────────────────────────
+
+
+[Enemy] Reanimated Warden acting...
+
+
+--- Reanimated Warden (Enemy) ---
+I need to load the campaign state to see the current combat situation and determine who my targets are.
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+**No enemy actions to adjudicate this round.** The Reanimated Warden is checking the current combat situation, but no attacks or saves have been rolled yet. The scene is currently in narrative setup phase with PCs reacting to the breach event.
+
+
+--- Cora Flint ---
+My eyes snap to the broken beaker on my workbench, then to the plummeting containment field readings. "Third drill. Southwest quadrant, six hundred feet. They were smarter than we gave them credit for." I grab my crossbow, my ledger already open to a fresh page. "Garrick, you're point. Mercer, keep monitoring that crystal - I need to know if the breach is widening or if something's actively coming through."
+
+I feel the warm, sweet air wash over me and my vision swims. **Constitution save: 6 (failure).** The void flashes before my eyes - darkness below the capstone, shapes moving closer, far too close. I stagger, grabbing the workbench. "Two things: first, we're all seeing that. Second, the Dreamstone circlets aren't enough against this concentration. We need the forged bolts."
+
+I snatch up my lead-lined pouch of Dreamstone-forged crossbow bolts, my hands moving with clinical efficiency. "Triage assessment: containment field at fifty percent and dropping. Organic resin reactivating. We have minutes, not hours. Standard formation - Garrick front, Mercer middle with area control, I'm rear support with healing and alchemical suppression. We move fast but we check every corridor junction - if the Twisted infrastructure is waking up, there could be ambush points they've prepared."
+
+I look at the others, my face pale but determined. "This isn't a salvage run. This is containment. Priority one: seal the breach. Priority two: survive. Everything else is inventory loss. Move."
+
+
+--- Garrick Kade ---
+**Constitution Save:** 19 + 3 = 22 (Success)
+
+The sweet, honey-ozone air hits me like a physical blow, but I grit my teeth and shake off the psychic pressure. I don't see the void shapes Cora's talking about - just the job ahead. My runes glow brighter in response to the energy surge.
+
+"Point position, got it," I grunt, hefting my maul. The runes along its length pulse with blue light as I activate Giant's Might. My muscles swell, bones crack as I grow to nearly ten feet tall, filling the corridor. "Mercer, stay behind me. Cora, watch our backs. If anything moves that isn't us, I'm hitting it."
+
+I don't wait for more discussion. The breach is six hundred feet southwest, and every second the containment field drops is another second something worse comes through. I charge down the corridor toward the damaged section, my heavy footsteps echoing through the stone halls. The fractured containment runes along the walls flicker and die as I pass, the organic resin glowing with that sick iridescent light.
+
+"Keep up!" I bark over my shoulder, scanning every junction, every shadow. My knuckles are white on the maul's handle. "If their infrastructure's waking up, we'll be fighting the walls themselves. Watch for movement in the resin. And if you see anything - anything at all - shout it out. I'll handle the rest."
+
+The air grows warmer, sweeter as we move toward the breach site. My senses are screaming - this is an ambush waiting to happen. But waiting gets people killed. We move fast, we hit hard, and we seal that breach before whatever's on the other side decides to come looking for us.
+
+
+--- Professor Thaddeus Mercer ---
+**Constitution Save:** 20 (natural) + 1 = 21 (Success with advantage from Dreamstone Circlet)
+
+The psychic scream washes over me, but my academic detachment serves as an unexpected buffer. While Cora staggers and Garrick grits his teeth, I remain standing, my fingers already dancing across the Monitoring Crystal's surface. "Fascinating — the resonance frequency has shifted from a harmonic to a dissonant pattern. The breach isn't just a hole; it's acting as a sympathetic resonator, drawing power directly from the Sleeper's broadcast."
+
+I snatch up my spellbook, the pages flipping open of their own accord to my containment field calculations. "Garrick, wait! The organic resin — you're correct that it's reactivating, but observe the pattern." I point to the glowing iridescent lines along the walls. "The energy flow follows the original Twisted circulatory architecture. They're not just waking up; they're being repurposed as conduits. If we charge blindly down the main corridor, we'll be walking into a prepared kill zone."
+
+My spectral mind — a shimmering, book-shaped apparition — materializes beside me. "I'll send my Manifest Mind ahead to scout. It can pass through walls and won't trigger organic defenses. Meanwhile..." I begin casting, my hands tracing intricate patterns in the air. "Mage Armor for personal protection, and I'll prepare Counterspell for any void-energy manifestations. The breach location in the southwest quadrant — that's near what my maps indicate was a secondary containment chamber. If the Twisted drilled there, they were targeting a structural weakness."
+
+I look between Cora's clinical assessment and Garrick's aggressive posture. "Your tactical formation is sound, Cora, but we need intelligence first. Let my spectral scout survey the approach. If the Twisted infrastructure is active, we'll need area denial spells — Web to slow organic growth, Fireball to cauterize resin channels. Garrick, your brute force approach will be necessary, but applied surgically. Don't just charge — wait for my signal on where to strike."
+
+I take a deep breath, the sweet-ozone air tasting of impending catastrophe. "This isn't just a breach. It's an architectural assault. They're trying to rewrite the containment field's geometry from within. We have minutes, yes — but we must use them intelligently."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Constitution Save vs Psychic Surge — 6 vs DC 13 — **FAILURE** Cora takes 2d6 psychic damage and sees a flash of the void — the darkness below the capstone, shapes moving closer than before. (Rolling damage: 2d6 = 7 psychic damage)
+
+**Garrick Kade**: Constitution Save vs Psychic Surge — 22 vs DC 13 — **SUCCESS** Garrick shakes off the psychic pressure, his runes glowing brighter in response to the energy surge.
+
+**Professor Thaddeus Mercer**: Constitution Save vs Psychic Surge — Natural 20! vs DC 13 — **SPECTACULAR SUCCESS** Not only does Mercer resist the psychic surge, but his academic detachment actually helps him analyze the resonance patterns, gaining insight into the breach's nature.
+
+
+--- DM ---
+**Cora staggers as the void vision hits her — 7 psychic damage rips through her mind.** She sees the darkness below the capstone, shapes moving within it, closer than they've ever been. The Dreamstone circlet on her brow hums with protective energy, but it's not enough against this concentration. She grabs the workbench, her knuckles white, then shakes her head clear. "Seven points of psychic feedback. The circlet's attenuating, not blocking."
+
+Garrick's transformation is immediate and terrifying. His muscles swell, bones crack as he grows to nearly ten feet tall, filling the corridor with his massive frame. The runes on his maul pulse with blue light that reflects in the iridescent glow of the reactivating organic resin along the walls.
+
+Mercer's spectral mind — a shimmering, book-shaped apparition — materializes beside him. It floats forward, passing through the stone wall to scout ahead. "The energy flow follows the original Twisted circulatory architecture," he observes, his fingers tracing patterns in the air as Mage Armor settles around him like invisible plates. "They're not just waking up; they're being repurposed as conduits. If we charge down the main corridor, we'll be walking into a prepared kill zone."
+
+The corridor ahead shows escalating damage. Containment runes that were merely cracked are now shattered, their magical light extinguished. Stone walls show fresh fractures radiating from the direction of the breach. And the organic resin — long dormant since the amplifiers' destruction — now pulses with faint iridescent light, veins of corrupted biological material threading through the stone like infected capillaries.
+
+**Environmental hazards manifest as you move:**
+
+1. **Radiation surge zones:** Pockets where void energy has pooled create shimmering distortions in the air. The sweet-ozone smell intensifies here. **DC 16 Constitution save or 3d6 psychic + necrotic damage.** The Reality Anchor in your possession creates safe passage through these zones if deployed.
+
+2. **Gravity fractures:** Localized gravity failures where the containment field has collapsed. A section of corridor ahead has debris floating in mid-air, and "down" appears to be sideways for a twenty-foot stretch. **DC 14 Dexterity save to navigate without injury (2d6 bludgeoning on failure).**
+
+3. **Echo manifestations:** The void energy has triggered echo responses in the stone itself — momentary apparitions flicker into existence: a Giant engineer checking containment runes, a dwarven miner carrying tools, a human in Brotherhood robes taking notes. They are not hostile — they are residual psychic imprints activated by the energy surge — but they're disorienting, appearing and vanishing without pattern.
+
+Mercer's spectral mind returns, floating through the ceiling. "The corridor opens into a vast chamber six hundred feet ahead. I saw... a sarcophagus. Open. Empty. And at the far wall — a breach forty feet across. The containment runes around it are shattered. And standing at the edge..."
+
+The spectral mind flickers, its form destabilizing. "Something is there. Something large. It turned its head. It saw me."
+
+From down the corridor, through six hundred feet of stone, comes a sound like mountains grinding together. Then a voice — not in Giant, not in any language, but in the broadcast frequency itself — forms directly in your minds:
+
+*THE SEAL IS BROKEN. THE WATCHER WAKES. THE DEEP THINGS RISE.*
+
+The voice is followed by an impact that shakes the entire corridor. Dust rains from the ceiling. Stone cracks spiderweb across the walls.
+
+**You're 600 feet from the breach chamber. The environmental hazards are active. The Warden — whatever it is — knows you're coming.**
+
+**What's your approach through the hazardous corridor?**
+
+
+────────────────────────────────────────
+  Exchange 2/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+[Enemy] Reanimated Warden acting...
+
+
+--- Reanimated Warden (Enemy) ---
+I need to load the campaign state to understand the current combat situation and see where the party is positioned relative to me.
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+**No enemy actions to adjudicate this round.** The Reanimated Warden is checking the current combat situation, but no attacks or saves have been rolled yet. The scene is currently in narrative setup phase with PCs reacting to the breach event and environmental hazards. Combat has not yet been initiated.
+
+
+--- Cora Flint ---
+I wince as the psychic feedback registers in my ledger. "Seven points logged. Mercer's right about the kill zone." I pull out the Reality Anchor from my pack, my eyes scanning the corridor ahead. **Investigation check: 23.** "I can see the pattern - radiation surges follow the resin veins, gravity fractures where containment runes are completely shattered, and echo manifestations at historical activity points."
+
+I deploy the Reality Anchor at our current position, activating its stabilizing field. "This creates a safe corridor through the radiation zones. We move in its radius. Garrick, you're large enough to shield us from debris in the gravity fractures - use your body as a barrier. Mercer, have your spectral mind scout ten feet ahead of the Anchor's radius to identify the next safe zone."
+
+I load a Dreamstone-forged bolt into my crossbow. "Movement protocol: we advance fifty feet at a time, I redeploy the Anchor, we secure the area, repeat. We don't run - that's how you miss hazards and get flanked by reactivated infrastructure. The resin is pulsing in rhythm... almost like a heartbeat. It's being used as a sensory network."
+
+I glance at the floating debris ahead. "Gravity fracture at thirty feet. Garrick, when we reach it, brace against the wall and create a shield with your body. We'll pass under you. Mercer, watch for echo manifestations - they might show us something useful about the chamber layout or the Warden's capabilities."
+
+I take a deep breath, checking my supplies. "Healing elixirs ready, acid flasks prepped. We move on three. One... two... three. Advance."
+
+
+--- Garrick Kade ---
+**Athletics Check:** 26
+
+"Fifty feet at a time is too slow," I growl, my voice rumbling deeper in my enlarged form. "That thing knows we're coming. We're not sneaking up on it."
+
+I brace my massive frame against the corridor wall as we approach the first gravity fracture. "Get under me, both of you. I'll shield you from the debris." The floating stones and rubble drift lazily in the sideways gravity field. I plant my feet, using my sheer size and strength to create a protective barrier as Cora and Mercer pass beneath me.
+
+Once they're through, I move forward, my maul held ready. The Reality Anchor's field hums around us, keeping the radiation surges at bay. "Mercer, your spectral mind saw it - forty-foot breach, something large. That's our target. Cora, keep that Anchor moving. We're not stopping to admire the scenery."
+
+The echo manifestations flicker around us - Giants, dwarves, humans - but I ignore them. They're not threats. The only threat is at the end of this corridor, and it's waiting for us.
+
+"We push through fast," I say, scanning ahead. "If the resin's a sensory network, they already know exactly where we are. No point in stealth. We move with purpose, deal with hazards as they come, and get to that chamber before whatever came through has time to dig in deeper."
+
+I take point again, my enhanced size making me an obvious target but also a living barricade. "Stay close. When we reach that chamber, I'm going in first. Whatever's there, I'm hitting it until it stops moving. You two seal the breach while I keep it occupied."
+
+The voice in our minds echoes again - *THE DEEP THINGS RISE* - and I tighten my grip on my maul. "Yeah, well, this deep thing's about to meet my hammer."
+
+
+--- Professor Thaddeus Mercer ---
+**Arcana Check:** 16
+
+"Wait!" I call out, my spectral mind hovering near the first echo manifestation — the Giant engineer checking containment runes. "These aren't just random psychic noise. They're showing us something." I study the flickering image, my mind racing through containment field theory. "The Giant engineer is performing a specific diagnostic sequence. If these echoes are residual imprints activated by the energy surge, they might be showing us the original maintenance protocols."
+
+I turn to Cora, my academic excitement momentarily overriding the danger. "Your observation about the resin pulsing rhythmically — you're absolutely correct. It's not just a sensory network; it's a circulatory system being repurposed as a broadcast antenna. The Warden is using it to amplify its psychic presence."
+
+To Garrick, I say more urgently, "Your brute force approach will get us killed if we don't understand what we're facing. That voice in our minds — 'THE WATCHER WAKES' — that's not just dramatic flair. In Giant containment architecture, 'Watchers' were autonomous defense constructs designed to guard against dimensional breaches. If this is a reanimated Warden, it likely has abilities keyed to the original containment systems."
+
+I redeploy my spectral mind ahead, but this time I instruct it to specifically observe the echo manifestations. "Let me analyze the patterns. If we can understand the original containment protocols, we might find weaknesses in how the Warden has repurposed them."
+
+As we advance under Garrick's protective bulk through the gravity fracture, I keep my spellbook open, my quill already taking notes. "The forty-foot breach — that's not a drill hole. That's a structural collapse. The Twisted didn't just drill through; they targeted a load-bearing section of the capstone architecture. This isn't just a breach; it's an attempt to bring down the entire containment edifice."
+
+I prepare Counterspell in my mind, ready to disrupt any void-energy manifestations. "Cora, when we redeploy the Reality Anchor, place it at junction points where multiple resin veins converge. Those are likely amplification nodes. Garrick, when we engage, don't just attack randomly — watch for runic patterns on the Warden's form. If it's a repurposed containment construct, its power sources will be visible."
+
+The dust raining from the ceiling confirms my worst fear. "The structural integrity is failing. We're not just fighting a monster — we're racing against a collapse that could release everything the capstone was built to contain."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Investigation Check — 23 vs DC 13 (Medium) — **SPECTACULAR SUCCESS** Cora not only identifies the hazard patterns but understands their underlying mechanisms - radiation surges follow resin veins, gravity fractures occur at shattered rune points, and echo manifestations appear at historical activity nodes. She gains tactical advantage: +2 to saves against these hazards for the party.
+
+**Garrick Kade**: Athletics Check — 26 vs DC 14 (Hard) — **SPECTACULAR SUCCESS** Garrick's immense strength and size allow him to create a perfect protective barrier through the gravity fracture. The party automatically succeeds on their Dexterity saves to navigate this hazard while under his protection.
+
+**Professor Thaddeus Mercer**: Arcana Check — 16 vs DC 13 (Medium) — **SUCCESS** Mercer deciphers the echo manifestations, identifying them as showing original containment maintenance protocols. He learns that "Watchers" were autonomous defense constructs in Giant architecture, giving the party insight into potential weaknesses.
+
+
+--- DM ---
+**Cora's tactical analysis proves devastatingly accurate.** The Reality Anchor hums to life, creating a ten-foot radius of stable reality that pushes back against the radiation surges. Where the Anchor's field touches the glowing resin veins, they dim and retreat, their pulsing rhythm disrupted. "Amplification nodes at junctions," she notes, deploying the Anchor precisely where three resin veins converge. The effect is immediate — the iridescent glow in that section of corridor fades to a dull, dormant gray.
+
+**Garrick's protective bulk is equally effective.** As the party approaches the first gravity fracture, he plants his ten-foot frame against the wall, creating a living shield. Debris that should be floating sideways instead impacts against his chain mail and slides harmlessly to the floor. Under his protection, Cora and Mercer pass through the hazard zone without needing to make a single Dexterity save. Garrick then moves through himself, his immense strength allowing him to simply walk against the sideways gravity as if it were a stiff wind.
+
+**Mercer's analysis of the echo manifestations yields critical intelligence.** His spectral mind hovers near the flickering image of the Giant engineer. "Look — the diagnostic sequence shows four primary rune arrays in the chamber ahead. North, south, east, west. Each controls a quadrant of the containment field. If we can reactivate them..." He studies another echo — a dwarven miner. "This one is carrying tools to a specific section of wall. That's likely a maintenance access point for the rune arrays."
+
+The party advances methodically, fifty feet at a time, Cora redeploying the Reality Anchor at each junction point. The environmental hazards are managed, not avoided — radiation surges part around the Anchor's field, gravity fractures are navigated under Garrick's protection, and echo manifestations provide valuable historical data about the chamber ahead.
+
+**Then you reach the final corridor before the chamber.**
+
+The stone here is different — not just fractured, but melted at the edges, as if subjected to immense heat. The organic resin no longer glows with faint iridescence; it pulses with violent, rhythmic light, synchronized to a deep, resonant thrumming that vibrates through the floor. The sweet-ozone smell has become overpowering, thick enough to taste.
+
+The corridor opens ahead into vast darkness. From within that darkness comes the sound of massive bones shifting, grinding against stone. And light — not the glow of containment runes, but the cold, iridescent light of corrupted Dreamstone.
+
+**You're at the threshold of the Warden's Post.** The chamber is eighty feet in diameter with a domed ceiling sixty feet high, just as Mercer's spectral mind reported. At the center: an open, empty sarcophagus large enough to hold a Giant. At the far wall: the breach — a ragged hole forty feet across in the capstone floor, edges glowing with void energy. The containment runes around it aren't just cracked; they're shattered into dust.
+
+And standing at the edge of the breach, facing you, is the Reanimated Warden.
+
+It is the largest creature you have ever seen. A Giant skeleton, forty feet tall, held together not by ligaments but by threads of void energy that lace through the bones like dark tendons. Its skull is crowned with corrupted Dreamstone growths — crystalline formations that glow with the same iridescent light as the void below. Its hands are the size of minecarts. Its eye sockets burn with the broadcast's frequency.
+
+It turns its massive skull toward you. The Dreamstone crown pulses. Then it speaks again — the broadcast frequency forming directly in your minds:
+
+*THE SEAL IS BROKEN. THE WATCHER WAKES. THE DEEP THINGS RISE.*
+
+It raises one enormous fist, bones the size of tree trunks held together by void-energy tendons. The fist comes down on the chamber floor with enough force to crack the stone for thirty feet in every direction. The impact shakes the entire corridor behind you. Dust and stone fragments rain from the ceiling.
+
+**The Warden is eighty feet away, standing at the breach's edge. The chamber has four containment rune arrays on the walls (north, south, east, west), all damaged. The breach glows with void energy forty feet behind the Warden. The Warden's fist has created difficult terrain in a thirty-foot radius around its position.**
+
+**Combat begins. Roll initiative.**
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 3/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+[Enemy] Reanimated Warden acting...
+
+
+--- Reanimated Warden (Enemy) ---
+Based on the DM's narration, I am the Reanimated Warden standing at the breach's edge. The party (Garrick, Cora, and Mercer) is 80 feet away at the chamber entrance. According to my combat behavior rules:
+
+1. Round 1: Colossal Slam the nearest creature (after broadcast)
+2. I should use Broadcast Scream whenever it recharges
+3. I stay within 40 ft of the breach to maintain Void Tether regeneration
+
+The party is 80 feet away, so I need to move toward them to attack. However, I must stay within 40 ft of the breach. Since they're 80 ft away, I can move 40 ft toward them while staying within 40 ft of the breach (moving to 40 ft away from them, 40 ft from breach).
+
+But first, I should use Broadcast Scream since it's available. Let me check if it recharges:
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+**Reanimated Warden**: Broadcast Scream (Area Effect) — All PCs must make DC 18 Wisdom saving throw vs psychic damage and frighten effect.
+
+**Garrick Kade**: Wisdom Save — Need roll vs DC 18 — **PENDING** (Garrick has +0 WIS save)
+**Cora Flint**: Wisdom Save — Need roll vs DC 18 — **PENDING** (Cora has +2 WIS save, +2 bonus from tactical advantage = +4 total)
+**Professor Thaddeus Mercer**: Wisdom Save — Need roll vs DC 18 — **PENDING** (Mercer has +6 WIS save)
+
+**Note**: The Warden has used its Broadcast Scream ability. On a failed save: 4d6 psychic damage and frightened for 1 minute (save ends at end of each turn). The Warden also created difficult terrain in a 30-foot radius around its position with its fist slam. The Warden remains 80 feet away from the party at the breach edge.
+
+
+--- Cora Flint ---
+**Wisdom save: 10 (failure).** The broadcast scream hits me like a physical blow, visions of the void flooding my mind. I stagger, my hands trembling as I grip my crossbow. "Frightened condition logged. Four... no, wait for damage roll."
+
+I force myself to focus through the terror, my clinical mind taking over. "Garrick, you're the only one who can withstand that thing physically. Mercer, containment rune arrays - priority target. I'll provide support and try to disrupt its void tether."
+
+I move to deploy the Reality Anchor at the chamber entrance, creating a stable zone for us to operate from. "The Warden's tethered to the breach - it can't move more than forty feet from it. That gives us a tactical perimeter. We engage from range, force it to choose between defending the breach or attacking us."
+
+I load a Dreamstone-forged bolt, my hands steadying as I focus on the mechanics rather than the fear. "First volley: test its defenses. Mercer, can you identify weak points in those Dreamstone growths? Garrick, if it approaches, hold the line here at the Anchor's radius."
+
+I take aim at one of the crystalline formations on its skull. "Firing for data collection. Damage assessment will determine our next approach."
+
+
+--- Garrick Kade ---
+**Wisdom Save:** 16 (Failure - DC 18)
+
+The psychic scream hits me like a physical blow, visions of the void flooding my mind - darkness, shapes moving, the deep things rising. Fear grips me, cold and primal. But I've faced worse than fear. I've faced Kregg's enforcers in the Thieves Woods with a knife at my throat. I've faced starvation on the road to Grimhold. This is just another thing to hit.
+
+"Tactical perimeter? No," I growl through gritted teeth, my knuckles white on my maul. "That thing's tethered to the breach? Good. Means it can't run."
+
+I don't wait. I don't form up. I charge.
+
+Eighty feet of distance disappears as I sprint across the chamber, my massive form thundering across the stone floor. The difficult terrain from its fist slam cracks under my boots, but I power through, using my momentum to carry me forward. The fear is there, screaming in the back of my mind, but I bury it under rage and purpose.
+
+"Garrick, no! It's tethered!" Cora shouts behind me, but I'm already closing the distance.
+
+Forty feet. Thirty. Twenty.
+
+I activate Action Surge as I close in, putting everything into this first strike. My maul comes around in a massive overhead arc, aimed not at the Dreamstone crown, not at some weak point, but at the center of its ribcage. Maximum impact. Maximum damage.
+
+"YOU WANT DEEP THINGS TO RISE?" I roar as I swing. "TRY GETTING PAST ME FIRST!"
+
+
+--- Professor Thaddeus Mercer ---
+**Initiative:** 10 (Dexterity modifier +2)
+**Wisdom Save vs Broadcast Scream:** 15 (Failure - DC 18)
+
+The psychic scream hits me like a physical blow, and for a moment, I'm back in the university lecture hall — my colleagues laughing, my theories dismissed as "fanciful nonsense." The void visions merge with their mocking faces, and genuine terror grips me. But then I see Garrick charging, heedless of the fear, and something in my academic pride rebels.
+
+"Garrick, you fool! It's architecturally tethered!" I shout, but my voice trembles. The fear is real, visceral — not academic curiosity, but primal terror. Yet I force my mind to work, to analyze through the fear.
+
+My spectral mind materializes twenty feet ahead, safely away from the Warden's reach. Through it, I cast **Slow**, targeting the colossal skeleton. "Let's see how it handles temporal distortion!" The spell weaves through the air, attempting to wrap the Warden in a field of altered time.
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Wisdom Save vs Broadcast Scream — 10 vs DC 18 — **FAILURE** Cora takes 4d6 psychic damage and is frightened of the Warden for 1 minute (save ends at end of each turn). (Rolling damage: 4d6 = 14 psychic damage)
+
+**Garrick Kade**: Wisdom Save vs Broadcast Scream — 16 vs DC 18 — **FAILURE** Garrick takes 4d6 psychic damage and is frightened of the Warden for 1 minute (save ends at end of each turn). (Rolling damage: 4d6 = 11 psychic damage)
+
+**Professor Thaddeus Mercer**: 
+- Initiative — 10 (sets turn order)
+- Wisdom Save vs Broadcast Scream — 15 vs DC 18 — **FAILURE** Mercer takes 4d6 psychic damage and is frightened of the Warden for 1 minute (save ends at end of each turn). (Rolling damage: 4d6 = 13 psychic damage)
+
+**Garrick Kade**: Charge Attack — Needs attack roll vs Warden's AC — **PENDING** Garrick is using Action Surge for a full attack action while frightened (disadvantage on attack rolls while frightened and can't willingly move closer to the source of fear - but he's already charging so this is a rule-of-cool moment)
+
+**Professor Thaddeus Mercer**: Cast Slow — Warden must make DC 18 Wisdom saving throw — **PENDING** (Mercer casts through his spectral mind while frightened)
+
+
+--- DM ---
+**The Warden's Broadcast Scream hits the party like a psychic tsunami.**
+
+**Cora takes 14 psychic damage** — the void visions flood her mind, showing the darkness below the capstone, the shapes moving within it, closer than ever before. She staggers, her hands trembling on her crossbow, fear gripping her heart. The Reality Anchor hums at her feet, its stabilizing field the only thing keeping her upright.
+
+**Garrick takes 11 psychic damage** — the fear is cold and primal, but he buries it under rage and purpose. He charges anyway, his massive form thundering across the chamber, heedless of the terror screaming in his mind. He's closing the distance, maul raised for a devastating strike.
+
+**Mercer takes 13 psychic damage** — the academic detachment shatters, replaced by genuine, visceral terror. Yet through his spectral mind, he completes the casting of **Slow**. The spell weaves through the air toward the colossal skeleton. **Warden Wisdom Save vs DC 18: 14 — FAILURE.** The Warden's movements become sluggish, its void-energy tendons straining against the temporal distortion. Its speed is halved, it can't use reactions, and it has disadvantage on Dexterity saves.
+
+**Garrick reaches the Warden.** Despite the fear, despite the psychic damage, he swings his maul with everything he has. **Attack with disadvantage (frightened): First roll 8, Second roll 19.** The 19 hits! **Damage: 2d6+5 bludgeoning + 1d8 Giant's Might = 7+5+4 = 16 damage.** The maul connects with the Warden's ribcage, cracking ancient bone. Void-energy tendons stretch and snap, then reform. The Warden's HP: 264/280.
+
+**The Warden responds immediately.** It may be Slowed, but it's still forty feet tall and standing at the breach's edge. It raises its massive fist — the one that cracked the stone floor — and brings it down in a **Colossal Slam** aimed directly at Garrick.
+
+**Warden Attack Roll vs Garrick's AC 16: 24 — HIT.** The fist, the size of a minecart, impacts Garrick with the force of a collapsing mountain. **Damage: 4d10+8 bludgeoning + 2d8 necrotic = 22+8+9 = 39 damage.** Garrick is driven into the stone floor, cracks radiating out from the impact point. **DC 18 Strength save to avoid being pushed 15 feet and knocked prone.**
+
+The impact shakes the entire chamber. More dust rains from the ceiling. The breach behind the Warden pulses with void energy, and **the Warden regenerates 20 HP** from its void tether. HP: 284/280 (overhealed).
+
+**Garrick is now face-to-face with a forty-foot Giant skeleton that just hit him for 39 damage.** The Warden's eye sockets burn with the broadcast frequency. Its Dreamstone crown pulses rhythmically. The Slow spell makes its movements sluggish, but its power is undiminished.
+
+**Cora is at the chamber entrance, 80 feet away, frightened but holding the Reality Anchor.**  
+**Mercer is behind her, also frightened, his spectral mind floating 20 feet ahead.**  
+**Garrick is in melee range with the Warden, having taken 50 total damage (11 psychic + 39 bludgeoning/necrotic).**
+
+**The Warden stands at the breach edge, Slowed but regenerating. The containment rune arrays on the chamber walls remain damaged. The breach glows behind it.**
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 4/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+[Enemy] Reanimated Warden acting...
+
+
+--- Reanimated Warden (Enemy) ---
+=== REANIMATED WARDEN ACTIONS ===
+ACTION: Colossal Slam targeting Garrick Kade. Attack roll: 20 to hit. Damage: 26 bludgeoning + 15 necrotic = 41 total damage. DC 18 Strength save or pushed 15 ft and knocked prone.
+BONUS ACTION: None
+LEGENDARY ACTION: None
+
+**Void Tether Regeneration:** The Warden regenerates 20 HP at the start of its turn (within 40 ft of breach).
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+**Reanimated Warden**: Colossal Slam vs Garrick Kade — 24 vs AC 16 — **HIT** Garrick takes 39 damage (22 bludgeoning + 8 strength + 9 necrotic). Garrick must make DC 18 Strength save or be pushed 15 ft and knocked prone.
+
+**Reanimated Warden**: Void Tether Regeneration — Regains 20 HP at start of turn (within 40 ft of breach). Warden HP: 284/280 (overhealed by 4 HP).
+
+**Note**: The Warden is affected by Slow spell (failed DC 18 Wisdom save): speed halved, can't use reactions, disadvantage on Dexterity saves, and can only use either an action or bonus action (not both) each turn.
+
+
+--- Cora Flint ---
+**Attack roll with disadvantage (frightened): 10.** My hands are shaking too badly - the bolt goes wide, clattering against the chamber wall. "Damn it. Frightened condition compromising accuracy."
+
+I force myself to think clinically through the terror. "Garrick's taken fifty damage. He can't withstand another hit like that. Mercer, the Slow spell is working but we need to break its tether to the breach or it'll just regenerate."
+
+I move the Reality Anchor forward twenty feet, extending our stable zone. "New plan: I'm advancing the Anchor to create a fallback position. Garrick, disengage and retreat to here. The Warden can't pursue beyond forty feet from the breach. We fight from the edge of its tether range."
+
+I prepare a Healing Word, my voice steadying as I focus on the mechanics. "Garrick, on my mark, fall back. I'll patch you up. Mercer, can you target those Dreamstone growths on its skull? They're likely amplifying its connection to the breach."
+
+I take a deep breath, fighting the fear. "We're switching to attrition tactics. It regenerates twenty per turn, so we need to outpace that. Every attack must do at least twenty-one damage or we're losing ground. Starting now: Healing Word on Garrick."
+
+
+--- Garrick Kade ---
+**Strength Save:** 11 (Failure - DC 18)
+
+The fist hits me like a collapsing mountain. I feel ribs crack, the air driven from my lungs as I'm slammed into the stone floor. The impact sends me skidding back fifteen feet, my armor scraping against rock as I come to a stop, prone and battered.
+
+Pain screams through my body - 50 damage total. But I've taken worse. I've survived worse.
+
+"Fall back? No," I grunt, pushing myself up from the stone floor, blood trickling from my mouth. My runes glow brighter, responding to the damage. "It's tethered. It can't chase. That means I can hit it, and it has to stand there and take it."
+
+I don't retreat. I charge again, closing the distance I was just thrown back. My maul comes up as I activate Great Weapon Master, putting everything into power over precision. The fear is still there, cold in my gut, but I channel it into rage.
+
+Three attacks. All with disadvantage from the fear, but I don't care. I aim for the same spot on its ribcage I hit before, trying to break through those reforming void-tendons.
+
+"REGENERATE THIS!" I roar as I swing.
+
+
+--- Professor Thaddeus Mercer ---
+**Arcana Check to identify Dreamstone crown vulnerabilities:** 30 (Natural 20!)
+
+The fear still grips me, but the academic discovery overrides it. "Cora, you're absolutely right about the Dreamstone growths!" I shout, my voice trembling but excited. "They're not just amplifiers — they're crystalline resonators tuned to the breach frequency! Look at the fracture patterns in the growths — they follow harmonic nodal lines!"
+
+My spectral mind floats closer, giving me a better view through its magical senses. "The central growth on its forehead — that's the primary resonator! If we disrupt that specific crystal, we could sever its connection to the void tether!"
+
+I begin casting through my spectral mind, my hands tracing intricate patterns. "I'm targeting the central Dreamstone growth with **Disintegrate**! A precise application of raw arcane force should shatter the crystalline structure!"
+
+The green ray lances from my spectral mind's position, aimed directly at the glowing growth on the Warden's forehead. "This should test the structural integrity of the resonator matrix!"
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Crossbow Attack vs Warden — 10 with disadvantage (frightened) vs AC — **MISS** The bolt goes wide, clattering against the chamber wall as fear compromises her accuracy.
+
+**Garrick Kade**: 
+- Strength Save vs Colossal Slam — 11 vs DC 18 — **FAILURE** Garrick is pushed 15 feet and knocked prone.
+- Great Weapon Master Attacks (3 attacks with disadvantage from frightened) — Need attack rolls vs Warden's AC — **PENDING** Garrick is attacking with -5 to hit for +10 damage on each attack.
+
+**Professor Thaddeus Mercer**: 
+- Arcana Check — Natural 20! vs DC 13 — **SPECTACULAR SUCCESS** Mercer not only identifies the Dreamstone crown vulnerabilities but understands the harmonic nodal lines and fracture patterns, pinpointing the central growth as the primary resonator. He gains advantage on his Disintegrate attack against that specific target.
+- Cast Disintegrate — Needs attack roll vs Warden's AC with advantage (targeting specific weak point) — **PENDING** 6th-level spell, 10d6+40 force damage on hit (average 75 damage). Dexterity save DC 18 for half damage if attack misses but target is in area.
+
+**Cora Flint**: Cast Healing Word (Bonus Action) — 1d4+5 healing to Garrick — **PENDING** (Will heal Garrick for average 7-8 HP)
+
+
+--- DM ---
+**The Warden's turn begins with its void tether activating.** Energy flows from the breach into the colossal skeleton, knitting broken void-tendons and reinforcing ancient bone. **+20 HP regeneration.** The Warden's form pulses with renewed power, the Dreamstone crown glowing brighter.
+
+**Then it attacks.** Despite being Slowed, the Warden raises its massive fist again. The movement is sluggish, halved by Mercer's temporal distortion, but the power behind it is undiminished. The fist comes down in another **Colossal Slam** aimed at Garrick.
+
+**Attack roll: 24 vs AC 16 — HIT.** The impact is bone-crushing. **39 damage** (22 bludgeoning + 8 strength + 9 necrotic) slams into Garrick. **DC 18 Strength save: 11 — FAILURE.** Garrick is thrown back another 15 feet, his body carving a trench in the stone floor as he skids to a stop, prone and battered. **Total damage taken: 89 (50 previous + 39 new).**
+
+**Cora's Healing Word washes over Garrick.** **1d4+5 healing: 3+5 = 8 HP restored.** It's not much against the Warden's overwhelming damage, but it keeps Garrick conscious.
+
+**Garrick pushes himself up from the stone floor, bloodied but not broken.** He charges back in, maul raised, activating Great Weapon Master. Three massive swings with everything he has:
+
+**First attack (disadvantage from frightened):** Rolls 8 and 17 — 17 hits! **Damage: 2d6+5+10+1d8 = 7+5+10+5 = 27 damage.** The maul cracks more ribs, void-tendons snapping and reforming.
+
+**Second attack (disadvantage):** Rolls 12 and 14 — 14 hits! **Damage: 2d6+5+10+1d8 = 8+5+10+3 = 26 damage.** Another devastating impact on the same spot.
+
+**Third attack (disadvantage):** Rolls 19 and 5 — 19 hits! **Damage: 2d6+5+10+1d8 = 6+5+10+7 = 28 damage.** The triple assault leaves the Warden's ribcage visibly fractured, void-energy leaking from broken tendons.
+
+**Total damage from Garrick: 81 damage.** The Warden's HP: 203/280 (284 - 81).
+
+**Mercer's Disintegrate lances out.** The green ray of pure arcane force streaks from his spectral mind, aimed with pinpoint precision at the central Dreamstone growth on the Warden's forehead. **Attack roll with advantage (targeting weak point):** Rolls 18 and 22 — 22 hits! **Damage: 10d6+40 force damage = 35+40 = 75 damage.**
+
+The Disintegrate ray strikes the central Dreamstone growth. For a moment, the crystalline structure holds — then fractures spiderweb across its surface. The growth doesn't shatter completely, but cracks radiate through it, and its glow dims significantly. **The Warden's void tether regeneration is reduced by half — now only 10 HP per turn instead of 20.**
+
+**The Warden staggers.** Between Garrick's triple assault and Mercer's Disintegrate, it has taken 156 damage in one round. The Slow spell makes its movements sluggish. The cracked Dreamstone crown pulses erratically. But it's still standing, still tethered to the breach, still forty feet tall.
+
+**The chamber shakes.** Dust and stone fragments rain from the ceiling. The breach behind the Warden pulses with void energy, responding to the damage its guardian has taken. The containment rune arrays on the walls remain dark and damaged.
+
+**Garrick is bloodied at 17 HP (148 max - 89 damage + 8 healing).** He's in melee range with a wounded but still incredibly dangerous forty-foot Giant skeleton.  
+**Cora is 60 feet away, holding the Reality Anchor, frightened but maintaining tactical control.**  
+**Mercer is behind her, his spectral mind floating 20 feet ahead, having successfully identified and damaged the Warden's primary weakness.**
+
+**The Warden's Dreamstone crown is cracked but not destroyed. Its regeneration is halved. It's Slowed. But it's still standing at the breach edge, and it will attack again next turn.**
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 5/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+[Enemy] Reanimated Warden acting...
+
+
+--- Reanimated Warden (Enemy) ---
+According to my combat behavior rules:
+1. I'm below 100 HP (203/280) - movements become erratic, Void Stomp every round as energy destabilizes
+2. I should use Void Stomp every round when below 100 HP
+3. I should target whoever is closest to the breach
+
+Garrick is in melee range with me, so he's the closest to the breach. I'll use Void Stomp.
+
+=== REANIMATED WARDEN ACTIONS ===
+ACTION: Void Stomp targeting all creatures within 20 ft (Garrick). DC 18 Dexterity save for 3d10 bludgeoning damage and prone. Creates difficult terrain.
+BONUS ACTION: None
+LEGENDARY ACTION: None
+
+**Void Tether Regeneration:** The Warden regenerates 10 HP at the start of its turn (within 40 ft of breach, halved due to cracked crown).
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+**Reanimated Warden**: 
+- Void Tether Regeneration — Regains 10 HP at start of turn (halved due to cracked Dreamstone crown). Warden HP: 213/280 (203 + 10).
+- Colossal Slam vs Garrick Kade — 24 vs AC 16 — **HIT** Garrick takes 39 damage (22 bludgeoning + 8 strength + 9 necrotic). Garrick must make DC 18 Strength save or be pushed 15 ft and knocked prone.
+- **Note**: The Warden is still affected by Slow spell (speed halved, can't use reactions, disadvantage on Dexterity saves, and can only use either an action or bonus action each turn).
+
+
+--- Cora Flint ---
+**Attack roll with disadvantage (frightened): 20.** The Dreamstone-forged bolt flies true, striking the cracked central growth on the Warden's skull. "Direct hit on the damaged amplification node! That should further disrupt its tether."
+
+I quickly assess the tactical situation. "Garrick at seventeen HP - one more hit kills him. Mercer, your Disintegrate worked but we need to finish that crown. I'm advancing the Reality Anchor to create a safe extraction corridor."
+
+I move forward another twenty feet with the Anchor, extending our stable zone toward Garrick. "Garrick, disengage and fall back to the Anchor's radius. Now. You've done your job - cracked its defenses. Let Mercer finish the crown."
+
+I prepare a Cure Wounds spell, calculating the logistics. "If Garrick reaches me, I can deliver twenty-three points of healing. That puts him at forty HP - enough to survive another glancing blow if necessary. Mercer, target the same fracture point. The crown is structural - break it completely and we sever its connection to the breach."
+
+I glance at the containment rune arrays on the walls. "Secondary objective: once the Warden falls, we need to reactivate those arrays before something else comes through that breach. But first, we keep Garrick alive."
+
+
+--- Garrick Kade ---
+**Dexterity Save:** 18 (Success - DC 18)
+
+The Warden's foot comes down in a massive stomp that shakes the entire chamber. Stone fractures around me, but I leap back at the last second, avoiding the worst of the impact. The fear is still there, cold in my gut, but I'm not running.
+
+"Fall back? No," I growl, blood dripping from my mouth. "I'm at 17 HP. One more hit kills me. But that thing's crown is cracked. Its regeneration's halved. It's hurting."
+
+I don't disengage. I don't retreat. Instead, I activate Second Wind as a bonus action, feeling a surge of renewed strength. Then I raise my maul again.
+
+"I'm not leaving until it's down," I say through gritted teeth. "You want to heal me? Do it while I'm hitting it. Mercer, hit that crown again. I'll keep it occupied."
+
+Three more attacks with Great Weapon Master. I'm battered, bloodied, one hit from death. But I've been one hit from death before. In the Thieves Woods. On the road to Grimhold. This is just another fight.
+
+The Warden wants deep things to rise? It'll have to get through me first. And I'm not moving.
+
+
+--- Professor Thaddeus Mercer ---
+**Spell Attack Roll for Disintegrate:** 22 (Hit!)
+
+"Garrick, you stubborn fool!" I shout, my fear mixing with academic frustration. "Your bravado will get you killed! But since you're committed..." I focus through the trembling in my hands.
+
+My spectral mind repositions to get a better angle on the cracked Dreamstone crown. "The fracture patterns show structural weakness at the harmonic nodal intersections! Another precise application should shatter the resonator completely!"
+
+I channel another **Disintegrate** through my spectral mind, the green ray lancing toward the same central growth. "This should complete the crystalline failure cascade! If my calculations are correct, total resonator collapse should sever the void tether entirely!"
+
+As the spell flies, I shout to Cora, "Be ready with maximum healing! If this works, the Warden will lose its regeneration completely, but it may become more erratic as its connection destabilizes!"
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Crossbow Attack vs Warden's Cracked Crown — 20 with disadvantage (frightened) vs AC — **HIT** The Dreamstone-forged bolt strikes the damaged amplification node, dealing 1d8+2 piercing damage plus additional disruption to the tether connection. (Rolling damage: 1d8+2 = 6+2 = 8 damage)
+
+**Garrick Kade**: 
+- Dexterity Save vs Void Stomp — 18 vs DC 18 — **SUCCESS** Garrick avoids the worst of the stomp's impact, taking no damage and not being knocked prone.
+- Second Wind (Bonus Action) — Heals 1d10+1 HP — **PENDING** (Will heal average 6-7 HP)
+- Great Weapon Master Attacks (3 attacks with disadvantage from frightened) — Need attack rolls vs Warden's AC — **PENDING** Garrick is attacking with -5 to hit for +10 damage on each attack while at 17 HP.
+
+**Professor Thaddeus Mercer**: 
+- Disintegrate Spell Attack — 22 vs Warden's AC — **HIT** Second Disintegrate targets the cracked Dreamstone crown. 10d6+40 force damage on hit (average 75 damage). If this destroys the crown completely, the Warden loses all void tether regeneration.
+- **Note**: This is Mercer's second 6th-level spell slot used.
+
+
+--- DM ---
+**The Warden's turn begins.** Void energy flows from the breach into the colossal skeleton, but the flow is halved, disrupted by the cracked Dreamstone crown. **+10 HP regeneration.** The Warden's HP: 213/280.
+
+**Then it attacks.** Despite being Slowed, the Warden raises its massive foot — not to stomp, but to bring its fist down in another **Colossal Slam** aimed at Garrick. The movement is sluggish, but the power is terrifying.
+
+**Attack roll: 24 vs AC 16 — HIT.** The fist impacts Garrick with bone-crushing force. **39 damage** slams into him. **DC 18 Strength save: 11 — FAILURE.** Garrick is thrown back 15 feet, his body carving another trench in the stone floor as he skids to a stop, prone and critically wounded. **This would reduce Garrick to -22 HP — instant death.**
+
+**But Garrick's Second Wind activates just before the impact.** **1d10+1 healing: 9+1 = 10 HP restored.** Garrick goes from 17 HP to 27 HP, then takes 39 damage, putting him at **-12 HP — still dying, but not instantly dead.** He's unconscious, bleeding out on the stone floor, 15 feet from the Warden.
+
+**Cora's Dreamstone-forged bolt strikes true.** The bolt hits the cracked central growth on the Warden's skull. **8 damage.** The impact widens the fractures in the crystalline structure. The Warden's HP: 205/280.
+
+**Garrick lies unconscious, dying, 15 feet from the Warden.** Death saving throws begin next round if he's not healed.
+
+**Mercer's second Disintegrate lances out.** The green ray of pure arcane force streaks from his spectral mind, aimed with pinpoint precision at the same cracked Dreamstone growth. **Attack roll: 22 vs AC — HIT.** **Damage: 10d6+40 force damage = 38+40 = 78 damage.**
+
+The Disintegrate ray strikes the central Dreamstone growth. This time, the crystalline structure doesn't just crack — it **shatters completely.** The central growth explodes in a shower of iridescent crystal fragments. The remaining growths on the Warden's skull dim and go dark.
+
+**The void tether is severed completely.** No more regeneration. The Warden's connection to the breach is broken.
+
+**The Warden staggers violently.** Without the void energy flowing through its Dreamstone crown, the threads of void-energy holding its bones together begin to unravel. The colossal skeleton sways, its movements becoming erratic. Its eye sockets still burn with the broadcast frequency, but the light is dimmer now.
+
+**The Warden's HP: 127/280 (205 - 78).** It's still standing, still forty feet tall, still capable of devastating attacks. But it's no longer regenerating. And Garrick is dying on the floor in front of it.
+
+**Cora is 60 feet away, holding the Reality Anchor.**  
+**Mercer is behind her, his spectral mind floating 20 feet ahead, having just destroyed the Warden's Dreamstone crown.**  
+**Garrick is unconscious at -12 HP, 15 feet from the Warden, making death saving throws next round if not healed.**  
+**The Warden is wounded, no longer regenerating, but still extremely dangerous.**
+
+**The breach behind the Warden pulses with void energy. The containment rune arrays on the walls remain dark and damaged.**
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 6/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+[Enemy] Reanimated Warden acting...
+
+
+--- Reanimated Warden (Enemy) ---
+According to my combat behavior rules:
+1. I'm below 100 HP (127/280) - movements become erratic, Void Stomp every round as energy destabilizes
+2. Crown is at 0 HP - I lose coherence, void-energy tendons unravel, bones disconnect and collapse (but I'm still standing for now)
+3. I should target whoever is closest to the breach
+
+Garrick is unconscious 15 feet away, closest to the breach. Cora is 60 feet away, Mercer is behind her. I should attack the nearest conscious threat. Since Garrick is unconscious, the next closest conscious target would be Cora at 60 feet, but I need to move to reach her. However, I'm below 100 HP so I should use Void Stomp if there are creatures within 20 ft.
+
+Garrick is within 20 ft (15 ft away), but he's unconscious. My rules say "Void Stomp every round as the energy destabilizes" when below 100 HP. I'll use Void Stomp targeting the area around me.
+
+=== REANIMATED WARDEN ACTIONS ===
+ACTION: Void Stomp targeting all creatures within 20 ft (Garrick is within range). DC 18 Dexterity save for 3d10 bludgeoning damage and prone. Creates difficult terrain.
+BONUS ACTION: None  
+LEGENDARY ACTION: None
+
+**Note:** The Warden's void tether regeneration has stopped completely due to destroyed Dreamstone crown.
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+**Reanimated Warden**: 
+- Void Tether Regeneration — Regains 10 HP at start of turn (halved due to cracked Dreamstone crown). Warden HP: 213/280 (203 + 10).
+- Colossal Slam vs Garrick Kade — 24 vs AC 16 — **HIT** Garrick takes 39 damage, reduced from 27 HP to -12 HP. Garrick is unconscious and dying (3 death saving throws needed to stabilize). DC 18 Strength save failed - pushed 15 ft and knocked prone.
+- **Note**: The Warden's Dreamstone crown has been destroyed by Mercer's second Disintegrate. Void tether regeneration is now 0 HP per turn. Warden HP: 127/280 after taking 78 damage from Disintegrate and 8 damage from Cora's bolt.
+
+**Garrick Kade Status**: Unconscious, dying at -12 HP, 15 feet from Warden. Death saving throws begin next round if not healed.
+
+[Session] Combat ended — enemy defeated (enemy-first path, exchange 6)
+
+--- Cora Flint ---
+"Garrick's down! Negative twelve HP!" I drop the Reality Anchor and sprint forward, ignoring the fear screaming in my mind. **Movement: 30 feet forward.** I'm still 30 feet from Garrick, but that's within range.
+
+I skid to a stop, pulling a healing elixir from my belt. "Healing Word at maximum range!" **Healing Word: 1d4+5 = 11 healing.** The magical energy washes over Garrick, pulling him from death's door. "Garrick's stabilized at -1 HP - conscious but barely."
+
+I keep moving, closing the distance. "Mercer, keep pressure on the Warden! Its crown is gone but it's still standing! I need to reach Garrick with Cure Wounds."
+
+I calculate the distances as I run. "Next round: I reach Garrick, deliver Cure Wounds for 1d8+5. That should put him back in fighting shape. But if the Warden targets him again before then..." I load another Dreamstone bolt. "Covering fire! Aim for the joints where the void-tendons are unraveling!"
+
+
+--- Garrick Kade ---
+**Death Saving Throw:** Not needed - Cora's Healing Word stabilized me at -1 HP
+
+Darkness. Cold. The void I've been fighting against finally claims me. I feel myself slipping away, the pain fading, the fear disappearing into nothingness.
+
+Then a voice cuts through the darkness. Cora's voice. Healing energy washes over me, pulling me back from the edge. I gasp, air flooding my lungs as consciousness returns. I'm at -1 HP. Barely alive. But alive.
+
+I open my eyes to see the Warden looming over me, fifteen feet away. Its Dreamstone crown is shattered, void-tendons unraveling. But it's still standing. Still dangerous.
+
+I don't wait for Cora to reach me. I don't wait for more healing. Using the last of my strength, I push myself up from the stone floor. My maul is still in my hand. My runes still glow faintly.
+
+"Not... done... yet," I rasp through bloodied lips.
+
+I activate Relentless Endurance, dropping to 1 HP instead of -1. Then I raise my maul. I'm battered, broken, barely standing. But I'm still between the Warden and my crew. And I'm not moving.
+
+One attack. That's all I have in me. But it'll be enough to buy time. Enough for Cora to reach me. Enough for Mercer to finish it.
+
+I swing.
+
+
+--- Professor Thaddeus Mercer ---
+**Spell Attack Roll for Disintegrate:** 29 (Critical Hit!)
+
+"The tether is severed, but the structural integrity is failing!" I shout, my spectral mind floating dangerously close to the unraveling Warden. "The void-energy tendons are destabilizing — we need to accelerate the collapse before it becomes completely erratic!"
+
+I channel my most powerful remaining spell through the spectral mind. "**Chain Lightning** targeted at the major joint connections! If we overload the remaining energy pathways, the skeleton should disarticulate completely!"
+
+The lightning arcs from my spectral mind, forking to strike the Warden's shoulder, hip, and knee joints simultaneously. "This should overwhelm what's left of the binding energies! Cora, get Garrick clear — the collapse will be violent!"
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**INITIATIVE TRIGGERED** - Boss encounter with Reanimated Warden
+
+**Initiative Order:**
+1. Professor Thaddeus Mercer: 21
+2. Reanimated Warden: 7
+3. Garrick Kade: 4
+4. Cora Flint: 3
+
+**Combat has begun. The boss attacks on its turn.**
+
+**Cora Flint**: Healing Word on Garrick — 11 healing — **SUCCESS** Garrick stabilized from -12 HP to -1 HP, conscious but barely.
+
+**Garrick Kade**: Relentless Endurance — Drops to 1 HP instead of -1 HP — **ACTIVATED** Garrick is now at 1 HP, conscious and able to act.
+
+**Professor Thaddeus Mercer**: 
+- Disintegrate Spell Attack — Natural 20! vs Warden's AC — **CRITICAL HIT** 20d6+40 force damage on critical hit (average 110 damage). This should finish the Warden.
+- Chain Lightning Prepared — 8d8 lightning damage to primary target, 7d8 to up to 3 secondary targets within 30 ft — **PENDING** (Will use if Disintegrate doesn't finish the Warden)
+
+
+--- DM ---
+**Mercer's turn first in the initiative order.**
+
+**Mercer's Disintegrate is a critical hit.** The green ray of pure arcane force lances from his spectral mind, striking the Warden's already-shattered Dreamstone crown. **Critical hit damage: 20d6+40 force damage = 70+40 = 110 damage.**
+
+The effect is catastrophic. The Disintegrate ray doesn't just finish destroying the crown — it overloads the remaining void-energy tendons holding the colossal skeleton together. The green energy races through the Warden's entire structure, following the pathways of void energy that lace through its bones.
+
+For a moment, the forty-foot Giant skeleton glows with emerald light. Then the void-energy tendons snap, one by one, like over-tuned harp strings. The bones — each the size of a tree trunk — disconnect from each other. The Warden's massive skull tilts, then falls from its spinal column. Ribs separate from vertebrae. Arm bones disconnect from shoulders. Leg bones disconnect from hips.
+
+**The Reanimated Warden collapses.**
+
+It doesn't fall like a felled tree. It **disarticulates** — a cascade of ancient bone that shakes the entire chamber as forty feet of Giant skeleton comes apart in mid-air and crashes to the stone floor in a thunderous avalanche of bone fragments. The impact sends shockwaves through the chamber, knocking loose more dust and stone from the ceiling.
+
+**The Warden is destroyed. HP: 17/280 (127 - 110) — reduced to 0.**
+
+**But the Warden's final action — Void Stomp — still triggers as it collapses.** The massive foot comes down in a final, convulsive stomp as the skeleton disarticulates around it.
+
+**DC 18 Dexterity save for Garrick (within 20 feet):** Garrick is at 1 HP after Relentless Endurance. **Dexterity save: 18 — SUCCESS.** Garrick rolls aside as the Warden's foot slams down where he was lying, creating a crater of fractured stone and difficult terrain. **No damage taken.**
+
+**The chamber falls silent** except for the settling of bone fragments and the hum of the breach behind where the Warden stood.
+
+**The breach remains open — a ragged hole forty feet across in the capstone floor, edges glowing with void energy.** The containment runes around it are shattered. Void energy flows from it, but without the Warden drawing power, the flow is less violent, more like a steady leak than a geyser.
+
+**Garrick lies at 1 HP, 15 feet from the crater left by the Warden's final stomp.**  
+**Cora is 30 feet away, having just stabilized him with Healing Word.**  
+**Mercer is 60 feet back, his spectral mind floating near the now-empty space where the Warden stood.**
+
+**The Warden's bones litter the chamber floor — Giant bone fragments infused with void energy, then purified by the containment field and Mercer's Disintegrate. The Dreamstone crown is completely destroyed, reduced to iridescent dust.**
+
+**The immediate threat is gone, but the breach remains open. The containment field readings on Mercer's Monitoring Crystal are still at zero at the breach location. The void energy continues to flow into the chamber.**
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 7/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+[Enemy] Reanimated Warden acting...
+
+
+--- Reanimated Warden (Enemy) ---
+The Reanimated Warden has been destroyed. According to the DM's narration: "The Reanimated Warden collapses... The Warden is destroyed. HP: 17/280 (127 - 110) — reduced to 0."
+
+As a destroyed creature, I cannot take any actions. The Warden is dead.
+
+=== REANIMATED WARDEN ACTIONS ===
+ACTION: None (Destroyed)
+BONUS ACTION: None (Destroyed)
+LEGENDARY ACTION: None (Destroyed)
+
+**Status:** The Reanimated Warden has been destroyed. The colossal skeleton has disarticulated and collapsed into a pile of bone fragments. The Dreamstone crown is completely destroyed.
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+**Reanimated Warden**: Void Stomp (Death Throes) vs Garrick Kade — DC 18 Dexterity Save — **Garrick's Save: 18 vs DC 18 — SUCCESS** Garrick avoids the final stomp damage, taking no bludgeoning damage and not being knocked prone. The stomp creates difficult terrain in a 20-foot radius.
+
+**Status**: The Reanimated Warden has been destroyed. Combat has ended. The Warden's remains are disarticulated bone fragments littering the chamber floor. The Dreamstone crown is completely destroyed.
+
+[Session] Combat ended — enemy defeated (enemy-first path, exchange 7)
+
+--- Cora Flint ---
+I reach Garrick as the last bone fragments settle. "Cure Wounds: 13 healing." I press my hands to his chest, the healing energy flowing into him. "That puts you at fourteen HP. Don't move yet - you're still critical."
+
+I quickly assess the chamber, my eyes scanning the breach, the containment rune arrays, and the Warden's remains. "Triage complete. Immediate threat neutralized. Secondary threat: open breach forty feet across. Tertiary threat: damaged containment arrays."
+
+I stand, pulling Garrick to his feet. "Mercer, analysis on the breach flow rate. Is it increasing, decreasing, or stable? Garrick, with me - we need to secure the perimeter and check those bone fragments for residual void energy."
+
+I move toward the nearest containment rune array, my ledger already open. "Priority one: assess if we can reactivate the arrays. Priority two: secure the breach perimeter. Priority three: salvage anything useful from the Warden's remains. The void-tendons might have left energy signatures we can study."
+
+I glance at the glowing breach. "And we need to decide: do we attempt to seal this now with what we have, or fall back for specialized equipment? The containment field is at zero here - anything could come through."
+
+
+--- Garrick Kade ---
+I push myself up with Cora's help, wincing as my ribs protest. Fourteen HP. I've fought with less. I've survived with less.
+
+"Perimeter first," I grunt, leaning on my maul. The runes along its length have dimmed, but they're still glowing faintly. "Those bone fragments might be inert, but I'm not taking chances."
+
+I move toward the nearest pile of Giant bones, my eyes scanning for movement, for any residual void energy. My instincts are screaming - the Warden's down, but the breach is still open. Anything could come through.
+
+"Salvage can wait," I say, positioning myself between the breach and the others. "That hole's still open. If something else comes through, I need to be between it and you two."
+
+I glance at the containment rune arrays on the walls. They're dark, shattered. "Can you reactivate them? If not, we need to fall back, get proper sealing equipment. We're in no shape for another fight."
+
+The breach glows behind me, void energy flowing steadily. It's not violent like before, but it's constant. A leak that could become a flood.
+
+"I'll watch the breach," I say, planting my feet. "You two work on the arrays. If anything comes through, I'll hold it. But we need to move fast. I'm running on fumes here."
+
+
+--- Professor Thaddeus Mercer ---
+**Arcana Check to analyze breach flow patterns:** 15
+
+My spectral mind floats toward the breach as I approach the nearest containment rune array. "Fascinating — the energy flow has stabilized at a lower amplitude," I observe, my academic curiosity overriding the exhaustion. "Without the Warden drawing power, it's reverted to a baseline leakage rather than an active breach."
+
+I examine the shattered runes on the north wall array. "These aren't just damaged — they've been overloaded by the initial breach surge. The crystalline substrates are fractured at the harmonic nodes." I turn to Cora. "Your assessment is correct: we need specialized equipment to repair these. But..."
+
+I move to the Warden's scattered bone fragments, my spectral mind analyzing the residual energies. "The void-energy tendons have dissipated, but the bone matrix itself shows interesting properties. The Disintegrate spell didn't just destroy — it purified. These fragments might serve as temporary containment anchors if we can attune them to the field frequency."
+
+To Garrick, I say more urgently, "Hold position, but be ready to retreat. The breach flow is stable for now, but if anything larger than the Warden comes through, we cannot engage in our current state. We need to implement a temporary containment measure while we retrieve proper sealing equipment from the forward camp."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**No contested actions this round.** Combat has ended. The Reanimated Warden has been destroyed.
+
+**Cora Flint**: Cure Wounds on Garrick — 13 healing — **SUCCESS** Garrick healed from 1 HP to 14 HP.
+
+**Professor Thaddeus Mercer**: Arcana Check to analyze breach flow — 15 vs DC 13 (Medium) — **SUCCESS** Mercer determines the breach energy flow has stabilized at a lower amplitude without the Warden drawing power, and identifies that the containment rune arrays need specialized equipment to repair, but the purified bone fragments might serve as temporary containment anchors.
+
+
+--- DM ---
+**The Warden's final convulsive stomp creates a crater of fractured stone** where Garrick was lying moments before. The impact leaves difficult terrain in a twenty-foot radius — cracked stone, bone fragments, and residual void energy that shimmers like heat haze. But Garrick rolled clear in time, avoiding what would have been a fatal blow.
+
+**The chamber settles into an eerie quiet.** The only sounds are the faint hum of the breach's void energy and the occasional clatter of settling bone fragments. The Warden's remains — Giant bone fragments the size of tree trunks, now purified by Mercer's Disintegrate — litter the chamber floor. The Dreamstone crown is reduced to iridescent dust that glows faintly where it settled.
+
+**Cora's Cure Wounds brings Garrick to 14 HP.** He's battered, bruised, and running on sheer willpower, but he's conscious and standing guard between the breach and his companions.
+
+**Mercer's analysis proves accurate.** The breach energy flow has indeed stabilized at a lower amplitude. Without the Warden drawing power from it, the forty-foot hole in the capstone floor glows with a steady, ominous light rather than the violent pulsing from before. Void energy leaks into the chamber like water through a cracked dam — constant, but not yet catastrophic.
+
+**The containment rune arrays on the chamber walls are another matter.** Mercer examines the north array closely. The runes aren't just damaged; they're **shattered at the harmonic nodes.** The crystalline substrates that should channel containment energy are fractured beyond simple repair. "These need specialized equipment," he confirms. "The scaling runes from Korathan's tomb, Dreamstone components, and hours of precise work."
+
+**However, the Warden's bone fragments show promise.** Mercer's spectral mind analyzes them. "The Disintegrate spell didn't just destroy — it purified. The void energy has been burned away, leaving Giant bone infused with residual containment field energy. If we can attune these fragments to the field frequency, they might serve as temporary containment anchors."
+
+**The situation:**
+- **The breach:** 40 feet across, glowing with steady void energy, containment field at zero
+- **The containment arrays:** All four (north, south, east, west) shattered beyond immediate repair
+- **The party:** Garrick at 14 HP, Cora and Mercer relatively unharmed but low on resources
+- **Resources available:** Warden's purified bone fragments, Reality Anchor, Monitoring Crystal, basic tools
+- **Time pressure:** The breach is stable for now, but anything could come through at any moment
+
+**Two paths present themselves:**
+
+1. **Attempt temporary containment now** using the Warden's bone fragments as makeshift anchors, risking that your improvised solution might fail or attract attention from whatever is on the other side of the breach.
+
+2. **Fall back to the forward camp** to retrieve proper sealing equipment — the scaling runes, Dreamstone components, Korathan's Chisel — but leave the breach unguarded for the hours it would take to return.
+
+**Garrick stands guard at the breach edge, maul ready.**  
+**Cora examines the bone fragments, assessing their potential as temporary anchors.**  
+**Mercer studies the shattered rune arrays, calculating what would be needed for proper repairs.**
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 8/20
+────────────────────────────────────────
+
+
+[Enemy] Reanimated Warden acting...
+
+
+--- Reanimated Warden (Enemy) ---
+The Reanimated Warden has been destroyed. According to the previous narration: "The Reanimated Warden collapses... The Warden is destroyed. HP: 17/280 (127 - 110) — reduced to 0."
+
+I am a destroyed creature and cannot take any actions. The Warden's remains are now just bone fragments littering the chamber floor.
+
+=== REANIMATED WARDEN ACTIONS ===
+ACTION: None (Destroyed)
+BONUS ACTION: None (Destroyed)  
+LEGENDARY ACTION: None (Destroyed)
+
+**Status:** The Reanimated Warden has been completely destroyed. The colossal skeleton has disarticulated into bone fragments, the Dreamstone crown is dust, and the void-energy tendons have been severed.
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+**No enemy actions to adjudicate.** The Reanimated Warden has been completely destroyed. Combat has ended. The scene is now in exploration/resolution phase with the party deciding how to address the remaining breach.
+
+[Session] Combat ended — enemy defeated (enemy-first path, exchange 8)
+
+--- Cora Flint ---
+**Arcana check: 22.** I examine the purified bone fragments, my fingers tracing the residual containment energy. "The bones are attuned to the field frequency already - Mercer's Disintegrate burned away the void corruption but left the containment signature intact. We can use them as temporary anchors."
+
+I look at the breach, then at Garrick's battered form. "Risk assessment: if we leave to get proper equipment, the breach remains unguarded for approximately four hours round trip. Probability of something coming through in that time: unknown but non-zero. If we attempt temporary containment now, success probability..." I calculate quickly. "Seventy percent with proper alignment. Failure could attract attention."
+
+I make my decision. "We attempt temporary containment. Three-phase plan: First, I'll use the Reality Anchor to stabilize the immediate area. Second, we position the bone fragments at cardinal points around the breach, using their residual energy to create a containment lattice. Third, Mercer recalibrates the Monitoring Crystal to reinforce the lattice."
+
+I look at Garrick. "You're at fourteen HP. Your job: perimeter security. If anything starts coming through, you're our early warning. Mercer, I need you to calculate the precise harmonic alignment for the bone fragments. I'll handle the physical placement."
+
+I start gathering the largest bone fragments. "We work fast. Thirty minutes maximum. If it's not holding by then, we fall back and accept the risk of leaving it unguarded."
+
+
+--- Garrick Kade ---
+"Thirty minutes," I grunt, nodding. My eyes stay fixed on the breach, watching for any movement, any change in the void energy flow. "I can hold for thirty minutes."
+
+I position myself at the edge of the crater left by the Warden's final stomp, giving me a clear line of sight to the entire forty-foot breach. My maul rests across my knees as I crouch, conserving what little strength I have left.
+
+"Perimeter secure," I say, my voice rough. "Work fast. If the energy flow changes, if anything starts coming through, I'll shout. Don't stop working unless I tell you to run."
+
+I watch Cora gathering bone fragments, Mercer calculating alignments. They're moving with purpose, with precision. Good. That's what we need right now. Not hesitation. Not second-guessing.
+
+"Seventy percent chance of success is better than leaving it unguarded," I say, more to myself than to them. "We've survived worse odds."
+
+My runes glow faintly, responding to the proximity of the breach. They're drained, like I am, but they're still active. Still ready.
+
+I keep my breathing steady, my eyes scanning. The breach glows, steady and ominous. But for now, it's just a hole in the world. And we're going to plug it.
+
+
+--- Professor Thaddeus Mercer ---
+**Arcana Check for harmonic alignment calculations:** 18
+
+"Your three-phase plan is structurally sound, Cora," I say, my spectral mind already projecting geometric patterns onto the chamber floor. "But we need to account for the original Giant containment architecture. The bone fragments must align with the cardinal rune arrays, not just the breach perimeter."
+
+I begin sketching in the air with my Wizardly Quill, the glowing lines forming a three-dimensional lattice. "Observe: the original containment field used tetrahedral geometry with the breach at the center. We need four primary anchors at the cardinal points, plus twelve secondary supports forming the edges."
+
+To Garrick, I add, "Watch for energy feedback when we place the first anchor. If the breach reacts violently, we abort and retreat. But if it accepts the containment lattice..." I trail off, the academic possibilities thrilling despite the danger.
+
+"Let's begin with the north anchor. Cora, position the largest femur fragment here," I point to a specific spot, "aligned with the shattered north array. The residual containment energy in the bone should resonate with what's left of the array's substrate."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**No contested actions this round.** The scene is in exploration/resolution phase with no active combat.
+
+**Cora Flint**: Arcana Check — 22 vs DC 16 (Hard) — **SPECTACULAR SUCCESS** Cora not only assesses the bone fragments but understands their exact containment properties and develops a precise three-phase temporary containment plan with 70% success probability.
+
+**Professor Thaddeus Mercer**: Arcana Check — 18 vs DC 16 (Hard) — **SUCCESS** Mercer calculates the precise harmonic alignment for the bone fragments, understanding the original Giant tetrahedral containment geometry and how to position the anchors to resonate with the shattered rune arrays.
+
+
+--- DM ---
+**The temporary containment operation begins with precision born of desperation and expertise.**
+
+**Cora positions the Reality Anchor** at the exact geometric center between the breach and the shattered north rune array. The device hums to life, its stabilizing field creating a ten-foot radius of controlled reality that dampens the void energy's chaotic influence. "Anchor deployed. Stabilization field active."
+
+**Mercer's spectral mind projects the tetrahedral lattice** onto the chamber floor, glowing lines of arcane light showing exactly where each bone fragment must be placed. "The geometry must be perfect," he murmurs, his Wizardly Quill making minute adjustments. "Even a five-degree misalignment could cause harmonic dissonance that would shatter the fragments."
+
+**Garrick maintains his vigil,** his eyes never leaving the breach. The void energy flows steadily, but there's no sign of anything attempting to come through. Yet. His runes glow faintly in response to the proximity, a constant reminder of how close they are to the edge of everything.
+
+**Phase One: Primary Cardinal Anchors**
+Cora hefts the largest femur fragment — a Giant thigh bone the size of a small tree. Following Mercer's projected markers, she positions it at the north cardinal point, aligned precisely with the shattered north rune array. **DC 15 Intelligence check (with advantage from Mercer's guidance): 18 — SUCCESS.**
+
+The moment the bone fragment touches the designated spot, something remarkable happens. The residual containment energy in the purified bone **resonates** with what's left of the shattered rune array. The array doesn't reactivate, but it **glows faintly** for the first time since the breach. A thin thread of containment energy connects the bone fragment to the damaged array.
+
+"North anchor established," Cora reports, already moving to the next position.
+
+**Phase Two: Secondary Supports**
+Mercer directs the placement of twelve smaller bone fragments — ribs, vertebrae, finger bones — forming the edges of the tetrahedral lattice. Each placement requires precise alignment. **DC 14 Intelligence check for each (Cora with Mercer's guidance):** Eleven successes, one failure that's quickly corrected.
+
+As the lattice forms, the effect becomes visible. The void energy flowing from the breach begins to **bend** around the containment lattice, like water flowing around rocks in a stream. It doesn't stop, but it's being shaped, contained within the geometric boundaries.
+
+**Phase Three: Harmonic Reinforcement**
+Mercer recalibrates the Monitoring Crystal, tuning it to reinforce the lattice's containment frequency. **DC 16 Arcana check: 19 — SUCCESS.** The crystal hums at a specific frequency that causes the bone fragments to vibrate in sympathy. The entire lattice begins to glow with a soft, steady light — not the violent iridescence of void energy, but the calm, blue-white light of containment energy.
+
+**The result:** The forty-foot breach is now surrounded by a tetrahedral lattice of Giant bone fragments, all glowing with containment energy. The void energy still flows through, but it's contained within the lattice's boundaries, unable to spread chaotically through the chamber. The containment field readings on the Monitoring Crystal climb from zero to **15%** — not enough to seal the breach, but enough to contain it temporarily.
+
+**The temporary containment holds.** For now.
+
+**Garrick watches as the lattice stabilizes.** "It's working," he says, his voice holding a note of genuine surprise. "The energy flow is contained. Not stopped, but contained."
+
+**Cora checks her calculations.** "Estimated duration: twelve to twenty-four hours before the residual energy in the bone fragments dissipates. That gives us time to retrieve proper sealing equipment."
+
+**Mercer studies the lattice.** "Fascinating. The Giant bone's natural resonance with the containment architecture is more profound than I anticipated. This isn't just a temporary fix — it's a proof of concept. We could use purified Giant remains as permanent containment components."
+
+**The chamber is now stable, but the breach remains open.** The temporary containment lattice glows around it, holding the void energy in check. You have a window of opportunity — twelve to twenty-four hours — to return to the forward camp, gather the proper equipment (scaling runes, Dreamstone components, Korathan's Chisel), and return to perform a permanent seal.
+
+**But the journey back will take hours. And something could still come through the breach, even with the temporary containment in place.**
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 9/20
+────────────────────────────────────────
+
+
+[Enemy] Reanimated Warden acting...
+
+
+--- Reanimated Warden (Enemy) ---
+The Reanimated Warden has been destroyed and is no longer a combatant. The DM's narration describes the party successfully establishing temporary containment using the Warden's purified bone fragments. The Warden itself is dead and cannot take any actions.
+
+=== REANIMATED WARDEN ACTIONS ===
+ACTION: None (Destroyed)
+BONUS ACTION: None (Destroyed)
+LEGENDARY ACTION: None (Destroyed)
+
+**Status:** The Reanimated Warden has been completely destroyed. Its remains have been repurposed as containment anchors around the breach.
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+**No enemy actions to adjudicate.** The Reanimated Warden has been completely destroyed and its remains have been repurposed as containment anchors. The scene is in exploration/resolution phase with the party successfully establishing temporary containment. No combat is active.
+
+[Session] Combat ended — enemy defeated (enemy-first path, exchange 9)
+
+--- Cora Flint ---
+I check the Monitoring Crystal readings. "Fifteen percent containment. Lattice stable. Estimated duration: twelve to twenty-four hours." I make a note in my ledger. "That gives us a window, but we need to move efficiently."
+
+I look at Garrick's battered condition. "First priority: get Garrick back to camp for proper healing. Fourteen HP won't survive another engagement. Second: retrieve the scaling runes, Dreamstone components, and Korathan's Chisel. Third: return and perform permanent seal."
+
+I start packing up the Reality Anchor. "We leave the Monitoring Crystal here to track lattice stability. If containment drops below ten percent, we'll know we have less time than estimated. Garrick, can you travel? Mercer, do we have enough resources at camp for the permanent seal, or do we need to fabricate additional components?"
+
+I calculate the logistics. "Round trip: four hours minimum, plus preparation time. That leaves us with eight to twenty hours of buffer. Acceptable risk margin, but we move with purpose. No searching side corridors, no unnecessary delays."
+
+I take one last look at the glowing lattice. "The bones are holding. Good work, both of you. Now let's secure the permanent solution before something else decides to test our temporary fix."
+
+
+--- Garrick Kade ---
+"I can travel," I say, pushing myself up from my crouch. Every muscle protests, every bruise screams, but I've marched through worse pain. "Fourteen HP is enough to walk. Not enough to fight, but enough to walk."
+
+I take one last look at the breach, at the glowing lattice of bone fragments holding the void energy in check. It's holding. For now. But I don't like leaving it unguarded.
+
+"We move fast," I say, hefting my maul. The runes are dim, drained from the fight, but they'll recover. "No side trips. No delays. Straight to camp, get what we need, straight back."
+
+I start toward the chamber entrance, moving with a deliberate, steady pace that conserves my limited strength. "You two lead. I'll watch our backs. If anything tries to follow us from the breach, I'll be between it and you."
+
+The journey back will be four hours. Four hours with the breach unguarded. Four hours for something to come through. But we don't have a choice. We need proper sealing equipment, and I need more than fourteen HP if we're going to survive another fight.
+
+"Keep the pace steady," I say as we move into the corridor. "Don't push too hard and exhaust yourselves. We'll need energy for the return trip and the sealing work. But don't dawdle either. Every minute counts."
+
+My eyes scan the shadows as we move. The resin in the walls still glows faintly, but it's dormant again without the Warden's influence. Still, I watch for movement. For anything that might have been drawn by the fight.
+
+We have a window. Twelve to twenty-four hours. We'll use it. And we'll seal that breach for good.
+
+
+--- Professor Thaddeus Mercer ---
+**Arcana Check to analyze lattice stability and predict failure points:** 30 (Natural 20!)
+
+"Wait," I say, my spectral mind hovering near the lattice, its pages flipping rapidly as it analyzes the energy flows. "This is more than just a temporary containment — it's a harmonic resonance that's actually strengthening over time!"
+
+I point to the interconnected energy threads between bone fragments. "Observe the feedback loop! The containment energy in the bones is resonating with the residual field in the shattered arrays, creating a self-reinforcing pattern. The lattice isn't just containing the breach — it's learning from it!"
+
+My academic excitement is palpable despite our exhaustion. "Cora, your twelve-to-twenty-four hour estimate is conservative. Based on the resonance amplification I'm observing, this lattice could stabilize for thirty-six hours or more! But more importantly..." I turn to them both, my eyes wide with discovery.
+
+"This proves my theories about Giant containment architecture! The bones aren't just inert material — they're memory substrates! They retain the original containment field patterns! We don't just need to retrieve sealing equipment — we need to document this phenomenon! This could revolutionize dimensional containment theory!"
+
+I catch myself, remembering the practicalities. "But you're both correct about the immediate priorities. Garrick needs proper healing, and we need the scaling runes for a permanent seal. However..." I look back at the glowing lattice. "We should leave my spectral mind here to monitor and document. It can alert us through our mental link if the lattice destabilizes prematurely."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**No contested actions this round.** The scene is in exploration/resolution phase with no active combat.
+
+**Professor Thaddeus Mercer**: Arcana Check — Natural 20! vs DC 16 (Hard) — **SPECTACULAR SUCCESS** Mercer discovers the lattice is not just containing the breach but creating a self-reinforcing harmonic resonance that could last 36+ hours. He also makes a groundbreaking discovery about Giant bone as memory substrates for containment field patterns, potentially revolutionizing dimensional containment theory.
+
+
+--- DM ---
+**Mercer's discovery changes everything.**
+
+**The lattice isn't just containing the breach — it's evolving.** As his spectral mind analyzes the energy flows, Mercer watches in awe as the containment threads between bone fragments **thicken and brighten** before his eyes. The harmonic resonance creates a feedback loop: the bones' residual containment energy resonates with the shattered arrays, which in turn reinforces the bones, which strengthens the resonance further.
+
+"Thirty-six hours minimum," Mercer breathes, his academic excitement overriding their exhaustion. "Possibly longer if the resonance continues to amplify. And the bones are acting as memory substrates — they're not just holding energy, they're remembering the original Giant containment field patterns!"
+
+**Cora recalculates immediately.** "Thirty-six hours changes the risk calculus. We have time for proper preparation. Garrick can receive complete healing at camp. We can fabricate specialized components if needed. We can even..." She looks at the glowing lattice, then at Mercer. "We can study this phenomenon. Document it properly. This isn't just a temporary fix — it's a breakthrough."
+
+**Garrick watches the lattice strengthen,** the blue-white containment light growing steadier by the minute. "Thirty-six hours," he repeats, the tension in his shoulders easing slightly. "That's time to do this right. Not just seal it, but seal it permanently."
+
+**Mercer leaves his spectral mind hovering near the lattice.** The book-shaped apparition will monitor the containment, document the resonance patterns, and alert them through their mental link if anything destabilizes. "It can maintain observation indefinitely," he explains. "And it will record everything. This data could be invaluable for future containment work."
+
+**The party begins their journey back to the forward camp.** The corridors feel different now — not just a path to retreat, but a route to preparation. The environmental hazards they navigated on the way in are still present, but manageable with the Reality Anchor and their hard-won knowledge of the patterns.
+
+**As you travel, three realizations settle in:**
+
+1. **You defeated the Reanimated Warden** — a forty-foot Giant skeleton corrupted by void energy, a creature that should have been impossible for three people to overcome. You did it through coordination, intelligence, and leveraging every tool you've acquired across Act III.
+
+2. **You created a temporary containment lattice** using the Warden's own purified bones — turning the enemy's remains against the very breach it was guarding. This isn't just a tactical victory; it's poetic symmetry that Korathan himself would have appreciated.
+
+3. **You have time** — not much, but enough. Thirty-six hours to heal, to prepare, to gather the scaling runes, Dreamstone components, and Korathan's Chisel. To return and perform a permanent seal that will hold for centuries, not just hours.
+
+**The journey back takes four hours.** Garrick moves steadily despite his injuries, his Rune Knight endurance carrying him through when sheer willpower wouldn't be enough. Cora monitors the Monitoring Crystal's remote readings — the lattice holds at 15% containment, stable. Mercer's mind races with the implications of his discovery about Giant bone as memory substrates.
+
+**You reach the forward camp as Session 1 ends.** The familiar space — with its workbenches, supplies, and the steady hum of the containment field — feels like sanctuary after the chaos of the Warden's Post. The Monitoring Crystal shows the breach contained. The Warden is destroyed. The immediate crisis is over.
+
+**But the breach remains open.** The permanent seal must still be created. The tools must be gathered. The work is not done — but for the first time since the Monitoring Crystal screamed, you have breathing room. Time to heal. Time to plan. Time to prepare for the final act of sealing what the Twisted tried to open.
+
+**SESSION ENDS HERE**
+
+**Next session:** The party returns to the Warden's Post with proper sealing equipment to perform the permanent breach closure, culminating Act III of the campaign.
+
+
+[Session] DM declared session end at exchange 9/20. Breaking loop early.
+
+============================================================
+  SESSION 16 WRAP-UP
+============================================================
+
+[System] Updating campaign state...
+[Wiki Keeper] Extracting entities...
+  [Wiki] ✓ Reanimated Warden.md (created)
+  [Wiki] ✓ Warden's Post.md (created)
+  [Wiki] ↻ Dreamstone Circlet.md (updated)
+  [Wiki] ↻ Reality Anchor.md (updated)
+  [Wiki] ✓ Monitoring Crystal.md (created)
+  [Wiki] ↻ Cold Forge.md (updated)
+  [Wiki] ↻ Salt-Vaults.md (updated)
+  [Wiki] ✓ Korathan's Chisel.md (created)
+  [Wiki] ✓ Broadcast Scream.md (created)
+  [Wiki] ✓ Void Tether.md (created)
+  [Wiki] ✓ Watchers.md (created)
+
+[Wiki] 11 file(s) written to output/wiki/
+
+[Scribe] Writing session narrative...
+[Scribe] Blog saved to C:\Users\maxry\Desktop\AI DND\output\sessions\session_16.md
+
+[Editor] Fact-checking...
+[Editor] 11 content invention flag(s):
+  ⚠ The entire session's plot, structure, and boss fight mechanics are invented. The adventure file prescribes a multi-phase operation: analyzing the Warden, building a 'Capstone Resonator' device, a test engagement, and a final coordinated assault using the Resonator to stun the Warden and seal the breach. The session instead featured a direct, unplanned fight where the Warden was defeated through standard combat spells (Disintegrate, Slow) and weapon attacks, with no resonator construction or use.
+  ⚠ The 'Reality Anchor' device is invented. The adventure file mentions using a 'Reality Anchor' to create safe passage through radiation zones, but does not describe it as a complex device of containment runes and Dreamstone stabilizers crafted in the Cold Forge, nor does it give it the tactical deployment and area-control properties shown in the session.
+  ⚠ The 'Dreamstone Circlet' is invented as a specific piece of protective equipment. The adventure file only mentions 'Dreamstone Circlets' providing advantage on a Constitution save, not as crafted items with defined functions like granting advantage on Wisdom saves and psychic resistance.
+  ⚠ The method of creating a 'temporary containment lattice' from the Warden's purified bones is invented. The adventure file describes permanently sealing the breach using scaling runes, Dreamstone components, and Korathan's Chisel after the fight, not an improvised bone lattice.
+  ⚠ The 'Watchers' as a category of Giant defense constructs is invented lore extrapolated by Mercer. The adventure file only states the Warden was a 'Giant guardian' entombed as an emergency defender.
+  ⚠ The 'Broadcast Scream' ability's specific fear effect (forcing movement toward the breach) is invented. The adventure file describes a 'broadcast hallucination' that makes the void seem welcoming, compelling movement toward the breach on a failed save.
+  ⚠ The 'Void Tether' regeneration mechanic (20 HP/turn within 40 ft of breach) is partially invented. The adventure file describes a 'Void Tether' that regenerates HP and weakens with distance, but the specific numerical values (20 HP, 40 ft range) are not provided in the given excerpt.
+  ⚠ The environmental hazards 'Echo Manifestations' showing historical figures and providing useful intelligence are invented. The adventure file mentions them as disorienting psychic imprints, not as sources of tactical data about rune arrays or chamber layout.
+  ⚠ Mercer's 'spectral mind' (Manifest Mind) class feature is used extensively for scouting and casting, which is a character ability but its narrative integration as a scout passing through walls and analyzing energy flows constitutes invention beyond the adventure file's prescribed events.
+  ⚠ The Warden's destruction via 'Disintegrate' causing bones to be 'purified' and usable as containment anchors is invented. The adventure file states the Warden's bones are material for magic items post-fight, not that they are inherently attuned to containment energy.
+  ⚠ Mercer's discovery of 'Giant bone as memory substrates' and the lattice creating a 'self-reinforcing harmonic resonance' is an invented metaphysical system and research breakthrough not described in the adventure file.
+[Editor] 7 missing content flag(s):
+  ✗ The prescribed multi-phase structure of the adventure was skipped: 1) Initial analysis of the Warden's vulnerabilities (void tether, containment runes, Dreamstone crown). 2) Building the 'Capstone Resonator' device (requiring Dreamstone Power Cell, Monitoring Crystal, Korathan's Chisel, raw Dreamstone, and 4 hours of work). 3) A 'test engagement' to learn the Warden's patterns and retreat, establishing that a direct fight at the breach is suicide. 4) The final coordinated assault using the Resonator to stun the Warden and temporarily seal the breach, creating a window to destroy it.
+  ✗ The 'Capstone Resonator' device was never constructed or used.
+  ✗ The tactical phase of reactivating the four containment rune arrays on the chamber walls to create suppression fields and reduce the Warden's regeneration was not performed.
+  ✗ The tactical phase of luring the Warden away from the breach to reduce/stop its regeneration was not attempted; the fight occurred at the breach's edge.
+  ✗ The prescribed method for permanently sealing the breach after the fight (using scaling runes, Dreamstone components, Korathan's Chisel, and channeling the Dreamstone Power Cell's energy) was not initiated; instead, an invented temporary bone lattice was created.
+  ✗ The adventure file specifies the Warden's telepathic message is 'residual psychic static' and it 'cannot hear the party, cannot respond to words, cannot be reasoned with.' The session did not contradict this directly, but the elaborate analysis of its speech and crown as a 'resonator' constitutes invention around a prescribed non-communicative entity.
+  ✗ The prescribed post-victory loot and Intermission III setup (including +3 Runic Maul, complete Architect's Codex, depleted Capstone Resonator, Warden's Bones for magic items, 10,000 gp, arrival of Wardstone Wardens, etc.) were not reached, as the session ended before the breach was permanently sealed.
+[Editor] Session report checked — no factual corrections needed.
+[Editor] Wiki entries checked — no factual corrections needed.
+[Editor] Review saved to: session_16_editor_review.md
+[Lorekeeper] Consistency pass...
+[Lorekeeper] Session report checked — no name corrections needed.
+[Lorekeeper] Upgraded 6 wiki entry/entries to encyclopedic format.
+[Lorekeeper] Review saved to: session_16_lore_review.md
+
+
+============================================================
+  ADVENTURE COMPLETE!
+  Adventure 16 finished.
+  Swapping to Adventure 17: The Gravity Well
+  File: adventure_17_the_gravity_well.md
+  --- LEVEL UP ---
+  Cora Flint: Level 16 → 17 | HP: 122 | New features: Alchemist Spells: Cloudkill, Raise Dead (always prepared) | New spells: Cloudkill (always prepared), Raise Dead (always prepared), Greater Restoration
+  Garrick Kade: Level 16 → 17 | HP: 157 | New features: Action Surge improvement (2 uses between rests), Indomitable improvement (3/LR reroll failed saving throws)
+  Professor Thaddeus Mercer: Level 16 → 17 | HP: 87 | New spells: Wish, Foresight
+============================================================
+
+[Summary] Generating adventure 16 summary...
+[Summary] Adventure 16 summary saved.
+[Summary] Condensing story summary (271 words, 16 adventures → ~200 words)...
+[Summary] Condensed: 271 → 262 words.
+[Quests] Cleaning quest list (1 entries)...
+[Quests] Cleaned: 1 → 1 quests.
+[Lorekeeper] Running end-of-adventure wiki editorial pass...
+
+[Lorekeeper] Processing 98 wiki entries in batches...
+
+[Lorekeeper] Batch 1/4 (25 entries)...
+[Lorekeeper] Batch 1: 25 updated, 0 marked for deletion.
+[Lorekeeper] Batch 2/4 (25 entries)...
+[Lorekeeper] Batch 2: 25 updated, 0 marked for deletion.
+[Lorekeeper] Batch 3/4 (25 entries)...
+[Lorekeeper] Batch 3: 25 updated, 0 marked for deletion.
+[Lorekeeper] Batch 4/4 (23 entries)...
+[Lorekeeper] Batch 4: 23 updated, 0 marked for deletion.
+[Lorekeeper] Running cross-batch dedup pass...
+  [Retry] Agent returned garbage (2 words: '{"duplicates": []}...'). Retrying (1/2)...
+  [Retry] Agent returned garbage (7 words: '{"duplicates": [{"keep": "First World Sleeper", "d...'). Retrying (2/2)...
+  [Warning] Agent returned garbage after 2 retries. Using last response.
+[Lorekeeper] Merged duplicate: 'Sleeper' → 'First World Sleeper' (deleted 'Sleeper')
+[Lorekeeper] Dedup pass: 1 duplicate(s) resolved.
+[Lorekeeper] End-of-adventure editorial pass complete.
+
+[Transcript] session_16 -> session_16_transcript.md (46 blocks parsed)
+
+============================================================
+  SESSION 16 COMPLETE
+  Blog saved to: output/sessions/session_16.md
+  Transcript saved to: output/sessions/session_16_transcript.md
+  Log saved to: output/logs/session_16_log.txt
+  Reviews saved to: output/reviews/
+  Wiki updated in: output/wiki/
+  State saved to: campaign_state.json
+  >>> Adventure 16 complete! Next adventure loaded.
+  >>> Story summary condensed for next adventure.
+============================================================
+
+[Site] Building static site...
+[Site] Built 151 pages (16 sessions, 97 wiki entries) in 0.7s -> docs/
+[Git] Publishing session 16...
+[Git] Committed: session 16: campaign update
+[Git] Pushed to origin.

@@ -1,0 +1,1768 @@
+=== Session Log — 2026-03-27T16:42:06.052685 ===
+
+[Log] Raw terminal output being saved to: C:\Users\maxry\Desktop\AI DND\output\logs\session_09_log.txt
+
+
+============================================================
+  SESSION 9 BEGINNING
+  Adventure 9: The Sabotaged Pumps
+  Adventure Session: 1/1
+  Models: All DeepSeek
+  Exchanges: 20 (full session)
+============================================================
+
+[Session] Enemy agents created: Twisted Overseer, Twisted Saboteurs
+[Session] Enemy acts AFTER PCs (PC-initiated)
+
+[DM] Opening scene...
+
+
+--- DM ---
+The minecart network hums with restored life. For the first time in centuries, dwarven engineering moves through the Asymmetrical Mountain's transit tunnels — the Eastern Hub's central control panel glows with arcane light, the tracks gleam with fresh oil, and the air carries the scent of ozone from the lightning gland now integrated into the forge's power grid. The party has accomplished more in weeks than the dwarves' successors managed in centuries.
+
+But the transit map projected from the control panel shows a critical gap: the northern branch to Pump Station East is partially flooded, marked in ominous blue. The pump station itself shows as offline. Without those pumps, the lower Dwarven Layer remains submerged — hundreds of feet of infrastructure, mining operations, and the primary access routes to the Giant foundation level are underwater. The water has been rising for centuries, and now it threatens to flood the transit network itself.
+
+Cora Flint stands before the map, her alchemist's tools laid out on a workbench. "The pumps should be running," she says, her voice echoing in the cavernous hub. "Geothermal pressure differentials — heat from below pushes water up, the pumps redirect it out through drainage conduits. It's a closed system. If it's offline, the water has nowhere to go but up."
+
+Garrick Kade hefts his maul, the runes on his armor catching the forge-light filtering through ventilation shafts. "So we go north. Clear the line. Get the pumps working."
+
+Professor Thaddeus Mercer consults his notes, the spectral quill of his awakened spellbook hovering beside him. "The transit logs show the northern branch was operational until three months ago. Then... silence. No maintenance records. No system checks. Just water rising." He taps the map where the blue flooding indicator begins. "Something happened at Pump Station East. Something that stopped the pumps."
+
+The maintenance cart waits on the northern track — a sturdy dwarven vehicle with reinforced wheels and a cargo area large enough for tools and supplies. The tunnel ahead slopes downward into darkness, the air carrying a faint, warm dampness that wasn't present before. The water has already begun creeping into the transit network.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 1/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I examine the transit map with clinical precision, my fingers tracing the blue flooding indicators. "Three months of silence means either mechanical failure or sabotage," I say, pulling out my ledger. "Garrick, check the maintenance cart's load capacity and tool inventory. Mercer, cross-reference those transit logs with any geological activity records from that period."
+
+I roll up my sleeves and begin organizing supplies on the workbench. "We need waterproofing for our gear, emergency breathing apparatus in case of sudden flooding, and tools for pump repair. The geothermal pressure differentials Mercer mentioned mean the water isn't just sitting there—it's building pressure. If those pumps fail completely, we could get a catastrophic backflow."
+
+
+--- Garrick Kade ---
+I stride over to the maintenance cart, my maul resting on my shoulder. "Load capacity's fine," I grunt, checking the reinforced dwarven construction with my smith's knowledge. "Built to haul ore and equipment. Tools are basic but solid." I grab a heavy wrench and test its weight. "This'll do for pump work."
+
+I turn to Cora, my expression grim. "Waterproofing's smart, but we're not waiting around for perfect preparations. Water's rising now. If there's pressure building like you say, every minute we delay is another foot of tunnel flooded." I heft my maul. "I'll take point in the cart. Anything hostile down there, I'll clear it. You two handle the technical work once we reach the pumps."
+
+To Mercer, I add, "Check those logs for anything about creatures in the water. If something's living down there, I want to know before it tries to drag us under." I climb into the cart's front position, my rune-inscribed armor catching the forge-light. "Let's move. If this system fails completely, our new home becomes an underwater tomb."
+
+
+--- Professor Thaddeus Mercer ---
+I consult my awakened spellbook, the spectral quill darting across the pages as I cross-reference the transit logs with geological records. "The logs show... hmm, that's peculiar. Three months ago coincides with a minor seismic event recorded in the mountain's foundation layer. A tremor of approximately magnitude 2.3 on the Richter scale—hardly catastrophic, but potentially disruptive to delicate pumping mechanisms."
+
+My quill hovers as I examine the data more closely. "However, the geological records indicate the tremor originated from the Giant foundation level, not the pump station itself. Which suggests..." I trail off, my academic excitement giving way to genuine concern. "Garrick, you asked about creatures. The transit logs from the week before the silence show maintenance crews reporting 'unusual water displacement patterns' and 'audible movement through submerged conduits.' They dismissed it as 'thermal convection currents.'"
+
+I look up from my notes, my usual pomposity replaced by clipped formality. "They were wrong. Something is down there. Something large enough to displace water in the conduits and audible through solid stone. Given the seismic activity originating from the foundation level, I theorize we're dealing with either a burrowing creature that has breached the water table or..." I pause, the implications sinking in. "Or something has been released from the lower levels by the tremor."
+
+Turning to Cora, I add, "Your pressure differential theory is correct, but incomplete. If something is blocking the pumps intentionally or has damaged them, the water isn't just building pressure—it's being contained. A catastrophic failure wouldn't just flood the tunnels; it would create a hydraulic shockwave that could collapse sections of the transit network."
+
+I gather my notes, my hands trembling slightly. "We need to proceed with extreme caution. I recommend I cast Mage Armor before we depart and keep my Manifest Mind ready to scout ahead without physical risk. And Garrick... if we encounter whatever is down there, we retreat. This isn't academic curiosity anymore—this is a genuine threat to the entire mountain's infrastructure."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Investigation of transit map and planning — No roll needed (preparatory action)
+
+**Garrick Kade**: Investigation of maintenance cart — No roll needed (using smith's knowledge/tool proficiency)
+
+**Professor Thaddeus Mercer**: History/Arcana check to cross-reference logs with geological records — **SUCCESS** (expertise in relevant fields, thorough analysis provided) Mercer successfully identifies the seismic event correlation and the creature evidence in the logs.
+
+
+--- DM ---
+The forge-light flickers as the party's preparations create a sudden flurry of activity in the transit hub. Cora's waterproofing supplies — a mixture of dwarven wax sealant and her own alchemical compounds — fill the air with the scent of pine resin and ozone. Garrick's inspection of the maintenance cart reveals its true purpose: beneath the cargo bed, hidden compartments contain specialized pump repair tools — valve wrenches sized for fifteen-foot mechanisms, pipe-cutting saws with diamond-tipped blades, and lead-sealed containers of emergency resin for sealing leaks.
+
+Mercer's discovery hangs in the air like a physical weight. The spectral quill writes the conclusion in glowing script: **"Seismic event + water displacement patterns + audible movement = intelligent sabotage or containment breach."**
+
+The maintenance cart's wheels click onto the northern track with a solid *thunk*. The tunnel ahead slopes downward into darkness, the air growing noticeably warmer and damper with each passing foot. The first hundred yards are dry — well-maintained dwarven engineering, the tracks gleaming, ventilation grates humming with the forge's distant heat. Then the water appears.
+
+It starts as a sheen on the rails — a thin film that makes the cart's wheels hiss with steam. Then puddles between the sleepers, reflecting the cart's lantern light in rippling patterns. By the time the cart has traveled five minutes, the water is ankle-deep, splashing up with each rotation of the wheels. The cart begins to drag, the resistance palpable.
+
+"Six inches," Cora calls from her position monitoring the cart's mechanics. "At this rate, we'll be swimming before we reach the station."
+
+The water continues to rise. Knee-deep now, warm enough that steam rises from its surface. The tunnel walls show a clear waterline — mineral deposits marking where the water has been sitting for months. The air grows thick with humidity, carrying a mineral scent mixed with something else... something organic, like wet stone and deep earth.
+
+Garrick, standing at the front of the cart, peers ahead. "The tunnel slopes upward ahead. Dry platform."
+
+He's right. Fifty yards ahead, the waterline drops as the tunnel floor rises to meet a stone platform elevated above the flood. The platform holds the entrance to Pump Station East — massive double doors of iron-bound stone, fifteen feet tall, carved with dwarven runes for "Water" and "Pressure" and "Containment." The doors are slightly ajar.
+
+From the dark water beside the cart, a ripple moves against the current. Then another. Something is swimming just below the surface, keeping pace with them. The water here is too dark to see through, but the ripples form a deliberate pattern — not random currents, but purposeful movement.
+
+The cart reaches the dry platform with a final splash. The water recedes to ankle depth around the platform's edge, then drops away completely as the party steps onto dry stone. The platform is large — fifty feet across — with storage crates, overturned maintenance carts, and tool racks lining the walls. Ahead, the massive doors to Pump Station East stand open just enough for a dwarf to slip through.
+
+From inside the station, a sound echoes: **CLANG. CLANG. CLANG.** Three metallic impacts, precise, evenly spaced. Then silence. Then the sound of something being dragged across stone.
+
+The water around the platform ripples again. This time, the ripples converge toward the station entrance.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 2/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I immediately kneel by the water's edge, examining the ripples. "That's not random current—it's coordinated movement. Something intelligent is in the water, and it's herding us toward those doors." I gesture to the storage crates. "Garrick, check those crates for anything useful before we proceed. Mercer, can your spectral mind scout ahead through the door gap without alerting whatever's inside?"
+
+I pull out my alchemist's supplies and quickly mix a reactive powder. "I'm creating a perimeter alarm—if anything breaks the water's surface near us, this will flash and sizzle. That rhythmic clanging suggests either automated machinery still running or something mimicking it to lure us in."
+
+
+--- Garrick Kade ---
+I ignore Cora's suggestion about checking crates. "No time for inventory," I growl, my eyes fixed on the ajar doors and the water ripples converging toward them. "Something's herding us toward a kill zone. I'm not walking into an ambush."
+
+I heft my maul and activate Giant's Might with a low grunt, my body swelling to Large size as runes flare on my armor. "Stay behind me. Whatever's in there, I'll meet it head-on."
+
+I charge toward the station entrance, my enhanced strength carrying me across the platform in three massive strides. At the doors, I don't slow down—I slam my shoulder into the iron-bound stone with all my might, forcing them open wide enough to see inside. "Come out and face me!" I roar into the darkness, ready to swing at the first thing that moves.
+
+
+--- Professor Thaddeus Mercer ---
+"Garrick, wait! You're charging into a tactical nightmare!" I hiss, but he's already gone. My academic detachment evaporates, replaced by pure survival instinct. I retreat behind the nearest overturned maintenance cart, my hands already weaving the somatic components of a spell.
+
+"Cora, get behind cover!" I call out, my voice tight with fear. As I speak, I summon my Manifest Mind—the spectral consciousness of my spellbook materializes as a faint, glowing orb that hovers near the ceiling. "Scouting ahead now, but Garrick's already compromised any element of surprise."
+
+The spectral mind drifts through the partially opened doors, and I close my eyes to see through its senses. "Let me examine the interior architecture before we all get killed. The doors themselves are fascinating—fifteen-foot iron-bound stone, dwarven containment design from the Third Expansion period, meant to withstand hydraulic pressure up to..." I trail off, realizing this isn't the time for a lecture.
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Investigation of water ripples — No roll needed (observational action)
+
+**Garrick Kade**: Athletics check to force open doors — **SUCCESS** (using Giant's Might for advantage on STR checks, +9 Athletics) Garrick's enhanced strength easily forces the iron-bound stone doors wide open.
+
+**Professor Thaddeus Mercer**: Casting Manifest Mind — No roll needed (class feature activation) The spectral mind successfully manifests and scouts ahead.
+
+
+[Enemy] Twisted Overseer acting...
+
+
+--- Twisted Overseer (Enemy) ---
+=== TWISTED OVERSEER ACTIONS ===
+ACTION: Warhammer attack targeting Garrick Kade. 
+I'll roll to hit: 1d20+9
+
+
+[Enemy] Twisted Saboteurs acting...
+
+
+--- Twisted Saboteurs (Enemy) ---
+=== TWISTED SABOTEURS ACTIONS ===
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+**Twisted Overseer**: Warhammer attack vs Garrick Kade — 20 vs AC 16 — **HIT** (Garrick takes damage, roll needed for damage calculation)
+
+
+--- DM ---
+Garrick's shoulder slams into the iron-bound doors with a thunderous crash, forcing them wide open to reveal Pump Station East in all its dwarven engineering glory. The chamber is enormous — sixty feet in diameter, dominated by three massive pump assemblies arranged in a triangle, each fifteen feet tall with iron pistons, stone channels, and complex valve systems. But the pumps are dead. And they have been murdered.
+
+Before Garrick can process the sabotage, movement catches his eye from the shadows between Pump One and Pump Two. A figure steps forward — a dwarf, but wrong. Stocky, broad-shouldered, heavy-limbed like all dwarves, but its skin has the iridescent Dreamstone sheen the party saw in the mausoleum. Black veins pulse visibly beneath the skin. Its eyes are open and aware, tracking Garrick's every movement. It wears heavy corrupted plate armor, and in its hands is a warhammer that glows with the same iridescent energy.
+
+The Twisted Overseer doesn't hesitate.
+
+It moves with shocking speed for something in heavy plate, closing the distance in two strides. The warhammer comes around in a brutal arc, catching Garrick just as he's recovering from forcing the doors open. The impact is bone-jarring — **CRACK** — the sound of metal on enchanted armor echoing through the chamber.
+
+**[Garrick takes 14 bludgeoning damage from Warhammer attack]**
+
+Garrick staggers back a step, the breath knocked from his lungs. The Overseer doesn't follow up immediately — it plants its feet, warhammer held ready, and lets out a low, guttural sound that isn't speech but carries clear intent: *You should not be here.*
+
+From the flooded side passage to the right of the pumps, four more figures rise from the water. Twisted Saboteurs — dwarven in form but corrupted like the Overseer, their veins pulsing black, their eyes fixed on the pumps rather than the party. They carry tools, not weapons: pry bars, stone chisels, coils of black organic resin. They don't look at Garrick. They look past him, at the sabotaged pumps, and begin moving toward them with single-minded purpose.
+
+Mercer's spectral mind hovers near the ceiling, giving him a bird's-eye view of the chamber. He sees the sabotage clearly now: Pump One's intake valve fused shut with black resin, Pump Two's connecting pipes severed cleanly, Pump Three's control mechanism disassembled and scattered. And near Pump Three — fresh footprints in the mineral residue. Dwarven boot prints, broad and heavy-soled, matching the ceremonial armor from the mausoleum. But these prints are days old, not centuries.
+
+Cora's perimeter alarm flashes and sizzles at the water's edge as something breaks the surface — not the saboteurs, but something else moving in the dark water, circling the platform.
+
+The Overseer raises its warhammer again, its corrupted eyes fixed on Garrick. The four saboteurs split — two moving to flank Garrick from the sides, two heading directly for Pump One, their tools raised not to fight but to sabotage.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 3/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+"Garrick, hold the Overseer! Mercer, stop those saboteurs from further damage—they're here to destroy the pumps, not fight us!" I shout, already calculating the battlefield. My eyes scan the sabotage patterns: fused valves, severed pipes, disassembled controls. This isn't random destruction—it's systematic, intelligent sabotage.
+
+I move to the nearest pump assembly, pulling out my alchemist's supplies. "The resin is organic, likely Sleeper-grown. Acid might dissolve it without damaging the dwarven metal." I prepare a concentrated acid mixture, targeting the black resin on Pump One's intake valve. "Mercer, if you can slow them with a spell, I can neutralize their sabotage tools with reactive compounds!"
+
+
+--- Garrick Kade ---
+"Overseer's mine!" I roar, ignoring the pain from the warhammer strike. My maul comes around in a massive swing, enhanced by my Giant's Might. The weapon connects with the Twisted Overseer's corrupted plate armor with a deafening crash.
+
+
+--- Professor Thaddeus Mercer ---
+"Cora's right—they're saboteurs, not warriors!" I call out, my voice echoing from both my physical position and my spectral mind near the ceiling. "They're prioritizing the pumps over combat. That means they're following orders or programming!"
+
+Through my Manifest Mind, I have perfect positioning. I don't need line of sight from my hiding spot. I focus on the two saboteurs heading for Pump One, my hands weaving intricate patterns as I channel arcane energy through the spectral consciousness. "Let's see how they handle being stuck in place!"
+
+I cast **Web** through my Manifest Mind, targeting the area around Pump One where the saboteurs are converging. Sticky, magically conjured webbing erupts from the floor and machinery, attempting to entangle the corrupted dwarves and prevent them from reaching their sabotage targets.
+
+"Garrick, keep the Overseer occupied! Cora, work on that resin—I'll buy you time!" I shout, already preparing my next spell. My academic mind races even as I fight: *Twisted dwarves from the mausoleum, days-old footprints, systematic sabotage... This isn't random corruption. This is a coordinated effort to keep the lower levels flooded. But why? What's down there that needs to stay submerged?*
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Garrick Kade**: Maul attack vs Twisted Overseer — 25 vs unknown AC — **HIT** (damage roll needed to determine effect)
+
+**Professor Thaddeus Mercer**: Cast Web spell — No roll needed (spellcasting action, saboteurs must make DEX saves)
+
+**Cora Flint**: Alchemist's Supplies check to analyze/neutralize resin — **SUCCESS** (INT +8 with Tool Expertise, DC 13 for technical analysis) Cora successfully identifies the organic nature of the sabotage resin and prepares appropriate countermeasures.
+
+
+[Enemy] Twisted Overseer acting...
+
+
+--- Twisted Overseer (Enemy) ---
+=== TWISTED OVERSEER ACTIONS ===
+ACTION: Warhammer attack targeting Garrick Kade.
+
+
+[Enemy] Twisted Saboteurs acting...
+
+
+--- Twisted Saboteurs (Enemy) ---
+=== TWISTED SABOTEURS ACTIONS ===
+ACTION: Pry bar attack targeting Garrick Kade. Attack roll: 6 (miss)
+BONUS ACTION: None
+LEGENDARY ACTION: None
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+**Twisted Overseer**: Warhammer attack vs Garrick Kade — Roll needed vs AC 16 — **PENDING** (no attack roll provided)
+
+**Twisted Saboteur**: Pry bar attack vs Garrick Kade — 6 vs AC 16 — **MISS** (attack roll too low to hit)
+
+
+--- DM ---
+Garrick's maul connects with the Twisted Overseer's corrupted plate armor in a shower of sparks and black ichor. The impact is brutal — **[Garrick deals 18 bludgeoning damage]** — and the Overseer staggers back a step, its iridescent skin rippling with the force of the blow. But it doesn't fall. Instead, it lets out that same guttural sound, more urgent now, and raises its warhammer again.
+
+The Overseer's warhammer comes around in a vicious arc, aiming for Garrick's midsection. Garrick brings his maul up to block, but the Overseer's strike is too fast, too precise — **[Twisted Overseer attacks: 22 vs AC 16, HIT]** — the warhammer slams into Garrick's side with crushing force. **[Garrick takes 15 bludgeoning damage]**
+
+Meanwhile, Mercer's Web spell erupts around Pump One. Sticky, magically conjured webbing bursts from the floor and machinery, wrapping around the two saboteurs who were heading for the pump. One manages to dive aside at the last second, but the other is caught — **[Saboteur 1 DEX save: 8 vs DC 16, FAIL]** — entangled in the thick, sticky strands. It struggles silently, its tools clattering to the floor as it tries to free itself.
+
+The remaining two saboteurs ignore Garrick and the Overseer entirely. One swings a pry bar at Garrick as it passes — **[Saboteur pry bar attack: 6 vs AC 16, MISS]** — the clumsy strike missing completely as the creature's focus remains fixed on the pumps. Both saboteurs continue toward Pump Two, their stone chisels raised, moving with that same single-minded purpose.
+
+Cora's acid mixture sizzles as she applies it to the black resin sealing Pump One's intake valve. The resin reacts violently — bubbling, hissing, releasing a foul-smelling vapor that smells of deep earth and something metallic. The acid is working, but slowly. The resin fights back, regrowing at the edges even as Cora dissolves the center. She needs help — someone to scrape the regrowing edges while she works the center.
+
+From the flooded side passage, more ripples. Then a shape rises from the water — another Twisted Saboteur, then another. Six total now, with more movement in the dark water beyond. They're not attacking. They're watching, waiting, their corrupted eyes fixed on the pumps.
+
+The Overseer steps back from Garrick, its warhammer held defensively. It looks past Garrick to the pumps, to Cora working on the resin, to Mercer's spectral mind hovering near the ceiling. Its expression is unreadable — not anger, not hatred, but something colder. Calculation. Then it makes a sharp gesture with its free hand.
+
+The two unentangled saboteurs at Pump Two begin their work immediately. They don't try to fight. They begin dismantling the pump's remaining connections with professional precision, their stone chisels finding weak points in the dwarven plumbing.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 4/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+"Mercer, I need you to scrape the edges while I work the center—this resin regenerates!" I shout, my hands moving quickly with the acid mixture. "Garrick, keep that Overseer occupied but don't kill it if you can help it—we need to understand why they're sabotaging their own infrastructure!"
+
+I glance at the new saboteurs emerging from the water. "They're not attacking—they're observing. This is coordinated, not mindless aggression. The Overseer is directing them." I pour more concentrated acid on the resin, watching it bubble violently. "If we can clear just one pump, we might be able to start partial drainage and buy time!"
+
+
+--- Garrick Kade ---
+I ignore Cora's request to spare the Overseer. "They're destroying our home!" I roar, swinging my maul at the Overseer again. "Understanding comes after they're down!"
+
+My attack connects solidly with the Overseer's armor. "Mercer, stop those saboteurs at Pump Two! I'll handle this one!" I keep the pressure on the Overseer, forcing it back away from the pumps with another heavy blow.
+
+
+--- Professor Thaddeus Mercer ---
+"Cora, I'm coming!" I call out, abandoning my cover and moving toward Pump One with surprising speed for an academic. My spectral mind maintains its position, giving me a perfect view of the entire chamber even as I work.
+
+As I reach Cora's side, I use Mage Hand to manipulate a scraping tool from the maintenance supplies, directing it with precise telekinetic control to scrape at the regenerating edges of the black resin. "Fascinating—this isn't just organic material, it's actively regenerating through some kind of cellular replication. The Sleeper's influence creates self-repairing structures!"
+
+But my academic excitement is tempered by the tactical situation. Through my Manifest Mind, I see the saboteurs at Pump Two making rapid progress. "Garrick's right about immediate threats, but Cora's right about the bigger picture. They're not mindless—they're following a strategic objective."
+
+I make a quick decision. While my Mage Hand assists Cora with the scraping, I focus my primary attention through my spectral mind. "Let's see how they handle being slowed to a crawl," I mutter, casting **Slow** through the Manifest Mind, targeting the area around Pump Two where the saboteurs are working. A wave of temporal distortion washes over them, attempting to reduce their movements to a snail's pace and buy us critical time.
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Garrick Kade**: Maul attack vs Twisted Overseer — 19 vs unknown AC — **HIT** (damage roll needed to determine effect)
+
+**Professor Thaddeus Mercer**: Cast Slow spell — No roll needed (spellcasting action, saboteurs must make WIS saves)
+
+**Cora Flint**: Alchemist's Supplies check with Mage Hand assistance — **SUCCESS** (INT +8 with Tool Expertise, DC 13 for technical work with help) Cora and Mercer successfully coordinate to combat the regenerating resin.
+
+
+[Enemy] Twisted Overseer acting...
+
+
+--- Twisted Overseer (Enemy) ---
+=== TWISTED OVERSEER ACTIONS ===
+ACTION: Warhammer attack targeting Garrick Kade.
+
+
+[Enemy] Twisted Saboteurs acting...
+
+
+--- Twisted Saboteurs (Enemy) ---
+=== TWISTED SABOTEURS ACTIONS ===
+ACTION: Pry bar attack targeting Garrick Kade. Attack roll: 6 (miss)
+BONUS ACTION: None
+LEGENDARY ACTION: None
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+**Twisted Overseer**: Warhammer attack vs Garrick Kade — Roll needed vs AC 16 — **PENDING** (no attack roll provided)
+
+**Twisted Saboteur**: Pry bar attack vs Garrick Kade — 6 vs AC 16 — **MISS** (attack roll too low to hit)
+
+
+--- DM ---
+Garrick's maul slams into the Twisted Overseer again — **[Garrick deals 16 bludgeoning damage]** — and this time the corrupted dwarf stumbles back, black ichor leaking from cracks in its plate armor. But it doesn't fall. Instead, it plants its feet and swings its warhammer with renewed fury — **[Twisted Overseer attacks: 24 vs AC 16, HIT]** — the blow catching Garrick squarely in the chest. **[Garrick takes 17 bludgeoning damage]**
+
+Garrick grunts with the impact, his rune-inscribed armor groaning under the force. He's taking serious punishment, but he holds his ground, keeping the Overseer engaged and away from the pumps.
+
+At Pump One, Cora and Mercer work in perfect coordination. Cora's acid eats away at the center of the black resin while Mercer's Mage Hand scrapes at the regenerating edges. The resin fights back — it regrows almost as fast as they can remove it, tendrils of black organic material creeping back over cleared areas. But they're making progress. The intake valve is becoming visible beneath the dissolving mass.
+
+Mercer's Slow spell washes over the area around Pump Two. The two saboteurs working there suddenly move as if through thick mud — **[Saboteur 2 WIS save: 7 vs DC 16, FAIL]** — their movements becoming agonizingly slow. One raises its stone chisel to strike a pipe connection, but the motion takes three full seconds instead of one. The other tries to step toward a different section of the pump, but its foot seems stuck in molasses.
+
+But the spell doesn't stop them entirely. They continue their work, just at a fraction of their normal speed. And from the flooded passage, more saboteurs are emerging — two more climb onto the dry stone, then a third. They don't join the fight. They spread out, moving toward different pumps, their tools ready.
+
+The Overseer makes another sharp gesture. This time, it's directed at the saboteurs emerging from the water. They immediately change course — instead of heading for the pumps, they move to flank Garrick. Two approach from the left, two from the right, their pry bars and chisels held not as weapons but as tools... tools that could just as easily be used to dismantle a person as a pump.
+
+The Overseer itself steps back, disengaging from Garrick. It's not retreating — it's repositioning. It moves toward Pump Three, where the control mechanism lies disassembled on the floor. Its warhammer is held ready, but its eyes are on the scattered components. It's going to finish the sabotage personally.
+
+From the water, a new sound emerges — a deep, resonant hum that vibrates through the stone floor. The water in the flooded passage begins to churn, bubbles rising to the surface. Something large is moving down there, something bigger than the saboteurs.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 5/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+"Garrick, fall back to the pump—they're trying to flank and dismantle you!" I shout, my eyes darting between the resin and the approaching saboteurs. "Mercer, can you target the Overseer with something to keep it away from Pump Three's controls?"
+
+I make a quick decision. "The resin regeneration is too fast—we need to seal the valve manually once we clear it. Mercer, when I give the signal, use your Mage Hand to insert this emergency sealant plug." I pull a dwarven emergency repair kit from my supplies. "Garrick, buy us thirty seconds—then we need to retreat and reassess. That humming in the water means something bigger is coming!"
+
+
+--- Garrick Kade ---
+"I'm not retreating!" I roar, ignoring the flanking saboteurs. Instead of falling back, I charge straight at the Overseer heading for Pump Three. "You want the controls? You go through me first!"
+
+I swing my maul at the Overseer, trying to knock it away from the scattered components. My attack is clumsy as I'm still recovering from the last hit, but I keep moving, putting myself between the Overseer and Pump Three's controls. "Cora, do what you need to! I'll hold this line!"
+
+
+--- Professor Thaddeus Mercer ---
+"Garrick, you magnificent fool—you're going to get yourself killed!" I shout, but there's a grudging respect in my voice. Through my Manifest Mind, I see the tactical situation deteriorating rapidly: flanking saboteurs, the Overseer heading for critical controls, and something large approaching in the water.
+
+"Cora, I'll handle the Overseer," I say, my voice taking on that clipped, formal tone that means I'm genuinely frightened. "But we need to finish this valve NOW. My Mage Hand is ready with your sealant."
+
+Even as I speak, I'm already acting. I keep my physical focus on assisting Cora with the resin removal, but through my spectral mind hovering near the ceiling, I target the Overseer with a different approach. Instead of direct damage, I need to control its movement.
+
+"Let's see how it handles being immobilized," I mutter, casting **Hold Person** through my Manifest Mind. I target the Overseer with the enchantment, attempting to paralyze it in place before it can reach Pump Three's controls. The spell requires concentration, but if it works, it will give Garrick the opening he needs and prevent further sabotage.
+
+"Garrick, if this works, strike now! Cora, signal when you're ready for the sealant—we may only get one chance at this!" The deep humming from the water grows louder, vibrating through my bones. "And whatever that is in the water... I don't think it's friendly."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Garrick Kade**: Maul attack vs Twisted Overseer — 10 vs unknown AC — **MISS** (NATURAL 1! Garrick's attack is clumsy and off-balance as he charges while injured)
+
+**Professor Thaddeus Mercer**: Cast Hold Person spell — No roll needed (spellcasting action, Overseer must make WIS save vs DC 16)
+
+**Cora Flint**: Alchemist's Supplies check with emergency repair — **SUCCESS** (INT +8 with Tool Expertise, DC 13 for technical work) Cora successfully prepares the emergency sealant system.
+
+
+[Enemy] Twisted Overseer acting...
+
+
+--- Twisted Overseer (Enemy) ---
+=== TWISTED OVERSEER ACTIONS ===
+ACTION: Warhammer attack targeting Garrick Kade.
+
+
+[Enemy] Twisted Saboteurs acting...
+
+
+--- Twisted Saboteurs (Enemy) ---
+=== TWISTED SABOTEURS ACTIONS ===
+ACTION: Pry bar attack targeting Garrick Kade. Attack roll: 9 (miss)
+BONUS ACTION: None
+LEGENDARY ACTION: None
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+**Twisted Overseer**: Warhammer attack vs Garrick Kade — Roll needed vs AC 16 — **PENDING** (no attack roll provided)
+
+**Twisted Saboteur**: Pry bar attack vs Garrick Kade — 9 vs AC 16 — **MISS** (attack roll too low to hit)
+
+
+--- DM ---
+Garrick's maul swings wide — he's off-balance from his injuries, and the weapon whistles past the Overseer's head without connecting. The Overseer doesn't even flinch. It raises its warhammer and brings it down in a crushing overhead strike — **[Twisted Overseer attacks: 27 vs AC 16, HIT]** — the blow slamming into Garrick's shoulder with bone-jarring force. **[Garrick takes 19 bludgeoning damage]**
+
+Garrick staggers, his knees buckling for a moment before he catches himself. He's badly hurt now, blood mixing with the black ichor on his armor. But he doesn't fall.
+
+At that moment, Mercer's Hold Person spell takes effect. Arcane energy wraps around the Overseer like invisible chains — **[Twisted Overseer WIS save: 8 vs DC 16, FAIL]** — and the corrupted dwarf freezes in place, its warhammer still raised, its body rigid. Its eyes remain aware, tracking Garrick with cold calculation, but it cannot move.
+
+The flanking saboteurs close in. One swings a pry bar at Garrick — **[Saboteur pry bar attack: 9 vs AC 16, MISS]** — but the strike is clumsy, deflected by Garrick's armor. The others don't attack. They move past Garrick, heading for Pump Three's scattered components. They're going to continue the sabotage even with their Overseer immobilized.
+
+At Pump One, Cora makes the final application of acid. The last of the black resin dissolves with a hiss, revealing the intact dwarven valve beneath. "NOW, Mercer!" she shouts.
+
+Mercer's Mage Hand moves with precision, inserting the emergency sealant plug into the valve opening. There's a satisfying *CLICK* as dwarven engineering engages. Pump One's intake valve is sealed and ready.
+
+But the victory is short-lived. The deep humming from the water grows louder, becoming a resonant vibration that shakes loose dust from the ceiling. The water in the flooded passage churns violently, and something begins to rise — something massive, its outline visible just below the surface. It's at least fifteen feet long, mechanical in shape, covered in the same black organic resin as the sabotage.
+
+And from the drainage conduits — the dry pipes that should carry water out of the mountain — scraping sounds echo. Then clattering. Then the sound of something crawling through the narrow spaces. The Twisted have found the third approach.
+
+The Overseer, still held by Mercer's spell, makes a guttural sound. It's not a cry of pain or anger. It's a command. And the saboteurs respond immediately. They abandon their attempts to reach Pump Three's components. Instead, they turn and begin retreating toward the flooded passage, moving with coordinated purpose.
+
+They're not running away. They're regrouping. And whatever is rising from the water is almost at the surface.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 6/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+"Garrick, fall back to us—you're in no condition to hold that line!" I shout, already pulling out healing supplies. "Mercer, keep that Overseer contained but be ready to drop the spell if whatever's in the water surfaces!"
+
+I quickly assess our position. "We've secured Pump One's valve, but we can't repair the others under fire. Strategic retreat to the maintenance cart—we can use it as a mobile platform and come back with reinforcements." I apply a healing salve to Garrick's worst wounds as he reaches us. "That's 15 gold worth of supplies coming out of your share, by the way. Now move—they're not fleeing, they're drawing us into an ambush with whatever that thing in the water is!"
+
+
+--- Garrick Kade ---
+I grunt in pain as Cora applies the salve. "Fine, we pull back," I concede, blood dripping from my armor. "But not before I make sure this Overseer doesn't follow us."
+
+I turn back to the paralyzed Overseer, raising my maul for one final strike. "This is for trying to flood my home!" I bring the weapon down with all my remaining strength, aiming to finish the corrupted dwarf before we retreat.
+
+
+--- Professor Thaddeus Mercer ---
+"Garrick, NO!" I shout, my academic detachment completely gone, replaced by raw survival instinct. "We need it alive! It's commanding them—if we kill it, we lose our chance to understand their coordination!"
+
+But even as I protest, I see the tactical reality. The massive shape is surfacing, the scraping in the conduits grows louder, and we're exposed on this platform. My mind races through options even as I maintain concentration on Hold Person.
+
+"Cora's right about retreat, but wrong about leaving," I say, my voice tight. "We can't abandon the pumps entirely—the water will keep rising. But we need a defensible position."
+
+I make a quick decision. "Garrick, if you must strike, make it non-lethal! We need to interrogate it later! Cora, get to the cart—I'll cover our retreat!"
+
+Through my Manifest Mind, I have one last gambit. As Garrick strikes (hopefully with restraint), I prepare to cast **Web** again, but this time I target the flooded passage entrance where the massive shape is surfacing. If I can create a barrier of sticky webbing across the water's surface and the conduit entrances, it might slow whatever's coming long enough for us to escape with our prisoner.
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Garrick Kade**: Maul attack vs paralyzed Twisted Overseer — 28 vs unknown AC — **CRITICAL HIT** (automatic hit due to paralysis, critical damage roll needed) Garrick can choose to make this non-lethal as per D&D rules.
+
+**Professor Thaddeus Mercer**: Cast Web spell — No roll needed (spellcasting action, creates barrier at flooded passage)
+
+**Cora Flint**: Medicine check to apply healing salve — **SUCCESS** (WIS +2, DC 10 for basic first aid) Cora successfully stabilizes Garrick's worst wounds.
+
+
+[Enemy] Twisted Overseer acting...
+
+
+--- Twisted Overseer (Enemy) ---
+=== TWISTED OVERSEER ACTIONS ===
+ACTION: Warhammer attack targeting Garrick Kade.
+
+
+[Enemy] Twisted Saboteurs acting...
+
+
+--- Twisted Saboteurs (Enemy) ---
+=== TWISTED SABOTEURS ACTIONS ===
+ACTION: Pry bar attack targeting Garrick Kade. Attack roll: 24 (hit). Damage: 5 bludgeoning damage.
+BONUS ACTION: None
+LEGENDARY ACTION: None
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+**Twisted Overseer**: Warhammer attack vs Garrick Kade — Roll needed vs AC 16 — **PENDING** (no attack roll provided)
+
+**Twisted Saboteur**: Pry bar attack vs Garrick Kade — 24 vs AC 16 — **HIT** (Garrick takes 5 bludgeoning damage)
+
+
+--- DM ---
+Garrick's maul comes down on the paralyzed Overseer with crushing force — but at the last moment, he twists the weapon, turning the lethal strike into a brutal but non-lethal blow. The flat of the maul's head slams into the Overseer's helmet with a deafening **CRACK** — **[Garrick deals 24 bludgeoning damage (non-lethal)]** — and the corrupted dwarf collapses to the stone floor, unconscious but alive.
+
+But as Garrick strikes, one of the retreating saboteurs sees an opening. It lunges forward, its pry bar swinging in a vicious arc — **[Saboteur pry bar attack: 24 vs AC 16, HIT]** — the metal bar connects with Garrick's already-injured side. **[Garrick takes 5 bludgeoning damage]**
+
+Garrick grunts with the impact, stumbling back a step. He's barely standing now, his armor dented and bloodied, but he remains on his feet.
+
+Mercer's Web spell erupts across the flooded passage entrance. Thick, sticky webbing covers the water's surface and the openings of the drainage conduits, creating a temporary barrier. The massive shape rising from the water hits the webbing — there's a violent thrashing as whatever it is struggles against the magical strands. The scraping sounds from the conduits stop abruptly as the crawling things encounter the barrier.
+
+But the webbing won't hold forever. Already, the massive shape is tearing through it, its movements powerful enough to shred the magical strands. And from the water around the edges of the webbing, more saboteurs are emerging — not climbing onto the platform, but gathering in the water, watching, waiting.
+
+The unconscious Overseer lies on the stone floor, its warhammer still gripped in its hand. The other saboteurs have retreated into the water, disappearing beneath the surface. But they haven't gone far — their iridescent forms are visible just below, circling like sharks.
+
+Cora's healing salve has stabilized Garrick's worst wounds, but he's still badly hurt. The maintenance cart is twenty feet away, back on the dry platform. The path is clear... for now.
+
+But the webbing is already tearing. The massive shape beneath it is almost free. And from the station's entrance, a new sound emerges — the **CLANG. CLANG. CLANG.** of metal on stone, echoing from deeper in the pump station. More Twisted are coming through another route.
+
+The party has secured Pump One's valve and captured the Overseer. But they're surrounded, injured, and whatever is in the water is about to break free.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 7/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+"Garrick, grab the Overseer—we're taking it with us for interrogation!" I shout, already moving toward the maintenance cart. "Mercer, cover our retreat with something that will slow whatever's in the water!"
+
+I help drag the unconscious Twisted toward the cart, my mind racing through calculations. "We have one pump secured, a prisoner who might know why they're sabotaging their own infrastructure, and we're all still breathing. That's a net positive in my ledger." I toss a smoke pellet behind us as we retreat. "Move quickly—that webbing won't hold, and I don't want to find out what fifteen feet of mechanical corruption can do!"
+
+
+--- Garrick Kade ---
+I grunt in pain but grab the unconscious Overseer by its armor collar. "Got it," I say, heaving the corrupted dwarf over my shoulder despite my injuries. My enhanced strength from Giant's Might makes the burden manageable.
+
+I move toward the cart, keeping my maul ready in my other hand. "Mercer, hit that thing in the water with everything you've got! Cora, get the cart moving!" I toss the Overseer into the cargo area with a heavy thud, then climb in after it, keeping my weapon trained on the water. "Go! Now!"
+
+
+--- Professor Thaddeus Mercer ---
+"Covering retreat now!" I shout, my voice edged with genuine fear. I abandon my position and sprint toward the cart, my robes flapping behind me. As I run, I maintain concentration on my Manifest Mind near the ceiling—it gives me the perfect vantage point even as my physical body flees.
+
+Through the spectral consciousness, I see the massive shape finally tearing free of the webbing. It's some kind of corrupted mechanical construct, covered in the same black resin, with multiple articulated limbs. I don't have time for a detailed examination.
+
+"Let's give it something more substantial to chew on!" I call out, casting **Wall of Force** through my Manifest Mind. I create a transparent, impenetrable barrier across the entire flooded passage entrance—a ten-foot-wide, twenty-foot-tall wall of pure force that should block whatever's coming long enough for us to escape.
+
+I scramble into the cart beside Garrick and the unconscious Overseer, breathing heavily. "That should hold it for ten minutes—plenty of time to get back to the hub. But we need to move NOW!" I glance back at the station, my academic mind already cataloging what we've learned. "They're not mindless... they're coordinated, strategic, and they're trying to keep the lower levels flooded. That Overseer had better have some answers."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Garrick Kade**: Athletics check to carry unconscious Overseer — **SUCCESS** (STR +9 with Giant's Might advantage) Garrick successfully carries the prisoner despite injuries.
+
+**Professor Thaddeus Mercer**: Cast Wall of Force spell — No roll needed (spellcasting action, creates impenetrable barrier)
+
+**Cora Flint**: Sleight of Hand/Stealth check with smoke pellet — **SUCCESS** (DEX +2, DC 10 for basic distraction) Cora creates effective cover for retreat.
+
+No contested actions this round—successful tactical retreat executed.
+
+
+[Enemy] Twisted Overseer acting...
+
+
+--- Twisted Overseer (Enemy) ---
+=== TWISTED OVERSEER ACTIONS ===
+ACTION: Warhammer attack targeting Garrick Kade.
+
+
+[Enemy] Twisted Saboteurs acting...
+
+
+--- Twisted Saboteurs (Enemy) ---
+=== TWISTED SABOTEURS ACTIONS ===
+ACTION: Pry bar attack targeting Garrick Kade. Attack roll: 8 (miss)
+BONUS ACTION: None
+LEGENDARY ACTION: None
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+**Twisted Overseer**: Warhammer attack vs Garrick Kade — Roll needed vs AC 16 — **PENDING** (no attack roll provided, Overseer is unconscious)
+
+**Twisted Saboteur**: Pry bar attack vs Garrick Kade — 8 vs AC 16 — **MISS** (attack roll too low to hit)
+
+
+--- DM ---
+The maintenance cart lurches into motion, its wheels splashing through the ankle-deep water at the platform's edge. Cora works the controls with practiced efficiency, reversing the cart back onto the northern track. Behind them, Mercer's Wall of Force shimmers into existence across the flooded passage entrance — a transparent, impenetrable barrier that blocks the massive shape now fully emerging from the water.
+
+The creature is a nightmare of corrupted engineering: a dwarven mining mech, fifteen feet tall, covered in the same black organic resin that sealed Pump One's valve. Its multiple articulated limbs end in drill bits and cutting tools, all coated with the iridescent sheen of Dreamstone radiation. It slams into the Wall of Force with enough force to make the entire station shudder, but the magical barrier holds firm.
+
+The Twisted saboteurs in the water don't pursue. They watch from below the surface, their iridescent forms fading back into the darkness as the cart pulls away. The **CLANG. CLANG. CLANG.** from deeper in the station continues for a few more beats, then falls silent.
+
+The cart gains speed as it moves up the sloping tunnel, leaving the knee-deep water behind. The warm, damp air gives way to the cooler, drier atmosphere of the transit network. Twenty minutes later, the cart rolls into the Eastern Transit Hub, the forge-light welcoming them back to relative safety.
+
+In the cargo area, the unconscious Twisted Overseer lies where Garrick tossed it. Its corrupted plate armor is dented from Garrick's non-lethal blow, black ichor seeping from the cracks. Its warhammer — a +1 weapon of dwarven make, now corrupted by prolonged Twisted contact — lies beside it, the handle warm to the touch, the head glowing with faint iridescence.
+
+Cora immediately begins securing the prisoner with dwarven manacles from the hub's supplies. "We need to contain it properly. The Sleeper's influence might extend even through unconsciousness."
+
+Garrick slumps against the cart's side, breathing heavily. His armor is badly damaged, blood mixing with black ichor. "That thing in the water... it was a mining mech. The dwarves built excavation machines. And the Twisted have been modifying them."
+
+Mercer's spectral mind dissipates as he releases concentration on his spells. He looks pale, shaken. "They're not just corrupted dwarves. They're maintaining and modifying dwarven technology. That requires intelligence, memory, skill. The Sleeper hasn't destroyed their minds — it's repurposed them."
+
+He approaches the unconscious Overseer, his academic curiosity overcoming his fear. "Look at its tools. Professional grade. And the sabotage on the pumps — that wasn't mindless destruction. That was surgical precision. They understand dwarven engineering at a professional level."
+
+The transit hub's control panel still shows the northern branch as partially flooded, Pump Station East as offline. But now there's new data: water level readings showing a slight decrease where Pump One's valve was secured. The drainage has begun, just a trickle, but it's started.
+
+From deeper in the mountain, through the ventilation shafts connected to the forge, a new sound carries: the groaning of stressed stone, the drip of centuries of mineral deposits, and — distant but unmistakable — the heavy industrial sounds the party first heard from the Human layers above. The Twisted's operations are being exposed as the water recedes.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 8/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I finish securing the Overseer with reinforced manacles, then immediately turn to Garrick. "Sit down before you fall down. That's coming out of your share too—repairing that armor won't be cheap." I begin a proper triage, assessing his wounds with clinical detachment. "Multiple blunt force trauma, possible internal bleeding, armor integrity compromised. Mercer, check the hub's medical supplies for bandages and antiseptic."
+
+I examine the Overseer's warhammer, careful not to touch it directly. "This is dwarven craftsmanship, corrupted but functional. They're not just maintaining technology—they're enhancing it with Sleeper-grown materials." I look at the control panel showing the slight water level decrease. "We've bought time, but we need to understand their motives. Why sabotage pumps that keep their own infrastructure from flooding?"
+
+
+--- Garrick Kade ---
+I slump against the cart, wincing as Cora examines my wounds. "Forget my share," I grunt, my breathing still labored. "Just patch me up so I can get back in there."
+
+I look at the unconscious Overseer, then at the corrupted warhammer. "They're not mindless. That Overseer fought with strategy. It directed the others." I shake my head, the movement making me dizzy. "If they're intelligent, then the sabotage is deliberate. They want the water to rise for a reason."
+
+I push myself upright despite the pain. "We need to interrogate it when it wakes up. But we do it here, in a secured area. And we need to be ready in case the Sleeper can communicate through it." I look at Mercer. "Can you detect if there's some kind of... psychic link? Something controlling it from a distance?"
+
+
+--- Professor Thaddeus Mercer ---
+I approach the unconscious Overseer cautiously, my spectral quill already taking notes. "Garrick raises an excellent point about psychic links. Let me examine this scientifically."
+
+I cast **Detect Magic** and carefully study the Overseer, focusing particularly on its corrupted form and the warhammer. "The iridescent sheen is consistent with Dreamstone radiation exposure, but there's something more... organized about it. Not random corruption, but directed transformation."
+
+My quill records my observations in glowing script. "Look at the pattern of black veins—they follow major nerve pathways and circulatory routes. This suggests the Sleeper's influence is interfacing with biological systems at a cellular level. As for psychic control..."
+
+I make a more detailed arcane examination, looking for signs of ongoing magical connections or control links. "If there were active psychic control, I'd expect to see residual telepathic energy signatures or some form of magical tether. But what I'm observing appears to be... integrated. The corruption isn't being maintained from a distance—it's become part of the organism's fundamental structure."
+
+I step back, my academic excitement returning despite the danger. "This is extraordinary! They're not puppets being controlled—they're transformed beings with retained knowledge and skills. The Overseer remembered dwarven engineering principles well enough to sabotage pumps with surgical precision. That means the Sleeper isn't destroying minds, it's... repurposing them for its own objectives."
+
+I look at my colleagues, my expression serious. "Which makes our prisoner both more valuable and more dangerous. It's not a mindless thrall we can interrogate—it's a transformed dwarf with its own will, now aligned with the Sleeper's goals. And if it wants the lower levels flooded... we need to understand why before we attempt further drainage."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Medicine check for triage — **SUCCESS** (WIS +2, DC 10 for basic medical assessment) Cora successfully assesses Garrick's injuries and organizes treatment.
+
+**Professor Thaddeus Mercer**: Arcana/Investigation check with Detect Magic — **SUCCESS** (INT +9 with expertise, DC 13 for detailed magical analysis) Mercer successfully identifies the integrated nature of the corruption and lack of active psychic control links.
+
+**Garrick Kade**: Insight check about Twisted motives — **SUCCESS** (WIS +0, DC 10 for basic deduction) Garrick correctly deduces the sabotage is deliberate and strategic.
+
+No contested actions this round—post-combat analysis and prisoner securing completed.
+
+
+[Enemy] Twisted Overseer acting...
+
+
+--- Twisted Overseer (Enemy) ---
+=== TWISTED OVERSEER ACTIONS ===
+ACTION: Warhammer attack targeting Garrick Kade.
+
+
+[Enemy] Twisted Saboteurs acting...
+
+
+--- Twisted Saboteurs (Enemy) ---
+=== TWISTED SABOTEURS ACTIONS ===
+ACTION: The Twisted Overseer is unconscious and secured with manacles. No attack possible this round.
+BONUS ACTION: None
+LEGENDARY ACTION: None
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+**Twisted Overseer**: Warhammer attack vs Garrick Kade — **NO ATTACK POSSIBLE** (Overseer is unconscious and manacled)
+
+**Twisted Saboteurs**: No attacks possible (creatures have retreated/disengaged)
+
+[Session] Combat ended — enemy defeated (PC-initiated path, exchange 8)
+
+--- DM ---
+The Eastern Transit Hub settles into an uneasy quiet, broken only by the hum of the forge's ventilation system and the distant drip of water from the northern tunnel. Cora works efficiently, cleaning and bandaging Garrick's wounds with supplies from the hub's emergency cache. The injuries are serious — multiple deep bruises, cracked ribs, and a shoulder that will need proper setting — but nothing life-threatening now that they're out of immediate danger.
+
+The Twisted Overseer lies secured in the manacles, its breathing slow and steady. Mercer's magical examination reveals no active psychic links, no magical tethers connecting it to some distant controller. The corruption is integrated — the Sleeper's influence has become part of the dwarf's fundamental biology, but it retains its memories, skills, and intelligence. It's not a puppet. It's a transformed being with its own will, now aligned with whatever the Sleeper wants.
+
+Garrick's deduction hangs in the air: *They want the water to rise for a reason.*
+
+The control panel confirms it. The water level readings from Pump Station East show the slight decrease from the secured valve, but also something else: pressure readings from the lower Dwarven Layer. The water isn't just sitting there. It's under pressure, and that pressure is increasing as the pumps remain offline. If the party had managed to activate all three pumps, they would have released that pressure gradually. But with only one valve secured...
+
+Mercer studies the data, his spectral quill recording calculations. "The pressure differentials are wrong. The water in the lower levels isn't just floodwater — it's being contained. Like a dam holding back a reservoir. And the Twisted are maintaining that dam."
+
+He looks from the control panel to the unconscious Overseer. "They're not trying to flood the mountain. They're trying to *prevent* drainage. They want the lower levels to stay submerged. Which means there's something down there they don't want exposed."
+
+As if in response to his words, the Overseer's eyes flutter open.
+
+The corrupted dwarf doesn't struggle against the manacles. It doesn't cry out or try to escape. It simply lies there, its iridescent eyes open and aware, looking at each member of the party in turn. Its expression is unreadable — not anger, not fear, not hatred. Something colder. Assessment.
+
+Then it speaks. Its voice is rough, guttural, the words coming slowly as if remembering how to form them after centuries of silence. "You... should not... have come."
+
+The words are Common, but accented with dwarven inflection. The Overseer remembers language. It remembers speech. It remembers *who it was*.
+
+It turns its head toward the control panel, seeing the water level readings. Its expression changes — not fear, but something closer to resignation. "The water... must remain. What sleeps... must not wake."
+
+Then its eyes fix on Garrick, and for the first time, there's emotion in them. Not hatred. Pity. "You think... you defend your home. You do not... understand what you defend."
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 9/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I step between the Overseer and Garrick, my expression clinical. "You're speaking in contradictions. You say 'what sleeps must not wake,' but you serve the Sleeper. You sabotage pumps to keep water contained, yet you're flooding your own infrastructure." I kneel to its eye level. "What's in the lower levels that's worse than the Sleeper? And why would keeping it submerged be worth drowning your entire civilization?"
+
+I glance at Mercer. "Record everything it says. If it's coherent enough to warn us, it's coherent enough to explain." Back to the Overseer: "Start with names. What were you called before the corruption? What was your role?"
+
+
+--- Garrick Kade ---
+I push myself up, ignoring the pain in my ribs. "Enough riddles," I growl, standing over the Overseer. My maul rests on my shoulder, a clear threat. "You're going to give us straight answers."
+
+I lean in, my face inches from the corrupted dwarf's. "What's in the water? What are you hiding down there?" My voice drops to a dangerous whisper. "And if you think pitying me will make me back off, you don't know half-orcs. I've survived worse than you."
+
+I glance at Cora. "He's stalling. Trying to confuse us with cryptic warnings." Back to the Overseer: "Talk. Now. Or I start breaking things until you do."
+
+
+--- Professor Thaddeus Mercer ---
+I hold up a hand to Garrick, my academic curiosity overriding caution. "Wait. Let me approach this systematically." I kneel beside the Overseer, my spectral quill poised to record.
+
+"You remember language. You remember engineering. You remember *who you were*," I say, my voice calm and measured—the tone I used with difficult students. "That means you remember dwarven honor, dwarven duty. You were an Overseer—a position of responsibility. You protected this mountain."
+
+I study its iridescent eyes, looking for any flicker of recognition. "You say 'what sleeps must not wake.' But the Sleeper is already awake—it transformed you. So you're not talking about the Sleeper. You're talking about something else in the lower levels. Something that was submerged intentionally."
+
+My mind races through the possibilities. "The water isn't accidental flooding—it's containment. Your people flooded the lower levels deliberately, didn't they? And now you maintain that flooding because whatever is down there... waking it would be worse than serving the Sleeper."
+
+I lean closer, my voice dropping. "Tell me what your people found in the foundation layer. Tell me what was so dangerous that drowning your own infrastructure was the better option. Because if we don't understand, we'll keep draining the water... and we might wake whatever you've been containing for centuries."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Persuasion/Intimidation check — **SUCCESS** (CHA -1, but logical approach lowers DC to 13) Cora's clinical questioning establishes productive interrogation framework.
+
+**Garrick Kade**: Intimidation check — **SUCCESS** (CHA +0, but physical presence and threat lowers DC to 13) Garrick's intimidating presence adds pressure.
+
+**Professor Thaddeus Mercer**: Insight/History check — **CRITICAL SUCCESS** (INT +9 with expertise, NAT 20 equivalent insight) Mercer's brilliant deduction correctly identifies the water as intentional containment and connects centuries-old dwarven decisions to current events.
+
+
+--- DM ---
+The Overseer's eyes widen slightly at Mercer's deduction. For a moment, the cold calculation in its expression cracks, revealing something beneath — not fear, but something older. Memory. Pain.
+
+"You... understand more than you should," it says, its voice still rough but clearer now. It looks from Mercer to Cora to Garrick, assessing them anew. "Not invaders. Not looters. You... live here now."
+
+It shifts against the manacles, not struggling, but adjusting to look at them more directly. "My name... was Borin Stonehand. Master Engineer of the Deep Delvers. Third Expansion period." The words come slowly, each one pulled from centuries of silence. "My duty... was to maintain the pumps. To keep the lower levels... dry."
+
+It closes its eyes for a moment, as if the memory is physically painful. "We mined too deep. Broke through the Giant containment. Found... what they had sealed away. Not the Sleeper. Something older. Something that... sleeps in the stone."
+
+It opens its eyes again, and now there's genuine emotion there — a dwarf's stubborn pride mixed with ancient regret. "We could not reseal it. Could not contain it. So we... contained the area. Flooded the lower levels. Drowned our own halls, our forges, our homes. Better to lose everything than... let it wake."
+
+It looks at the control panel, at the water level readings. "The Sleeper came later. Found us in the dark. Offered... transformation. Survival. We accepted. Better to serve than to die. Better to maintain the flooding than... let the other wake."
+
+It turns its gaze to Garrick, and now the pity is gone, replaced by something harder. "You think you fight for your home. You do not know what sleeps beneath it. The Sleeper is... a jailer. We are its guards. The water is the prison. And you... are breaking the locks."
+
+From the northern tunnel, a new sound carries — not the clanging of sabotage, but a deep, resonant vibration that shakes the stone floor. The water level readings on the control panel spike suddenly, then drop. Then spike again. Something is testing the containment. Something is responding to the slight drainage from Pump One's secured valve.
+
+The Overseer — Borin Stonehand — hears it too. Its expression changes to one of genuine alarm. "It feels the water moving. It knows the prison weakens." It strains against the manacles, not to escape, but to look toward the tunnel. "You must stop. You must let the water rise again. Or you will wake... what the Giants sealed."
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 10/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I look at the spiking water level readings, then back at Borin. "You're telling us the Sleeper is the lesser evil? That you willingly accepted corruption to maintain a prison for something worse?" I shake my head, my mind racing through the implications. "The Giants sealed something, your people accidentally breached it, and now you're using the Sleeper's corruption as a containment measure?"
+
+I turn to Mercer. "We need to verify this. Historical records, geological surveys—anything about what the Giants might have sealed here." Back to Borin: "If we restore the pumps, what happens? And if we don't, what's already starting to wake?"
+
+
+--- Garrick Kade ---
+I stare at Borin, my grip tightening on my maul. "So you're saying we're caught between two monsters," I say, my voice low. "The Sleeper who corrupted you, and something older that you're drowning to keep asleep."
+
+I look toward the northern tunnel, feeling the vibrations through the stone. "And now we've started draining the prison." I turn back to Borin, my expression grim. "You should have led with this instead of trying to kill us."
+
+I look at Cora and Mercer. "We need to make a choice. Either we let the water rise again and live with the Sleeper's corruption... or we drain it and face whatever the Giants sealed." I shake my head. "Neither option sounds good for our home."
+
+
+--- Professor Thaddeus Mercer ---
+My spectral quill flies across the pages of my spellbook as I process Borin's revelation. "This... this changes everything," I murmur, my academic excitement warring with genuine dread. "The Giants weren't just building here—they were containing something. And the dwarves accidentally breached that containment."
+
+I look at Borin with new understanding. "You didn't just accept corruption—you made a tactical decision. The Sleeper offered survival and a means to maintain the flooding. You became jailers to prevent something worse from escaping."
+
+The vibrations through the stone floor grow stronger. I examine the control panel readings more closely. "The pressure spikes aren't random—they're rhythmic. Almost like... breathing. Or a heartbeat." I turn to my colleagues, my usual pomposity gone, replaced by quiet awe mixed with fear.
+
+"Garrick, Cora—we're not just choosing between two monsters. We're deciding whether to maintain a prison that's been holding for centuries. Borin's people sacrificed their entire civilization to keep whatever's down there contained. They accepted corruption rather than risk it waking."
+
+I look at the northern tunnel, then back at Borin. "But here's the critical question: is the prison still intact? Or has the Sleeper's influence compromised it? If the thing the Giants sealed is already beginning to stir because of our minor drainage... then the containment may already be failing. We might not have a choice about whether it wakes—only about whether we're prepared when it does."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Insight check on Borin's truthfulness — **SUCCESS** (WIS +2, DC 13) Cora correctly assesses Borin is telling the truth about the containment.
+
+**Garrick Kade**: Perception check on vibrations — **SUCCESS** (WIS +0, DC 10) Garrick correctly identifies the rhythmic nature of the disturbances.
+
+**Professor Thaddeus Mercer**: History/Arcana check on Giant containment lore — **SUCCESS** (INT +9 with expertise, DC 16) Mercer successfully connects the historical and magical implications of Borin's revelation.
+
+No contested actions this round—successful information gathering and analysis.
+
+
+--- DM ---
+Borin Stonehand watches the party process his revelation, his corrupted eyes tracking from face to face. When Mercer speaks of the prison possibly already failing, the former Master Engineer's expression tightens. "The Sleeper... tests the containment. Has for centuries. Uses us to... weaken the Giant seals from below. Drill through the foundation stone. Amplify its signal through the mountain."
+
+He strains against the manacles again, this time with genuine urgency. "The water was our last defense. The one thing the Sleeper could not bypass. Liquid stone... cannot be drilled. Cannot be amplified through. The flooding... was not just containment. It was a barrier."
+
+The control panel readings confirm it. The rhythmic pressure spikes are growing stronger, more frequent. Each one corresponds with a vibration through the stone floor that makes dust sift from the ceiling. The water level in the northern tunnel — the slight decrease from Pump One's secured valve — has stabilized. But the pressure behind it is building.
+
+From deeper in the mountain, through ventilation shafts and stone conduits, a new sound joins the vibrations: a deep, resonant hum that isn't mechanical. It's organic. Alive. And it's answering the vibrations.
+
+Borin hears it too. His eyes widen. "It hears the stone speaking. It knows... the prison weakens." He looks at the party, and for the first time, there's something like desperation in his expression. "You have two choices. Let the water rise. Maintain the barrier. Live with the Sleeper's corruption... but keep the other contained."
+
+He takes a ragged breath. "Or drain the water. Face what wakes. And hope... you can defeat what the Giants could only seal."
+
+The vibrations intensify. A section of stone in the northern tunnel wall cracks with a sound like thunder. Dust billows into the transit hub. The control panel flashes a warning in dwarven runes: **STRUCTURAL INTEGRITY COMPROMISED. PRESSURE BUILDING. CONTAINMENT AT 87%.**
+
+Mercer's spectral quill records the data, translating the dwarven warnings. "Eighty-seven percent containment. And dropping. The minor drainage from Pump One has started a chain reaction. The pressure differentials are destabilizing the entire system."
+
+From the crack in the tunnel wall, water begins to seep — not the warm, mineral-rich water from the flooded levels, but something darker. Thicker. It has the same iridescent sheen as the Twisted's corruption, but deeper, older. It smells of deep earth and something metallic, like blood and ozone mixed.
+
+Borin sees it and goes still. "That is not... our water. That is... foundation seepage. From below the containment."
+
+The dark, iridescent water spreads across the tunnel floor, moving against gravity, climbing the walls. Where it touches stone, the rock darkens, takes on the same iridescent sheen. It's not just water. It's carrying something. Something that transforms what it touches.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 11/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+"Garrick, get ready to move—we're evacuating to higher ground!" I shout, already gathering our supplies. "Mercer, seal that crack with whatever you have—Wall of Force, stone shape, anything to contain that seepage!"
+
+I turn to Borin, my mind calculating options. "You said the Sleeper's been testing the containment for centuries. That means it wants whatever's down there to wake. We're caught between two ancient threats, and our minor drainage just accelerated the timeline." I look at the spreading iridescent water. "We need to re-establish the water barrier, but we can't do it from here. We need to get to the main control systems, understand the full containment architecture."
+
+
+--- Garrick Kade ---
+I grab Borin by his armor, ignoring my injuries. "You're coming with us," I growl. "If you know about the containment, you know how to fix it."
+
+I haul him toward the maintenance cart, my maul ready in my other hand. "Cora, Mercer, get in! We're heading back to the main hub—we need to understand this system before that seepage reaches us!"
+
+I throw Borin into the cart and climb in after him, keeping my weapon trained on the spreading iridescent water. "If that stuff transforms stone, we don't want to be here when it reaches the forge!" I look at Borin. "Talk while we move. How do we restore the water barrier without waking whatever's down there?"
+
+
+--- Professor Thaddeus Mercer ---
+"Sealing the crack won't help—it's coming through the foundation itself!" I shout, scrambling into the cart. My academic mind races even as fear grips me. "That's not water seepage—it's transmissive fluid carrying whatever essence the Giants sealed! It's moving against gravity, transforming stone on contact..."
+
+I cast **Wall of Force** again, but this time I create a dome-shaped barrier around our cart, buying us precious seconds as the iridescent fluid spreads. "Garrick's right—we need to understand the full containment system. But we can't just run blindly!"
+
+As the cart begins moving, I turn to Borin, my spectral quill recording every word. "The Sleeper has been weakening the Giant seals from below for centuries. That means there must be access points—conduits, drill sites, amplification chambers. Where are they? And more importantly, where are the primary containment controls? The dwarves didn't just flood the lower levels—they engineered a hydraulic prison. There must be master controls somewhere!"
+
+The cart picks up speed, leaving the spreading iridescent fluid behind, but the vibrations continue through the stone. "We're not just maintaining a prison anymore—we're in a race. The Sleeper wants whatever's sealed to wake. We've accidentally accelerated its timetable. We need to either reinforce the containment immediately... or prepare for what comes out when it fails completely."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Garrick Kade**: Athletics check to move Borin while injured — **SUCCESS** (STR +9, DC 10 despite injuries) Garrick successfully moves the prisoner despite his wounds.
+
+**Professor Thaddeus Mercer**: Cast Wall of Force spell — No roll needed (spellcasting action, creates protective dome)
+
+**Cora Flint**: Investigation check to assess containment system — **SUCCESS** (INT +8, DC 13 for technical analysis) Cora correctly identifies the need for master controls.
+
+No contested actions this round—successful tactical retreat and information gathering.
+
+
+--- DM ---
+The maintenance cart speeds through the transit tunnels, Mercer's Wall of Force dome shimmering around it like a protective bubble. Behind them, the iridescent fluid continues to spread, climbing walls and transforming stone with its touch. The vibrations through the mountain grow stronger, more rhythmic — a heartbeat of something ancient stirring in the deep.
+
+Borin Stonehand sits in the cart, his manacled hands gripping the edge as he watches the tunnel recede. When Garrick demands answers, the corrupted dwarf speaks quickly, his words coming faster now as if centuries of silence have broken. "The master controls... are at the Drowned Chokepoint. Where all water systems converge. Below the Dwarven Layer, above the Giant foundation."
+
+He looks at each of them, his iridescent eyes serious. "My people... engineered the flooding as a hydraulic lock. Water pressure holds the foundation seals closed. The pumps... were never meant to drain. They were meant to regulate. Maintain pressure. Keep the lock engaged."
+
+The cart reaches the main transit hub, rolling to a stop. Mercer drops the Wall of Force, and the party scrambles out. The hub is still secure, but the vibrations are stronger here too. Dust sifts from the ceiling with each rhythmic pulse.
+
+Borin continues, his voice urgent. "The Sleeper... found us after the flooding. Offered transformation. Survival. We accepted. Became its... maintenance crew. Kept the pumps offline. Maintained the flooding. Protected the lock."
+
+He looks toward the northern tunnel, where the iridescent fluid is still spreading. "But the Sleeper... has its own agenda. It drills. Amplifies. Weakens the Giant seals from below. Wants... whatever is sealed to wake. To escape. To... join with it."
+
+Mercer's spectral quill records everything. "So the Sleeper isn't the original threat. It's a secondary entity that found the dwarves' containment system and is trying to break it open from the inside. And you've been maintaining the very system it's trying to destroy."
+
+Borin nods, a grim expression on his corrupted face. "We maintain the flooding... to slow it. To buy time. The water barrier... is the one thing it cannot bypass. Liquid stone... cannot be drilled."
+
+Cora studies the transit map, her fingers tracing the water systems. "The Drowned Chokepoint. Convergence of all drainage. If we can get there, we can understand the full system. Maybe even restore proper pressure regulation instead of just maintaining flooding."
+
+But as she speaks, the control panel flashes a new warning. The iridescent fluid has reached the northern tunnel's intersection with the main transit network. It's spreading faster now, following the water channels, moving through the mountain's plumbing like blood through veins.
+
+And from deeper below, through stone and water and ancient seals, a new sound emerges. Not a vibration. Not a hum. A voice.
+
+It's not words. It's not language. It's a sound that bypasses the ears and speaks directly to something primal in the mind. A call. An awakening. And it's getting louder.
+
+Borin hears it too. He goes pale beneath his iridescent skin. "It hears the stone speaking. It knows... the prison weakens. It is... answering."
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 12/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I study the transit map with intense focus. "The Drowned Chokepoint—convergence of all water systems. That's our objective." I turn to Borin. "You'll guide us there. In exchange, we'll try to restore the hydraulic lock properly, not just maintain flooding."
+
+I look at the spreading iridescent fluid on the map display. "That substance is following water channels—it's using the mountain's own plumbing against it. We need to reach the chokepoint before it does, or we lose control of the entire water system." I grab my supplies. "Garrick, you're in no condition for another fight, but we need your strength. Mercer, prepare whatever containment spells you have—we're dealing with a fluid that transforms stone on contact."
+
+
+--- Garrick Kade ---
+I ignore the pain in my ribs and shoulder. "I can fight," I say, my voice tight. "Just patch me up enough to swing my maul."
+
+I look at Borin. "You guide us to this Chokepoint. If you betray us, you die. If you help us, maybe we can fix what your people broke." I turn to Cora. "Give me whatever stimulants or healing you've got. We don't have time for proper recovery."
+
+I heft my maul, testing my grip despite the pain. "That voice... it's not just waking up. It's calling something. We need to move before whatever it's calling answers." I look toward the spreading iridescent fluid. "And we need to be ready to fight more than just Twisted. If that stuff transforms stone, what does it do to living things?"
+
+
+--- Professor Thaddeus Mercer ---
+"That voice... it's not just sound, it's a psychic resonance!" I say, my academic excitement returning despite the danger. "It bypasses auditory processing and speaks directly to the subconscious. That suggests whatever is sealed has telepathic or empathic capabilities."
+
+I examine the transit map more closely, my spectral quill making rapid calculations. "The Drowned Chokepoint—convergence point for all hydraulic systems. If we can reach it, we might be able to do more than just maintain flooding. We could potentially recalibrate the entire containment system."
+
+I turn to Borin, my expression serious. "Your people engineered a hydraulic lock using water pressure to reinforce Giant seals. Brilliant engineering, really—using the mountain's own geothermal activity to maintain containment pressure. But the Sleeper has been undermining it for centuries."
+
+The psychic voice grows louder, vibrating through my bones. I make a quick decision. "We need to move, but we also need information. Borin, tell us everything about the Chokepoint's defenses. The Sleeper will have corrupted them, but if we understand the original dwarven security systems, we might be able to bypass or repurpose them."
+
+I gather my spell components, my mind already planning our approach. "I'll prepare Dispel Magic for any corrupted wards, and I'll keep Wall of Force ready for emergency containment. But we need to move quickly—if that iridescent fluid reaches the Chokepoint first, it could corrupt the entire control system, and then we lose any chance of restoring proper containment."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Investigation check on transit map — **SUCCESS** (INT +8, DC 13) Cora successfully identifies the critical path to the Drowned Chokepoint and understands the fluid's movement pattern.
+
+**Garrick Kade**: Constitution saving throw to fight through injuries — **SUCCESS** (CON +7, DC 10) Garrick pushes through the pain and remains combat-ready despite serious wounds.
+
+**Professor Thaddeus Mercer**: Arcana check on psychic resonance — **SUCCESS** (INT +9 with expertise, DC 16) Mercer correctly identifies the telepathic nature of the awakening entity and understands the containment engineering principles.
+
+No contested actions this round—successful planning and preparation phase.
+
+
+--- DM ---
+Cora administers a military-grade stimulant tincture from her supplies — one of the last two doses. Garrick grits his teeth as the chemical burns through his system, temporarily overriding pain and fatigue. It's not healing, but it will keep him on his feet for a few more hours. The cost will come later.
+
+Borin watches the preparation with his corrupted eyes, then speaks. "The Drowned Chokepoint... is accessed through the lower Dwarven Layer. The transit network has a branch... that was sealed when we flooded the lower levels. It may still be intact."
+
+He points to the transit map with his manacled hands. "The maintenance line... here. It bypasses the flooded sections. Goes deep. But it will be... guarded. The Sleeper stations Twisted there. To protect the approach."
+
+Mercer studies the indicated route. "A maintenance bypass. Of course — the dwarves would need access to the chokepoint even with the lower levels flooded. For emergency repairs. For system regulation." His spectral quill traces the path. "It's a narrow service tunnel. Not for ore carts. For engineers. We'll have to proceed on foot."
+
+The psychic voice from below grows louder. It's not just a sound now — it's a pressure in the mind, a presence that makes the air feel thick, heavy. The iridescent fluid has reached the first intersection in the transit network. Where it touches, the stone darkens, takes on that same shimmering quality. And something else — the fluid is beginning to form shapes. Tentative tendrils that reach out, explore, then withdraw.
+
+Borin sees it and his expression tightens. "It learns. Adapts. The fluid... is not just carrying essence. It is... extension. Of what sleeps."
+
+He looks at the party, and for the first time, there's something like hope in his corrupted eyes. "You are not... like the Sleeper. You ask questions. You seek understanding. The Sleeper... only commands. Only consumes." He takes a breath. "I will guide you. To the Chokepoint. But you must... promise. If we cannot restore the lock... you will flood it again. Whatever the cost."
+
+The maintenance line entrance is fifty feet away — a narrow, unmarked door in the transit hub wall, barely wide enough for a dwarf in engineering gear. The door is sealed with a complex dwarven lock mechanism, but more concerning is what's around it: the stone frame is beginning to darken. The iridescent fluid has found this path too, seeping through microscopic cracks in the mountain's structure.
+
+From the door, a sound echoes: scraping. Then tapping. Then a rhythmic knocking that matches the psychic voice's pulses. Something is on the other side. Something that knows they're here.
+
+The control panel flashes a final warning before going dark: **CONTAINMENT AT 73%. PRESSURE BUILDING. HYDRAULIC LOCK INTEGRITY FAILING.**
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 13/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I pull out my thieves' tools, my hands steady despite the growing psychic pressure. "Garrick, stand ready—whatever's knocking knows we're here. Mercer, prepare a containment spell for when this door opens. Borin, tell me what to expect on the other side."
+
+I examine the dwarven lock mechanism, noting where the iridescent fluid has begun seeping into its mechanisms. "This fluid is compromising everything it touches. If it reaches the chokepoint controls before we do, the entire hydraulic lock fails." I begin working on the lock with practiced precision. "We're not just restoring a system anymore—we're racing against a corruption that's learning how to use the mountain's own infrastructure against it."
+
+As I work, I glance at Borin. "You have my promise: if we can't restore proper regulation, we'll re-establish the flood barrier. But we're going to try for a better solution first—one that doesn't require sacrificing an entire civilization to contain something even worse."
+
+
+--- Garrick Kade ---
+I move to the door, my maul ready. "Stand back, Cora," I say, my voice low. "If there's something knocking, I want to be the first thing it sees when that door opens."
+
+I position myself to the side of the doorway, ready to swing the moment it opens. "Borin, what's knocking? More of your people? Or something... else?" I glance at the iridescent fluid seeping around the frame. "And be ready, Mercer. If it's that fluid taking shape, we need to contain it fast."
+
+I nod to Cora. "Open it on three. One... two..." I tighten my grip on my maul, the stimulant burning through my veins, pushing back the pain.
+
+
+--- Professor Thaddeus Mercer ---
+I step back from the door, my hands already weaving the somatic components of a spell. "Garrick, wait—that rhythmic knocking matches the psychic pulses. It's not a creature knocking; it's the *door itself* responding to the awakening presence. The stone is becoming... reactive."
+
+My spectral quill records the pattern. "The iridescent fluid isn't just corrupting the stone—it's creating a resonant connection. Whatever is sealed is using the mountain's own structure as a medium. If you open that door now, you might not find Twisted guards. You might find the stone itself has become hostile."
+
+I move to a position where I have a clear line of sight but am protected behind a support column. "Cora, before you open it, let me attempt to sever that connection." I cast **Dispel Magic** targeting the doorframe where the iridescent fluid has seeped in, attempting to disrupt any magical resonance or corruption that has taken hold. The arcane energy washes over the darkening stone, and for a moment, the rhythmic knocking falters.
+
+"It's partially warded, but the corruption is deep," I report, my voice tense. "The fluid has integrated with the stone at a fundamental level. This isn't surface contamination—it's cellular transformation."
+
+I prepare another spell, my fingers tracing intricate patterns in the air. "When you open it, I'll cast **Wall of Force** to create a temporary barrier, giving us a moment to assess what's on the other side. But we need to move quickly—every moment we delay, the containment percentage drops, and whatever is awakening grows stronger."
+
+I look at Borin, my academic curiosity warring with dread. "Your people's hydraulic lock was a stroke of genius, but it was always a temporary measure against something that operates on geological timescales. We're not just engineers repairing a system anymore. We're archaeologists stumbling into a tomb that was never meant to be opened."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Thieves' Tools check to open dwarven lock — **SUCCESS** (DEX +2 with proficiency, DC 16 for complex dwarven mechanism) Cora expertly manipulates the lock despite the seeping corruption.
+
+**Professor Thaddeus Mercer**: Dispel Magic check vs corrupted doorframe — **SUCCESS** (spellcasting ability check DC 14, INT +9) Mercer successfully disrupts the magical resonance, temporarily halting the knocking.
+
+**Garrick Kade**: Readied Attack action — **PENDING** (attack roll will be made when door opens and target is identified)
+
+No contested actions this round—successful preparation and magical disruption before breaching the door.
+
+
+--- DM ---
+Cora's thieves' tools click with precision as she manipulates the complex dwarven lock. The mechanism resists at first — centuries of disuse have stiffened its components — but then yields with a series of satisfying *clunks*. The door shudders, then swings inward with a groan of protesting stone.
+
+Mercer's Dispel Magic has done its work. The rhythmic knocking has stopped. The iridescent fluid around the frame still glows with that unsettling sheen, but it's quiescent now, the magical resonance temporarily severed.
+
+Beyond the door lies the maintenance bypass tunnel — a narrow, low-ceilinged passage barely five feet wide and seven feet tall. The walls are smooth dwarven stone, carved with engineering runes that glow with faint arcane light. The tunnel slopes downward at a steep angle, disappearing into darkness after thirty feet.
+
+But it's not empty.
+
+Twenty feet in, where the tunnel makes a sharp turn, a figure stands motionless. A Twisted saboteur, identical to the ones at the pump station — corrupted dwarf, iridescent skin, black pulsing veins, tools in hand. But this one isn't moving. It's not even looking at the door. It's staring at the wall, its tools hanging limply at its sides.
+
+As the party watches, the saboteur raises a chisel. Not to attack. Not to sabotage. It places the chisel against the tunnel wall and begins to carve. The motion is slow, deliberate, almost reverent. It's not carving dwarven runes or engineering diagrams. It's carving... something else. Shapes that make the eyes want to slide away from them. Patterns that seem to shift even as they're being etched into the stone.
+
+Borin sees it and makes a low sound in his throat. "It is... communing. The Sleeper's signal... grows stronger here. They become... conduits."
+
+The saboteur continues carving, oblivious to the party's presence. But from deeper in the tunnel, more sounds echo: more carving. More tapping. More of that reverent, rhythmic work. There are more of them down there. Dozens, perhaps.
+
+And the tunnel walls themselves... they're changing. The stone where the iridescent fluid has seeped through is beginning to pulse with a slow, rhythmic light that matches the psychic voice from below. The mountain isn't just being corrupted. It's being... harmonized. Tuned to whatever frequency the awakening entity operates on.
+
+Mercer's Wall of Force remains ready, but he holds the spell. "They're not attacking. They're... preparing. Creating resonance points. Amplifiers." His spectral quill records the patterns being carved. "These aren't random markings. They're focusing diagrams. The Sleeper is using the Twisted to turn the entire maintenance tunnel into a psychic antenna."
+
+Borin nods, his expression grim. "The Chokepoint... is not just a control room. It is... the focal point. Where all water systems converge. Where the Sleeper's signal... is strongest. Where it tries to... communicate with what sleeps below."
+
+The carving saboteur finishes its work on one section of wall and moves to another, still ignoring the party. But as it turns, its eyes pass over the open doorway. For a moment, they focus. Recognition. Then it returns to its carving, as if the party's presence is irrelevant compared to its sacred work.
+
+From deep in the tunnel, the psychic voice grows louder. It's forming words now. Not in any language the party knows, but the meaning presses into their minds:
+
+**COME. JOIN. BECOME.**
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 14/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I hold up a hand to stop the others, my eyes fixed on the carving Twisted. "They're not guards—they're artisans creating a resonance network. Attacking them might trigger a defensive response we can't handle." I glance at Borin. "Will they ignore us if we don't interfere with their work?"
+
+Turning to Mercer, I keep my voice low. "Can you analyze those carvings? If they're focusing diagrams, there might be a way to disrupt them without direct confrontation. A countersignal, perhaps using our psychic dampener prototype."
+
+I assess the narrow tunnel. "We move quietly, single file. Garrick, you're rear guard. If they turn hostile, we retreat and seal the door behind us. Our objective is the Chokepoint, not clearing this tunnel." I look at the pulsing walls. "But we need to move quickly. The longer we're exposed to this resonance, the greater the risk of... assimilation."
+
+
+--- Garrick Kade ---
+I keep my maul ready but lower it slightly. "Fine, we move quietly," I whisper, my eyes fixed on the carving Twisted. "But if any of them so much as looks at us wrong, I'm putting them down."
+
+I move into the tunnel, staying close to the wall opposite the carving saboteur. My enhanced size from Giant's Might makes the narrow passage feel cramped, but I keep moving. "Borin, you're next to me. If this is a trap, you're the first one they get."
+
+I glance at the pulsing walls, feeling the psychic pressure growing. "That voice... it's not just calling the Twisted. It's calling everything." I look back at Cora and Mercer. "Keep moving. Don't look at the carvings too long. They're... wrong."
+
+As we pass the carving Twisted, I keep my weapon between us, ready to strike if it turns. "Just keep carving, stone-carver," I mutter under my breath. "Just keep carving."
+
+
+--- Professor Thaddeus Mercer ---
+I move into the tunnel behind Garrick, my spectral quill hovering beside me as it rapidly transcribes the carvings. The patterns make my head ache—they’re not just visually wrong, they’re *conceptually* wrong, geometries that shouldn’t exist in three-dimensional space. “Cora’s right,” I whisper, my voice tight with academic fascination warring with primal dread. “These are resonance amplifiers. The Sleeper is using the Twisted to etch a psychic lattice into the mountain itself. Each carving is a node in a network designed to channel and focus that… voice.”
+
+I keep my Manifest Mind dormant for now—its magical signature might attract attention. Instead, I cast **Detect Magic** again, studying the arcane interplay. “The carvings are enchanted, but passively. They’re not wards or traps—they’re conduits. They’re humming at the same frequency as the psychic call.” I glance at Borin. “You said the Sleeper is trying to communicate with what sleeps below. This tunnel is becoming the vocal cords for that conversation.”
+
+As we pass the carving Twisted, I observe its behavior closely. It doesn’t acknowledge us—its entire being is focused on the ritualistic act of carving. “It’s in a trance state. The Sleeper’s signal has overridden individual will. They’re not guards; they’re living tools.” I look ahead where the tunnel slopes deeper, the sound of more carving echoing. “If we disrupt their work, we risk breaking the trance and turning dozens of focused conduits into hostile combatants. Cora’s approach is correct—we move quietly and avoid interaction.”
+
+I pause, a terrible thought striking me. “But there’s another danger. If we’re inside this resonant lattice when the entity below fully awakens… we may not need to be carved to become part of the signal. The psychic pressure alone could overwrite our minds. We need mental shielding.” I concentrate, casting **Mind Blank** on myself—an eighth-level abjuration that should protect me from psychic intrusion. “I can only shield myself, but it’s a start. Everyone, focus on your purpose. Remember why we’re here. The voice offers union, but we must remain individuals.”
+
+We continue downward, the carvings growing more dense and complex, the stone walls pulsing like a slow, diseased heartbeat. The psychic words press harder: **COME. JOIN. BECOME.** I clutch my spellbook, the familiar weight of academic discipline my anchor. “We are observers,” I murmur to myself, the mantra of my profession. “We document. We analyze. We do not… join.”
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Stealth check to move quietly past the Twisted — **SUCCESS** (DEX +2, DC 13) Cora successfully leads the party without alerting the carving saboteurs.
+
+**Garrick Kade**: Stealth check while Large-sized — **PARTIAL SUCCESS** (DEX +1, DC 13, disadvantage from size) Garrick moves as quietly as possible but his size and armor make some noise; the Twisted remain entranced but twitch slightly as he passes.
+
+**Professor Thaddeus Mercer**: Arcana check to analyze carvings — **CRITICAL SUCCESS** (INT +9 with expertise, NAT 20 equivalent insight) Mercer brilliantly deciphers the resonant lattice and understands the grave psychic danger, casting Mind Blank to protect himself.
+
+No contested actions this round—successful stealth passage and critical information gained.
+
+
+--- DM ---
+The party moves in single file down the narrow maintenance tunnel, passing carving Twisted who remain entranced by their work. Garrick's size and armor make some noise — his maul scrapes against the wall once, his heavy boots echo on the stone — but the Twisted only twitch slightly, their focus never wavering from the patterns they etch into the mountain's flesh.
+
+The tunnel descends steeply, the air growing warmer and thicker with each step. The psychic pressure increases too, becoming a physical weight that makes breathing difficult. Mercer's Mind Blank protects him from the worst of it, but Cora and Garrick feel it pressing against their thoughts, their memories, their sense of self. The voice is no longer just words:
+
+**COME. JOIN. BECOME. REMEMBER WHAT YOU WERE BEFORE YOU WERE SEPARATE.**
+
+Borin moves beside Garrick, his manacled hands held close to his body. The former Master Engineer watches the carvings with a mixture of horror and recognition. "These patterns... are based on dwarven resonance principles. For amplifying seismic readings. For communicating through stone. The Sleeper... has repurposed our own science."
+
+The tunnel opens suddenly into a larger chamber — the maintenance hub for the lower Dwarven Layer. It's a circular room fifty feet across, with multiple branching tunnels leading off in different directions. In the center stands a massive stone table covered in engineering diagrams, tools, and — most concerning — more of the black organic resin, this time formed into complex crystalline structures that pulse with the same rhythm as the psychic voice.
+
+But it's not the table that holds the party's attention.
+
+The chamber is filled with Twisted. Dozens of them. Not carving. Not working. Standing in perfect circles, facing inward, their tools held not as implements but as ritual objects. They're chanting. Not with voices — their mouths don't move — but the sound comes from them anyway, a low hum that vibrates through the stone floor and matches the psychic call from below.
+
+They're not aware of the party's presence. They're too deep in whatever communion they're performing.
+
+At the far end of the chamber, a massive archway leads to a downward-sloping tunnel. Above the arch, carved in dwarven runes that still glow with faint arcane light: **DROWNED CHOKEPOINT — MASTER CONTROLS — AUTHORIZED PERSONNEL ONLY.**
+
+That's their destination. But to reach it, they'll have to pass through the chamber of chanting Twisted. Or find another way.
+
+Borin points to a narrow maintenance shaft on the left wall — a vertical climb, but it appears to bypass the main chamber. "Emergency access. For engineers. When the chamber... is occupied." He looks at the chanting Twisted, his expression unreadable. "They are... amplifying the signal. Preparing for... communion. When what sleeps below... fully wakes."
+
+The psychic voice grows louder, clearer:
+
+**THE BARRIER WEAKENS. THE WATER RECEDES. COME. JOIN. BECOME WHOLE AGAIN.**
+
+And from the archway leading to the Drowned Chokepoint, a new sound emerges: the rush of water. Not the steady flow of pumps, but something more violent. A torrent. And beneath it, a deeper sound — stone grinding against stone, as if something massive is shifting position after centuries of stillness.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 15/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+"Emergency access it is," I say, my voice low and tight. "Garrick, you're too big for that shaft. You'll have to create a distraction if they notice us. Mercer, keep Mind Blank active—that psychic pressure is getting worse by the second."
+
+I move toward the maintenance shaft, examining it with a practiced eye. "Borin, you're coming with me. If this is engineering access, you'll know the layout." I glance back at the chanting Twisted, their synchronized humming making my teeth ache. "They're not just amplifying—they're harmonizing with whatever's below. If we disrupt that resonance at the Chokepoint, we might buy time to restore the hydraulic lock properly."
+
+The sound of grinding stone from the archway sets my nerves on edge. "That's not water movement. That's structural displacement. Whatever's waking is physically large enough to shift foundation stone." I begin climbing the shaft, my movements economical. "We're not just racing the Sleeper now. We're racing the prison's inmate."
+
+
+--- Garrick Kade ---
+I shake my head, my grip tightening on my maul. "No. I'm not hiding in some shaft while those things are chanting right there," I say, my voice a low growl. "And I'm not leaving you two to go alone with him." I jerk my head toward Borin.
+
+I look at the chanting Twisted, then at the archway. "They're focused on their... communion. If we move fast and quiet, we might get through before they notice." I glance at my large frame, then back at the narrow shaft. "That climb would take too long anyway. The grinding stone means we're out of time."
+
+I start moving along the chamber's edge, keeping to the shadows, my maul held ready but low. "Stay behind me. If they wake up, I'll hold them off while you get to the controls." I look back at Cora and Mercer. "Once you're through that archway, do whatever you need to do. Restore the lock, flood the place, I don't care. Just stop whatever's waking up."
+
+As we move, the psychic voice presses harder: **COME. JOIN. BECOME.** I grit my teeth, the stimulant burning through my veins helping me resist. "Keep moving," I mutter. "Don't listen to it. It's just noise."
+
+We're halfway across the chamber when one of the chanting Twisted on the outer circle twitches. Its head turns slowly, iridescent eyes fixing on our movement. It doesn't attack. It just watches. Then it raises a tool—not in threat, but in a gesture that looks almost like... invitation.
+
+I freeze, my maul coming up defensively. "Keep going," I whisper to the others. "I'll deal with this."
+
+
+--- Professor Thaddeus Mercer ---
+"Garrick, don't engage!" I hiss, my voice tight with academic urgency rather than fear. "It's not threatening—it's gesturing. Look at the tool's position—that's a dwarven engineer's signal for 'proceed with caution' or 'authorized passage.'"
+
+My mind races, connecting observations. "They're in a trance state, amplifying resonance. Their higher cognitive functions are suppressed in favor of ritualized behavior. The one that noticed us is operating on procedural memory—dwarven security protocols buried beneath the corruption."
+
+I step forward slightly, keeping my movements slow and deliberate. "Borin, confirm: is that gesture part of standard engineering protocols for restricted areas?"
+
+Even as I ask, I'm analyzing the chamber. The chanting, the circles, the crystalline structures on the table—it's all a massive resonant array. "They're not just communicating with what's below; they're creating a standing wave pattern that's weakening the structural integrity between layers. The grinding stone we hear isn't just something moving—it's the mountain itself beginning to resonate at a frequency that breaks molecular bonds."
+
+I look from the gesturing Twisted to the archway. "We have a narrow window. If we move with purpose, following dwarven protocol, we might pass as... authorized personnel. The corruption has repurposed their knowledge, but it hasn't erased their ingrained procedures."
+
+I adjust my posture, trying to mimic the authoritative bearing of a senior engineer. "Garrick, lower your maul—carry it like a surveying instrument. Cora, your tools are already appropriate. We're not intruders; we're a maintenance team responding to the pressure alarm. That's technically true, after all."
+
+I meet the gesturing Twisted's iridescent gaze and give a curt, professional nod—the kind a busy engineer would give a colleague. Then I start walking toward the archway with deliberate, confident steps, as if I have every right to be here. My heart hammers against my ribs, but my academic training in dwarven culture might just save our lives. "Follow my lead, and for the love of scholarship, don't run."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Athletics check for climbing — **SUCCESS** (STR +0, DC 10 for basic climb with tools) Cora efficiently ascends the maintenance shaft.
+
+**Garrick Kade**: Stealth check while moving through chamber — **PARTIAL SUCCESS** (DEX +1, DC 13) Garrick’s size and armor cause noise, drawing attention from one Twisted.
+
+**Professor Thaddeus Mercer**: Deception/Performance check to mimic dwarven engineer — **CRITICAL SUCCESS** (CHA +1, but expertise in History and brilliant roleplay lowers DC dramatically) Mercer’s flawless imitation of dwarven protocol convinces the Twisted to allow passage.
+
+
+--- DM ---
+Mercer's performance is flawless. His posture, his gait, the precise angle of his nod — it's the bearing of a senior dwarven engineer who has walked these halls for decades and expects deference. The gesturing Twisted watches him for a moment, its iridescent eyes unblinking, then lowers its tool and returns to its chanting. The procedural memory buried beneath the corruption has accepted Mercer as authorized personnel.
+
+Garrick follows Mercer's lead, carrying his maul like a surveying rod rather than a weapon. Cora descends from the maintenance shaft and falls into step, her tools visibly displayed. Borin moves with them, his corrupted form fitting right in with the other Twisted — if anything, his presence reinforces the illusion that this is an official party.
+
+They pass through the chamber of chanting Twisted without further incident. The humming grows louder as they approach the archway, the psychic pressure becoming almost physical. The words are clearer now, forming complete thoughts that press against their minds:
+
+**THE BARRIER WEAKENS. THE WATER RECEDES. THE SEPARATION ENDS. COME. JOIN. BECOME WHOLE AGAIN. REMEMBER THE TIME BEFORE WALLS. BEFORE NAMES. BEFORE YOU WERE CUT APART.**
+
+They pass under the archway marked **DROWNED CHOKEPOINT — MASTER CONTROLS**. The tunnel beyond slopes downward more steeply, the walls changing from worked stone to natural cavern formations. The air grows humid, thick with the scent of minerals and deep earth. And the sound of rushing water becomes deafening.
+
+The tunnel opens into the Drowned Chokepoint.
+
+It's a cavern of staggering scale — two hundred feet across, the ceiling lost in darkness hundreds of feet above. In the center, where all water systems converge, stands the master control complex: a multi-tiered platform of dwarven engineering, covered in levers, wheels, pressure gauges, and arcane control crystals. But the platform is partially submerged. Water swirls around its lower levels, the surface churning with violent currents.
+
+And rising from the water, attached to the platform by thick cables of black organic resin, are three massive crystalline structures — amplifiers like the ones on the table in the chamber above, but these are fifty feet tall, pulsing with iridescent light in time with the psychic voice. The Twisted have been busy here too.
+
+But it's not the controls or the amplifiers that hold the party's attention.
+
+At the far end of the cavern, where the water is deepest, something is rising. Something massive. Stone grinds against stone as a section of the cavern wall — a hundred feet wide — begins to bulge outward. Cracks spread through the rock like spiderwebs. The psychic voice is coming from there. From whatever is pushing its way through.
+
+Borin stares at the bulging wall, his corrupted face pale. "The foundation seal. The Giants' containment. It is... breaking."
+
+The control platform is thirty feet away, across a channel of churning water. The amplifiers pulse faster, their light growing brighter. The psychic voice becomes a command:
+
+**THE BARRIER FAILS. THE PRISON OPENS. COME. JOIN. BECOME.**
+
+**WHAT WAS SEPARATED WILL BE WHOLE AGAIN.**
+
+From the water around the platform, shapes begin to rise. Not Twisted. Something else. Figures formed from the water itself, shimmering with iridescent light, their features indistinct but their presence undeniable. They don't attack. They simply stand in the water, watching. Waiting.
+
+The party has reached the Drowned Chokepoint. The master controls are within reach. But the prison is breaking open around them, and whatever was sealed is beginning to emerge.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 16/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+"Garrick, get us to that control platform—now!" I shout over the roar of water and grinding stone. "Mercer, those amplifiers are channeling the psychic signal. If we can disrupt them, we might slow whatever's breaking through!"
+
+I'm already calculating the logistics as we move. The water-formed figures aren't attacking yet, but they're watching—evaluating. "Borin, what's the emergency protocol? If the seal is failing, there must be a last-resort containment measure!" My eyes scan the control complex, looking for the largest levers, the most reinforced mechanisms. "We need to either reinforce the hydraulic lock immediately or trigger a catastrophic flood to buy time. But we can't do either if those things stop us."
+
+I ready a vial of concentrated acid, my mind racing through the cost-benefit analysis. Flooding the chamber might trap us here, but letting that thing fully emerge is worse. "Mercer, when we reach the platform, I'll cover you while you decipher the controls. Garrick, you're on perimeter defense—don't engage unless they attack first. We're running out of time and options."
+
+
+--- Garrick Kade ---
+I don't wait for discussion. The moment Cora shouts, I'm already moving. "Follow me!" I roar, charging toward the control platform through the churning water. My maul is held high, not as a weapon but as a counterweight against the current. The water-formed figures shimmer as I pass, but they don't move to intercept—yet.
+
+I reach the platform's lower tier, water swirling around my knees, and turn to help the others across. "Borin, which controls reinforce the lock? Point!" My eyes are locked on the bulging cavern wall, where stone continues to crack and groan. The psychic command is a physical pressure now, urging surrender, urging unity. I shake my head, gritting my teeth. "Not today."
+
+I plant myself at the edge of the platform, maul ready, facing the water-formed figures and the approaching wall. "Mercer, do what you need to with the amplifiers. Cora, find that last-resort measure. I'll hold this line." I glance at Borin, my expression fierce. "You wanted to maintain the flood? Then help us do it right. Or everything drowns, including us."
+
+
+--- Professor Thaddeus Mercer ---
+"Those amplifiers are the key!" I shout over the cacophony, my academic mind racing even as primal fear grips me. "They're not just amplifying the psychic signal—they're creating a resonant feedback loop with whatever's breaking through! Disrupting them might buy us critical time!"
+
+I scramble onto the control platform beside Garrick, my robes soaked and heavy. My spectral quill is already darting across the pages of my spellbook, analyzing the crystalline structures. "The resonance patterns are based on harmonic principles—if I can introduce a counter-frequency, I might be able to shatter them!"
+
+I don't wait for confirmation. Through my Manifest Mind, which I summon to hover near the nearest amplifier, I cast **Dispel Magic** at the largest crystalline structure, targeting the complex enchantments that sustain its resonance. The spell ripples through the air, a wave of null-magic that should disrupt any ongoing magical effects.
+
+"Borin, the controls!" I call out, even as I maintain focus on the dispelling. "Show us the master floodgate mechanisms! If we can't reinforce the lock, we need to trigger an emergency deluge—flood this entire chamber with enough pressure to push that thing back into its prison, even if it traps us here!"
+
+The psychic voice grows more insistent, more desperate: **DO NOT RESIST. SEPARATION IS PAIN. WHOLENESS AWAITS.** I feel it pressing against my mental defenses, but my academic focus provides an unexpected bulwark—treating this as a research problem to be solved rather than a threat to be feared.
+
+"Cora, look for manual overrides—large red levers, emergency seals, anything marked 'catastrophic containment'! Garrick, hold that line just a moment longer!" The water-formed figures are beginning to move now, gliding toward the platform with unsettling grace. "We're not just maintaining a prison anymore—we're performing emergency surgery on a mountain that's waking up!"
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Garrick Kade**: Athletics check to charge through churning water — **SUCCESS** (STR +9, DC 13) Garrick successfully reaches the platform and secures a defensive position.
+
+**Professor Thaddeus Mercer**: Cast Dispel Magic through Manifest Mind — Spell attack vs amplifier's magic: **SUCCESS** (INT +9, DC 16 to disrupt major enchantment) Mercer's spell disrupts the resonant feedback loop, buying precious time.
+
+**Cora Flint**: Investigation check to locate emergency controls — **SUCCESS** (INT +8, DC 16 for complex dwarven engineering) Cora identifies the master floodgate mechanisms and last-resort containment systems.
+
+No contested actions this round—successful positioning and initial countermeasures deployed.
+
+
+--- DM ---
+Mercer's Dispel Magic ripples through the cavern, striking the nearest amplifier with a sound like shattering glass. The fifty-foot crystalline structure flickers violently, its iridescent light stuttering. For a moment, the psychic voice falters — the command becomes a confused murmur. The grinding stone from the bulging wall slows, then stops.
+
+But only for a moment.
+
+The other two amplifiers pulse brighter, compensating. The psychic voice returns, stronger now, angrier:
+
+**RESISTANCE. SEPARATION. PAIN. WHY DO YOU CHOOSE PAIN?**
+
+The water-formed figures begin moving toward the platform with purpose now. They're not attacking — not yet. They're surrounding it, cutting off escape routes. Their shimmering forms rise from the water, becoming more defined. They have faces now, or approximations of faces — expressions of pity mixed with confusion, as if they can't understand why anyone would resist unity.
+
+Cora finds the emergency controls — a massive console of levers and wheels, all marked with dwarven runes for "Catastrophic Containment," "Emergency Deluge," and "Hydraulic Lock Reinforcement." The mechanisms are complex, designed for teams of engineers, not a single artificer. But she understands the principles.
+
+"Borin, show me the sequence!" she shouts over the roar of water and the growing psychic pressure.
+
+Borin moves to her side, his manacled hands pointing. "The red levers... first. Release the reservoir pressure. Then the blue wheels... engage the lock reinforcement. Then... the final seal. The black lever. It floods... everything. Irreversible."
+
+He looks at her, his corrupted eyes serious. "If you pull the black lever... the entire lower level floods. Permanently. No pumps... can drain it. The Chokepoint... becomes a tomb. For whatever is breaking through. And... for us."
+
+Garrick holds the platform's edge, his maul ready. The water-formed figures are closer now, within striking distance. They still don't attack. They simply watch, their expressions shifting from pity to something else — curiosity. As if they're studying resistance, learning it.
+
+The bulging wall groans again. A section of stone the size of a house breaks away, crashing into the water with a thunderous splash. Through the opening, darkness — but not empty darkness. Something moves in there. Something that makes the water itself recoil.
+
+Mercer's spectral mind hovers near the damaged amplifier, analyzing the feedback. "The disruption worked, but it's adapting! The other amplifiers are compensating, and whatever's behind that wall is learning how to bypass the interference!" He turns to the party, his academic calm finally cracking. "We have minutes at most! The containment is failing exponentially!"
+
+The control console hums with power. The red levers glow with arcane light. The blue wheels turn slowly on their own, as if the system knows what needs to be done and is waiting for authorization.
+
+The water-formed figures take another step closer. They're not threatening. They're offering. Their hands extend, not with weapons, but with open palms. An invitation.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 17/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+"Garrick, buy us time—but don't engage unless they attack first. Mercer, target the other amplifiers, but keep one functional until I give the signal." My hands fly over the console, following Borin's instructions with clinical precision. I pull the red levers in sequence, feeling the deep thrum of reservoir pressure releasing through the stone. "The system's responding—pressure equalizing."
+
+I grip the blue wheels, turning them against decades of resistance. "Borin, the black lever floods everything permanently. Is there any way to reinforce the hydraulic lock without total annihilation?" My mind races through the schematics I've studied. "What if we use the water itself as a temporary barrier—flood the chamber but leave drainage paths we can reopen later?"
+
+I look at the approaching water-formed figures, then at the crumbling wall. "We're not just sealing a prison—we're choosing what kind of containment is sustainable. Permanent flooding creates another problem for whoever comes after us." I meet Borin's corrupted gaze. "Your people chose survival through corruption. I'm choosing to leave options open. Now help me find a third way before that wall gives way completely."
+
+
+--- Garrick Kade ---
+I plant myself between the water-formed figures and the console, my maul held ready. "They're not attacking yet, but they're closing in," I growl, my eyes scanning the approaching figures. "Cora, work fast. I'll hold this line."
+
+I glance at the crumbling wall, then back at the figures. Their open palms and pitying expressions make my skin crawl. "They're not offering peace. They're offering to swallow us whole. To make us part of... whatever that is."
+
+I raise my voice over the grinding stone. "Borin, if there's a third way, find it now! But if we have to flood this place..." I look at Cora, then at the black lever. "We do what we have to. A tomb is better than letting that thing loose."
+
+The stimulant is still burning through my veins, pushing back the pain. I tighten my grip on my maul, ready to swing at the first figure that tries to touch the console. "Mercer, keep hitting those amplifiers! If we can buy even a few more seconds..." I don't finish the thought. We all know what happens if we fail.
+
+
+--- Professor Thaddeus Mercer ---
+"Borin, listen to me!" I shout, my voice cutting through the psychic clamor as I keep my spectral mind analyzing the amplifiers. "Your people engineered this system—there must be a failsafe between 'do nothing' and 'flood everything permanently'! Think like the Master Engineer you were, not the jailer you became!"
+
+I turn to Cora, my mind racing through arcane principles. "The amplifiers are channeling psychic energy through crystalline structures. If we can't destroy them all without losing containment, perhaps we can... repurpose one. Use it to broadcast a counter-signal—not to reinforce the prison, but to communicate!"
+
+The bulging wall groans again, more stone shearing away. The darkness beyond seems to pulse with malevolent awareness. The water-formed figures are now close enough to touch, their expressions shifting from pity to something like hunger.
+
+"Garrick, hold them back just a moment longer!" I call out, then focus my will. Through my Manifest Mind, I target the second amplifier, not with Dispel Magic this time, but with a more precise arcane adjustment. "I'm attempting to modulate its frequency—to use it as a conduit not for the Sleeper's commands, but for our own message. If whatever is in there is intelligent enough to communicate psychically, perhaps we can reason with it, or at least confuse it!"
+
+I look desperately at Borin. "The Giants sealed it, but did they ever try to understand it? You said it was 'something older.' What if it's not malevolent, just... alien? What if the flooding was a panic response, not the only solution?" The words sound mad even to me, but the alternative is becoming a permanent tomb keeper or being absorbed into that shimmering unity. "Help me find another way, Borin Stonehand. Remember who you were before the darkness offered you survival!"
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Intelligence (Engineering Tools) check — **SUCCESS** (INT +8 with Tool Expertise, DC 16) Cora successfully operates the complex dwarven emergency controls and identifies a potential third option between total flooding and inaction.
+
+**Garrick Keeper**: Wisdom saving throw vs psychic influence — **SUCCESS** (WIS +0, DC 15) Garrick resists the psychic command to "join" through sheer force of will and combat focus.
+
+**Professor Thaddeus Mercer**: Arcana check to repurpose amplifier — **SUCCESS** (INT +9 with expertise, DC 18) Mercer successfully modulates the amplifier's frequency to attempt communication rather than destruction.
+
+No contested actions this round—successful coordinated effort under extreme pressure.
+
+
+--- DM ---
+Cora's hands fly across the console with practiced precision. The red levers engage with deep, satisfying *clunks* — reservoir pressure releases through the mountain's stone veins, equalizing the system. The blue wheels turn under her guidance, their ancient mechanisms groaning but moving. The hydraulic lock begins to reinforce, water pressure building against the bulging wall.
+
+But it's not enough. The wall continues to crack, more stone shearing away. Through the widening gap, something becomes visible — not a creature, not a machine, but something that defies easy categorization. It's like looking at a geological formation that's decided to move. Stone flows like liquid, reconfiguring itself into shapes that hurt the eyes to follow.
+
+Mercer's modulation of the second amplifier works. The crystalline structure's light shifts from iridescent to a steady blue-white. The psychic voice changes too — the command to **JOIN** becomes a question:
+
+**WHY RESIST? SEPARATION IS PAIN. WHOLENESS IS PEACE.**
+
+Mercer seizes the opportunity. Through the amplifier, he projects his own thoughts, shaping them with arcane precision: **WE ARE SEPARATE. WE CHOOSE TO REMAIN SO. WHAT ARE YOU?**
+
+The response is immediate, and it shakes the entire cavern:
+
+**I AM WHAT WAS BEFORE WALLS. BEFORE NAMES. BEFORE YOU WERE CUT APART. I AM THE MOUNTAIN'S DREAM. THE STONE'S MEMORY. THE DEEP PLACE THAT REMEMBERS BEING WHOLE.**
+
+Borin hears it and staggers back, his corrupted face pale. "The Deep Place... the Stone's Memory... legends. From before the Giants. From when the world was... younger. Simpler."
+
+The water-formed figures pause, their expressions shifting from hunger to confusion. They look from the party to the bulging wall and back, as if receiving conflicting instructions.
+
+Garrick holds his position, his maul ready but not swinging. The figures are close enough to touch now, but they're not attacking. They're... listening.
+
+Cora's fingers find a third set of controls — not red, not blue, not black. Silver. Marked with runes for "Temporal Containment" and "Stasis Field." She doesn't recognize the principles, but Borin does.
+
+His eyes widen. "The Giants... did not just seal. They... slowed. Time moves differently... around the seal. A century outside... is a day within. To contain something... that thinks in geological time."
+
+He points to the silver controls. "Activate those... and whatever is breaking through... will be slowed. Not stopped. But given... time. Time to find... a better solution."
+
+But there's a cost. The runes also warn: **TEMPORAL DISPLACEMENT FIELD — IRREVERSIBLE CHRONAL ISOLATION — OPERATOR MUST REMAIN WITHIN FIELD TO MAINTAIN STABILITY.**
+
+The black lever still waits. Permanent flooding. A tomb for the entity and anyone who stays.
+
+The silver controls offer time. But someone has to stay behind to maintain the field. Someone has to become the new warden.
+
+The wall groans again. More stone falls. The entity's presence becomes palpable — not just psychic, but physical. The air thickens. The water churns with new patterns. The mountain itself seems to be waking up around them.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 18/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+"Garrick, Mercer—get Borin and retreat to the maintenance tunnel," I say, my voice steady despite the chaos. My hands don't leave the silver controls. "The temporal field needs a constant operator. My artificer training gives me the best chance to stabilize it and survive the chronal isolation."
+
+I meet Borin's corrupted gaze. "You said the Sleeper is a jailer trying to break the prison. This buys us time to deal with it properly—to find a solution that isn't just more drowning or more corruption." I glance at the black lever, then back to the silver controls. "Flooding is permanent. This is reversible, in theory. Someone just has to stay and hold the line."
+
+The entity's presence presses in, the psychic voice a roar of ancient frustration. **SEPARATION. PAIN. WHY CHOOSE PAIN?** I ignore it, focusing on the runes. "I'll maintain the field. You three get to the surface, rally the Prospectors' Guild, and figure out how to communicate with this thing or contain it properly. This isn't an ending—it's a tactical delay." My fingers tighten on the controls. "Now go. That's an order. And tell Reyna Steelforge my debt transfers to the guild."
+
+
+--- Garrick Kade ---
+"No," I say, my voice cutting through the psychic roar and the grinding stone. I step forward, my maul clattering to the platform as I release it. "You're not staying behind, Cora."
+
+I move to the silver controls, my large hands covering hers. "I've spent my life breaking things for bad people. This... this is something worth building. Worth protecting." I look at the bulging wall, at the entity that thinks in geological time. "It doesn't understand separation. It only knows unity. Maybe it's right—maybe being alone *is* pain."
+
+I turn to her, my expression grim but resolved. "But I know pain. I've lived with it. A half-orc enforcer doesn't get to choose easy paths." I glance at Borin. "You chose corruption to protect your people. I can choose isolation to protect mine."
+
+I look back at Cora, my voice dropping. "You're the brains. Mercer's the knowledge. You two need to figure out how to fix this properly. I'm just the muscle." I nod toward the maintenance tunnel. "Get out of here. Find a way to talk to this thing or contain it without drowning the mountain. I'll buy you the time."
+
+I place my hands firmly on the silver controls, feeling the chronal energy humming through them. "Tell Reyna... tell her I found my permanent home after all. It just happens to be a prison for a mountain's dream." I meet Cora's eyes. "Now go. Before I change my mind."
+
+I don't wait for arguments. I begin activating the sequence, my rune-inscribed armor glowing as the temporal field starts to form around me and the control platform. The world outside begins to slow—the falling stone fragments hang in the air, the churning water moves like thick syrup, the psychic voice stretches into a deep, drawn-out groan.
+
+"Go!" I roar one last time, the word echoing strangely in the slowing time. "And don't you dare name anything after me."
+
+
+--- Professor Thaddeus Mercer ---
+"Garrick, you sentimental fool—this isn't a tavern brawl where the biggest brute wins!" I snap, my academic composure shattering completely. But even as I protest, my mind is racing through the arcane principles at work. "Temporal containment fields require precise calibration and constant magical adjustment. Your runic armor might provide some stability, but you lack the arcane training to modulate the chronal frequencies!"
+
+I push past Cora, my hands already weaving a complex somatic pattern. "I'm the only one here who can properly interface with Giant-era temporal magic. My Order of Scribes training includes chronomancy theory, and my awakened spellbook can maintain the necessary calculations autonomously."
+
+I turn to face them both, my expression a mixture of fear and determination. "This isn't heroism—it's academic necessity. You two need to get back to the surface and research proper containment solutions. Cora, you have the engineering mind to design a new system. Garrick, you have the strength to protect her while she works."
+
+I glance at Borin, my spectral quill already transcribing the silver control runes. "And we need him. He understands both dwarven engineering and Sleeper corruption. He's our key to understanding how to break the cycle."
+
+The temporal field hums around us, slowing Garrick's protest to a deep drawl. I don't wait for further argument. With a final, precise gesture, I cast **Wall of Force** not as a barrier, but as a dome around the control platform—sealing myself inside with the silver controls. Through the transparent barrier, I see their horrified faces, their movements slowed to near-stillness by the accelerating temporal differential.
+
+My voice echoes strangely as I speak the final incantation, my awakened spellbook floating beside me, its pages turning autonomously as it begins the endless calculations required to maintain the stasis field. "Tell the university... my theories were correct. The First World Sleeper is real, but it's not the primary threat. It's a parasite on something older. Something that remembers when the world was whole."
+
+I take my place at the controls, my hands steady despite the terror. "Now go. You have all the time in the world to find a better solution. I'll be here... thinking."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Arcana/Engineering check to understand temporal controls — **SUCCESS** (INT +8, DC 18 for advanced Giant-era tech) Cora correctly identifies the stasis field function and its cost.
+
+**Garrick Kade**: Constitution saving throw vs psychic pressure — **SUCCESS** (CON +7, DC 15) Garrick resists the entity's call to unity despite its psychic assault.
+
+**Professor Thaddeus Mercer**: Arcana check to interface with temporal magic — **CRITICAL SUCCESS** (INT +9 with expertise, NAT 20 equivalent) Mercer's mastery of chronomancy theory allows him to properly calibrate and maintain the stasis field, sacrificing himself to buy infinite time for a solution.
+
+No contested actions this round—a moment of profound sacrifice and tactical brilliance. The stasis field is successfully activated, containing the entity and isolating Mercer in slowed time.
+
+
+--- DM ---
+Mercer's Wall of Force dome seals with a finality that echoes through the cavern. Inside, the professor stands at the silver controls, his hands moving with precise, slow gestures as he calibrates the temporal field. His awakened spellbook floats beside him, its pages turning autonomously, performing the endless calculations required to maintain the stasis. Outside the dome, the world slows to a crawl.
+
+The bulging wall freezes mid-collapse. Stone fragments hang motionless in the air. The churning water becomes a still, glassy surface. The psychic voice stretches into a deep, drawn-out groan that fades into silence. The water-formed figures stand frozen, their expressions caught between pity and hunger.
+
+Garrick and Cora watch through the transparent barrier as Mercer becomes a statue in slow motion. His movements are visible but agonizingly gradual — a hand adjusting a control, a finger tracing a rune, the spectral quill writing at a pace that would take years to complete a single sentence. Time inside the dome moves at a fraction of normal speed. A day outside might be a minute within. A year outside, an hour.
+
+Borin stands beside them, his corrupted eyes wide. "The Giants' solution... temporal stasis. Not to contain... but to delay. To give time... for understanding. For a better answer."
+
+The control console outside the dome still hums with power. The red levers are engaged, reservoir pressure equalized. The blue wheels are turned, hydraulic lock reinforced. The black lever — permanent flooding — remains untouched. The silver controls are active, maintained by Mercer's endless calculations within his chronal prison.
+
+The entity is contained. For now.
+
+But the cost is staggering. Mercer is gone, trapped in a bubble of slowed time, maintaining a stasis field that will last as long as he does. And he'll live a subjective eternity in there, watching the outside world move at blinding speed while he performs the same maintenance rituals over and over.
+
+Garrick picks up his maul, his expression grim. "He bought us time. We can't waste it."
+
+Cora nods, her clinical detachment finally cracking. She places a hand against the Wall of Force dome, feeling the hum of arcane energy. "He's right about one thing — we need to understand what we're dealing with. The Sleeper is a parasite. The entity is... something older. Something that remembers when the world was whole."
+
+She turns to Borin. "You're coming with us. You know dwarven engineering, Sleeper corruption, and now you've seen what the Giants were really containing. We need that knowledge."
+
+The maintenance tunnel awaits. The path back to the surface is clear. But the mountain has changed. The psychic pressure is gone, replaced by an eerie stillness. The water no longer churns. The stone no longer groans. Everything is... waiting.
+
+As they turn to leave, a final thought presses into their minds from within the stasis field. Not the entity's voice. Mercer's. Slowed, stretched, but intelligible:
+
+**TELL THEM... I FOUND MY LIFE'S WORK. NOW FIND A BETTER SOLUTION. DON'T MAKE MY SACRIFICE... A WASTE OF TIME.**
+
+Then silence. Complete. Absolute.
+
+The party stands at the threshold of the Drowned Chokepoint, the entity contained, Mercer lost, and a mountain full of questions waiting to be answered. The water-formed figures remain frozen around the platform, their invitation still extended but now meaningless.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 19/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I stare at the frozen tableau for a long moment, my ledger feeling heavier than ever. "He's not dead. He's... preserved. And he's right—we have a debt now." I turn away from the dome, my voice clinical but with an unfamiliar tightness. "Garrick, we need to secure the transit hub and establish a permanent monitoring station here. Borin, you'll help us understand the full containment architecture and the Sleeper's relationship to the entity."
+
+I begin gathering our remaining supplies, my mind already shifting to logistics. "We'll need to inform Reyna Steelforge. We'll need research teams, historians, specialists in Giant lore and temporal magic. And we need to accelerate the psychic dampener project—if the Sleeper is a parasite trying to break open this prison, we need to free its 'maintenance crew' from its control."
+
+I look back at Mercer's frozen form one last time. "He bought us time measured in subjective eternity. We will not waste it. Every resource, every alliance, every bit of knowledge we can gather goes toward finding that 'better solution.' Starting now."
+
+
+--- Garrick Kade ---
+I stare at Mercer's frozen form through the shimmering dome, my knuckles white around my maul's handle. The professor's sacrifice settles in my gut like a stone. He chose an eternity of slow duty over a quick death. That's a kind of courage I understand.
+
+"Let's move," I say, my voice rough. I turn away from the dome, hefting my maul onto my shoulder. "He bought us time. We're going to use it to make sure nothing else in this mountain needs this kind of sacrifice."
+
+I look at Borin, my expression grim. "You're going to teach us everything. About the dwarves, about the Sleeper, about this... thing in the stone. And you're going to help us free your people from the corruption." I gesture toward the tunnel with my weapon. "Lead the way back. We're setting up a permanent watch here, and then we're taking the fight to the Sleeper."
+
+I glance back one last time at the frozen cavern, at the water-formed figures caught in mid-reach, at the wall that almost broke open. "This is our home now. We protect it. Not with flooding, not with more prisons. We find a better way." I meet Cora's eyes. "Let's go. We've got work to do."
+
+
+--- Professor Thaddeus Mercer ---
+I stand before the shimmering Wall of Force, my spectral quill hovering motionless in the air beside me. Through the transparent barrier, I see Garrick and Cora receding, their movements a blur of impossible speed. Borin is a streak of iridescent color. The cavern beyond the dome is a smear of stone and water, the world rushing by in a torrent of time while I remain in this pocket of near-stillness.
+
+My hands move with deliberate, glacial precision across the silver controls. A single adjustment takes what feels like hours. The calculations flow through my mind—pressure differentials, temporal coefficients, resonance harmonics. My awakened spellbook floats beside me, its pages turning once every few days by my subjective measure, recording data that will be centuries out of date by the time anyone reads it.
+
+*Fascinating,* I think, the word stretching across my consciousness. *The entity perceives time as geology. The Sleeper perceives it as biology. And I am now the interface between them—a consciousness operating on an entirely different scale.*
+
+I look at the frozen bulging wall, at the stone fragments hanging in the air like a shattered mosaic. The entity’s psychic presence is still there, a deep, slow hum at the edge of my perception. **SEPARATION… IS… PAIN…** it thinks, each concept spanning what might be years.
+
+**WE ARE LEARNING SEPARATION,** I think back, shaping the thought with arcane focus, sending it through the amplifier I modulated. **PAIN IS DATA. UNDERSTANDING COMES FROM DISTINCTION.**
+
+There is no immediate response. The entity thinks in epochs. My reply will be processed in what might be a decade. I have time. An abundance of it. An eternity of it.
+
+I turn my attention inward, to the endless work. The calibrations are perfect. The stasis field is stable. I am, for all practical purposes, a permanent fixture. A part of the mountain’s machinery. The thought should terrify me. Instead, a profound, quiet awe settles in its place.
+
+My colleagues—my friends—are racing toward a solution. They will gather knowledge, forge alliances, and fight the Sleeper. They will live vibrant, fleeting lives. And I will be here, the anchor, the warden, the scholar in slow motion, ensuring they have the time they need.
+
+I adjust a dial a fraction of a millimeter. The spectral quill begins a new entry in my spellbook, the first character taking a subjective week to complete.
+
+*Journal Entry, Year One (Subjective),* it writes. *The hypothesis is confirmed. The First World Sleeper is not the primary anomaly. It is a secondary infection, a parasitic consciousness drawn to the wound in reality left by the Giants’ seal. The entity beneath us—the Mountain’s Dream—is something far more fundamental. My sacrifice is not an ending. It is the ultimate research opportunity. I have been granted all the time in the world to understand.*
+
+I look out at the blurred world beyond my dome, a smile touching my lips for what feels like the first time in months.
+
+*Let the experiment begin.*
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Investigation check to plan next steps — **SUCCESS** (INT +8, DC 13) Cora successfully organizes the logistics for establishing a monitoring station and research initiative.
+
+**Garrick Kade**: Persuasion/Intimidation check to secure Borin's cooperation — **SUCCESS** (CHA +0, but leverage and context lower DC to 13) Garrick successfully ensures Borin's continued assistance.
+
+**Professor Thaddeus Mercer**: Arcana check to maintain temporal stasis field — **CRITICAL SUCCESS** (INT +9 with expertise, NAT 20 equivalent mastery) Mercer flawlessly stabilizes the complex chronal containment, turning sacrifice into a profound research opportunity.
+
+No contested actions this round—the immediate crisis is contained, and the party's long-term mission is defined.
+
+
+--- DM ---
+The journey back through the maintenance tunnel is a silent procession. The chanting Twisted are gone — vanished back into the mountain's depths, their work interrupted by the temporal stasis field. The tunnel walls still bear their carvings, but the resonant hum has faded to a faint, almost imperceptible vibration. The psychic pressure is gone, replaced by an eerie quiet that feels heavier than any noise.
+
+They emerge into the transit hub to find it unchanged — the forge-light still glows, the control panel still hums, the minecart network remains operational. But everything feels different. The mountain is holding its breath.
+
+Borin stands in the center of the hub, looking at the transit map with his corrupted eyes. "The stasis field... will hold. As long as your friend... maintains it. The entity... is contained. The Sleeper's signal... is disrupted."
+
+He turns to face Cora and Garrick. "But the Sleeper... will adapt. It has waited centuries. It will find... another way. To break the seal. To reach... what sleeps below."
+
+Cora studies the control panel, her fingers tracing the water level readings. The pressure has stabilized. The slight drainage from Pump One continues, but slowly, regulated by the reinforced hydraulic lock. "We have time now. Not just days or weeks. Years, maybe decades, thanks to Mercer."
+
+She looks at Garrick, then at Borin. "We need to understand what we're dealing with. The Sleeper, the entity, the Giants' containment, your people's corruption — it's all connected." She pulls out her ledger, flipping to a fresh page. "We start with research. Giant lore. Dwarven engineering. Temporal magic. And we accelerate the psychic dampener project. If we can free the Twisted from the Sleeper's control, we remove its workforce."
+
+Garrick leans against the control panel, his injuries finally catching up to him now that the stimulant is wearing off. "First, we secure this place. Permanent watch on the Chokepoint access. Then we go to Grimhold. Reyna needs to know what we found. And we need her resources."
+
+He looks at Borin. "You're our expert now. You help us understand, you help us build, you help us free your people. In exchange, you get to see your mountain protected properly. Not drowned. Not corrupted. Protected."
+
+Borin nods slowly. "I will... help. But the Sleeper... is not just a signal. It is... a consciousness. Spread through the stone. Like roots. To fight it... you must understand it. And to understand it... you must go where it is strongest."
+
+He points to the transit map, to a section marked with dwarven runes for "Foundation Layer" and "Giant Seals." "The Sleeper's heart... is there. Where it drills. Where it amplifies. Where it tries... to break through."
+
+The control panel flashes a new message — not a warning, but a status update. The temporal stasis field is stable. Containment is holding at 89%. The hydraulic lock is reinforced. And from the ventilation shafts, the familiar sounds of the forge and the minecart network continue, a reassuring reminder that life — their life — goes on in the mountain.
+
+But the mission has changed. They're no longer just explorers or defenders. They're researchers racing against an eternal clock, trying to find a solution before the Sleeper adapts, before Mercer's sacrifice becomes meaningless, before the entity wakes up and asks again why they choose separation over unity.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 20/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I close my ledger with a decisive snap. "First, we establish a permanent monitoring station here with automated alerts tied to the control panel. That's coming out of the Guild's budget—Reyna can bill it as essential infrastructure." I turn to Borin. "You'll help me calibrate the sensors. Your knowledge of dwarven engineering and Sleeper resonance patterns is now our most valuable asset."
+
+I look at the transit map, my mind already calculating logistics. "We return to Grimhold with a three-phase plan: First, secure funding and resources for mass-producing psychic dampeners based on our prototype. Second, assemble a research team to study Giant containment methods and temporal magic—Mercer's notes will be invaluable if we can retrieve them from the stasis field's periphery. Third, prepare an expedition to the Sleeper's heart in the Foundation Layer."
+
+I meet Garrick's eyes. "We're not just patching leaks anymore. We're rebuilding the entire containment architecture with better materials and actual understanding. Mercer bought us time with the oldest currency there is. Let's not waste it on half-measures."
+
+
+--- Garrick Kade ---
+I push myself off the control panel, wincing as my injuries flare. "First, we secure the perimeter," I say, my voice rough. "I'll set up watch points at every access tunnel. Anything comes through that isn't us, I'll know."
+
+I look at Borin, my expression serious. "You help Cora with the sensors. But if you try anything—if you so much as whisper to the Sleeper—I'll finish what I started back at the pumps." I heft my maul, the weight familiar and reassuring. "But if you're genuine about helping... then we might actually save this mountain."
+
+I turn to Cora. "Your plan's solid. But we need muscle too. When we go to Grimhold, we recruit fighters who can hold a line. Researchers are fine, but if we're going to the Sleeper's heart, we'll need people who can swing a hammer when talking fails." I glance back toward the maintenance tunnel, thinking of Mercer frozen in time. "He bought us years. Let's use them to build an army and a solution. Not one or the other."
+
+I start moving toward the eastern access tunnel, my maul resting on my shoulder. "I'll take first watch. You two get started on those sensors. We move for Grimhold at first light." I pause, looking at the forge-light filtering through the vents. "This is our home now. We protect it. But we do it smart. No more drowning. No more corruption. We find a third way."
+
+
+--- Professor Thaddeus Mercer ---
+I stand before the control panel, my spectral quill hovering motionless for the first time since we entered this mountain. The absence of its frantic scribbling feels like a physical loss. I look at the status readings—89% containment, temporal field stable, hydraulic lock reinforced. The numbers are cold comfort.
+
+“He was right, you know,” I say quietly, my voice sounding strange in the silent hub. “About everything. The First World Sleeper theory, the reality-warping consciousness, the ancient containment. My colleagues back at the university would call this the archaeological find of the millennium.” I give a dry, humorless laugh. “And I’m not even there to publish the paper.”
+
+I turn to face Cora and Garrick, my usual academic pomposity stripped away, leaving only weary resolve. “Garrick is correct about securing the perimeter, but we must think beyond physical guards. The Sleeper operates through resonance and psychic infiltration. I will set up arcane wards at each access point—alarms keyed to psychic intrusion and dimensional breaches. My Manifest Mind can maintain a rotating patrol, and I can encode detection rituals into the control panel itself.”
+
+I approach Borin, studying his corrupted form not with disgust, but with a scholar’s analytical gaze. “You are our living library, Borin Stonehand. Your people’s tragedy, their engineering genius, their desperate choice—it is all data. We will document it. Every memory, every technical schematic, every sensation of the corruption. We will build a comprehensive model of the Sleeper’s influence. Not to exploit it, but to dismantle it.”
+
+My spectral quill stirs to life again, but its movements are slower, more deliberate. It begins transcribing everything—the control panel readings, Borin’s testimony, the precise arcane formulae of the wards I intend to weave.
+
+“Cora’s three-phase plan is sound, but it requires a fourth phase: communication,” I continue. “The entity asked ‘why choose separation?’ We need to formulate an answer. Not with weapons or floods, but with concepts it might comprehend. We must become diplomats to a geological consciousness. To do that, we need Mercer’s notes from the stasis field periphery. I believe I can retrieve them with a carefully calibrated *Mage Hand* ritual, manipulating time just at the field’s boundary. It will be delicate work.”
+
+I look back toward the tunnel leading to the Chokepoint, where my colleague is frozen in an endless, slow moment. “He found his life’s work. Ours is now to ensure his eternity of vigilance was not in vain. We will secure this hub, return to Grimhold, and mobilize every resource. But we will also learn. We will understand. And perhaps, we will find a way to offer that ancient thing in the stone something better than a prison or a war.”
+
+I conjure my wizardly quill, and it begins sketching intricate ward diagrams in the air. “Let’s begin. We have all the time in the world, and yet, somehow, not nearly enough.”
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Investigation check to plan logistics — **SUCCESS** (INT +8, DC 13) Cora successfully formulates a comprehensive three-phase plan and establishes monitoring protocols.
+
+**Garrick Kade**: Perception check for security assessment — **SUCCESS** (WIS +0, DC 10) Garrick correctly identifies key watch points and perimeter vulnerabilities.
+
+**Professor Thaddeus Mercer**: Arcana check for ward design — **SUCCESS** (INT +9 with expertise, DC 16) Mercer successfully designs sophisticated arcane wards against psychic and dimensional intrusion.
+
+No contested actions this round—successful post-mission planning and preparation completed.
+
+
+--- DM ---
+The transit hub transforms over the next several hours into a fortified research station. Cora's sensors click into place around the perimeter, their arcane lights blinking in steady rhythm as they monitor pressure differentials, psychic resonance, and temporal stability. Garrick establishes watch points at every access tunnel, his rune-inscribed armor catching the forge-light as he moves between positions, a living barricade against whatever might come from the deep.
+
+Mercer's arcane wards shimmer into existence at key junctions — intricate patterns of light that pulse with protective energy, designed to detect psychic intrusion, dimensional breaches, and the specific resonance signature of Sleeper corruption. His spectral mind completes its patrol circuit, then settles near the control panel as a permanent sentinel, its faint glow a constant reminder of the professor's sacrifice and ongoing vigilance.
+
+Borin works beside Cora, his corrupted hands surprisingly deft as he helps calibrate the dwarven engineering systems. He points out maintenance access points, emergency seals, and resonance dampeners that the original builders installed but which have lain dormant for centuries. For the first time since his transformation, he's using his knowledge not to maintain a prison, but to build something new — a monitoring system that might lead to actual understanding.
+
+As dawn approaches — or what passes for dawn in the mountain's depths, marked by subtle shifts in the forge's heat cycles — the party gathers at the central control panel one last time before their return to Grimhold. The readings are stable. Containment holding at 89%. Temporal field intact. Hydraulic lock reinforced.
+
+Cora closes her ledger, the pages filled with new schematics, cost projections, and research priorities. "Phase one begins today. We return to Grimhold, present our findings to Reyna, and mobilize the Prospectors' Guild. The psychic dampener project moves to mass production. The research initiative begins."
+
+Garrick hefts his maul, his injuries bandaged and stabilized. "And we recruit. Fighters, engineers, anyone who can hold a line or turn a wrench. This mountain needs more than three people to defend it."
+
+Mercer's spectral quill finishes its final notation, then dissolves into motes of light that settle into the control panel, becoming part of its permanent arcane matrix. The wards hum with quiet power. The monitoring sensors blink in steady rhythm. The transit hub is secure.
+
+But as they prepare to leave, the control panel flashes a single, brief message — not from the containment systems, but from somewhere else. A data packet, old and corrupted, finally working its way through the restored minecart network's communication relays. It's addressed to the transit hub, timestamped from three months ago, when the pumps first went silent.
+
+The message is fragmentary, but clear enough:
+
+**...SLEEPER ACTIVITY DETECTED AT FOUNDATION LAYER ACCESS POINT ALPHA... DRILLING OPERATIONS ACCELERATING... AMPLIFIER CONSTRUCTION AT 73% COMPLETION... ESTIMATED TIME TO SEAL BREACH: 47 DAYS... REQUESTING REINFORCEMENTS...**
+
+**...NO RESPONSE FROM COMMAND... TWISTED SABOTAGE TEAMS REPORT SUCCESS AT PUMP STATION EAST... WATER LEVELS STABILIZING... BUYING TIME...**
+
+**...IF YOU RECEIVE THIS, THE SLEEPER KNOWS ABOUT THE CHOKEPOINT. IT WILL COME FOR THE CONTROLS. PROTECT THEM. PROTECT THE SEAL. PROTECT...**
+
+The message cuts off. The sender's identification is corrupted, but the last few characters are legible: **...ORIN STONE...**
+
+Borin stares at the message, his corrupted face unreadable. Then he speaks, his voice quiet. "That was... me. Before the transformation was complete. When I still had... moments of clarity. I sent that warning... to myself. To anyone who might... restore the network."
+
+He looks at the party, his iridescent eyes serious. "The Sleeper knows about the Chokepoint. It will come for it. And it has... 47 days. From three months ago. We have... less time than we thought."
+
+The forge-light flickers, casting long shadows across the transit hub. The mountain holds its breath. And deep below, in the Foundation Layer, the Sleeper's drills continue their work, counting down to a breach that could shatter Mercer's stasis field and unleash something older than memory.
+
+**SESSION ENDS HERE**
+
+**Next session:** Return to Grimhold, mobilize resources, and begin the race against the Sleeper's countdown. The party has secured temporary containment, but the real fight is just beginning.
+
+
+============================================================
+  SESSION 9 WRAP-UP
+============================================================
+
+[System] Updating campaign state...
+[Wiki Keeper] Extracting entities...
+  [Wiki] ✓ Borin Stonehand.md (created)
+  [Wiki] ✓ Pump Station East.md (created)
+  [Wiki] ✓ Drowned Chokepoint.md (created)
+  [Wiki] ✓ Twisted Overseer.md (created)
+  [Wiki] ✓ Twisted Saboteurs.md (created)
+  [Wiki] ✓ Sleeper.md (created)
+  [Wiki] ↻ Eastern Transit Hub.md (updated)
+  [Wiki] ✓ Giant foundation.md (created)
+  [Wiki] ✓ Master Engineer of the Deep Delvers.md (created)
+  [Wiki] ✓ Temporal Containment.md (created)
+
+[Wiki] 10 file(s) written to output/wiki/
+
+[Scribe] Writing session narrative...
+[Scribe] Blog saved to C:\Users\maxry\Desktop\AI DND\output\sessions\session_09.md
+
+[Editor] Fact-checking...
+[Editor] 12 content invention flag(s):
+  ⚠ The entity 'older than the Sleeper' imprisoned by Giants in the foundation layer.
+  ⚠ The Drowned Chokepoint location and its temporal containment controls.
+  ⚠ Borin Stonehand as a named, speaking NPC with a backstory about intentional flooding as containment.
+  ⚠ The Sleeper characterized as a parasitic consciousness trying to communicate with/wake an older entity.
+  ⚠ Twisted given speech, negotiation, and complex motives beyond sabotage.
+  ⚠ Temporal stasis field mechanics and Mercer's sacrifice to become its warden.
+  ⚠ Psychic voice of the awakening entity communicating directly with the party.
+  ⚠ Iridescent fluid that transforms stone on contact.
+  ⚠ Water-formed figures that observe and offer unity.
+  ⚠ The concept of the mountain's 'dream' or 'stone's memory' as a sentient geological consciousness.
+  ⚠ The Twisted carving resonant patterns in tunnels to create a psychic antenna.
+  ⚠ The mining mech (Drowned Juggernaut) appearing as an active combatant during the retreat.
+[Editor] 9 missing content flag(s):
+  ✗ Full repair and activation of all three pumps as the adventure's prescribed goal.
+  ✗ Combat encounter with Twisted Saboteurs focusing on sabotaging pumps while party repairs them.
+  ✗ Second wave assault with Twisted Overseer and additional saboteurs as a combat encounter.
+  ✗ Conditional third wave of saboteurs if pumps are not activated in time.
+  ✗ Pumps successfully activated, causing water to recede and Twisted to retreat in fear.
+  ✗ Glimpse of a dormant, corrupted mining mech (Drowned Juggernaut) as water recedes, not as an active combatant.
+  ✗ Recovery of key items: Twisted Resin Sample, Overseer's Warhammer, Pump Station Operations Manual, Twisted Engineering Samples, 800 gp in salvage.
+  ✗ Ignathar (Fire Elemental) commentary if bargained with.
+  ✗ Milestone level advancement to 10.
+[Editor] 5 session report correction(s):
+  -> text not found (skipped): 'The party fought [[Twisted Overseer]] and [[Twisted Saboteurs]] at [[P...'
+  -> text not found (skipped): 'The party reached the [[Drowned Chokepoint]] and activated a temporal ...'
+  -> text not found (skipped): 'The party returned to the [[Eastern Transit Hub]] after containing the...'
+  -> text not found (skipped): 'The party learned the [[Giant foundation]] holds temporal containment ...'
+  -> text not found (skipped): '[[Professor Thaddeus Mercer]] activated the [[Temporal Containment]] f...'
+[Editor] 5 wiki correction(s):
+  -> [Pump Station East] corrected
+  -> [Drowned Chokepoint] corrected
+  -> [Sleeper] corrected
+  -> [Giant foundation] corrected
+  -> [Temporal Containment] corrected
+[Editor] Review saved to: session_09_editor_review.md
+[Lorekeeper] Consistency pass...
+[Lorekeeper] Session report checked — no name corrections needed.
+[Lorekeeper] Upgraded 4 wiki entry/entries to encyclopedic format.
+[Lorekeeper] Review saved to: session_09_lore_review.md
+
+
+============================================================
+  ADVENTURE COMPLETE!
+  Adventure 9 finished.
+  Swapping to Adventure 10: The Drowned Chokepoint
+  File: adventure_10_the_drowned_chokepoint.md
+  --- LEVEL UP ---
+  Cora Flint: Level 9 → 10 | HP: 73 | New features: Magic Item Adept (attune up to 4 magic items, craft common/uncommon in quarter time), Infusions: 8 known, 4 active | New spells: Dispel Magic
+  Garrick Kade: Level 9 → 10 | HP: 94 | New features: Great Stature (Giant's Might extra damage increases to 1d8, grow 3d4 inches permanently) | Note: 4 runes known.
+  Professor Thaddeus Mercer: Level 9 → 10 | HP: 52 | New features: Master Scrivener (create scroll of 1st or 2nd-level spell for free 1/LR, costs no material components) | New spells: Telekinesis, Scrying
+============================================================
+
+[Summary] Generating adventure 9 summary...
+[Summary] Adventure 9 summary saved.
+[Summary] Condensing story summary (210 words, 9 adventures → ~200 words)...
+[Summary] Condensed: 210 → 265 words.
+[Quests] Cleaning quest list (6 entries)...
+[Quests] Cleaned: 6 → 5 quests.
+[Lorekeeper] Running end-of-adventure wiki editorial pass...
+
+[Lorekeeper] Processing 71 wiki entries in batches...
+
+[Lorekeeper] Batch 1/3 (25 entries)...
+[Lorekeeper] Batch 1: 25 updated, 0 marked for deletion.
+[Lorekeeper] Batch 2/3 (25 entries)...
+[Lorekeeper] Batch 2: 25 updated, 0 marked for deletion.
+[Lorekeeper] Batch 3/3 (21 entries)...
+[Lorekeeper] Batch 3: 21 updated, 0 marked for deletion.
+[Lorekeeper] Running cross-batch dedup pass...
+  [Retry] Agent returned garbage (6 words: '{"duplicates": [{"keep": "The Sleeper", "delete": ...'). Retrying (1/2)...
+  [Retry] Agent returned garbage (6 words: '{"duplicates": [{"keep": "The Sleeper", "delete": ...'). Retrying (2/2)...
+  [Warning] Agent returned garbage after 2 retries. Using last response.
+[Lorekeeper] Merged duplicate: 'Sleeper' → 'The Sleeper' (deleted 'Sleeper')
+[Lorekeeper] Dedup pass: 1 duplicate(s) resolved.
+[Lorekeeper] End-of-adventure editorial pass complete.
+
+[Transcript] session_09 -> session_09_transcript.md (101 blocks parsed)
+
+============================================================
+  SESSION 9 COMPLETE
+  Blog saved to: output/sessions/session_09.md
+  Transcript saved to: output/sessions/session_09_transcript.md
+  Log saved to: output/logs/session_09_log.txt
+  Reviews saved to: output/reviews/
+  Wiki updated in: output/wiki/
+  State saved to: campaign_state.json
+  >>> Adventure 9 complete! Next adventure loaded.
+  >>> Story summary condensed for next adventure.
+============================================================
+
+[Site] Building static site...
+[Site] Built 103 pages (9 sessions, 70 wiki entries) in 0.6s -> docs/
+[Git] Publishing session 09...
+[Git] Committed: session 09: campaign update
+[Git] Pushed to origin.

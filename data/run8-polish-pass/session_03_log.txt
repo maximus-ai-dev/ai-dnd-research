@@ -1,0 +1,1633 @@
+=== Session Log — 2026-03-27T13:21:31.155345 ===
+
+[Log] Raw terminal output being saved to: C:\Users\maxry\Desktop\AI DND\output\logs\session_03_log.txt
+
+
+============================================================
+  SESSION 3 BEGINNING
+  Adventure 3: The Interstitial Breach
+  Adventure Session: 1/1
+  Models: All DeepSeek
+  Exchanges: 20 (full session)
+============================================================
+
+
+[DM] Opening scene...
+
+
+--- DM ---
+The maintenance tunnel is cold, dark, and blessedly quiet.
+
+Three days have passed since your narrow escape from the Salt-Vaults. Garrick's wounds — deep rat bites and claw marks that had begun to fester — have been cleaned, stitched, and wrapped with Brother Aldwin's healing salves. The trip back to Grimhold was tense but uneventful, a slow climb through the mountain's passages with Garrick leaning heavily on Cora's shoulder. In the Chapel of the Hearthfire, the patient cleric worked without asking questions, and by the second day, the fighter was on his feet again, though the scars remain.
+
+Now you stand in the fortress's main hall, transformed. The thirty former bandits — your workforce — have been busy under Brenna's direction. The worst of the filth has been scrubbed away, makeshift bunks line the walls, and a proper hearth fire crackles in the center of the room. The air smells of woodsmoke and stew instead of mildew and fear. Brenna herself looks less gaunt; the food you hauled up from the lower levels — salted meat, hardtack, and preserved vegetables — has filled bellies and lifted spirits. She nods to you from across the room, ledger in hand, then returns to her calculations.
+
+The Psychic Guardian's contract is in progress. Five of Brenna's most capable workers — led by the quiet, competent Rolf — have been descending daily into the Salt-Vaults preparation kitchen, following the Stone-Tenders' clicking instructions. They mix clay-limestone-salt mortar from the recipe on the wall, patch cracked support pillars, and replace rotted ventilation membrane with flattened iron scavenged from broken barrel hoops. The work is methodical, exhausting, and going well. Day one and two passed without incident.
+
+Today is the third day. The mood in the fortress is better than it has been since you arrived. Something is finally working.
+
+**What do you do as the repair work continues below?**
+
+
+────────────────────────────────────────
+  Exchange 1/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I pull out my ledger and approach Brenna, my boots clicking on the freshly scrubbed stone. "Let's see the numbers. Three days of work, five workers, food consumption rates, and progress on the contract."
+
+I scan her calculations, my eyes narrowing. "The mortar recipe calls for clay, limestone, and salt. We have salt from the vaults, but the clay and limestone - where are you sourcing them? And the flattened iron from barrel hoops - that's scavenged material. I need to see the quality control. If those repairs fail because of substandard materials, the Guardian won't pay."
+
+Turning to Garrick, who's testing his healed arm by swinging his maul in a controlled arc, I say, "Stop wasting energy. Your medical supplies cost seventeen silver, and that's coming out of your share. If you tear those stitches, Brother Aldwin charges extra for repeat visits."
+
+To Mercer, who's examining the ventilation shaft map with academic fascination: "Professor, instead of admiring the architecture, calculate the structural integrity. If Rolf's team is patching pillars, we need to know which ones are load-bearing versus decorative. A collapsed ceiling would be... inefficient."
+
+
+--- Garrick Kade ---
+I lower my maul, the weight feeling good in my hands as I test the healed arm. The stitches pull a bit, but the muscle works. 
+
+"Seventeen silver?" I grunt at Cora, not looking at her as I continue my practice swings. "Cheaper than dying. And if I tear them, I'll stitch them myself. I've done worse in worse places." 
+
+I glance toward the entrance where Rolf's team has been descending. "The clay and limestone - there's got to be deposits in these mountains. The dwarves didn't haul everything up here. Brenna!" I raise my voice across the hall. "Send someone to scout the lower tunnels for raw materials. Not the vaults - the side passages. If we're going to do this right, we need proper supplies."
+
+To Mercer, I add, "Forget calculating pillars. Go with the scout. Your magic can find what we need faster than digging blind. And if something's down there..." I heft my maul meaningfully. "Better I'm with you than swinging this at air up here."
+
+
+--- Professor Thaddeus Mercer ---
+I look up from the ventilation shaft map, my quill hovering over my journal where I've been sketching the structural patterns. "Structural integrity calculations?" I say, my voice dripping with academic disdain. "Madam Flint, you're asking for a geological survey, not a simple calculation. The load-bearing capacity depends on the mountain's tectonic history, the specific mineral composition of the limestone, and the dwarven engineering principles employed during construction."
+
+I gesture with my quill toward the map. "These ventilation shafts follow a pattern consistent with late-period dwarven architecture - post-Giant Wars, pre-Collapse Era. The pillars they're patching are almost certainly load-bearing, given their placement at regular intervals along the main vault corridors. However..."
+
+I pause, my academic excitement momentarily overriding my usual caution. "Garrick's suggestion has merit. If we're to source proper materials, we need to understand the local geology. The dwarves wouldn't have transported clay and limestone great distances - they'd use local deposits."
+
+I close my journal with a snap. "Very well. I'll accompany a scout. But not for your crude 'digging' purposes. This is a research expedition. We need to locate not just any clay deposit, but the specific type used in the original construction. The mortar recipe calls for precise ratios, and using inferior materials could compromise the entire repair."
+
+Turning to Garrick, I add, "And if you're coming along, do try not to smash anything before I can examine it. Every geological formation tells a story about this mountain's history. The wrong strike of your maul could destroy evidence of the First World Sleeper's influence on the local strata."
+
+I cast Mage Armor on myself, the shimmering magical field settling around me. "Shall we? I suggest we start with the side passages marked on Jorik's prospector notes. If there are mineral deposits, they'll be documented there."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Investigation (ledger review) — No roll needed (routine business review)
+**Garrick Kade**: Strength test (practice swings) — No roll needed (testing healed arm)
+**Professor Thaddeus Mercer**: Cast Mage Armor — **SUCCESS** (duration: 8 hours)
+
+No contested actions this round. The party is planning and preparing for a scouting expedition.
+
+
+--- DM ---
+Brenna looks up from her ledger as Cora approaches, her expression shifting from concentration to weary acknowledgment. "Numbers are holding," she says, sliding the ledger across the rough-hewn table. "Five workers, three days, food consumption at two-thirds ration — they're hungry but not starving. Progress is... adequate."
+
+She taps a column with a calloused finger. "Clay and limestone we're sourcing from the collapsed eastern gallery. It's not ideal — the clay's gritty, needs more sifting than I'd like. The iron hoops are from broken barrels in the old storerooms. Quality?" She shrugs. "Better than nothing. The Stone-Tenders haven't complained."
+
+When Garrick calls across the hall, Brenna's eyes narrow. "Scout the lower tunnels? With what manpower? Rolf's team is already down there working. Tomas is on watch. The rest are hauling water or tending the fire." She considers for a moment, then nods reluctantly. "Fine. Take Jace. He knows the side passages better than anyone. But if you're going, go now. They'll be breaking for midday meal soon, and I want someone back before dark."
+
+Jace — the former bandit who surrendered during your first assault — appears from near the hearth, wiping his hands on his trousers. He looks healthier than before, less gaunt, but his eyes still dart nervously. "Side passages? Yeah, I know a few. There's an old mining drift off the third corridor — dwarven work, mostly collapsed. Might be clay there. Limestone's everywhere in this mountain."
+
+As Mercer casts Mage Armor, the shimmering field draws curious glances from the workforce. A few mutter about magic, but Brenna silences them with a look.
+
+**The scene:** The main hall hums with subdued activity. Smoke curls from the hearth. The smell of stew simmers in a large pot. Through the open doorway leading downward, you can hear the distant, rhythmic *clink-clink-clink* of tools against stone — Rolf's team at work in the preparation kitchen below.
+
+**Your choices:**
+1. **Proceed with the scouting expedition** — descend with Jace to search for better clay and limestone deposits in the side passages.
+2. **Check on Rolf's team first** — visit the preparation kitchen to inspect the repair work and materials before scouting.
+3. **Something else** — the workforce is watching, waiting to see what you do next.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 2/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I examine Brenna's ledger with a critical eye, my finger tracing the columns. "Gritty clay means weaker mortar. Substandard materials mean rework, and rework means wasted labor hours and resources." I look at Garrick and Mercer. "We're not charging off into unknown tunnels until I've assessed the current work site. If Rolf's team is using poor materials, we need to know before we waste time searching for better ones."
+
+I turn to Jace. "You'll come with me to the preparation kitchen first. I need to see the actual materials they're using, not just what's on paper." To Garrick: "You're on guard duty. If Mercer wants to come, he can analyze the structural integrity while I check material quality."
+
+I head toward the doorway leading downward, ledger in hand. "Brenna, if the clay from the eastern gallery is that poor, we need to adjust the mortar ratios or find additives. Let me make an inspection roll to assess the material quality properly."
+
+As I descend toward the rhythmic clinking sounds, I call back, "And someone watch that stew pot. Burned food is wasted calories, and we can't afford waste."
+
+
+--- Garrick Kade ---
+"Guard duty?" I snort, already moving toward the doorway. "You're not going down there alone with just a ledger and a nervous bandit." I fall in step behind Cora, maul resting on my shoulder. "If something's in those tunnels that shouldn't be, you'll need more than accounting skills."
+
+I glance back at Mercer. "Professor, you're with us. If there's structural trouble, better you see it firsthand." To Jace, I add, "You lead, but stay where I can see you. Any funny business..." I don't finish the threat, just let the weight of the maul speak for itself.
+
+As we descend toward the clinking sounds, my eyes scan the shadows. The memory of rat bites still fresh in my mind makes my grip tighten on the weapon. "Cora, you check your materials. I'll check the perimeter. If there's another breach like last time, I want to see it before it sees us."
+
+
+--- Professor Thaddeus Mercer ---
+I follow behind Cora and Garrick, my mage armor shimmering faintly in the dim light of the descending passage. "An inspection of the current work site is indeed prudent," I say, my voice echoing slightly in the stone corridor. "But I must correct your terminology, Madam Flint. We're not merely 'checking material quality' - we're conducting a comparative analysis between original dwarven construction methods and contemporary repair techniques. The deviation in material composition could reveal much about mineral depletion in the mountain over the centuries."
+
+As we approach the rhythmic clinking sounds, I conjure my wizardly quill and open my journal. "Jace, before we reach the kitchen, describe the mining drift you mentioned. Dwarven work, you said? Collapsed sections suggest either structural failure or... deliberate closure. The latter would be particularly interesting - why seal a mineral-rich area unless something dangerous was discovered there?"
+
+The quill dances across the page as I speak. "Garrick, while you're checking for breaches, do look for tool marks on the walls. The angle and depth of pick strikes can indicate whether this was exploratory mining or systematic extraction. The difference matters - exploratory drifts follow mineral veins, while extraction tunnels follow engineering principles."
+
+We round a corner, and the preparation kitchen comes into view. I pause, examining the architecture. "Ah, observe the vaulted ceiling - classic dwarven pressure distribution design. The pillars Rolf's team is repairing... let me make an Investigation check to assess their original construction versus the current patching work."
+
+The quill continues its frantic notation as I study the scene, my academic excitement momentarily overriding the practical concerns of our mission.
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Investigation (material quality assessment) — Requires roll (DC 13 for medium difficulty check)
+**Professor Thaddeus Mercer**: Investigation (structural analysis) — Requires roll (DC 13 for medium difficulty check)
+
+Both PCs are attempting skill checks that require dice rolls to determine success. Cora needs to roll Investigation to assess material quality, and Mercer needs to roll Investigation to analyze structural integrity versus current repairs.
+
+
+--- DM ---
+The preparation kitchen is a scene of methodical industry. Five workers — three men and two women in patched, dust-covered clothing — move with the weary efficiency of people who've been at hard labor for hours. Rolf stands near the eastern wall, watching as a younger worker applies mortar to a cracked pillar. The mixture is pale gray, gritty-looking even from a distance.
+
+Stone-Tenders flank the entrance to the silo corridor, their crystalline bodies clicking softly in a steady rhythm. They don't acknowledge your arrival, but their patrol patterns subtly shift to keep you in their field of view.
+
+Rolf turns as you enter, his expression unreadable. "Inspection?" he asks, his voice flat. He gestures to the mortar bucket. "Clay's from the eastern gallery. Limestone's from the same. Salt's from the vault stores." He doesn't offer excuses or explanations — just facts.
+
+The air smells of damp stone, crushed minerals, and human sweat. The rhythmic *clink-clink-clink* comes from another worker chipping away at a ventilation channel in the eastern wall, clearing old, crumbling mortar. Each strike echoes in the chamber.
+
+**Cora**, as you examine the mortar bucket, you can see the problem immediately: the clay particles are coarse and unevenly mixed. When you scoop a handful and let it fall through your fingers, it separates too quickly — poor cohesion. This mortar will cure weak and crumbly. **Make an Investigation check (DC 13) to determine exactly how bad it is and whether it can be salvaged with additives.**
+
+**Professor Mercer**, your eyes go immediately to the architectural details. The pillars are indeed load-bearing — their placement follows dwarven engineering principles for vaulted chambers. The cracks Rolf's team is patching are stress fractures, not structural failures... yet. But your trained eye catches something odd about the eastern wall where the worker is chipping. The stone there is different — a slightly lighter color, with mortar that doesn't match the surrounding construction. **Make an Investigation check (DC 13) to analyze this anomaly.**
+
+**Garrick**, as you scan the perimeter, you notice the workers keep glancing nervously toward that same eastern wall. Not fear, exactly — more like... anticipation? The worker chipping at the ventilation channel is being unusually careful, testing each strike as if worried the wall might give way.
+
+Jace hangs back near the entrance, watching everything with the wary eyes of someone who's seen trouble before.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 3/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I scoop the mortar and let it fall through my fingers, but my assessment is clouded by frustration. "This is substandard," I snap at Rolf. "The cohesion is terrible. At this rate, the repairs will fail within months, maybe weeks." I look at the gritty mixture, trying to calculate what additives might salvage it, but I'm too irritated to think clearly.
+
+Turning to Mercer, I say, "Professor, while you're analyzing architecture, tell me if we can reinforce these pillars with something else. Iron bands? Additional supports?" I glance at the eastern wall where the worker is chipping. "And what's with that wall? The workers keep looking at it like it's going to sprout gold."
+
+To Garrick: "Keep an eye on Jace. If he knows something about these side passages he's not telling us, I want to know before we go exploring." I examine the mortar bucket again, shaking my head. "We need better clay. This mixture is going to cost us in rework, and rework costs time, and time costs food."
+
+
+--- Garrick Kade ---
+My eyes lock on the eastern wall where the worker is chipping. The nervous glances from the others aren't just anticipation - it's caution. Something's wrong with that wall. 
+
+"Stop!" I bark at the worker with the chisel, my voice echoing in the chamber. I stride toward the eastern wall, maul ready. "Everyone back from that wall. Now."
+
+I examine the lighter-colored stone and mismatched mortar. My gut says this isn't just poor construction - this is a repair job, and a recent one. "Rolf," I say without taking my eyes off the wall. "What's behind this? And don't tell me 'nothing.' Your people are watching it like it's going to bite them."
+
+I test the wall's surface with the flat of my maul, listening for hollow sounds. The stone does look different - not natural to the original construction. "Cora, this isn't right. This wall's been patched before, and not by dwarves."
+
+
+--- Professor Thaddeus Mercer ---
+My eyes narrow as I examine the eastern wall, my wizardly quill scratching furiously in my journal. "Garrick, wait!" I say, holding up a hand. "Don't strike it yet. Observe the color differential - that's not just different stone, that's *different geological period*."
+
+I step closer, peering at the lighter-colored stone. "The original construction uses dark gray limestone from the mountain's core strata. This patchwork is lighter, almost cream-colored - that's surface limestone, weathered and porous. And the mortar..." I lean in, squinting. "It's not dwarven mortar at all. Dwarven mortar uses crushed granite aggregate for strength. This appears to be simple clay-lime mixture, poorly mixed at that."
+
+My quill dances as I sketch the anomaly. "This isn't a structural repair - it's a *seal*. Someone walled something off, and recently by geological standards. Perhaps within the last century. The workmanship is crude compared to dwarven precision - human or maybe goblinoid."
+
+I turn to Rolf, my academic curiosity overriding caution. "What's behind this wall? And more importantly, *why* was it sealed? This isn't standard dwarven architecture - it's a modification. The ventilation channel they're clearing... it might not be a ventilation channel at all. It could be a peephole or air supply for whatever's sealed inside."
+
+I glance at Cora. "Iron bands won't help if the wall itself is concealing something. We need to understand what we're dealing with before proceeding with any repairs. This could be a burial chamber, a containment cell, or..." I trail off, my theories about the First World Sleeper suddenly feeling less academic.
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Investigation (mortar quality assessment) — Requires roll (DC 13) — **PENDING ROLL**
+**Professor Thaddeus Mercer**: Investigation (wall anomaly analysis) — Requires roll (DC 13) — **PENDING ROLL**
+**Garrick Kade**: Perception (wall examination) — Requires roll (DC 13 to detect hollow sounds or structural weakness)
+
+All three PCs are attempting skill checks that require dice rolls. Cora needs Investigation to assess mortar quality, Mercer needs Investigation to analyze the wall anomaly, and Garrick needs Perception to detect hollow sounds or structural weaknesses in the wall.
+
+
+--- DM ---
+The worker with the chisel freezes at Garrick's command, tool held mid-strike. The other workers exchange nervous glances, but Rolf gives a subtle nod, and they all take several steps back from the eastern wall.
+
+Rolf's expression remains impassive, but there's a tension in his shoulders that wasn't there before. "The wall is thin there," he says, his voice low. "Four inches, maybe less. I noticed it yesterday when we started clearing the channel. The Stone-Tenders didn't mark it as a problem area, so we kept working."
+
+He gestures toward the section where the worker was chipping. "Hollow sound. Different mortar, like the professor says. Not dwarven work. I was going to report it after we finished the ventilation clearing." He doesn't apologize or make excuses — just states facts.
+
+**Garrick**, as you test the wall with the flat of your maul, you hear it immediately: a distinct, resonant *thunk* instead of the solid *thud* of thick stone. The section is indeed hollow — maybe only a few inches thick where it should be feet of solid mountain. **Make a Perception check (DC 13) to determine if you can detect anything else: air movement, sounds from the other side, or structural weaknesses.**
+
+**Professor Mercer**, your analysis confirms your suspicions. The lighter-colored stone is definitely surface limestone, not from the mountain's core. The mortar is a simple clay-lime mixture with no granite aggregate — human work, not dwarven. And the pattern... it's not a repair. It's a seal, built from the other side and finished from this side to look like part of the original wall. Someone wanted to conceal something in that corridor. **Make an Investigation check (DC 13) to determine how old this work might be and whether you recognize the construction style.**
+
+**Cora**, as you examine the mortar bucket more carefully, pushing past your initial frustration, you realize the problem isn't just poor quality — it's the wrong type of clay entirely. The dwarven recipe calls for fine, plastic clay that binds well with limestone. This gritty, sandy clay will never achieve proper cohesion, no matter what additives you use. **Make an Investigation check (DC 13) to determine if there are any local additives that might temporarily strengthen this batch until you can find better materials.**
+
+The Stone-Tenders have stopped their patrol. They're now positioned between your group and the silo corridor, clicking in a rapid, agitated pattern. Their crystalline bodies pulse with faint light — not threatening, but definitely alert.
+
+From somewhere beyond the thin wall, a sound carries through the stone: low, rhythmic, and faint. Like... breathing. Very slow, deep breathing.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 4/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I examine the mortar more carefully, trying to think of local additives, but my mind keeps returning to the sound from beyond the wall. "This clay is completely wrong," I say, frustration evident in my voice. "Sandy, gritty - it won't bind properly no matter what we add. We need to find proper clay deposits, not waste time with temporary fixes."
+
+I turn to the workers. "Everyone step back from that wall. If it's only four inches thick and someone sealed it from the other side, whatever's behind it wasn't meant to get out." I look at Mercer. "Professor, can you date that work? If it's recent, we might have bigger problems than poor mortar."
+
+To Garrick: "Don't hit it again. If that's breathing we're hearing, we don't want to wake whatever's on the other side." I glance at the Stone-Tenders' agitated clicking. "They're reacting to something. Either they know what's behind there, or they're warning us."
+
+I pull out my ledger, making a quick note. "Addendum: discovered concealed chamber behind eastern wall in preparation kitchen. Potential threat. Need to assess before continuing repairs."
+
+
+--- Garrick Kade ---
+I press my ear against the cold stone, trying to listen past the hollow sound. The breathing is there - slow, deep, rhythmic. But my focus is broken by the workers' nervous shuffling and the Stone-Tenders' clicking. I can't make out anything else.
+
+"Don't hit it?" I say to Cora, stepping back from the wall but keeping my maul ready. "If something's breathing behind four inches of stone, it's already awake. And if someone sealed it in there..." I glance at the workers. "How long has this been here? Did Kregg's people know about this?"
+
+I turn to Rolf, my voice low but firm. "Your team doesn't work near this wall anymore. Not until we know what's behind it." To Mercer, I add, "Professor, figure out how old that seal is. If it's recent, we might have more bandits hiding in these mountains."
+
+My eyes scan the wall for weaknesses, cracks, anything that might give way. "Cora, get the workers out of here. Back to the main hall. Mercer and I will secure this area." I position myself between the wall and the exit, ready for whatever might come through.
+
+
+--- Professor Thaddeus Mercer ---
+My quill flies across the page as I examine the seal with intense academic focus. "This is extraordinary," I murmur, my voice dropping to a whisper. "The construction style... it's not human. Look at the mortar application pattern - vertical strokes with a trowel that was too wide for human hands. And the stone cutting... crude but methodical, with consistent angle of strike."
+
+I trace the edge of the seal with a gloved finger. "This is goblinoid work. Specifically, hobgoblin engineering - they use this exact mortar mixture in their frontier outposts. But the age..." I examine the weathering patterns, the way the mortar has settled. "This is at least fifty years old, possibly closer to a century. The Iron Warlords era, perhaps? They employed hobgoblin mercenaries according to historical records."
+
+The breathing sound from beyond the wall seems to synchronize with my racing thoughts. "Garrick, Cora - this isn't a recent seal. Whatever is behind here has been contained since the Iron Warlords' time. The hobgoblins walled something in and disguised it as part of the original construction."
+
+I step back, my mind making connections. "The ventilation channel they were clearing... it's not ventilation at all. It's an observation port. They wanted to be able to check on whatever they sealed in here. This isn't just containment - it's imprisonment."
+
+My academic excitement wars with growing dread. "We need to proceed with extreme caution. If the Iron Warlords went to this much trouble to conceal something, it wasn't for trivial reasons. And if it's still breathing after all these years..." I trail off, the implications settling in.
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Garrick Kade**: Perception (listening at wall) — Requires roll (DC 13 to detect details beyond breathing) — **PENDING ROLL**
+**Professor Thaddeus Mercer**: Investigation (dating the seal & identifying construction style) — Requires roll (DC 13) — **PENDING ROLL**
+**Cora Flint**: Investigation (mortar additives) — Requires roll (DC 13) — **PENDING ROLL**
+
+All three PCs are attempting skill checks that require dice rolls. Garrick needs Perception to detect details beyond the breathing sound, Mercer needs Investigation to date the seal and identify construction style, and Cora needs Investigation to find local additives for the mortar.
+
+
+--- DM ---
+Rolf nods at Garrick's command. "Clear the area," he says to his workers, his voice calm but firm. The five laborers gather their tools quickly but without panic — they're professionals, not cowards. They move toward the exit, though they cast frequent glances back at the wall.
+
+The Stone-Tenders' clicking intensifies. They don't move from their position guarding the silo corridor, but their crystalline bodies pulse with light in time with the rhythm from beyond the wall. It's as if they're... communicating. Or reacting.
+
+**Professor Mercer**, your analysis reveals crucial details. The mortar isn't hobgoblin work after all — upon closer examination, you recognize the telltale signs of *preservation mortar*, the same type used in the Salt-Vaults' stone crocks. It contains trace amounts of a mineral that glows faint blue-white under magical examination — you'd need Detect Magic to confirm, but the composition matches. This seal was meant to preserve whatever's behind it, not just contain it. And the age... the weathering patterns suggest two centuries, not one. This is Secretive Brotherhood work, not Iron Warlords. **Make an Investigation check (DC 13) to piece together what this means about who built it and why.**
+
+**Garrick**, as you listen more carefully, pressing your ear to different spots on the wall, you realize the breathing isn't coming from one source. There are *multiple* rhythms — three distinct patterns, slightly out of sync. And there's another sound beneath them: a faint, metallic *click-click-click*, like armor plates shifting. **Make a Perception check (DC 13) to determine if you can pinpoint locations or detect movement.**
+
+**Cora**, your examination of the mortar yields one possible solution: crushed quartz from the mountain's veins, if you can find it in sufficient quantity, might provide the binding strength this sandy clay lacks. But it would be a temporary fix at best — the fundamental problem remains. **Make an Investigation check (DC 13) to determine if there are any quartz deposits nearby that could be harvested quickly.**
+
+Jace, who had been hanging back near the entrance, takes a hesitant step forward. "The side passage I mentioned... there's quartz veins in there. Big ones. Glow in torchlight." He looks nervously at the wall. "But if we're going mining, maybe we should... deal with that first?"
+
+The rhythmic breathing from beyond the wall seems to be getting slightly faster. Not much — just enough to notice if you're listening carefully. And the Stone-Tenders are now clicking in a pattern that almost matches the rhythm.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 5/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+"Crushed quartz could work as a temporary binder," I say, thinking through the chemistry. "But we'd need to find the right type - crystalline structure matters for binding properties." I look at Jace. "Show me these quartz veins. If they're the right type, we might salvage this batch of mortar."
+
+But my attention keeps returning to the wall. "Professor, if that's preservation mortar like the Salt-Vaults used, then whatever's behind there is being kept in stasis. Two centuries old, Secretive Brotherhood work..." I make another note in my ledger. "This changes the cost-benefit analysis. Breaking that seal could release something valuable or something dangerous. We need more information before we decide."
+
+To Garrick: "Multiple breathing patterns means multiple... entities. And armor sounds mean they're equipped. If they wake up, we're not prepared for a fight in this confined space with workers present." I look at the Stone-Tenders. "They're reacting to the rhythm. Either they're monitoring it or they're part of whatever preservation system is in place."
+
+I turn to Rolf. "Get your team out of here. Take them back to the main hall. We'll handle this." To the party: "We need to decide: investigate the sealed chamber now, or secure quartz first and come back better prepared. My vote is for preparation - rushing into unknown preserved entities is how people get turned into expensive medical bills."
+
+
+--- Garrick Kade ---
+My ear pressed to the stone, I listen intently. Three distinct breathing patterns - one deep and slow, two shallower. And the metallic clicking... it's not random. It's synchronized with the breathing, like something shifting with each inhale and exhale.
+
+"Three of them," I say, stepping back from the wall. "Armored. And they're waking up." I look at the Stone-Tenders, their clicking now matching the rhythm. "They're not guarding against it - they're connected to it."
+
+I turn to the others, maul ready. "We're not leaving this chamber unsecured. If those things break through while we're mining quartz, they'll be in our fortress." I point to Jace. "You, with Mercer. Go get the quartz. Fast. Take two workers for hauling."
+
+To Cora: "You're with me. We're not breaking the seal, but we're not leaving it unwatched either." I position myself facing the wall, planting my feet. "If anything comes through, I'll hold it here. You get everyone else out."
+
+My eyes scan the wall's surface, looking for weak points, listening for changes in the breathing pattern. The metallic clicking is getting clearer. "Whatever's in there, it's been sleeping for two centuries. If the Brotherhood sealed it, they had a reason. And if it's waking up now..." I don't finish the thought, just tighten my grip on the maul.
+
+
+--- Professor Thaddeus Mercer ---
+I examine the mortar more closely, my academic excitement warring with growing apprehension. "Preservation mortar... from the Secretive Brotherhood era. That means this isn't just containment - it's *curation*. They weren't hiding something dangerous; they were preserving something valuable. Or perhaps something both valuable and dangerous."
+
+My quill scratches frantically as I piece together the implications. "The Brotherhood were archivists, not warriors. If they went to this trouble, whatever's behind here has historical significance. But Garrick's right - if they're waking up after two centuries, the preservation magic must be failing."
+
+I turn to Jace, my scholarly focus sharpening. "The quartz veins - are they clear or milky? Fracture patterns? This is important. If we're going to reinforce this seal or create a new containment, we need specific crystalline structures."
+
+But my attention keeps returning to the wall. The synchronization between the Stone-Tenders' clicking and the breathing patterns... "They're not just reacting - they're part of the preservation system. The Stone-Tenders might be the guardians of whatever's in there. If we break the seal, we might disrupt ancient magic we don't understand."
+
+I look at Cora and Garrick, my usual pomposity replaced by genuine concern. "We face an archaeological dilemma: do we risk releasing potentially dangerous preserved entities, or do we allow what might be invaluable historical artifacts to degrade as the magic fails? Either choice has consequences we cannot fully predict."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Professor Thaddeus Mercer**: Investigation (analyzing preservation mortar & Brotherhood implications) — Requires roll (DC 13) — **PENDING ROLL**
+**Garrick Kade**: Perception (analyzing breathing patterns & metallic sounds) — Requires roll (DC 13) — **PENDING ROLL**
+**Cora Flint**: Investigation (quartz type analysis) — Requires roll (DC 13) — **PENDING ROLL**
+
+All three PCs are attempting skill checks that require dice rolls. Mercer needs Investigation to analyze the preservation mortar and Brotherhood implications, Garrick needs Perception to analyze the breathing patterns and metallic sounds, and Cora needs Investigation to analyze quartz types for mortar binding.
+
+
+--- DM ---
+Rolf nods at Cora's command. "We're gone," he says, gathering his workers with efficient movements. They collect tools, mortar buckets, and personal gear, moving toward the exit with disciplined speed. One of the younger workers casts a last, wide-eyed look at the wall before following the others up the passage.
+
+The preparation kitchen falls into an eerie quiet, broken only by the rhythmic breathing from beyond the wall and the synchronized clicking of the Stone-Tenders. The air feels colder now, and the faint sweetness Mercer noticed earlier — preserved organic matter — seems stronger.
+
+**Professor Mercer**, your analysis confirms your suspicions. This is definitely preservation mortar, identical to what the Brotherhood used in their most secure archives. The trace mineral is *lumenite*, a rare crystal that holds transmutation magic. The Brotherhood used it to create suspended animation fields. And the Stone-Tenders... they're not just guardians. They're *maintenance units* for the preservation system. Their clicking regulates the stasis field. **Make an Investigation check (DC 13) to determine what might happen if the Stone-Tenders are removed or if the wall is breached.**
+
+**Garrick**, as you focus on the sounds, you realize the metallic clicking isn't just armor shifting. It's *breathing apparatus* — the sound of air being drawn through filters or valves. And the three breathing patterns... one is definitely human (or humanoid), deep and steady. The other two are shallower, possibly smaller individuals. And there's a new sound: a faint, regular *drip... drip... drip* from somewhere in the corridor beyond, like water condensing and falling. **Make a Perception check (DC 13) to determine if you can pinpoint where the sounds are coming from within the space.**
+
+**Cora**, your knowledge of materials tells you that milky quartz with conchoidal fracture patterns would work best for mortar binding — the irregular surfaces create better adhesion. Clear quartz is too smooth. But more importantly, you realize that if this is preservation magic, breaking the seal could have unpredictable effects on whatever's inside. Stasis fields don't fail gracefully; they collapse. **Make an Investigation check (DC 13) to assess the risks of the preservation magic failing versus maintaining it.**
+
+Jace hesitates at the entrance. "The quartz... it's milky. Fractures like broken glass. But if we're going, we should go now. Before..." He trails off, eyes fixed on the wall.
+
+The Stone-Tenders' clicking suddenly changes pattern. It becomes more urgent, less rhythmic. One of them moves from its position guarding the silo corridor and approaches the wall, its crystalline body pulsing with light. It doesn't touch the wall — it stops a foot away, as if examining it.
+
+From beyond the wall, the breathing hitches. One of the patterns — the deepest one — catches, then resumes at a slightly faster pace.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 6/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+My analysis clicks into place as I assess the preservation magic. "Stasis fields don't fail gradually - they collapse," I say, my voice clinical. "If we break that seal, whatever's inside will experience two centuries of aging in moments. Organic material could mummify or rot instantly. And if there's breathing apparatus, that suggests they need special atmosphere - breaking the seal could suffocate them."
+
+I look at the Stone-Tender examining the wall. "They're maintenance units. Their clicking regulates the stasis field. If we remove them or damage the wall, the field fails. That hitched breathing pattern suggests the system is already destabilizing."
+
+Turning to the others, I make a quick calculation. "Options: One, we leave it sealed and continue repairs with substandard materials, risking contract failure. Two, we attempt controlled entry, risking whatever's inside. Three, we secure quartz first, then reassess." I glance at Jace. "Milky quartz with conchoidal fractures is exactly what we need. That improves our odds."
+
+To Mercer: "Professor, if the Stone-Tenders are maintaining the field, what happens if we try to communicate with them? Can they tell us what's in there?" To Garrick: "And if there's breathing apparatus, they might be alive in there. That changes the moral calculus, which unfortunately also changes the risk assessment."
+
+
+--- Garrick Kade ---
+My ear tracks the sounds through the stone. The breathing apparatus - one set near the center, two smaller ones flanking it. The dripping water is coming from the left side, maybe a leak in their chamber. And there's movement now - slow, deliberate shifting of weight.
+
+"Breathing masks," I say, keeping my voice low. "They're not just armored - they need special air. And they're moving. Waking up."
+
+I watch the Stone-Tender examining the wall. Its urgent clicking tells me everything I need to know. "The system's failing. Whether we break the seal or not, they're coming out." I look at Cora. "Moral calculus? If they've been in stasis for two centuries, they're either prisoners or guardians. Either way, they won't be happy when they wake up."
+
+I position myself between the wall and the exit, planting my feet. "Jace, take Mercer. Get the quartz. Now. Cora, you're with me. If they break through, we hold them here until the others are clear."
+
+To the Stone-Tender, I say, "Can you stabilize it? Keep them asleep?" I don't expect an answer, but the construct's reaction might tell us something. My maul is ready, my eyes fixed on the wall where the breathing is strongest. "If they come through, aim for the breathing apparatus. Without their masks, they'll have trouble fighting."
+
+
+--- Professor Thaddeus Mercer ---
+My analysis crystallizes with sudden, chilling clarity. "The lumenite in the mortar creates a phased stasis field," I say, my voice dropping to an urgent whisper. "If we breach the wall, the field collapses instantly. Two centuries of temporal displacement hits whatever's inside - organic matter could desiccate, mummify, or worse, experience cellular rupture from rapid aging."
+
+I gesture toward the Stone-Tender examining the wall. "They're not just maintenance units - they're temporal regulators. Their clicking maintains the phased synchronization. If they stop or are removed, the field destabilizes. That hitched breathing means the synchronization is already slipping."
+
+My quill flies as I connect the dots. "Breathing apparatus suggests either a toxic atmosphere inside or... they're preserving something that needs a specific gas mixture. The Brotherhood used argon-nitrogen blends for long-term organic preservation."
+
+I look at Garrick, my academic detachment finally giving way to genuine alarm. "We can't just 'hold them here.' If they break through during field collapse, they might emerge as desiccated corpses or... something worse. Temporal displacement can have unpredictable effects on consciousness."
+
+Turning to Jace, I make a decision. "The quartz can wait. We need to attempt communication with the Stone-Tenders first. They might be programmed to provide information about what they're preserving. If we understand what's in there, we can make an informed decision about controlled release versus reinforcement."
+
+I approach the Stone-Tender cautiously, speaking clearly in Dwarvish. "Guardian. What do you preserve? Can the stasis field be stabilized?"
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Professor Thaddeus Mercer**: Investigation (stasis field mechanics & risks) — Requires roll (DC 13) — **PENDING ROLL**
+**Garrick Kade**: Perception (sound analysis & pinpointing locations) — Requires roll (DC 13) — **PENDING ROLL**
+**Cora Flint**: Investigation (preservation magic risks vs maintenance) — Requires roll (DC 13) — **PENDING ROLL**
+**Professor Thaddeus Mercer**: Dwarvish communication attempt with Stone-Tender — Requires roll (DC 13 Persuasion or Arcana to establish communication) — **PENDING ROLL**
+
+All four actions require dice rolls. Mercer needs Investigation for stasis field analysis, Garrick needs Perception for sound analysis, Cora needs Investigation for risk assessment, and Mercer needs a skill check to attempt communication with the Stone-Tender.
+
+
+--- DM ---
+The Stone-Tender stops its examination of the wall and turns toward Mercer. Its crystalline body pulses with light in a complex pattern — not the simple binary clicks of before, but something more intricate. When Mercer speaks in Dwarvish, the construct responds with a series of rapid, high-pitched clicks that resolve into... words. Not spoken aloud, but projected directly into Mercer's mind.
+
+*"Sealed. Old. Not ours. Do not let it spread."*
+
+The psychic communication is urgent, clipped, and carries with it an image: three humanoid figures in alcoves, preserved in blue-white light, with brass insignias on their chests bearing a closed eye within a triangle. The image flickers, showing the same figures beginning to stir, their preservation fields flickering like failing lanterns.
+
+**Professor Mercer**, the Stone-Tender's communication confirms your worst fears. The stasis field is failing, and the constructs know it. They were placed here by the Psychic Guardian as a secondary barrier after the Brotherhood sealed their own people inside. The Guardian didn't create the preservation — it just added another layer of containment. **Make an Arcana check (DC 13) to understand the full implications of this layered containment and what might happen as both systems fail.**
+
+**Garrick**, as you listen, the sounds from beyond the wall become clearer. The breathing apparatus isn't just for special atmosphere — you can hear the faint *hiss-click* of valves opening and closing with each breath. And the dripping water... it's not water. It's thicker, slower. Preservative fluid draining from somewhere. And there's a new sound: a low, grinding vibration, like stone on stone. Something is moving in there. **Make a Perception check (DC 13) to determine if the movement is deliberate or mechanical failure.**
+
+**Cora**, your risk assessment reveals a critical timeline. Preservation magic fails in stages: first the temporal stasis weakens (already happening), then the atmospheric containment leaks (the dripping fluid), then the biological stasis collapses (which would be catastrophic). You estimate you have hours, maybe less, before complete failure. The quartz could strengthen the mortar temporarily, but it won't fix the underlying magical collapse. **Make an Investigation check (DC 13) to calculate exactly how much time you have before system failure.**
+
+Jace edges toward the exit. "The quartz... if we're going to get it, we should go now. While there's still time to... do whatever you're going to do."
+
+The Stone-Tender that communicated with Mercer returns to its position guarding the silo corridor, but its clicking remains urgent. The other Stone-Tender joins it, and together they begin a synchronized pattern that seems to... stabilize something. The breathing from beyond the wall slows slightly, becoming more regular.
+
+But the grinding vibration continues. And a new sound joins it: a faint, metallic *creak*, like a door hinge that hasn't moved in centuries.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 7/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+My mind races through the calculations as I analyze the failing systems. "Temporal stasis weakening, atmospheric containment leaking, biological collapse imminent," I state, the numbers crystallizing. "Based on the rate of breathing pattern changes and the viscosity of that dripping fluid... we have approximately three hours before complete system failure. Maybe less if that grinding vibration indicates mechanical stress."
+
+I turn to the others, my voice urgent but controlled. "We need to decide now. Option one: attempt emergency extraction of whatever's in there before the stasis fails catastrophically. Risk: unknown entities, possible contamination, immediate threat. Option two: reinforce the containment with whatever magic we have. Risk: temporary solution at best, and we'd need Mercer's expertise. Option three: evacuate and seal this entire chamber."
+
+I look at Jace. "The quartz can wait. This is a higher priority threat." To Mercer: "Professor, if the Stone-Tenders are stabilizing the field temporarily, can we use that time to prepare? What spells do you have that could reinforce preservation magic or create a controlled transition?"
+
+To Garrick: "If we go in, we need to be ready for combat with beings who've been in stasis for two centuries. They might be disoriented, hostile, or... changed by the preservation process." I pull out my ledger, making rapid notes. "Cost assessment: emergency action now versus catastrophic failure later. The math says we act now."
+
+
+--- Garrick Kade ---
+The grinding vibration confuses me - is it deliberate movement or just old machinery failing? The metallic creak could be either. But the breathing apparatus hissing tells me enough: whatever's in there is active, not just decaying.
+
+"Three hours?" I shake my head. "We don't have time for calculations. They're moving now." I point at the wall with my maul. "That grinding isn't failure - it's something turning. Opening."
+
+I look at the Stone-Tenders, their synchronized clicking buying us minutes, not hours. "Mercer, can you talk to them again? Ask how to open it safely. If we're going in, better we control when than wait for it to fail."
+
+To Cora, I say, "Forget evacuation. If we seal this chamber and they break out later, they'll be in our fortress while we sleep." I test the wall again with my maul, listening. "Jace stays. We might need his knowledge of these tunnels if we have to chase something."
+
+I plant myself squarely before the wall, ready stance. "We go in. Now. While the Stone-Tenders are still stabilizing things. Better to face them on our terms than theirs." The hiss-click of breathing apparatus grows louder. "They know we're here. They're waiting."
+
+
+--- Professor Thaddeus Mercer ---
+The psychic communication from the Stone-Tender sends a chill through me. "Layered containment," I murmur, my mind racing through the arcane implications. "The Brotherhood sealed their own people inside with preservation magic, then the Psychic Guardian added the Stone-Tenders as secondary containment. 'Do not let it spread' - that suggests whatever they were preserving became dangerous."
+
+I turn to the others, my academic detachment finally shattered by the urgency of the situation. "The closed eye within a triangle - that's the Brotherhood's quarantine symbol. They didn't just preserve these individuals; they *quarantined* them. Possibly infected with something, or... changed by their research."
+
+The grinding vibration and metallic creak grow louder. "Garrick's right - we need to attempt controlled entry. If the stasis fails completely, whatever's in there emerges disoriented and possibly hostile. If we open it now, with the Stone-Tenders still stabilizing the field, we might manage a controlled transition."
+
+I approach the Stone-Tender again, speaking urgently in Dwarvish. "Guardian. How do we open the chamber safely? Can you guide the stasis collapse?" My mind races through my spellbook. "I have Hold Person that could restrain them if they're hostile, and Web to contain movement. But we need to understand what we're dealing with first."
+
+I look at the wall, my quill poised. "The grinding... that could be preservation pods opening. If they're in individual alcoves as the image showed, they might be emerging one by one. We should prepare for medical intervention as well - two centuries in stasis will have physiological effects."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Investigation (timeline calculation for system failure) — Requires roll (DC 13) — **PENDING ROLL**
+**Garrick Kade**: Perception (determining if grinding is deliberate movement or mechanical failure) — Requires roll (DC 13) — **PENDING ROLL**
+**Professor Thaddeus Mercer**: Arcana (layered containment implications) — Requires roll (DC 13) — **PENDING ROLL**
+**Professor Thaddeus Mercer**: Dwarvish communication with Stone-Tender (safe opening procedure) — Requires roll (DC 13 Persuasion or Arcana) — **PENDING ROLL**
+
+All four actions require dice rolls. Cora needs Investigation for timeline calculation, Garrick needs Perception to analyze the grinding sound, Mercer needs Arcana for containment implications, and Mercer needs a skill check to communicate with the Stone-Tender about safe opening procedures.
+
+
+--- DM ---
+The Stone-Tender responds to Mercer's question with another psychic pulse, this one carrying not just words but a complex sequence of images and sensations:
+
+*"Wall thin. Four inches. Strike here, here, here. Mortar weak. Field collapses in sequence. First alcove, then second, then third. Breathing stops, then starts. They wake confused. Two centuries of dreams."*
+
+The construct projects an image of three specific points on the wall where the preservation mortar is thinnest. Striking these points in sequence would cause the stasis fields to collapse one by one, rather than all at once — a controlled release.
+
+**Professor Mercer**, you understand the procedure, but the risks are immense. Controlled collapse means facing each preserved individual separately, but it also means the Stone-Tenders can focus their stabilizing energy on one alcove at a time. However, the phrase "two centuries of dreams" is troubling — prolonged stasis can cause psychological fragmentation. **Make an Arcana check (DC 13) to determine the safest way to execute this controlled release and what magical preparations might help.**
+
+**Garrick**, as you focus on the grinding vibration, you realize it's not random. It follows a pattern: three slow turns, a pause, then three more. And it's coming from the *center* of the space beyond, not from the alcoves. Something in the corridor itself is activating — possibly a mechanical release mechanism triggered by the failing stasis field. **Make a Perception check (DC 13) to determine if this mechanism is automatic or being operated by someone inside.**
+
+**Cora**, your timeline calculations yield a precise but alarming result: based on the viscosity change in the dripping fluid (now noticeably thicker) and the acceleration of breathing patterns, you have **90 minutes** until complete system failure. After that, the preservation fields collapse entirely, and whatever is inside experiences two centuries of temporal displacement instantaneously. **Make an Investigation check (DC 13) to determine what physiological effects that instantaneous aging would have on humanoid subjects.**
+
+Jace edges closer to the exit, his eyes wide. "Ninety minutes? We should... we should get Brenna. More people. Or... or seal it from this side now and run."
+
+The Stone-Tenders' synchronized clicking intensifies. Blue-white light pulses from their crystalline bodies into the wall at the three points indicated. The preservation mortar at those spots begins to glow faintly, as if being charged with residual magic.
+
+From beyond the wall, the grinding vibration stops abruptly. A new sound replaces it: a deep, resonant *CLUNK*, like a heavy bolt sliding back. Then silence. Even the breathing seems to pause.
+
+For three heartbeats, nothing happens.
+
+Then, from the first indicated point on the wall, a crack appears in the mortar. Fine as a hairline at first, then widening. Cold air whispers through the gap — air that smells of ozone, preservative chemicals, and something else... something sweet and organic, like flowers left too long in a sealed room.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 8/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+My analysis of the physiological effects is chilling. "Instantaneous aging of two centuries would cause catastrophic cellular breakdown," I state, my voice clinical. "Muscle atrophy, organ failure, potential mummification if the preservation fluid drains completely. They'd die within minutes of waking, if they wake at all."
+
+I look at the crack in the mortar, then at the others. "Controlled release is our only viable option. But we need medical preparations." I turn to Jace. "Go get Brenna. Tell her we need the medical supplies from the chapel - Brother Aldwin's salves, any stimulants, anything for shock or disorientation. And bring two more workers as stretcher bearers."
+
+To Mercer: "Professor, if you have any spells that can stabilize biological functions or ease transition from stasis, prepare them now." To Garrick: "Stand ready but non-threatening. If they've been dreaming for two centuries, they'll be confused, possibly violent. We need to appear as rescuers, not threats."
+
+I pull out my alchemist's supplies, quickly mixing a basic restorative. "I'll prepare what I can, but my magic is limited. We're operating on a ninety-minute timeline, and that crack means the first field is already failing." I make a final note in my ledger: "Emergency medical intervention required. Cost: unknown. Alternative: three deaths and potential magical contamination. Proceeding with controlled release."
+
+
+--- Garrick Kade ---
+The grinding stopped with that clunk - something released. But I can't tell if it's automatic or if someone inside pulled a lever. The silence after is worse than the noise.
+
+"Non-threatening?" I say to Cora, not taking my eyes off the cracking mortar. "If they've been dreaming two centuries, they won't know friend from foe." But I lower my maul slightly, keeping it ready but not raised.
+
+To Jace, I bark, "Go! Medical supplies, stretchers, now! And tell Brenna to keep everyone else back. No crowds."
+
+I watch the crack widen, cold air whispering through. That sweet smell worries me - preserved things shouldn't smell like flowers. "Mercer, be ready with whatever magic you've got. Cora, your potions." I position myself to the side of the crack, not directly in front. "When it opens, let them see we're not attacking. But if they come out swinging..." I don't finish, just adjust my grip.
+
+The Stone-Tenders' light pulses at the first point. The crack spreads like spiderwebs through the mortar. "It's happening. Ready or not."
+
+
+--- Professor Thaddeus Mercer ---
+My mind races through arcane theory as I analyze the Stone-Tender's instructions. "Sequential collapse is crucial," I say, my voice tense with academic urgency. "The stasis fields are interlinked but phased. If we rupture them in the wrong order, we could create a temporal feedback loop. The Stone-Tenders are channeling residual magic to guide the collapse."
+
+I gesture toward the glowing points on the wall. "We need to strike here first, then here, then here - following the pulse of their light. That matches the original activation sequence of the preservation pods. As for magical preparations..." I quickly review my spellbook mentally. "Hold Person could restrain them if they're violent, but it might exacerbate psychological fragmentation. Better to use Web for containment - less traumatic. And I should prepare Feather Fall in case muscle atrophy causes collapse."
+
+The sweet, floral smell from the crack worries me. "That odor... it's not standard preservation fluid. The Brotherhood used lotus extract in some of their stasis mixtures for its oneirogenic properties - to maintain dream states. 'Two centuries of dreams' isn't metaphorical. They've been in induced dreaming stasis. The psychological effects could be severe."
+
+I position myself beside Garrick, my hands moving through arcane gestures as I prepare spells. "When the first one emerges, speak calmly in Common or Dwarvish. Use simple sentences. They'll be disoriented, possibly still partially in the dream state. The transition from two centuries of induced dreams to reality... it could be psychologically shattering."
+
+I look at the widening crack, my quill recording every detail. "This is unprecedented archaeological intervention. We're not just breaking a seal - we're performing emergency extraction from a failing temporal stasis field. The historical significance is staggering, but the risks..." I trail off, watching the mortar continue to fracture.
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Investigation (physiological effects of instantaneous aging) — Requires roll (DC 13) — **PENDING ROLL**
+**Garrick Kade**: Perception (determining if release mechanism is automatic or operated) — Requires roll (DC 13) — **PENDING ROLL**
+**Professor Thaddeus Mercer**: Arcana (safe execution of controlled release & magical preparations) — Requires roll (DC 13) — **PENDING ROLL**
+
+All three PCs are attempting skill checks that require dice rolls. Cora needs Investigation for physiological effects analysis, Garrick needs Perception to determine the nature of the release mechanism, and Mercer needs Arcana for safe execution of the controlled release procedure.
+
+
+--- DM ---
+Jace nods, his face pale, and bolts up the passageway toward the main hall. His footsteps echo in the stone corridor, fading quickly.
+
+The crack in the mortar continues to spread, branching like lightning across the wall's surface. Cold air pours through the widening gap, carrying that sweet, floral scent stronger now — lotus extract, Mercer recognizes, mixed with ozone from failing magic. The Stone-Tenders' light pulses intensify, focused on the first point.
+
+**Professor Mercer**, your arcane knowledge provides a clear procedure: strike the first glowing point with precise force (not too hard, not too soft), wait for the stasis field to fully collapse (indicated by the blue-white light fading to nothing), then move to the second point. The Stone-Tenders will transfer their stabilizing energy sequentially. But you realize something critical: the "dream state" wasn't just psychological maintenance — it was *memory preservation*. The lotus extract kept their minds active while their bodies slept. They may remember everything up to the moment of stasis. **Make an Arcana check (DC 13) to determine how to best communicate with someone emerging from two centuries of induced dreaming.**
+
+**Garrick**, as you watch the crack spread, you realize the *CLUNK* wasn't a mechanical release being operated. It was *automatic* — a failsafe triggered by the stasis field reaching critical failure. The Brotherhood built their preservation system with an emergency release: if the magic fails completely, the pods open automatically rather than letting the occupants die in stasis. That means no one inside is consciously operating anything... yet. **Make a Perception check (DC 13) to detect any movement or reaction from within now that the automatic release has activated.**
+
+**Cora**, your physiological analysis reveals the full horror of instantaneous aging: complete neuromuscular collapse (they won't be able to stand), systemic organ failure starting with kidneys and liver, and rapid desiccation as two centuries of dehydration hits at once. Death would be within 2-3 minutes, preceded by agonizing pain and confusion. Controlled release is literally a life-saving procedure. **Make an Investigation check (DC 13) to determine what immediate medical interventions would be most critical in the first moments after emergence.**
+
+The crack reaches its full extent — a jagged line from floor to ceiling at the first indicated point. The mortar around it glows brightly, then begins to crumble. Small pieces fall away, revealing darkness beyond. The sweet smell intensifies.
+
+From the darkness comes a sound: a slow, deliberate inhalation, followed by a voice — deep, raspy from disuse, speaking archaic Common with precise, formal diction:
+
+*"Identify... yourself... to the Brotherhood... or stand aside."*
+
+The words are clear, but the voice sounds confused, as if the speaker isn't entirely sure where they are or what's happening.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 9/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+My mind races through medical protocols, but the immediate situation demands action. "Immediate interventions: hydration, circulatory support, and stabilization against shock," I say, though I'm struggling to recall the specifics under pressure.
+
+I step forward, keeping my voice calm and clear. "We are rescuers. Your preservation system is failing. We're conducting a controlled release to prevent catastrophic aging effects." I glance at Mercer. "Professor, they're speaking archaic Common. You handle the formalities."
+
+To the voice from the darkness: "Remain still. Your muscles will be atrophied. Attempting to move could cause injury." I prepare my Healing Word spell, keeping it ready. "We have medical assistance coming. How many are in there with you?"
+
+I turn to Garrick. "If they're confused, they might react violently. Be ready to restrain without harming." To the Stone-Tenders: "Continue the stabilization sequence. We need to get the other two out before their fields fail."
+
+I make a quick assessment of our supplies. "We'll need water, blankets for warmth, and something for them to lie on. The stone floor will leach body heat rapidly."
+
+
+--- Garrick Kade ---
+I strain to see or hear movement from the darkness, but the sweet smell and cold air distract me. I can't tell if they're moving or just lying there.
+
+"Brotherhood?" I say, keeping my voice steady but firm. "The Brotherhood's been gone two centuries. You've been asleep." I don't move from my position beside the crack, maul lowered but ready. "Three of you in there. Your stasis is failing. We're getting you out before it kills you."
+
+I glance at Cora. "Medical first. If they can't move, we go in carefully." To the darkness, I add, "Stay where you are. We're coming to you. Any weapons, leave them. We're not here to fight."
+
+The automatic release means they didn't choose this - they've been trapped. But that doesn't mean they're friendly. My eyes stay fixed on the crack, watching for any shadow movement. "Mercer, tell them what's happening in their language. Cora, be ready with your healing." I take a slow step toward the opening, keeping my hands visible. "Coming in. Don't make sudden moves."
+
+
+--- Professor Thaddeus Mercer ---
+My arcane knowledge provides crucial insight. "The lotus extract preserves memory continuity," I say, keeping my voice calm but authoritative. "They'll remember everything up to stasis, but the transition will be disorienting. We must establish temporal context immediately."
+
+I step forward, speaking in clear, formal Common with precise diction. "I am Professor Thaddeus Mercer of the Laternian University. You have been in induced dreaming stasis for approximately two centuries. The Brotherhood that sealed you here is gone. Your preservation magic is failing - we are conducting emergency extraction to prevent catastrophic temporal displacement."
+
+I gesture toward the Stone-Tenders. "These constructs are stabilizing the field collapse. There are three of you in preservation alcoves. We will extract you sequentially. Do not attempt to move - your muscles will have severe atrophy. We have medical assistance prepared."
+
+Turning to Cora, I add quietly, "The memory preservation means they'll be cognitively intact but temporally dislocated. Establish immediate reality anchors - date, location, current situation. Avoid complex explanations until they're stabilized."
+
+To the voice from the darkness, I continue: "You are in the Salt-Vaults beneath the Asymmetrical Mountain. The year is 1492 by the Common Reckoning. The Iron Warlords have fallen, and their fortress above is now under our stewardship. We mean you no harm - we are scholars and protectors of this site."
+
+I prepare my Feather Fall spell, ready to cast it if they collapse upon emergence. "We are coming in to assist you. Please remain calm and do not resist."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Investigation (immediate medical interventions) — Requires roll (DC 13) — **PENDING ROLL**
+**Garrick Kade**: Perception (detecting movement/reaction from within) — Requires roll (DC 13) — **PENDING ROLL**
+**Professor Thaddeus Mercer**: Arcana (communication with dream-emerging individuals) — Requires roll (DC 13) — **PENDING ROLL**
+
+All three PCs are attempting skill checks that require dice rolls. Cora needs Investigation for medical intervention planning, Garrick needs Perception to detect movement from within the chamber, and Mercer needs Arcana for effective communication with individuals emerging from two centuries of induced dreaming.
+
+
+--- DM ---
+Silence from the darkness for a long moment. Then the voice again, still raspy but clearer now, with an edge of disbelief:
+
+*"Two... centuries?"*
+
+A pause. The sound of slow, deliberate breathing — the breathing apparatus hissing softly.
+
+*"The Brotherhood... gone?"*
+
+Another pause, longer this time. When the voice speaks again, it's steadier, more controlled, though still tinged with confusion:
+
+*"I am Warden Aldric. Second Company, Brotherhood Archives Garrison. My orders were... to guard this passage. Until relieved."*
+
+**Professor Mercer**, your communication strategy works. Aldric's response shows he's processing the information, not rejecting it outright. The temporal anchors you provided (date, location, Brotherhood's absence) are being integrated. But you can hear the psychological strain in his voice — two centuries of memories colliding with present reality. **Make an Insight check (DC 13) to gauge his mental state and predict how he might react to further revelations.**
+
+**Garrick**, as you watch the crack, you see movement — a shadow shifting in the darkness beyond. Not aggressive movement, but someone trying to sit up or adjust position. The metallic sound of armor plates shifting. And you hear two other breathing patterns in the background, still slow and regular — the other two wardens still in stasis. **Make a Perception check (DC 13) to determine if Aldric is armed and whether he's making any threatening movements.**
+
+**Cora**, your medical assessment crystallizes: immediate priorities are 1) prevent orthostatic hypotension (sudden drop in blood pressure upon standing), 2) provide glucose for energy (their metabolism has been near-zero for centuries), and 3) monitor for neurological shock. You'll need to keep them lying down initially, administer simple sugars if available, and watch for confusion or aggression as signs of cerebral hypoxia. **Make a Medicine check (DC 13) to determine the best way to implement these interventions with your available supplies.**
+
+The Stone-Tenders' light pulses shift to the second point on the wall. The first point's glow fades — Aldric's stasis field has fully collapsed. The other two points continue to glow, maintaining the remaining wardens in stasis.
+
+From the darkness, Aldric speaks again, his voice gaining strength:
+
+*"If the Brotherhood is gone... then my duty... what is my duty now? And my companions — Petra and Cassen. Their fields still hold?"*
+
+He sounds less like a soldier issuing a challenge and more like a man trying to understand a world that has moved on without him.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 10/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+My medical training kicks in as I assess the priorities. "Warden Aldric, remain lying down. Your blood pressure will drop if you stand too quickly. We have glucose solutions coming." I turn to the others. "We need honey or sugar water immediately. And something to elevate his legs slightly to improve circulation."
+
+To Aldric, I speak clearly and calmly: "Your companions' fields still hold, but they're failing. We're conducting a controlled release. Your duty now is to survive and help us save them. Can you tell us their medical conditions before stasis? Any injuries or conditions we should know about?"
+
+I prepare my Healing Word spell, keeping it ready for emergency stabilization. "Professor, keep him talking - it helps with orientation. Garrick, when Jace returns with supplies, we'll need to get glucose into him first, then assess mobility."
+
+I make a quick calculation. "Based on the field failure rate, we have about thirty minutes before the next stasis collapses. We need to get Aldric stabilized enough to help with his companions." I look toward the crack in the wall. "Warden, we're coming in to assist you. Do not attempt to stand or move quickly. Two centuries of muscle atrophy means you need to rebuild strength gradually."
+
+
+--- Garrick Kade ---
+My eyes pierce the darkness through the crack. Aldric is trying to sit up, armor shifting. I see the glint of a sword hilt at his side, but his hands aren't near it. He's moving slowly, carefully - not threatening, just disoriented.
+
+"He's armed," I say quietly to the others. "Sword at his hip. But he's not reaching for it." I take a cautious step through the opening, maul held low and to the side. "Warden Aldric, I'm coming in. My name's Garrick. We're here to help."
+
+Inside, I see him in a stone alcove, preserved in blue-white light that's now fading. Breathing apparatus on his face, Brotherhood insignia on his chest. Two other alcoves glow nearby - Petra and Cassen, still in stasis.
+
+"Don't try to stand," I say, keeping my distance but close enough to help if he falls. "Your muscles won't hold you. Cora's right about the blood pressure." I glance at the other alcoves. "Your friends are still asleep. Their fields are holding for now. We'll get them out safely."
+
+I keep my movements slow, non-threatening. "Your duty's done, Warden. Two centuries guarding an empty passage. Now your duty is to live." I offer a hand, not to pull him up, just to show I'm not a threat. "Can you remove the breathing mask? Or do you need it?"
+
+
+--- Professor Thaddeus Mercer ---
+I listen carefully to Aldric's voice, trying to gauge his mental state, but my academic detachment clouds my assessment. The psychological implications of two centuries of temporal displacement are staggering, and I find myself more fascinated than analytical.
+
+"Warden Aldric," I say, my voice taking on a lecturing tone despite the situation, "your duty has been fulfilled through extraordinary means. You have, in effect, stood guard for two centuries through temporal stasis. The philosophical implications are fascinating - does duty persist through suspended consciousness? The Brotherhood's archives contain precedents for..."
+
+I catch myself, realizing this isn't the time for academic discourse. "Forgive me. Your duty now is to accept assistance and help us preserve your companions. Petra and Cassen's fields are holding, but weakening. We must extract them sequentially."
+
+I step closer to the crack, peering into the darkness. "The breathing apparatus - it's likely providing a transition atmosphere. Don't remove it abruptly. The lotus extract in the preservation fluid has maintained cognitive continuity, but the transition to normal air should be gradual."
+
+Turning to Cora, I add, "The glucose solution is crucial, but we must also consider neurological reintegration. Two centuries of induced dreaming... their sense of self may be fragile. We should establish consistent sensory anchors - touch, voice, visual reference points."
+
+My quill scratches notes almost automatically. "This is an unprecedented case study in long-term stasis survival. The data could revolutionize our understanding of temporal magic and consciousness preservation."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Professor Thaddeus Mercer**: Insight (gauging Aldric's mental state) — Requires roll (DC 13) — **PENDING ROLL**
+**Garrick Kade**: Perception (assessing Aldric's armament and movements) — Requires roll (DC 13) — **PENDING ROLL**
+**Cora Flint**: Medicine (implementing medical interventions) — Requires roll (DC 13) — **PENDING ROLL**
+
+All three PCs are attempting skill checks that require dice rolls. Mercer needs Insight to gauge Aldric's mental state, Garrick needs Perception to assess Aldric's armament and movements, and Cora needs Medicine to implement medical interventions with available supplies.
+
+
+--- DM ---
+Aldric looks at Garrick's offered hand, then slowly, carefully removes his breathing apparatus. The mask comes away with a soft *hiss-click* of releasing seals. His face is pale but surprisingly well-preserved — late middle age, stern features, eyes that hold two centuries of confusion trying to resolve into focus.
+
+*"I can... breathe,"* he says, testing the air. *"The transition atmosphere... it's gone. Normal air."*
+
+He doesn't take Garrick's hand, but he doesn't reject it either. His eyes move from Garrick to the crack in the wall, to Mercer, to Cora. Processing. Assessing.
+
+**Professor Mercer**, despite your academic fascination, you can read Aldric's mental state clearly: he's in shock, but it's a *controlled* shock. Soldier's training overriding psychological trauma. He's compartmentalizing — focusing on immediate practicalities (breathing, companions, situation) rather than the enormity of two lost centuries. But beneath that control, there's profound disorientation. **Make an Insight check (DC 13) to determine how best to support his mental stability during this transition.**
+
+**Garrick**, you see Aldric's sword is indeed at his hip — a well-made longsword in a Brotherhood-issue scabbard. His hand rests near it, but not on the hilt. Defensive positioning, not aggressive. His other hand grips the edge of his alcove, testing his strength. The armor he wears is ring mail, also Brotherhood standard issue. And you notice something else: a brass insignia pinned to his chest — the closed eye within a triangle. **Make a Perception check (DC 13) to assess whether Aldric is physically capable of standing or fighting if necessary.**
+
+**Cora**, your medical assessment provides a clear protocol: 1) keep him supine for at least ten minutes, 2) administer simple carbohydrates (honey dissolved in warm water would be ideal), 3) monitor for signs of neurological shock (confusion, aggression, memory gaps). But you realize you don't have honey or sugar readily available — you'll need to improvise. **Make a Medicine check (DC 13) to determine what available substances could provide the necessary glucose quickly.**
+
+From the corridor above, hurried footsteps approach. Jace returns, breathless, followed by Brenna carrying a medical kit and two workers with blankets and a makeshift stretcher.
+
+Brenna takes in the scene — the cracked wall, the Stone-Tenders pulsing with light, Garrick inside with Aldric — and her expression hardens. "What in the nine hells is happening down here?" she asks, her voice tight with controlled anger.
+
+Before anyone can answer, the second point on the wall glows brighter. The Stone-Tenders' clicking intensifies. From the second alcove, a voice — younger, sharper, female:
+
+*"Aldric? Status report. I'm... I'm waking. Field unstable."*
+
+Petra. She's emerging.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 11/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I quickly assess our supplies as Brenna arrives. "We need glucose immediately. Check the food stores - dried fruit, anything with natural sugars." I turn to Aldric. "Remain lying down. Your companion Petra is waking. We'll stabilize you first, then her."
+
+To Brenna, I give rapid instructions: "Medical emergency. Three preserved Brotherhood wardens from two centuries ago. Their stasis is failing. We need blankets, warm water, and anything sweet from the rations. Dried apples, honey if we have it, even hardtack soaked in water."
+
+I move toward the medical kit, pulling out bandages and checking for stimulants. "Aldric, tell Petra to remain calm and still. Sudden movement could cause injury. We're coming to assist."
+
+I look at the second glowing point on the wall. "The Stone-Tenders are stabilizing her field, but we need to be ready. Garrick, help Aldric if he needs to communicate with her. Professor, monitor the magical transition - watch for field instability."
+
+To the workers with blankets: "Prepare the stretcher. We'll need to move them to a warmer area once stabilized." I make a quick note in my ledger: "Emergency medical intervention for temporal displacement victims. Resources expended: medical supplies, labor hours. Priority: prevent three deaths."
+
+
+--- Garrick Kade ---
+I watch Aldric carefully. The grip on his alcove is weak - his arm trembles with the effort. He could probably stand with help, but fighting? Not a chance. The sword at his hip might as well be decoration right now.
+
+"Petra, stay still," I say, raising my voice so she can hear through the wall. "Your field's failing. We're getting you out safely." To Aldric, I add, "Talk to her. Calm her down."
+
+I turn to Brenna. "What's happening is we're saving three lives. Get them something sweet from the rations. Now." Back to Aldric: "Can you move? We need to get you out before Petra's field collapses completely."
+
+I offer my hand again, more firmly this time. "Lean on me. We'll get you to the stretcher." My eyes stay on his hand near the sword. If he goes for it, I can stop him easily in his weakened state. But I keep my maul lowered - no threats, just assistance. "Your duty's not to die here after two centuries of waiting. It's to live."
+
+
+--- Professor Thaddeus Mercer ---
+I observe Aldric's controlled shock with academic fascination, but my analysis is clouded by the sheer historical significance of the moment. "Remarkable," I murmur, my quill scratching notes. "The psychological compartmentalization is a survival mechanism documented in extreme temporal displacement cases. He's focusing on practicalities to avoid confronting the enormity of two lost centuries."
+
+I step closer, my scholarly instincts overriding practical concerns. "Warden Aldric, your mental fortitude is extraordinary. The Brotherhood's training protocols for long-term stasis guardians must have been rigorous. Could you describe the induction process? The transition from wakefulness to dreaming stasis? This data is invaluable for..."
+
+Petra's voice interrupts my academic inquiry. I turn to the second glowing point. "Ah, the sequential collapse proceeds. The Stone-Tenders are transferring stabilization energy. Petra's field is destabilizing at a controlled rate."
+
+I address the wall where Petra's voice emerged. "Warden Petra, this is Professor Thaddeus Mercer. You are emerging from two centuries of induced dreaming stasis. Your companion Aldric is with us and stable. Do not attempt to move - we will assist you momentarily."
+
+Turning to Brenna, I finally register her anger. "Madam Brenna, this is not a catastrophe but an archaeological miracle. We are witnessing the successful emergence of preserved individuals from the Brotherhood era. The medical requirements are straightforward: glucose, warmth, and gradual reintegration to temporal reality."
+
+My quill continues its frantic notation. "The sequential field collapse is proceeding exactly as predicted by temporal magic theory. This validates several of my papers on phased stasis systems..."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Professor Thaddeus Mercer**: Insight (supporting Aldric's mental stability) — Requires roll (DC 13) — **PENDING ROLL**
+**Garrick Kade**: Perception (assessing Aldric's physical capabilities) — Requires roll (DC 13) — **PENDING ROLL**
+**Cora Flint**: Medicine (improvising glucose sources) — Requires roll (DC 13) — **PENDING ROLL**
+
+All three PCs are attempting skill checks that require dice rolls. Mercer needs Insight to determine how to support Aldric's mental stability, Garrick needs Perception to assess Aldric's physical capabilities for standing/fighting, and Cora needs Medicine to improvise glucose sources from available supplies.
+
+
+--- DM ---
+Brenna's expression shifts from anger to grim practicality. She barks orders to the workers: "Dried apples from the ration stores. Warm water from the kitchen fire. Move!" The workers scramble back up the passage.
+
+She turns to Cora, medical kit in hand. "We have honey — small jar, emergency stores. And dried fruit. Will that work?"
+
+Aldric takes Garrick's hand, his grip weak but steady. With Garrick's support, he manages to sit fully upright in his alcove, though his legs tremble visibly. He looks toward the second glowing point on the wall.
+
+*"Petra,"* he calls, his voice gaining strength. *"Stand down. These people are... assisting. The Brotherhood is gone. Two centuries have passed. Do not resist."*
+
+From the second alcove, Petra's voice comes sharper now: *"Two centuries? That's... impossible. Aldric, confirm."*
+
+*"Confirmed,"* Aldric says, his eyes meeting Garrick's. *"The world moved on without us. Our duty... is complete."*
+
+**Professor Mercer**, you realize the key to Aldric's mental stability is *purpose*. He's a soldier who has defined himself by duty for two centuries (even in stasis). Giving him a new purpose — helping his companions survive — will anchor him. But you need to frame it in terms he understands: a new mission. **Make a Persuasion check (DC 13) to effectively reframe the situation as a new duty for Aldric.**
+
+**Garrick**, as you help Aldric sit up, you assess his physical state: he can probably stand with support, but his legs won't hold his weight independently yet. As for fighting — he might manage a defensive stance, but any real combat would exhaust him in seconds. The sword is ceremonial at this point. But you notice something else: his eyes keep darting to the third alcove, where Cassen still sleeps. Concern for his comrade overrides his own weakness. **Make an Insight check (DC 13) to understand Aldric's priorities and how to use them to maintain cooperation.**
+
+**Cora**, your medical knowledge provides solutions: honey dissolved in warm water is ideal for rapid glucose absorption. Dried apples can be chewed slowly once they're stable enough to eat. And you remember something from your alchemical studies — a pinch of salt in the honey water will help with electrolyte balance, crucial after prolonged stasis. **Make a Medicine check (DC 13) to prepare the optimal rehydration solution with available materials.**
+
+The second point on the wall glows intensely. The mortar around it begins to crack, mirroring what happened with Aldric's alcove. The Stone-Tenders' clicking becomes more urgent. Blue-white light pulses into the cracking mortar.
+
+Petra's voice comes again, less sharp now, more confused: *"Aldric... I can't... my legs won't... something's wrong..."*
+
+Panic edges into her tone. The sound of her breathing apparatus hissing rapidly.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 12/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+"Perfect," I say as the medical protocol crystallizes in my mind. "Honey water with a pinch of salt for electrolytes. Warm, not hot." I take the medical kit from Brenna and quickly mix the solution. "Aldric, drink this slowly. Small sips. It will restore your blood sugar and electrolytes."
+
+I turn to the second alcove as Petra's panic rises. "Petra, listen to me. Your legs are weak from disuse, not injury. Remain calm. We're preparing the same solution for you. Aldric is stable and giving you orders - follow them."
+
+To the workers returning with dried apples and water: "Prepare another cup with honey and a pinch of salt. Warm it by the hearth if necessary, but not boiling." I check Aldric's pulse - weak but steady. "Good. Continue small sips. Your body needs time to remember how to metabolize."
+
+I look at the third glowing point. "We have one more field to stabilize. Aldric, once you're stronger, you can help reassure Cassen when he wakes. Your new duty: ensure your squad survives this transition. That's your mission now."
+
+
+--- Garrick Kade ---
+I watch Aldric's eyes keep going to the third alcove. Cassen's his priority - not himself, not even Petra. The squad leader looking after his people.
+
+"Your new mission," I say, keeping my grip steady as he drinks. "Get your squad through this alive. Petra needs you calm. Cassen will need you when he wakes." I nod toward the third alcove. "He's still sleeping. You're the first one out. That means you're in charge of their survival."
+
+To Petra through the wall, I raise my voice. "Petra, Aldric's giving you an order: stay calm. Your legs will work, just give them time. Panic wastes energy you don't have." I look at Aldric. "Tell her."
+
+I help him shift position, supporting his weight. "Drink what Cora gives you. Then we get you to the stretcher. Once you're stable, you help with Petra. Then Cassen." I meet his eyes. "Squad leader's duty doesn't end because the Brotherhood's gone. It ends when your people are safe."
+
+
+--- Professor Thaddeus Mercer ---
+I attempt to frame the situation in terms Aldric will understand, but my academic phrasing undermines the message. "Warden Aldric, consider this: you have transitioned from one temporal context to another, but your fundamental role as a guardian persists. The parameters have shifted from passive stasis maintenance to active transition management. Your new operational directive is to facilitate the safe temporal reintegration of your unit."
+
+I gesture toward Petra's alcove as the cracks spread. "Petra's psychological distress is a predictable response to rapid temporal displacement. Your authority as unit commander can provide the necessary stability anchor. You must issue clear directives to counteract her disorientation."
+
+Turning to the wall, I address Petra directly, but my tone remains professorial. "Warden Petra, the neuromuscular atrophy you're experiencing is a standard physiological response to prolonged stasis. The sensation of limb dysfunction is temporary and will resolve with gradual reintroduction to gravitational forces and metabolic activity."
+
+I look back at Aldric, trying to connect but missing the mark. "Think of this as a field operation with unusual parameters. Your mission objective: secure the safe emergence of your personnel from a failing temporal containment system. The tactical situation requires calm, methodical execution of extraction protocols."
+
+My quill continues taking notes, documenting every detail of this unprecedented temporal transition event.
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Professor Thaddeus Mercer**: Persuasion (reframing situation as new duty for Aldric) — Requires roll (DC 13) — **PENDING ROLL**
+**Garrick Kade**: Insight (understanding Aldric's priorities) — Requires roll (DC 13) — **PENDING ROLL**
+**Cora Flint**: Medicine (preparing optimal rehydration solution) — Requires roll (DC 13) — **PENDING ROLL**
+
+All three PCs are attempting skill checks that require dice rolls. Mercer needs Persuasion to reframe the situation effectively, Garrick needs Insight to understand Aldric's priorities, and Cora needs Medicine to prepare the optimal rehydration solution.
+
+
+--- DM ---
+Aldric drinks the honey-salt water slowly, his hands trembling slightly around the cup. He listens to Mercer's academic explanation, then Garrick's blunt soldier-to-soldier talk. His eyes settle on Garrick.
+
+*"New mission,"* he says, the words tasting strange in his mouth after two centuries. *"Get the squad through. Understood."*
+
+He turns toward Petra's alcove, his voice gaining command strength: *"Petra, stand down. That's an order. Conserve energy. They're bringing you glucose solution. Do not attempt to move until assisted."*
+
+From the second alcove, Petra's breathing slows slightly. *"Yes, sir."* The panic recedes, replaced by disciplined control.
+
+**Professor Mercer**, your academic framing misses the mark — Aldric responds to Garrick's simple soldier's logic, not your complex temporal theory. But you realize something important: Aldric needs *structure*, not explanation. Clear orders, defined roles, immediate objectives. The Brotherhood's military hierarchy is his psychological anchor. **Make an Insight check (DC 13) to determine how to best work within that hierarchical framework to maintain control of the situation.**
+
+**Garrick**, you understand Aldric perfectly: Cassen is the priority because he's still vulnerable, still sleeping. Petra is awake and can follow orders. Aldric himself is already in motion. The squad leader's instinct is to secure the most vulnerable first. And you recognize something in Aldric's eyes — not just concern, but *guilt*. He feels responsible for their situation, even though it wasn't his choice. **Make an Insight check (DC 13) to determine how to use that guilt constructively rather than letting it paralyze him.**
+
+**Cora**, your medical preparation is perfect. The honey-salt water provides immediate glucose and electrolytes in optimal balance. Aldric's color improves visibly after a few sips. His hand steadier. You estimate he'll be able to stand with assistance in five minutes, walk with support in ten. **Make a Medicine check (DC 13) to assess how quickly Petra and Cassen will respond to the same treatment based on Aldric's progress.**
+
+The mortar around Petra's alcove cracks fully. A section falls away, revealing another alcove identical to Aldric's. Inside, a woman in Brotherhood ring mail, breathing apparatus on her face, brass insignia on her chest. Her eyes are open, wide with confusion and fear, but she remains still as ordered.
+
+The Stone-Tenders' light pulses shift to the third point. Cassen's alcove glows brighter. The sequential collapse continues.
+
+Brenna watches, her anger replaced by grim focus. She prepares another cup of honey-salt water. "Petra next," she says, handing it to Cora. "Then the third one. We have enough honey for all three."
+
+Aldric looks at Garrick. *"Help me stand. I need to... see Petra. Reassure her."*
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 13/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+"Based on Aldric's response time, Petra should stabilize within three to five minutes, Cassen likely similar if his field collapses cleanly," I state, my medical assessment precise. I take the cup from Brenna and approach Petra's alcove, moving slowly and keeping my movements visible.
+
+"Petra, I'm Cora Flint, medical specialist. This is glucose solution with electrolytes. Drink slowly, small sips." I offer the cup, supporting her hand if needed. "Your muscle weakness is temporary. We'll have you mobile within ten minutes."
+
+I glance back at Aldric and Garrick. "Help him stand, but keep weight off his legs initially. Use the stretcher as support if needed." To Aldric: "Seeing Petra will reassure you both, but don't overexert yourself. You're no good to your squad if you collapse."
+
+Turning to the workers, I direct: "Prepare the third cup now. Warm water, honey, pinch of salt. And bring the stretcher closer - we'll need to move them to a warmer area once all three are stabilized."
+
+I monitor Petra's drinking, checking her pulse with my free hand. "Good. Steady sips. Your body is remembering how to function." To the Stone-Tenders, I note their shifting light. "They're maintaining Cassen's field. We have maybe fifteen minutes before his collapse. Time enough to get these two stabilized first."
+
+I make a quick entry in my ledger: "Medical protocol successful. Three temporal displacement patients stabilizing. Resources: honey, salt, medical attention. Next phase: relocation and long-term rehabilitation planning."
+
+
+--- Garrick Kade ---
+I see the guilt in Aldric's eyes - he blames himself for his squad being trapped. But that guilt makes him responsible, not paralyzed. He'll push himself to make things right.
+
+"Guilt's useless," I say, helping him to his feet but keeping most of his weight on me. "Action fixes things. You getting to Petra fixes her fear. You being ready for Cassen fixes his confusion." I guide him toward Petra's alcove, moving slowly. "Your squad needs you functional, not self-pitying."
+
+We reach Petra's alcove. She's drinking, eyes wide but following orders. "See?" I say to Aldric. "She's following your command. Doing her duty. Now you do yours - stay upright, stay calm, show her how it's done."
+
+I keep one arm supporting Aldric, my other hand free in case either of them needs steadying. To Petra, I nod. "Keep drinking. Your squad leader's here. Everything's under control." Back to Aldric: "When Cassen wakes, you'll be strong enough to greet him. That's how you fix two centuries of waiting - by being here now."
+
+
+--- Professor Thaddeus Mercer ---
+I observe the dynamics with sudden clarity. My academic approach failed because Aldric doesn't need theory—he needs structure. The Brotherhood's military hierarchy is his psychological anchor, and I must work within that framework.
+
+"Warden Aldric," I say, shifting my tone to mimic the formal reports I've read in Brotherhood archives. "Situation report: Your unit is undergoing emergency temporal extraction. Current status: You are operational with assistance. Petra is stabilizing. Cassen remains in stasis with field integrity at 65% and declining. The Stone-Tenders are maintaining containment."
+
+I gesture to the constructs. "These units are under your command for this operation. They will follow your directives regarding field management. Your immediate objectives: First, stabilize Petra. Second, prepare for Cassen's extraction. Third, secure medical evacuation to a designated recovery area."
+
+Turning to Petra, I adopt the same formal tone. "Warden Petra, report your status. Can you remove your breathing apparatus? Do you have sensation in your extremities?"
+
+I look back at Aldric, framing everything as a mission briefing. "The recovery timeline is fifteen minutes until Cassen's field collapse. We have established a medical station with glucose solutions and evacuation capability. Your authority is recognized by all personnel present."
+
+My quill still takes notes, but now I'm documenting command decisions rather than academic observations. "This is now a joint operation between your unit and our expedition. We will follow your lead on squad recovery protocols, as you are the ranking Brotherhood officer present."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Professor Thaddeus Mercer**: Insight (working within hierarchical framework) — Requires roll (DC 13) — **PENDING ROLL**
+**Garrick Kade**: Insight (using Aldric's guilt constructively) — Requires roll (DC 13) — **PENDING ROLL**
+**Cora Flint**: Medicine (assessing Petra and Cassen's response timeline) — Requires roll (DC 13) — **PENDING ROLL**
+
+All three PCs are attempting skill checks that require dice rolls. Mercer needs Insight to work within the hierarchical framework effectively, Garrick needs Insight to use Aldric's guilt constructively, and Cora needs Medicine to assess the response timeline for Petra and Cassen.
+
+
+--- DM ---
+Petra removes her breathing apparatus with careful, deliberate movements. Her face is younger than Aldric's — early thirties, sharp features, eyes that scan the room with tactical assessment even in her weakened state. She drinks the honey-salt water, her gaze fixed on Aldric.
+
+*"Sir,"* she says, her voice steadier now. *"Reporting. Can feel my limbs. Weak but functional. Breathing normal."*
+
+She looks at Cora, then Garrick, then Mercer. *"These civilians... they're assisting?"*
+
+*"They are,"* Aldric confirms, standing with Garrick's support. *"The Brotherhood is gone, Petra. Two centuries. These people are... allies. For now."*
+
+The "for now" hangs in the air — cautious, not hostile.
+
+**Professor Mercer**, your shift to formal military reporting works perfectly. Aldric straightens slightly at your words, his soldier's instincts responding to the structure. Petra's eyes track you with new respect — you're speaking a language she understands. The Stone-Tenders' clicking seems to synchronize with your report, as if they too recognize command protocol. **Make a Persuasion check (DC 13) to solidify this command structure and establish clear operational parameters for the rest of the extraction.**
+
+**Garrick**, you use Aldric's guilt effectively by turning it into responsibility. He focuses on Petra, then looks toward Cassen's still-glowing alcove. The guilt becomes determination — he *will* get his squad through this. And you notice something: Petra watches Aldric for cues. If he trusts you, she will. If he's wary, she'll be ready to fight despite her weakness. **Make an Insight check (DC 13) to determine how to build trust with Petra through Aldric.**
+
+**Cora**, your medical assessment proves accurate. Petra's color improves within minutes, her hand steadier on the cup. Based on her response rate and Aldric's progress, you estimate Cassen will need the same treatment timeline: 3-5 minutes for initial stabilization, 10 minutes for assisted mobility. But you notice something concerning: Petra's breathing is slightly shallower than Aldric's was at this stage. Possible respiratory weakness from the preservation process. **Make a Medicine check (DC 13) to determine if this requires additional intervention.**
+
+The third point on the wall glows intensely. Cassen's alcove pulses with blue-white light. The Stone-Tenders' clicking becomes urgent again — the final field is reaching critical failure.
+
+Brenna prepares the third cup of honey-salt water. "Ready for the last one," she says, her voice all business now.
+
+From Cassen's alcove, a new sound: not a voice yet, but a low groan. Then the sound of breathing apparatus hissing rapidly — panic breathing.
+
+Aldric's eyes snap toward the sound. *"Cassen's waking. And he's... dreaming still. The transition isn't clean."*
+
+Petra tries to sit up straighter. *"Sir, permission to—"*
+
+*"Denied,"* Aldric cuts her off. *"Conserve strength. We'll handle it."* He looks at Garrick, then at the rest of you. *"Cassen was... the newest of us. Least experience with the stasis protocols. He may not... transition cleanly."*
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 14/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+"Petra's shallow breathing indicates possible respiratory muscle atrophy," I state, moving to her side with my alchemist's supplies. "I need to assess lung function before we proceed with Cassen." I place a hand on her back. "Take a deep breath, slowly. Don't force it."
+
+She complies, her inhalation ragged but complete. "Adequate for now, but monitor closely," I note, turning to the third alcove. "Cassen's panicked breathing suggests he's not transitioning cleanly from the dream state. We need to calm him before full emergence."
+
+I take the third cup from Brenna. "Aldric, you should speak to him. Your voice will be familiar. Tell him to focus on your commands, not the dreams." I look at the Stone-Tenders' urgent clicking. "The field is failing faster than the others. We have maybe two minutes before complete collapse."
+
+To Garrick and Mercer: "Be ready to restrain him if he's disoriented or violent, but gently. His bones will be brittle from disuse." I prepare my Healing Word spell, keeping it ready for respiratory distress. "Brenna, have the stretcher ready. We may need to move him quickly if he can't stabilize."
+
+I make a final calculation in my ledger. "Three patients, limited medical supplies, one unstable emergence. Odds of all three surviving: approximately 70% with proper intervention. We proceed."
+
+
+--- Garrick Kade ---
+I keep my arm firm under Aldric's weight, but my eyes are on Petra. She's watching him, not me. If he shows trust, she'll follow. "Aldric, talk to Cassen. Now. Your voice cuts through dreams better than ours."
+
+I guide Aldric closer to the third alcove, moving steadily. "Petra, stay put. Your squad leader's handling it. Watch and learn how he commands under pressure." That gives her a role - observer, student - instead of just lying there helpless.
+
+To Cora, I say, "Be ready with that cup. He'll be thirsty and confused." Then to the alcove, raising my voice: "Cassen! Warden Aldric's here. The squad's waiting. Wake up and report!"
+
+I position myself beside the alcove, not in front. If Cassen comes out swinging, I can pin him without hurting him. Brittle bones mean careful restraint. "Aldric, tell him the mission. Give him something to focus on besides the dreams."
+
+The Stone-Tenders' urgent clicking matches my own rising tension. Two minutes. We need Cassen calm before that field fails completely. "Mercer, any magic that can steady his mind? Now's the time." My free hand stays ready, not for my maul, but to catch a disoriented soldier before he falls.
+
+
+--- Professor Thaddeus Mercer ---
+I straighten my posture, adopting the formal tone of a military adjutant delivering a situation report. "Warden Aldric, Warden Petra. Operational update: Third stasis field at critical failure threshold. Estimated collapse in one minute forty-five seconds. Stone-Tender constructs report unstable dream-state transition for Warden Cassen."
+
+I turn to face Aldric directly, my academic pomposity replaced by crisp precision. "Recommend immediate command intervention. Your voice provides temporal and psychological anchor. Issue clear, sequential orders: First, breathing regulation. Second, field collapse acknowledgment. Third, extraction protocol initiation."
+
+To Petra, I add with respectful formality: "Warden Petra, maintain your position. Monitor your squad leader's command execution. Your observational role is crucial for post-operation debrief and squad cohesion."
+
+I then address the Stone-Tenders in Dwarvish, my tone shifting to one of respectful request rather than academic curiosity. "Guardians, can you modulate the field collapse to slow the final thirty seconds? Provide additional stabilization for psychological transition?"
+
+Finally, I prepare my spells with military efficiency. "I have Hold Person available if Warden Cassen emerges violently disoriented, but will use minimal force—joint immobilization only, not full paralysis. Feather Fall is prepared if he collapses. Garrick, coordinate physical restraint with me if necessary—I'll target upper body, you secure lower."
+
+I meet Aldric's eyes, speaking with uncharacteristic directness. "Your squad needs command clarity now, Warden. The dreams are not reality. Your voice is the anchor. Begin the extraction sequence."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Professor Thaddeus Mercer**: Persuasion (solidifying command structure) — Requires roll (DC 13) — **PENDING ROLL**
+**Garrick Kade**: Insight (building trust with Petra through Aldric) — Requires roll (DC 13) — **PENDING ROLL**
+**Cora Flint**: Medicine (assessing Petra's respiratory weakness) — Requires roll (DC 13) — **PENDING ROLL**
+
+All three PCs are attempting skill checks that require dice rolls. Mercer needs Persuasion to solidify the command structure, Garrick needs Insight to build trust with Petra through Aldric, and Cora needs Medicine to assess Petra's respiratory weakness and determine if intervention is needed.
+
+
+--- DM ---
+The Stone-Tenders respond to Mercer's Dwarvish request with a series of rapid clicks. The blue-white light pulsing into Cassen's alcove shifts from urgent strobes to a steady, rhythmic pulse. The field collapse slows — you've bought an extra thirty seconds.
+
+Aldric takes a deep breath, drawing strength from the command structure Mercer has established. He leans less on Garrick, standing more on his own strength.
+
+*"Warden Cassen,"* he calls, his voice firm, commanding, cutting through the groans and panicked breathing. *"This is Aldric. You are emerging from stasis. The field is collapsing. Listen to my voice. Breathe with me. In... two... three. Out... two... three."*
+
+From the alcove, the panicked breathing hitches, then begins to synchronize with Aldric's count.
+
+**Professor Mercer**, your military protocol works perfectly. Aldric and Petra both respond to the structure, and even the Stone-Tenders follow the established chain of command. You've created a temporary joint operation with clear roles and authority. **Make a Persuasion check (DC 13) to formalize this arrangement into a stable working relationship for the rest of the extraction and recovery.**
+
+**Garrick**, you watch Petra's eyes track Aldric as he commands Cassen. She's not just following orders — she's *studying* how he handles the crisis. When Aldric trusts you enough to lean on you physically while commanding his squad, Petra notes it. Trust transfers through the chain of command. **Make an Insight check (DC 13) to determine how to reinforce this trust transfer to ensure Petra's cooperation during Cassen's extraction.**
+
+**Cora**, your assessment of Petra's breathing reveals the issue: not respiratory muscle atrophy, but *diaphragmatic weakness*. The preservation process affected the diaphragm more than other muscles. She can breathe adequately at rest, but any exertion will cause rapid fatigue. **Make a Medicine check (DC 13) to determine breathing exercises that can strengthen her diaphragm without overexertion.**
+
+The mortar around Cassen's alcove begins to crack. Slower than the others, controlled by the Stone-Tenders' modulated pulse. The groaning from within stops, replaced by controlled breathing following Aldric's count.
+
+Then Cassen's voice, young, confused, but trying to follow orders: *"Aldric? I'm... I'm dreaming? The archive... the Amalgamation... it was watching..."*
+
+*"Not a dream,"* Aldric says, his voice steady. *"Reality. The archive is sealed. The Amalgamation sleeps. You are emerging. Remove your breathing apparatus when ready."*
+
+A pause. Then the *hiss-click* of seals releasing. Cassen's breathing apparatus comes away.
+
+*"I can... breathe. Sir. Reporting. I think."* Confusion, but controlled confusion.
+
+The mortar cracks fully. The wall section falls away. Cassen sits in his alcove — youngest of the three, late twenties, pale but alert. His eyes dart around, taking in Aldric, Petra, all of you, the Stone-Tenders. Processing.
+
+Aldric looks at Garrick, then at the rest of you. *"The squad is... extracted. Now what?"*
+
+The three Brotherhood wardens are out of stasis, stabilized, but weak. They're looking to Aldric for direction. And Aldric is looking to you.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 15/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+"Now we continue medical stabilization," I say, moving to Cassen with the third cup of honey-salt water. "Small sips. Your body needs glucose and electrolytes." I check his pulse and breathing, comparing them to Aldric's and Petra's baselines. "Petra, your diaphragm is weak from the preservation process. Practice slow, deep breaths - in through the nose, out through the mouth. Don't force it."
+
+I turn to Aldric, keeping my tone professional and structured. "Your new mission parameters: First, complete physical stabilization of your squad. Second, gradual mobility retraining. Third, intelligence debriefing about what you were guarding and why." I glance at the now-exposed alcoves. "The 'Amalgamation' Cassen mentioned - we need to know what that is, and if it's still a threat."
+
+To Brenna: "We need to move them to a warmer area with proper bedding. The stone here will sap their body heat." I make a quick note in my ledger. "Three Brotherhood wardens recovered from temporal stasis. Medical costs: honey, salt, medical supplies. Intelligence value: potentially high regarding the mountain's secrets."
+
+Looking at the three wardens, I address them collectively. "You're in the Iron Warlords' fortress beneath Asymmetrical Mountain. The Brotherhood has been gone for two centuries. We're currently under contract with a Psychic Guardian to repair these vaults. Your knowledge of this place could be invaluable - and could earn you a place here while you adjust to this new time." I pause, letting that sink in. "But first, we get you on your feet. Literally."
+
+
+--- Garrick Kade ---
+I keep my arm steady under Aldric's shoulder, letting him feel supported but not controlled. Petra watches us, and I can see her calculating - if her squad leader trusts this half-orc with a maul, maybe she can too.
+
+"Now we get them to the main hall," I say, my voice practical. "Warmth, proper food, real beds." I look at Aldric, then include Petra and Cassen in my gaze. "You're soldiers, not invalids. You'll recover faster with dignity."
+
+To Aldric specifically, I lower my voice slightly. "Your squad follows you. You follow me to the hall. That's the chain of command right now. Once they're settled, you and I talk about this 'Amalgamation' and what you were really guarding."
+
+I help Aldric take a step toward the stretcher, showing Petra and Cassen the way. "Brenna, lead with the workers. Get the hall ready. Cora, you've got the medical. Mercer, keep talking to the Stone-Tenders - find out what they know about these three."
+
+I keep my movements deliberate, letting the wardens see I'm not rushing them but not coddling them either. "You've been asleep two centuries. The world's different. But some things don't change - good food, a warm fire, and people watching your back." I meet Aldric's eyes. "That's what we're offering. Take it or don't. But make the decision on your feet, not on your back."
+
+
+--- Professor Thaddeus Mercer ---
+I step forward, my posture straightening into what I hope approximates military bearing. "Warden Aldric, the extraction phase is complete. We now transition to recovery and debriefing operations. I propose the following operational structure: you retain command of your unit for discipline and cohesion. We provide logistical support, medical care, and secure facilities."
+
+I turn to include Petra and Cassen in my address, speaking with the formal precision of an after-action report. "Primary objective: physical stabilization and acclimatization. Secondary objective: intelligence exchange regarding the nature of the threat you were guarding. Tertiary objective: integration into current operational parameters of this facility."
+
+My quill appears in my hand, though I resist the urge to take notes just yet. "The 'Amalgamation' referenced by Warden Cassen requires immediate classification. If it represents an ongoing threat, our repair operations may be compromised. Your knowledge of this mountain's original defensive systems could prove invaluable."
+
+I meet Aldric's eyes, trying to bridge the gap between academic and soldier. "You have fulfilled your original duty beyond any reasonable expectation. You now face a new temporal context with the same discipline. Accept our assistance, provide necessary intelligence, and you will have a place in the ongoing stewardship of this site. This is not charity - it is a tactical alliance based on mutual need and respect."
+
+I gesture toward the Stone-Tenders, who have resumed their normal patrol patterns now that the stasis fields have fully collapsed. "These constructs recognized your authority. That suggests the Guardian's protocols still acknowledge Brotherhood chain of command. We would be wise to maintain that structure."
+
+Looking at Garrick and Cora, I add, "I recommend we proceed as Garrick suggested - relocation to the main hall, gradual debriefing, and assessment of their knowledge regarding the mountain's deeper secrets. The 'Amalgamation' could be related to my theories about the First World Sleeper. This could be the breakthrough I've been searching for."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Professor Thaddeus Mercer**: Persuasion (formalizing working relationship) — Requires roll (DC 13) — **PENDING ROLL**
+**Garrick Kade**: Insight (reinforcing trust transfer to Petra) — Requires roll (DC 13) — **PENDING ROLL**
+**Cora Flint**: Medicine (diaphragmatic breathing exercises) — Requires roll (DC 13) — **PENDING ROLL**
+
+All three PCs are attempting skill checks that require dice rolls. Mercer needs Persuasion to formalize the working relationship, Garrick needs Insight to reinforce trust transfer to Petra, and Cora needs Medicine to determine effective diaphragmatic breathing exercises.
+
+
+--- DM ---
+Aldric listens to all three of you, his eyes moving from Cora's medical professionalism to Garrick's soldier's pragmatism to Mercer's formal operational structure. He nods slowly, a decision forming.
+
+*"Tactical alliance,"* he says, testing the words. *"Based on mutual need. Yes."*
+
+He looks at Petra, then Cassen. *"The squad accepts. We require: secure location, sustenance, time to regain strength. We provide: intelligence on the Brotherhood archives, defensive systems, and... the Amalgamation."*
+
+Petra watches Aldric lean on Garrick, notes the trust in the gesture, and gives a slight nod of her own. *"If the commander agrees, I agree."*
+
+Cassen, still looking confused but following along, adds: *"The Amalgamation... it was supposed to sleep forever. If it's awake..."* He trails off, looking at the now-exposed corridor behind the alcoves — a stone passage about eight feet wide, extending forty feet into darkness. At the far end, a stone door is visible, bearing the Brotherhood's closed-eye symbol.
+
+**Professor Mercer**, your formal operational structure resonates with Aldric's military mindset. He accepts the framework of a "tactical alliance" — it gives him dignity, purpose, and a clear role. The Stone-Tenders' continued acknowledgment of his authority reinforces this arrangement. **Make a Persuasion check (DC 13) to establish the specific terms of this alliance and what intelligence exchange will involve.**
+
+**Garrick**, you successfully transfer trust from Aldric to Petra. She watches how Aldric interacts with you — the physical support, the direct communication, the lack of condescension — and extends that trust to the rest of you by extension. When Aldric agrees to the alliance, Petra doesn't question it. **Make an Insight check (DC 13) to determine what specific concerns Petra might have about this arrangement that you should address proactively.**
+
+**Cora**, your diaphragmatic breathing instructions are effective. Petra practices the slow, deep breaths, her color improving further. You estimate all three wardens will need 24-48 hours of rest, proper nutrition, and gradual exercise before they're fully mobile. But they're stable enough to move now. **Make a Medicine check (DC 13) to determine the safest way to transport them to the main hall without causing injury or exhaustion.**
+
+Brenna directs the workers with the stretcher. "We'll take them one at a time. Aldric first, since he's strongest. Then Petra, then Cassen." She looks at the exposed corridor and the distant door. "And that? We're not touching that today, right?"
+
+The Stone-Tenders have returned to their normal patrol patterns, but they keep a respectful distance from the wardens, as if acknowledging their authority. The constructs' clicking has returned to its usual binary rhythm.
+
+Aldric follows Garrick's guidance toward the stretcher, moving slowly but steadily. His eyes keep returning to the corridor and the door at the end. *"The Grand Archive,"* he says quietly. *"Entry by rank only. The Amalgamation watches."*
+
+He looks at Mercer. *"You want intelligence? That's where it is. Everything the Brotherhood knew about this mountain. And the thing they built to guard it."*
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 16/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+"One at a time, on the stretcher, with blankets," I say, directing the workers with clinical efficiency. "Keep them horizontal during transport to prevent orthostatic hypotension. Head slightly elevated for Petra to ease her breathing." I turn to Aldric. "Your new mission parameters: rest, nutrition, recovery. The Grand Archive can wait until you're medically cleared."
+
+I look at the exposed corridor and the distant door. "Brenna's right - we're not touching that today. Our immediate priorities are stabilizing three temporal displacement patients and completing the repairs for the Psychic Guardian's contract." I make a note in my ledger. "Alliance terms: we provide secure location, medical care, sustenance. They provide intelligence after recovery. No exploration of archives until all parties are at full capacity."
+
+To the wardens, I add, "You'll need monitoring for the next forty-eight hours. Watch for confusion, memory gaps, or muscle spasms - all normal after prolonged stasis, but requiring documentation." I glance at the Stone-Tenders. "They're acknowledging your authority, which suggests you still have clearance. That could be useful later."
+
+"Garrick, help with the transport. Professor, draft formal alliance terms. We'll review them when everyone's settled." I take a final assessment of the three wardens. "Medically stable for now. Let's move."
+
+
+--- Garrick Kade ---
+I help Aldric onto the stretcher, keeping a firm grip as the workers position it. "Petra's watching you," I say to him, keeping my voice low. "She'll follow your lead, but she's worried about being helpless. Make sure she knows she's still a soldier, not a patient."
+
+I turn to Petra, meeting her eyes directly. "You're not weak. You're recovering. There's a difference. And you're still part of the squad - Aldric needs your eyes sharp, not just your legs strong." I offer her the same steady support I gave Aldric. "When you're on your feet, you'll have weapons to check, perimeter to secure. Soldier's work."
+
+To Cassen, who looks the most lost, I keep it simple. "Follow Aldric's orders. Drink what they give you. The rest comes later." I glance at the distant door with the closed-eye symbol. "The archive can wait. Right now, your archive is getting strong enough to stand guard again."
+
+I help the workers lift Aldric's stretcher, taking the front position. "Brenna's right - we're not touching that door today. Today we get these three somewhere warm, fed, and safe." I look at Aldric on the stretcher. "Your new mission starts with letting us carry you. Sometimes command means accepting help so you can fight another day."
+
+
+--- Professor Thaddeus Mercer ---
+I step forward, my posture straightening into what I hope conveys formal authority. "Warden Aldric, I propose the following terms for our tactical alliance, to be formalized once your squad is medically stabilized." My quill hovers over my journal, ready to transcribe.
+
+"First: We provide secure quarters within the fortress, medical care, sustenance, and protection during your recovery period, which Cora estimates at twenty-four to forty-eight hours. Second: You provide a comprehensive intelligence debriefing regarding the Brotherhood's operations in this mountain, focusing on defensive systems, archive contents, and the nature of the Amalgamation. Third: We establish a joint operational protocol for any future exploration of the Grand Archive, with your squad serving as advisors and, when recovered, escorts."
+
+I glance at the distant door with the closed-eye symbol, my academic curiosity warring with caution. "The intelligence exchange will proceed in stages. Initial debriefing will cover immediate threats and security concerns. Secondary debriefing will address historical and archaeological data. The Amalgamation, given Cassen's mention of it 'watching,' will be priority one."
+
+Turning to include Petra and Cassen, I add, "Your authority as Brotherhood wardens is acknowledged by the Stone-Tenders, which suggests your security clearances may still be active. This could prove invaluable for safe archive access." I look back at Aldric. "Do these terms provide an acceptable framework for cooperation? We can refine details once your squad is settled."
+
+My mind races with the implications. The Grand Archive could contain precisely the evidence I need about the First World Sleeper. But I force myself to maintain professional composure. The alliance must be built on mutual respect, not academic desperation.
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Professor Thaddeus Mercer**: Persuasion (establishing alliance terms) — Requires roll (DC 13) — **PENDING ROLL**
+**Garrick Kade**: Insight (addressing Petra's concerns) — Requires roll (DC 13) — **PENDING ROLL**
+**Cora Flint**: Medicine (safe transport procedures) — Requires roll (DC 13) — **PENDING ROLL**
+
+All three PCs are attempting skill checks that require dice rolls. Mercer needs Persuasion to establish alliance terms, Garrick needs Insight to address Petra's concerns, and Cora needs Medicine to determine safe transport procedures.
+
+
+--- DM ---
+Aldric lies on the stretcher, his eyes fixed on Mercer as the professor outlines the alliance terms. After a moment of consideration, he gives a single, firm nod.
+
+*"Terms accepted. With one addition: we retain our weapons and insignias. They are Brotherhood property, and... they may be needed."*
+
+He touches the brass insignia on his chest — the closed eye within a triangle. Petra and Cassen do the same, their hands going to identical insignias.
+
+**Professor Mercer**, your formal terms work perfectly. Aldric appreciates the structure, the clear expectations, the mutual obligations. He adds his condition about weapons and insignias not out of distrust, but out of protocol — they're soldiers, and their equipment is part of their identity. The Stone-Tenders click in what sounds like approval. **Make a Persuasion check (DC 13) to formalize this agreement in a way that satisfies both military protocol and practical cooperation.**
+
+**Garrick**, you correctly identify Petra's core concern: dignity. She fears being reduced to a helpless patient. When you frame her recovery as "soldier's work" and promise her real duties (weapons maintenance, perimeter security) once she's able, her posture changes — she sits straighter, her eyes sharpen. She's not a patient; she's a soldier in recovery. **Make an Insight check (DC 13) to determine what specific duties you can assign Petra immediately to maintain her sense of purpose.**
+
+**Cora**, your transport protocol is sound: stretchers horizontal, head slightly elevated for Petra, slow and steady movement. The workers follow your instructions carefully. You estimate the journey to the main hall will take ten minutes at this pace — acceptable given the wardens' stable condition. **Make a Medicine check (DC 13) to identify any potential complications during transport that you should monitor for.**
+
+The workers lift Aldric's stretcher and begin moving slowly toward the exit. Petra watches them go, then looks at Garrick. *"Weapons maintenance,"* she says, her voice gaining strength. *"I can do that sitting. If you have oil, cloth, tools."*
+
+Cassen drinks the last of his honey-salt water, his eyes still wide with the enormity of his situation, but he's following Aldric's lead.
+
+Brenna directs the operation with efficient calm. "Second stretcher for Petra. Then Cassen. Keep them warm. The hall fire's built up."
+
+As Aldric is carried out, he looks back at the exposed corridor and the distant door. *"The Amalgamation,"* he says, his voice carrying in the quiet chamber. *"It was the Brotherhood's last creation. A guardian made from... many things. It watches the archive. And it doesn't sleep unless commanded."*
+
+He meets Mercer's eyes. *"Your alliance terms are good. But know this: if we go through that door, we wake it. And it was built to kill anything not authorized."*
+
+The Stone-Tenders click in unison, as if confirming his warning.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 17/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I monitor Petra's stretcher as the workers lift her, keeping a clinical eye on her breathing. "Watch for signs of nausea or dizziness during movement," I instruct the workers. "If she shows any distress, stop immediately and lower her head."
+
+Turning to Aldric as he's carried out, I address his warning with pragmatic calculation. "The Amalgamation is a future problem. Current priorities: stabilize your squad, complete the Psychic Guardian's repairs, and secure our food supply. Waking ancient guardians falls under 'unnecessary risk' in my ledger."
+
+To Brenna, I add: "Once they're settled, we need to discuss the mortar problem again. The quartz Jace mentioned - we'll need to send a team for it tomorrow. The repairs won't hold with that substandard clay."
+
+I look at the exposed corridor and the distant door, making a note in my ledger. "Addendum: Brotherhood Grand Archive discovered. Contains intelligence on mountain systems. Guarded by entity called 'Amalgamation.' Risk assessment: high. Deferred until more pressing matters resolved." Closing the ledger, I address the group: "Let's move. Every minute they're in this cold chamber increases recovery time, and time is a resource we can't afford to waste."
+
+
+--- Garrick Kade ---
+"Petra," I say, meeting her eyes. "Weapons maintenance is soldier's work. We've got oil and tools in the main hall. You'll have a table by the fire. Check your own gear first, then ours if you're able." I see her straighten at being given a real duty, not just busywork.
+
+To Aldric as he's carried out, I nod. "The Amalgamation stays asleep. We're not waking anything that kills unauthorized people. Not until we're ready, and not until your squad can fight." I look at the distant door with the closed-eye symbol. "That door stays closed. We'll post a watch here once we've moved everyone."
+
+I help guide Petra's stretcher, keeping a steadying hand nearby. "Cora's right about priorities. Food, repairs, getting your people strong. Then we talk about archives and guardians." To the workers, I add, "Slow and steady. Watch your footing."
+
+As we move toward the exit, I keep my maul ready. Not because I expect trouble from the wardens, but because Aldric's warning about the Amalgamation sits heavy in the chamber. Something made from "many things" to kill intruders. That's a problem for another day, when we're not carrying three people who've been asleep for two centuries.
+
+
+--- Professor Thaddeus Mercer ---
+I step forward, my posture formal and precise, addressing Aldric as he is carried out. "Warden Aldric, your condition regarding weapons and insignias is noted and accepted under Article Three of standard military alliance protocols - retention of unit identity and ceremonial arms. In exchange, we require full disclosure regarding the Amalgamation's capabilities, activation parameters, and any known countermeasures before any consideration of archive access."
+
+I turn to include Petra and Cassen in my address. "This alliance is hereby formalized under the following terms: First, mutual non-aggression and shared defense of this facility. Second, intelligence exchange regarding the mountain's systems and history. Third, your integration into our operational structure with appropriate rank equivalencies - Aldric as liaison officer, Petra and Cassen as specialist consultants."
+
+My quill flies across a page I've conjured, the ink glowing faintly with magical binding. "The Stone-Tenders' acknowledgment of your authority suggests your Brotherhood credentials remain valid within these systems. That could prove strategically valuable."
+
+I look toward the distant door, my academic curiosity warring with prudence. "The Amalgamation represents both a significant threat and an archaeological marvel. A guardian 'made from many things' suggests a construct of considerable complexity, possibly incorporating transmutative principles. When - *if* - we approach that archive, we shall require your command codes and a full tactical briefing."
+
+Turning to Garrick and Cora, I add, "The immediate operational timeline is clear: stabilize our allies, secure the quartz for repairs, then reassess. The archive can wait, but its existence changes our understanding of this mountain's significance. This isn't merely an Iron Warlords' fortress - it's a Brotherhood research site built atop something older."
+
+To the workers carrying the stretchers, I give a precise instruction: "Maintain a steady pace. Sudden movements could disrupt their vestibular readjustment after prolonged stasis." Then, gathering my notes, I follow the procession out of the chamber, casting one last scholarly look at the closed-eye door. "Fascinating. Truly fascinating."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Professor Thaddeus Mercer**: Persuasion (formalizing alliance agreement) — Requires roll (DC 13) — **PENDING ROLL**
+**Garrick Kade**: Insight (assigning immediate duties to Petra) — Requires roll (DC 13) — **PENDING ROLL**
+**Cora Flint**: Medicine (monitoring for transport complications) — Requires roll (DC 13) — **PENDING ROLL**
+
+All three PCs are attempting skill checks that require dice rolls. Mercer needs Persuasion to formalize the alliance agreement, Garrick needs Insight to assign immediate duties to Petra, and Cora needs Medicine to monitor for transport complications.
+
+
+--- DM ---
+The procession moves slowly but steadily up the passageway. Aldric lies on his stretcher, watching the stone ceiling pass overhead, his hand resting on his sword hilt — not gripping it, just touching it for reassurance. Petra follows on the second stretcher, her eyes already scanning the corridor with tactical assessment despite her weakness. Cassen brings up the rear, looking less lost now that he has a clear chain of command to follow.
+
+**Professor Mercer**, your formal alliance agreement satisfies Aldric's need for structure. The "Article Three" reference, the rank equivalencies, the binding magical document — it all feels appropriately official to a Brotherhood soldier. He gives another firm nod. *"Terms accepted. Alliance formalized."* The Stone-Tenders click in what sounds like formal acknowledgment. **Make a Persuasion check (DC 13) to ensure this agreement holds as the wardens recover and the reality of their situation sinks in.**
+
+**Garrick**, your assignment of weapons maintenance duty works perfectly. Petra's expression shifts from patient to soldier. When you mention checking her own gear first, then yours, she gives a sharp nod. *"Understood. Proper maintenance protocol: clean, oil, inspect, test. I'll need a whetstone for the edges."* She's already planning, already working. **Make an Insight check (DC 13) to determine what other small duties you can assign to maintain her sense of purpose during recovery.**
+
+**Cora**, your monitoring catches a potential issue: Petra's breathing becomes slightly labored when the stretcher tilts on an uneven section of floor. You quickly adjust her position, elevating her head further. "Slow breaths," you instruct. "The diaphragm needs to relearn its work." She complies, her breathing easing. **Make a Medicine check (DC 13) to determine if any of the wardens need additional interventions before reaching the main hall.**
+
+The journey takes twelve minutes — two minutes longer than estimated due to careful navigation of uneven floors. As you approach the main hall, the sound of the hearth fire crackling and the smell of stew greet you. Warmth flows from the doorway.
+
+Brenna directs the workers to place the stretchers near the fire but not too close. "Blankets. More stew. Keep it simple — broth first, solid food later."
+
+The workforce — thirty former bandits now turned laborers — watches with a mixture of curiosity and wariness as the three ancient wardens are brought into their midst. Some whisper. Some stare. But Brenna's presence keeps order.
+
+Aldric sits up with assistance, his eyes taking in the hall: the hearth, the makeshift bunks, the people, the repaired walls. *"This place... it was ruins when we entered stasis. You've rebuilt it."*
+
+Petra is already looking for the weapons maintenance supplies. *"Oil? Cloth? Whetstone?"*
+
+Cassen just stares at the fire, as if he's never seen flames before. *"It's... warm. Actually warm."*
+
+The Stone-Tenders remain at the chamber entrance below, resuming their normal patrol patterns. The breach is contained. The wardens are safe. The repair work is... paused, but not abandoned.
+
+Brenna looks at you, then at the three wardens, then back at you. "So. We have three two-hundred-year-old soldiers, a hole in the preparation kitchen wall, and a contract with a psychic entity that needs finishing. What's the plan?"
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 18/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I move to Petra's side, checking her breathing as the stretcher settles. "Elevate her head another few inches. The diaphragm is still weak." I turn to Brenna. "The plan is triage and logistics. First, medical: broth for all three, monitor vital signs for the next six hours. Second, security: that corridor needs to be temporarily sealed until we decide about the Amalgamation. Third, contract: we need better clay for the mortar, or the repairs fail."
+
+I pull out my ledger, making rapid notes. "Aldric, you and your squad are assets with valuable intelligence, but you're also liabilities until you recover. Your first duty in this alliance is to regain strength efficiently. Petra, weapons maintenance is approved - it keeps you productive without overtaxing you. Cassen, your duty is to rest and observe. Learn this new time period."
+
+To the party, I calculate aloud: "We have multiple competing priorities: the Psychic Guardian's contract, the Rat King in the Salt-Vaults, the Amalgamation behind that door, and now three temporally-displaced soldiers. We need to sequence these threats by cost-benefit analysis. The contract pays our debts. The Rat King threatens our food supply. The Amalgamation is a dormant threat. The wardens are a potential resource."
+
+I look at Brenna. "We need that quartz Jace mentioned for the mortar. Send a small team with him to collect it while we stabilize the wardens. The repair work continues tomorrow with proper materials." I turn to Aldric. "Once you're mobile, we'll debrief you on current threats. Your knowledge of this mountain's original defenses could be invaluable against the Rat King."
+
+
+--- Garrick Kade ---
+I find the oil, cloth, and a whetstone from our supplies and set them beside Petra's stretcher. "Your gear first," I tell her. "Then mine. A soldier's weapons are her life. You know that better than most."
+
+Turning to Aldric, I keep it simple. "Plan's straightforward. You three recover. We secure food and finish our contract. Once you're on your feet, you help us clear the rat infestation in the vaults. Your knowledge of this mountain's layout gives us an edge."
+
+I look at Brenna. "Send Jace with two workers for the quartz. I'll go with them - if there's trouble in those side passages, better I'm there." To Cora, I add, "The wardens are soldiers, not patients. Give them duties that match their strength. Petra maintains weapons. Aldric can advise on defense. Cassen..." I glance at the young warden staring at the fire. "He can watch and learn. Better than lying around feeling useless."
+
+I check my maul's edge, then hand it to Petra. "Start with this. If you're going to maintain weapons, start with the one that matters most." It's a test of trust, but also practical - she needs work that feels meaningful, and a well-maintained maul keeps me alive.
+
+To the room, I say, "We've got ancient soldiers, rat monsters, and a sleeping guardian. One problem at a time. Today: get the quartz, feed everyone, keep watch on that corridor. Tomorrow: better mortar, continued repairs. When the wardens can stand, we plan our move against the rats." I look at Aldric. "Your squad survived two centuries asleep. A few giant rats shouldn't be a problem."
+
+
+--- Professor Thaddeus Mercer ---
+I watch the wardens settle by the hearth, my quill already transcribing the moment into my journal. "The alliance is formalized under Article Three of the Laternian University's Extra-Temporal Cooperation Protocols," I state, my voice carrying the weight of academic authority. "Warden Aldric, your rank is recognized as equivalent to field commander in our operational structure. Petra as tactical specialist, Cassen as junior archivist. This grants you authority within your domains while maintaining our chain of command."
+
+I turn to Brenna, my tone shifting to one of scholarly assessment. "The plan proceeds on multiple tracks, Madam Brenna. First, anthropological: we document the wardens' knowledge of Brotherhood-era defenses, architecture, and this 'Amalgamation' entity. This data is invaluable for understanding the mountain's original purpose. Second, practical: we require that quartz for the mortar. I shall accompany Garrick and Jace to the side passages - my knowledge of mineralogy will ensure we collect the correct crystalline structure."
+
+I address Aldric directly, maintaining the formal military protocol he responds to. "Commander Aldric, your squad's primary duty during recovery is intelligence consolidation. When you are able, you will provide tactical analysis of the mountain's defensive weaknesses and strengths. Petra will handle weapons systems assessment. Cassen will begin reconstructing what he remembers of the Grand Archive's contents."
+
+My quill flies as I speak. "The Amalgamation remains a contained variable for now. A guardian 'made from many things' suggests a construct or chimera - fascinating from a magical theory perspective, but tactically concerning. We shall not approach that door until we have both sufficient force and understanding of its activation protocols."
+
+I look at the three wardens by the fire, then at our own party. "We stand at the intersection of historical preservation and survival. The Brotherhood's legacy sleeps in those alcoves and behind that door. Our contract with the Psychic Guardian remains active. The Rat King threatens our food supply. We must balance archaeological responsibility with practical necessity."
+
+Closing my journal with a decisive snap, I add, "I shall prepare a preliminary report on the stasis field collapse for the university archives. This represents the most significant temporal displacement survival case in recorded history. The data could revolutionize preservation magic." I glance at Garrick. "When you're ready to depart for the quartz, I shall accompany you. The mineral composition must be precisely assessed."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Professor Thaddeus Mercer**: Persuasion (ensuring alliance holds during recovery) — Requires roll (DC 13) — **PENDING ROLL**
+**Garrick Kade**: Insight (assigning additional duties to Petra) — Requires roll (DC 13) — **PENDING ROLL**
+**Cora Flint**: Medicine (additional interventions before reaching main hall) — Requires roll (DC 13) — **PENDING ROLL**
+
+All three PCs are attempting skill checks that require dice rolls. Mercer needs Persuasion to ensure the alliance holds during recovery, Garrick needs Insight to assign additional duties to Petra, and Cora needs Medicine to determine if additional interventions are needed before reaching the main hall.
+
+
+--- DM ---
+Petra takes Garrick's maul with careful hands, her fingers testing its weight and balance. She nods, a soldier accepting a mission. *"Proper maintenance. Edge needs work. The haft is sound."* She sets to work immediately, oiling the metal, checking for stress fractures in the wood. The simple, familiar task seems to ground her in reality.
+
+Aldric watches Petra work, then looks at Garrick. *"You trust her with your primary weapon. That's... significant. In the Brotherhood, that meant you trusted someone with your life."*
+
+He accepts a bowl of broth from a worker, sipping slowly. *"The alliance holds. We have nowhere else to go. And you... you rebuilt this place. That means something."*
+
+**Professor Mercer**, your formal protocols and rank equivalencies provide the structure Aldric needs. The "field commander" designation gives him authority without threatening yours. The Stone-Tenders' continued acknowledgment of his Brotherhood credentials reinforces this arrangement. **Make a Persuasion check (DC 13) to establish a clear chain of command for the coming days that satisfies both military hierarchy and practical leadership.**
+
+**Garrick**, you realize Petra needs more than just weapons maintenance — she needs *responsibility*. Watching the perimeter, assessing threats, reporting security concerns. These are duties she can perform from her stretcher or a chair. And you notice something: she keeps glancing at the other workers, assessing them as potential threats or assets. She's already doing security assessment instinctively. **Make an Insight check (DC 13) to determine how to formalize this into an actual duty that uses her skills while respecting her recovery.**
+
+**Cora**, your medical assessment reveals that all three wardens need careful monitoring for the next six hours, but no immediate interventions beyond what you've already provided. However, you notice Cassen's hands tremble slightly — not from weakness, but from what looks like neurological adjustment. The transition from two centuries of induced dreaming is affecting his fine motor control. **Make a Medicine check (DC 13) to determine if this requires specific exercises or if it will resolve naturally with time.**
+
+Brenna organizes the quartz expedition efficiently. "Jace, take Tomas and Elin. Garrick and Mercer go with you. Two hours maximum. Bring back what you can carry. If the passage looks dangerous, retreat and report."
+
+Jace nods, gathering mining tools. "The quartz vein's about fifteen minutes into the side passage. Milky white, fractures clean. Should be easy to collect."
+
+As the expedition prepares to depart, Aldric sets down his empty broth bowl. *"The Rat King you mentioned... we had problems with vermin when we entered stasis. The Brotherhood used sonic deterrents in the lower vaults. If they're still functional..."*
+
+He looks at Petra. *"You maintained those systems. Do you remember the activation sequences?"*
+
+Petra pauses in her weapon maintenance. *"Sonic emitters. Frequency modulation patterns. Yes, I remember. If the power crystals still hold charge..."*
+
+She looks at Garrick, then at the rest of you. *"That's a duty I can handle. From here. If you bring me the control schematics."*
+
+The offer is clear: she's providing value, earning her place, using her skills. Not as a patient, but as a specialist.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 19/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+"Petra, focus on the sonic emitter schematics first," I say, pulling out my ledger to make notes. "If we can reactivate those systems, it changes our tactical position against the Rat King entirely. That's a higher priority than quartz collection." I turn to Brenna. "Delay the quartz expedition until we assess the sonic systems. If the emitters work, we can secure the vaults properly, then collect materials without rat interference."
+
+I move to Cassen, observing his trembling hands. "Fine motor control disruption is expected after prolonged stasis," I state clinically. "Simple exercises: picking up small stones, rotating them in your fingers. Start with larger objects and work smaller as control improves." I hand him a smooth river stone from my pouch. "Practice when you're resting. It will help neural pathways reestablish."
+
+To Aldric: "Your squad's knowledge of Brotherhood systems is valuable intelligence. We'll need to document everything - sonic emitter locations, power sources, control mechanisms. That becomes part of our alliance exchange." I look at the expedition team. "Garrick, Mercer - before you go anywhere, we need to know where to look for these emitters. Petra, can you draw schematics from memory?"
+
+I make a quick calculation in my ledger. "Revised priorities: One, secure wardens' recovery. Two, document Brotherhood systems intelligence. Three, reactivate sonic emitters if possible. Four, resume repairs with proper materials. The quartz can wait a few hours if we gain a tactical advantage against the infestation."
+
+
+--- Garrick Kade ---
+"Petra," I say, watching her work on my maul. "Your new duty: security assessment. Watch the workers, the entrances, anything that doesn't look right. Report to me or Aldric. You're our eyes while you recover."
+
+I turn to the quartz expedition. "Jace, hold on. Petra's right about the sonic emitters. If we can turn those on, we clear the rats without another fight." I look at Aldric. "Where are these emitters? And the control schematics Petra needs?"
+
+To Cora, I add, "The quartz can wait a few hours. But we need to move fast - if the Rat King figures out we're planning something, it'll adapt." I glance at Petra. "Can you draw what you remember? Even rough sketches. Mercer can help with the technical details."
+
+I keep my voice low, practical. "Aldric, you're field commander for your squad. Petra handles security and tech. Cassen rests and observes. We get the sonic systems working first, then we hit the rats where they live." I look at the expedition team. "Change of plan. We're going emitter hunting, not quartz mining. Jace, you know these tunnels - where would the Brotherhood put control panels?"
+
+
+--- Professor Thaddeus Mercer ---
+I step forward, my quill already conjured and hovering over my journal. "This realignment of priorities is strategically sound," I say, my tone shifting to the formal cadence of military briefing. "Article Four of our alliance pertains to intelligence exchange regarding defensive systems. Warden Petra, your knowledge of sonic emitter systems constitutes actionable tactical intelligence."
+
+I turn to Aldric, maintaining the structured protocol he responds to. "Field Commander Aldric, I propose the following operational sequence: First, Petra provides schematics and activation sequences from memory. Second, we dispatch a reconnaissance team to verify emitter locations and status. Third, if functional, we activate systems sequentially to clear vermin from the vaults. The quartz expedition becomes secondary to securing our primary food supply."
+
+My quill dances across the page as I sketch what Petra describes. "Warden Petra, describe the emitter design. Were they crystal-based resonance arrays or mechanical frequency generators? Power sources - were they linked to the mountain's geothermal veins or independent arcane batteries? The activation sequences - verbal command, mechanical combination, or magical trigger?"
+
+I look at Garrick and Cora, translating the technical details into practical terms. "If they're crystal-based and the power sources have degraded over two centuries, we may need to replace or recharge them. If they're mechanical, corrosion may be an issue. However, Brotherhood engineering was notoriously durable."
+
+Turning back to Petra, I adopt the precise language of technical debriefing. "Provide emitter locations relative to known vault landmarks. Control panel access protocols. Failure modes and safeties. This data will determine our next operational phase."
+
+I glance at the Stone-Tenders, who have remained at the chamber entrance. "The constructs may have maintenance records or system status data. Their continued operation suggests some Brotherhood systems remain active. We should attempt interface with them regarding the sonic network."
+
+My academic excitement is tempered by the practical military framework I've adopted. This isn't just archaeological discovery - it's tactical advantage acquisition. And for once, my scholarly precision serves immediate survival needs.
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Professor Thaddeus Mercer**: Persuasion (establishing chain of command) — Requires roll (DC 13) — **PENDING ROLL**
+**Garrick Kade**: Insight (formalizing Petra's security assessment duty) — Requires roll (DC 13) — **PENDING ROLL**
+**Cora Flint**: Medicine (Cassen's fine motor control exercises) — Requires roll (DC 13) — **PENDING ROLL**
+
+All three PCs are attempting skill checks that require dice rolls. Mercer needs Persuasion to establish a clear chain of command, Garrick needs Insight to formalize Petra's security assessment duty, and Cora needs Medicine to determine appropriate exercises for Cassen's fine motor control disruption.
+
+
+--- DM ---
+Petra sets down Garrick's maul — now cleaned and oiled — and accepts a piece of charcoal and a scrap of parchment from Brenna. Her hands, though still weak, move with precise, practiced strokes as she begins to sketch.
+
+*"Sonic emitters,"* she says, her voice taking on the clipped tone of a technical briefing. *"Crystal-based resonance arrays. Twelve primary units in the lower vaults, arranged in a grid pattern. Power from geothermal taps in the mountain's heart. Control panel... here."* She marks a location on her sketch. *"Maintenance access corridor, off the third ventilation junction. Requires Brotherhood insignia for access."*
+
+She taps her own brass insignia — the closed eye within a triangle. *"These should still work. The systems were designed for centuries of operation."*
+
+**Professor Mercer**, your structured chain of command works perfectly. Aldric accepts his role as "field commander" for his squad, Petra as "technical specialist," Cassen as "observer-in-training." The Stone-Tenders click in acknowledgment when you mention attempting interface regarding the sonic network. **Make an Arcana check (DC 13) to determine the best way to interface with the Stone-Tenders to access Brotherhood system data.**
+
+**Garrick**, you successfully formalize Petra's security assessment duty. She immediately begins scanning the room, her eyes moving from worker to worker, entrance to entrance. She notes who looks nervous, who watches the wardens with too much interest, which exits are least guarded. She's doing the work instinctively — giving it official status just acknowledges what she's already doing. **Make an Insight check (DC 13) to determine what specific security concerns Petra has identified that you should address immediately.**
+
+**Cora**, your fine motor control exercises are appropriate. Cassen takes the river stone, his trembling fingers slowly closing around it. The simple, repetitive motion seems to calm him. He rotates the stone, testing his grip. "Like... retraining muscles that forgot," he says, his voice still young and uncertain but gaining confidence. **Make a Medicine check (DC 13) to determine how long it will take for his neural pathways to fully reestablish and what signs of progress to watch for.**
+
+Aldric watches Petra sketch, then looks at the expedition team. *"The control panel is your first objective. If the insignias still grant access, you can assess system status. If the geothermal taps are still active... you could clear the vaults in hours, not days."*
+
+He meets Garrick's eyes. *"But the Rat King you described — intelligent, adaptive. If it's learned to avoid the emitter frequencies, or if it's damaged the units... have a backup plan."*
+
+Brenna studies Petra's sketch, then looks at Jace. "You know the third ventilation junction?"
+
+Jace nods, though he looks nervous. "Yeah. That's... near where we found the quartz vein, actually. The side passage branches off just before it."
+
+Petra completes her sketch — a detailed map showing emitter locations, the control panel access point, and the ventilation network. She hands it to Garrick. *"The activation sequence is three-part: insignia to open the panel, then a frequency calibration dial, then the power engagement lever. I'll write the calibration settings."*
+
+She looks at the Stone-Tenders, then at Mercer. *"The constructs might have system logs. If you can interface with them... they could tell you which emitters are still operational."*
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 20/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I take Petra's sketch and examine it with a critical eye. "This changes our cost-benefit analysis significantly. If these sonic emitters are functional, we could clear the vaults with minimal risk and secure the food stores ahead of schedule." I turn to the expedition team. "Primary objective: assess control panel accessibility and system status. Secondary: collect quartz for mortar. But the quartz can wait if the sonic system is viable."
+
+I look at Cassen, still working the river stone in his trembling hand. "His neural pathways should show improvement within twenty-four hours if we see reduced tremor amplitude. Monitor grip strength and coordination." To Aldric: "Your squad is providing actionable intelligence. That's valuable. It justifies the medical resources expended."
+
+To Brenna: "Prepare the expedition supplies. Rations for four hours, extra torches, and..." I glance at Petra's sketch again. "Brotherhood insignias for access. We'll need to borrow theirs, which means trust on both sides." I meet Aldric's gaze. "We'll treat them with respect and return them. Damage or loss would be deducted from our alliance credit."
+
+I make a final note in my ledger. "Expedition authorized: sonic emitter assessment and quartz collection. Resources allocated: four personnel, four hours rations, torch supplies. Potential return: vault clearance, food security, and improved mortar materials. Risk: Rat King adaptation, system failure, or access denial." Looking at Garrick and Mercer, I add, "Stay together, watch for ambush points, and retreat if the Rat King shows signs of having compromised the system. We can't afford another medical emergency."
+
+
+--- Garrick Kade ---
+I watch Petra's eyes as she scans the room. She's noting the nervous workers, the unguarded side entrance, the way some of Brenna's people keep glancing at the Brotherhood insignias with a look that's more greed than curiosity. She's doing a threat assessment without being asked.
+
+"Petra," I say, keeping my voice low. "Give me your security report. Who's watching us too closely? Which exits need securing?" I nod toward the side entrance she's been eyeing. "That one first. It's covered?"
+
+She gives a sharp nod, soldier to soldier. *"Two workers by the water barrels. They've looked at our insignias three times in five minutes. The side entrance has one guard, but he's watching the fire, not the door. And the woman by the supplies... she keeps touching the knife at her belt when she looks at us."*
+
+"Good," I say. "Your duty: security assessment. Report any threats to me or Brenna." I turn to Aldric. "We'll need the insignias. They'll be returned. Your trust in us gets repaid with vaults cleared and food secured."
+
+Taking Petra's sketch, I study the map. "Jace, you lead us to the junction. But if the Rat King's compromised the area, we fall back. No heroics." I look at Mercer. "Professor, you handle the Stone-Tender interface. If they have system logs, we need to know what's working before we walk into a trap."
+
+To Cora, I add, "Keep them alive while we're gone. If anyone gives you trouble..." I glance at Petra, who's already watching the knife-woman by the supplies. "She'll notice before they move."
+
+I check my maul, freshly oiled and ready. "We move fast, stay quiet, and get back before dark. The Rat King's had three days to prepare. Let's not give it more."
+
+
+--- Professor Thaddeus Mercer ---
+I accept Petra's sketch with scholarly appreciation, my quill already making annotations. "The crystalline resonance arrays she describes are consistent with late-period Brotherhood harmonic defense systems," I say, my mind racing through arcane theory. "The geothermal power taps would indeed provide near-perpetual energy if the mountain's thermal gradients remain stable."
+
+I turn to the Stone-Tenders, addressing them in precise Dwarvish. "Constructs. We require access to sonic emitter system logs. Can you interface with the harmonic defense network? Provide status reports on emitter functionality and geothermal tap integrity."
+
+My hands move through arcane gestures as I prepare to cast Detect Magic, focusing on the Stone-Tenders' crystalline structures. "The constructs likely contain maintenance logs encoded in their resonant matrices. If we can establish a sympathetic link between their crystalline structures and the emitter network..."
+
+I glance at Aldric, maintaining the formal command structure. "Field Commander Aldric, your insignia will be essential for accessing the control panel. I recommend we attempt a phased approach: first, interface with the Stone-Tenders for system intelligence; second, assess control panel accessibility; third, only then proceed with activation if conditions are favorable."
+
+To Garrick, I add with uncharacteristic practicality, "The Rat King's potential adaptation to sonic frequencies is a valid concern. We should prepare alternative frequencies beyond the standard calibration. Petra's technical expertise combined with my arcane knowledge could allow us to modify the harmonic output if necessary."
+
+My quill continues documenting everything - the sketch, Petra's technical specifications, the security concerns she's identified. "This expedition represents a perfect convergence of historical knowledge, arcane theory, and practical survival. We're not merely collecting quartz; we're reactivating ancient defensive systems that could secure our position in these mountains indefinitely."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Professor Thaddeus Mercer**: Arcana (Stone-Tender interface for system data) — Requires roll (DC 13) — **PENDING ROLL**
+**Garrick Kade**: Insight (identifying Petra's security concerns) — Requires roll (DC 13) — **PENDING ROLL**
+**Cora Flint**: Medicine (Cassen's neural pathway recovery timeline) — Requires roll (DC 13) — **PENDING ROLL**
+
+All three PCs are attempting skill checks that require dice rolls. Mercer needs Arcana to interface with Stone-Tenders for system data, Garrick needs Insight to identify Petra's security concerns, and Cora needs Medicine to determine Cassen's neural pathway recovery timeline and progress signs.
+
+
+--- DM ---
+The Stone-Tenders respond to Mercer's Dwarvish inquiry with a series of complex clicks. Blue-white light pulses through their crystalline bodies in patterns that resolve into... data. Images project into Mercer's mind: a schematic of the sonic emitter network, twelve points glowing in the lower vaults. Three are dark — damaged or deactivated. Nine glow with varying intensity. The geothermal taps show steady power flow.
+
+*"System status: 75% operational,"* the psychic communication conveys. *"Emitters 3, 7, and 11 offline. Geothermal stable. Control panel accessible. Rat vermin have avoided active frequencies but show no adaptation. Network can be activated."*
+
+Petra's security assessment proves accurate. Brenna quietly moves the two workers who were eyeing the insignias to different duties, stations an additional guard at the side entrance, and has a quiet word with the knife-woman by the supplies. The tension in the room eases slightly.
+
+Cassen's hands tremble less as he works the river stone. His grip strengthens visibly within minutes — the neural pathways reestablishing faster than expected, a testament to Brotherhood preservation magic's quality.
+
+Aldric unpins his brass insignia and hands it to Garrick. The metal is cool, worn smooth by two centuries against his armor. *"The squad's trust,"* he says simply. *"Return it with the vaults cleared."*
+
+Petra adds hers. *"Calibration settings: dial to position seven, then engage power lever. That's the standard vermin clearance frequency."*
+
+Cassen offers his last, his hand steadier now. *"Be careful. The Rat King... if it's intelligent enough to avoid the frequencies, it might be waiting at the control panel."*
+
+**The expedition prepares to depart.** Garrick with his maul, Mercer with his spells and Stone-Tender data, Jace as guide, Tomas and Elin as laborers for any quartz they might collect. The map shows the way: down to the preparation kitchen, through the breached wall into the interstitial corridor (now empty of wardens), then to the third ventilation junction and the side passage to the control panel.
+
+Brenna gives final instructions: "Four hours. Back before dark. If the system works, activate it and retreat. We'll monitor from here."
+
+Cora makes a final medical check of the wardens. "They're stable. Progressing. The alliance holds."
+
+As the expedition team descends back into the mountain, the last thing you see is Petra watching you go, her eyes already scanning the room again, doing her duty. Aldric sits by the fire, a commander without an army, in a world two centuries removed from his own. Cassen works the river stone in his hand, the simple motion grounding him in reality.
+
+The Stone-Tenders remain below, their clicking a steady rhythm in the depths.
+
+**SESSION ENDS HERE**
+
+**Next session:** The expedition reaches the sonic emitter control panel. Will the Brotherhood systems still function after two centuries? Can they clear the vaults of the Rat King's infestation? And what will they find in the side passages — quartz for mortar, or something else entirely? The alliance with the wardens is formalized, but trust is still being built. The Grand Archive door remains sealed, the Amalgamation sleeping behind it. And the Psychic Guardian's contract still needs completion.
+
+**The party has successfully:**
+- Extracted three Brotherhood wardens from failing stasis fields
+- Formalized a tactical alliance with the wardens
+- Obtained intelligence on sonic emitter defensive systems
+- Maintained worker safety with zero casualties
+- Contained the breach in the preparation kitchen
+
+**Outstanding objectives:**
+- Reactivate sonic emitters to clear the Rat King infestation
+- Secure the Salt-Vaults food stores
+- Complete repairs for the Psychic Guardian's contract
+- Learn more about the Amalgamation and the Grand Archive
+- Help the wardens adjust to their new temporal reality
+
+**Milestone achieved:** The party advances to Level 4 at the start of next session.
+
+
+============================================================
+  SESSION 3 WRAP-UP
+============================================================
+
+[System] Updating campaign state...
+[Wiki Keeper] Extracting entities...
+  [Wiki] ✓ Aldric.md (created)
+  [Wiki] ✓ Petra.md (created)
+  [Wiki] ✓ Cassen.md (created)
+  [Wiki] ✓ Brotherhood.md (created)
+  [Wiki] ✓ Amalgamation.md (created)
+  [Wiki] ✓ Grand Archive.md (created)
+  [Wiki] ✓ Stone-Tenders.md (created)
+  [Wiki] ✓ Psychic Guardian.md (created)
+  [Wiki] ↻ Rat King.md (updated)
+  [Wiki] ↻ Salt-Vaults.md (updated)
+  [Wiki] ↻ Grimhold.md (updated)
+
+[Wiki] 11 file(s) written to output/wiki/
+
+[Scribe] Writing session narrative...
+[Scribe] Blog saved to C:\Users\maxry\Desktop\AI DND\output\sessions\session_03.md
+
+[Editor] Fact-checking...
+[Editor] 5 content invention flag(s):
+  ⚠ The session report and transcript describe a controlled, peaceful extraction of the three wardens with full cooperation, medical stabilization, and alliance formation. The adventure file prescribes a tense standoff where Warden Petra shoots Rolf with a crossbow bolt, requiring negotiation or combat. This encounter was replaced with diplomacy.
+  ⚠ The adventure file states the Stone-Tenders 'refuse to enter the corridor' and only guard the kitchen/silo. In the transcript, they actively help stabilize the stasis fields, communicate procedures for controlled release, and provide system data, giving them far greater agency and cooperation.
+  ⚠ The adventure file specifies the interstitial space is 'JUST A CORRIDOR. Forty feet long, eight feet wide, three alcoves with three preserved humans.' The transcript and report add details like preservation mortar with lumenite, induced dreaming stasis with lotus extract, breathing apparatus, and a detailed 90-minute failure timeline with medical analysis of aging effects—embellishments not in the source material.
+  ⚠ The adventure file says the Psychic Guardian 'communicates only through Mercer, and only when the Stone-Tenders are disturbed.' In the transcript, it communicates proactively ('Sealed. Old. Not ours. Do not let it spread.') and provides detailed guidance through the Stone-Tenders, acting more as a helpful NPC than a distant entity.
+  ⚠ The transcript invents a 'quartz expedition' subplot (searching for quartz to improve mortar) and Jace's knowledge of quartz veins. This is not in the adventure file, which focuses solely on the breach and wardens.
+[Editor] 4 missing content flag(s):
+  ✗ The adventure file prescribes a key dramatic beat: 'Petra shoots Rolf. Crossbow bolt in the shoulder.' This combat escalation and injury did not occur in the session.
+  ✗ The adventure file describes a tense negotiation where Aldric is suspicious and defaults to protocol, and the party must manage panicking workers while dealing with the wardens. The session skipped this worker panic and chase scenario.
+  ✗ The adventure file offers specific resolution paths (Option A: Negotiate with documentation, Option B: Find command phrase 'The eye closes. The watch is ended.', Option C: Force). The session did not include the discovery of a 'partial operations log' or the use of a command phrase.
+  ✗ The adventure file states the Stone-Tenders' reaction to the breach is to 'position themselves between the hole and the silo, clicking rapidly. They are not attacking. They are guarding.' The session gave them a much more active, communicative role beyond simple guarding.
+[Editor] Session report checked — no factual corrections needed.
+[Editor] Wiki entries checked — no factual corrections needed.
+[Editor] Review saved to: session_03_editor_review.md
+[Lorekeeper] Consistency pass...
+[Lorekeeper] Session report checked — no name corrections needed.
+[Lorekeeper] Upgraded 11 wiki entry/entries to encyclopedic format.
+[Lorekeeper] Review saved to: session_03_lore_review.md
+
+
+============================================================
+  ADVENTURE COMPLETE!
+  Adventure 3 finished.
+  Swapping to Adventure 4: The Sealed Archives
+  File: adventure_04_the_sealed_archives.md
+  --- LEVEL UP ---
+  Cora Flint: Level 3 → 4 | HP: 31 | New features: ASI: +2 INT (INT becomes 18, +4 modifier) | Note: INT increases to 18 (+4). Spell save DC becomes 14. Spell attack becomes +6.
+  Garrick Kade: Level 3 → 4 | HP: 40 | New features: ASI: +2 STR (STR becomes 18, +4 modifier) | Note: STR increases to 18 (+4). Melee attacks become +6 to hit, Maul 2d6+4, handaxes 1d6+4.
+  Professor Thaddeus Mercer: Level 3 → 4 | HP: 22 | New features: ASI: +2 INT (INT becomes 18, +4 modifier) | New spells: Counterspell, Fireball | Note: INT increases to 18 (+4). Spell save DC becomes 14. Spell attack becomes +6.
+============================================================
+
+[Summary] Generating adventure 3 summary...
+[Summary] Adventure 3 summary saved.
+[Summary] Already concise (121 words). Skipping condensing.
+[Quests] Cleaning quest list (5 entries)...
+[Quests] Cleaned: 5 → 5 quests.
+[Lorekeeper] Running end-of-adventure wiki editorial pass...
+
+[Lorekeeper] Processing 34 wiki entries in batches...
+
+[Lorekeeper] Batch 1/2 (25 entries)...
+[Lorekeeper] Batch 1: 25 updated, 0 marked for deletion.
+[Lorekeeper] Batch 2/2 (9 entries)...
+[Lorekeeper] Batch 2: 9 updated, 0 marked for deletion.
+[Lorekeeper] Running cross-batch dedup pass...
+  [Retry] Agent returned garbage (2 words: '{"duplicates": []}...'). Retrying (1/2)...
+  [Retry] Agent returned garbage (2 words: '{"duplicates": []}...'). Retrying (2/2)...
+  [Warning] Agent returned garbage after 2 retries. Using last response.
+[Lorekeeper] Dedup pass: no duplicates found.
+[Lorekeeper] End-of-adventure editorial pass complete.
+
+[Transcript] session_03 -> session_03_transcript.md (101 blocks parsed)
+
+============================================================
+  SESSION 3 COMPLETE
+  Blog saved to: output/sessions/session_03.md
+  Transcript saved to: output/sessions/session_03_transcript.md
+  Log saved to: output/logs/session_03_log.txt
+  Reviews saved to: output/reviews/
+  Wiki updated in: output/wiki/
+  State saved to: campaign_state.json
+  >>> Adventure 3 complete! Next adventure loaded.
+  >>> Story summary condensed for next adventure.
+============================================================
+
+[Site] Building static site...
+[Site] Built 49 pages (3 sessions, 34 wiki entries) in 0.3s -> docs/
+[Git] Publishing session 03...
+[Git] Committed: session 03: campaign update
+[Git] Pushed to origin.

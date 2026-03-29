@@ -1,0 +1,4 @@
+The **Dwarven Layer** is a deep stratum within the [[Asymmetrical Mountain]], constructed by the dwarven empire of [[Kazad-Khrom]] atop ancient Giant foundations. It sits directly below the ruins of a later [[Military Empire]].
+
+## Description
+This layer features classic dwarven architecture scaled for industrial and residential use. The upper Dwarven Layer acts as a transitional zone and containment buffer against corruption rising from below. Key facilities within this layer include the [[Cold Forge]], [[Material Stores]], and [[Apprentice Workshops]]. The dwarves abandoned this layer over a millennium ago as a corrupting influence spread upward from the mountain's core.

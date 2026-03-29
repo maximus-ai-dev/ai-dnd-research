@@ -1,0 +1,4 @@
+**Cassen** is one of the three [[Secretive Brotherhood]] [[Wardens]] preserved in magical stasis within the [[Salt-Vaults]] of the [[Asymmetrical Mountain]]. He was the last of the trio to fully awaken from dormancy.
+
+## Personality and Disposition
+Described as thoughtful and sensitive to environmental shifts, Cassen proved to be the most receptive of the Wardens to new information and changed circumstances. His extended, semi-conscious period of waking allowed him to subconsciously process the profound changes that had occurred during their centuries of slumber, making him the easiest to reason with.

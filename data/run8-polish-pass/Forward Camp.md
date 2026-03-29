@@ -1,0 +1,4 @@
+The **Forward Camp** is an established base of operations deep within the [[Asymmetrical Mountain]].
+
+## Description and Function
+Located in the explored regions of the [[Giant]] foundation level, the camp consists of bedrolls, workbenches, and salvaged equipment. It has been fortified over time with psychic shielding enhanced by [[Scaling Runes]]. The camp serves as a strategic fallback point, workshop, and planning center. It is where adventurers rest, resupply, and prepare specialized equipment, such as the [[Capstone Resonator]]. Following the encounter with the [[Reanimated Warden]], the adventurers retreated here to recover, analyze their findings, and plan their final assault on the breach in the [[Warden's Post]].

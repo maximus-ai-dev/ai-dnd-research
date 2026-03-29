@@ -1,0 +1,4 @@
+The **Commander's logbook** is a preserved journal written by the [[Brotherhood]] Commander stationed at the [[Grand Archive]].
+
+## Contents and Significance
+The logbook contains a partial record of the Brotherhood's research into the "Deep Resonance," a mysterious aura emanating from the mountain's depths. It details the Commander's discovery of an older passage behind the restricted vault in the West Wing—a passage with proportions "no human hand designed"—and his decision to seal the vault after a scholar sent to investigate failed to return. The logbook also includes the command phrase that can temporarily pause the [[Amalgamation]]: *"Stand Guardian. The Brotherhood commands it."* It is the most important historical document recovered from the archive, providing crucial context for the Brotherhood's abandonment of the site and hinting at the ancient, non-human constructions that lie deeper within the [[Asymmetrical Mountain]].

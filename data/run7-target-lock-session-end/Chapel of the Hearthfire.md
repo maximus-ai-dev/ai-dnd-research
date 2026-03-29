@@ -1,0 +1,1 @@
+The Chapel of the Hearthfire is a temple and medical infirmary located in [[Grimhold]]. Tended by [[Brother Aldwin]], it serves as a center for healing and worship for the town's inhabitants.

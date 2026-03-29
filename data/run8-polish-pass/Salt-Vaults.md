@@ -1,0 +1,4 @@
+The **Salt-Vaults** are a series of massive dry-storage pantries constructed centuries ago by the [[Iron Warlords]] beneath the [[Asymmetrical Mountain]].
+
+## Design and Recent History
+Designed to sustain a large garrison through prolonged siege, the chambers feature extensive stone shelving carved directly into the walls for storing preserved foods. A preparation kitchen is located among the vaults. By the time of the [[Grimhold]] expedition, the vaults had become infested with a colony of mutated giant rats led by a [[Rat King]]. The [[Brotherhood]], who later built their sanctum below, installed sonic emitter systems within the vaults to clear such vermin. A false wall in the preparation kitchen conceals an interstitial corridor that leads to the Brotherhood's [[Grand Archive]].

@@ -1,0 +1,4 @@
+The **Radiation Survey Notes** are a set of documents containing a rough map and survey data for the [[Dwarven Layer]] of the [[Asymmetrical Mountain]].
+
+## Content and Use
+The notes identify the path from the upper Dwarven Layer to the [[Cold Forge]], describing the forge as the industrial heart of the layer and a key component of the dwarven containment system. They were recovered from the Leaking Crypt within the mountain. [[Reyna Steelforge]] of the [[Prospectors' Guild]] provided these notes to guide expeditions descending to the Cold Forge, highlighting its potential for restoring industrial functionality to the mountain's defenses.

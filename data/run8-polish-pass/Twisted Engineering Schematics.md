@@ -1,0 +1,1 @@
+The **Twisted Engineering Schematics** are a set of plans detailing the organic broadcast amplifier network built by the [[Twisted]] within the [[Asymmetrical Mountain]]. The schematics were studied alongside [[Professor Thaddeus Mercer]]'s blueprint tablet to plan the sabotage of the amplifiers.

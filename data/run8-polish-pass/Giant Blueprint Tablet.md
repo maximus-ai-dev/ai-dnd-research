@@ -1,0 +1,4 @@
+The **Giant Blueprint Tablet** is a massive stone tablet containing the ancient architectural schematics of the [[Giant]] structures beneath the [[Asymmetrical Mountain]].
+
+## Description, Function, and Location
+The tablet details the layout and function of the deep containment architecture, including the [[The Resonant Foundation]]. It serves as a critical guide for navigating the Giant-scale corridors and understanding the purpose of various chambers and runic mechanisms. The tablet's runes and diagrams have allowed engineers to identify structural seams and make controlled breaches without compromising the integrity of the ancient containment systems. The tablet is kept and studied at the [[Prospectors' Guild]] command center within the transformed fortress above the mountain, under the supervision of [[Reyna Steelforge]].

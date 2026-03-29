@@ -1,0 +1,4 @@
+**Foreman Kellak** was the last dwarven foreman of the transit authority within the [[Asymmetrical Mountain]].
+
+## Historical Role and Legacy
+Kellak was responsible for the minecart network's operations. In the final days of the dwarven presence, he gave the order to seal the [[Eastern Transit Hub]] after confirming the presence of the apex predator [[Kellashen]]. His final log entry requested a hunter team from the [[Deepwatch]] garrison, a request that went unanswered. His iron signet seal, bearing the authority of the dwarven Foreman of Transit, was recovered from the hub's control room. It may be needed to operate secure doors and mechanisms deeper in the network.

@@ -1,0 +1,1 @@
+The **Lower Archives** is a chamber within the [[Military Empire]] layer's Relic Basements. It contains iron scroll cases, some of which hold preserved documents. One such document is the complete [[Architectural Survey of the Military Empire Layer]], which provides critical structural load calculations for the level.

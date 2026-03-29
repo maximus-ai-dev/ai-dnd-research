@@ -1,0 +1,1 @@
+A **Control Node** is a blue crystalline device that is part of a dwarven containment network, emitting a resonant hum that affects structural stability. It was activated by [[Professor Thaddeus Mercer]] in a dwarven monitoring chamber, temporarily stabilizing a structural collapse and repelling [[Twisted Scouts]].

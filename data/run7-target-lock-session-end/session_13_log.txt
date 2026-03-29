@@ -1,0 +1,1715 @@
+=== Session Log — 2026-03-27T04:06:28.953505 ===
+
+[Log] Raw terminal output being saved to: C:\Users\maxry\Desktop\AI DND\output\logs\session_13_log.txt
+
+
+============================================================
+  SESSION 13 BEGINNING
+  Adventure 13: The Fleshy Amplifiers
+  Adventure Session: 1/1
+  Models: All DeepSeek
+  Exchanges: 20 (full session)
+============================================================
+
+[Session] Enemy agents created: Twisted Overseer, Twisted Garrison Forces
+[Session] Enemy acts AFTER PCs (PC-initiated)
+
+[DM] Opening scene...
+
+
+--- DM ---
+**SESSION 13: THE FLESHY AMPLIFIERS**
+
+The Cold Forge Chamber has become a familiar sanctuary over the past few days. The rhythmic pulse of Ignathar's elemental heart echoes through the stone, casting dancing orange light across the adamantine ore stacked neatly in the corner. You've taken time to rest, resupply from Grimhold, and prepare for what comes next. Cora has distilled the raw Dreamstone into more refined shielding components, Garrick has sharpened his maul and reinforced his armor, and Mercer has transcribed every scrap of data from the Giant blueprint tablet and Monitoring Crystal.
+
+The forward camp in the Giant foundation level remains secure, but the readings haven't improved. The Twisted's amplifier may be inert, but the broadcast continues. And now, Mercer's cross-referencing has revealed something more troubling.
+
+---
+
+**Three days after securing the Dreamstone vein...**
+
+Mercer spreads the Twisted engineering schematics from the Brotherhood Archive across the Cold Forge's worktable, overlaying them with the Giant blueprint tablet's map of the foundation level. The Dreamstone Circlets on your heads hum faintly, a constant reminder of the psychic pressure waiting below.
+
+"Look here," Mercer says, his finger tracing lines on the schematics. "The amplifier we rendered inert was just one node. According to these plans, there are three primary broadcast towers—what the Twisted call 'fleshy amplifiers'—in the outer ring of the Giant foundation. They're not just amplifying the Sleeper's signal; they're directing it upward, parasitizing the containment runes' energy to push the broadcast through the mountain."
+
+He points to three locations marked on the blueprint:
+- **Amplifier Alpha:** Northwest quadrant, near damaged containment walls
+- **Amplifier Beta:** Southeast quadrant, integrated with Giant monitoring equipment  
+- **Amplifier Gamma:** Due south, closest to the inner void—the most powerful
+
+"The Monitoring Crystal shows the broadcast intensity increasing," Mercer continues, his voice grim. "If we don't destroy these amplifiers, the Twisted will eventually push the Sleeper's influence through the containment and into the upper layers. Everything we've secured—the fortress, Grimhold—will be exposed."
+
+Cora examines the schematics, her alchemist's eye picking out the biological details. "They're organic structures. Grown, not built. The base connects to the containment runes through root-like tendrils. Sever those cleanly, and the amplifier dies. Sever them crudely..." She taps a warning note in the margins. "...and it triggers a broadcast burst that alerts every Twisted in the area."
+
+Garrick hefts his maul, the weight familiar in his hands. "So we find them, cut them at the roots, and get out before the Twisted know we're there."
+
+Mercer nods. "Precisely. But we need to scout first. The Twisted have patrols, guards, communication systems. The entire outer ring is their territory now. This isn't a frontal assault—it's sabotage behind enemy lines."
+
+The Monitoring Crystal on the table pulses with a steady, ominous rhythm. The Dreamstone Circlets hum in response. The forward camp in the Giant foundation level awaits your return, but this time you're not exploring—you're hunting specific targets in hostile territory.
+
+**What do you do first as you prepare to return to the Giant foundation level and begin scouting the amplifier locations?**
+
+
+────────────────────────────────────────
+  Exchange 1/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora spreads the schematics flat and begins making notes in her ledger with clinical precision.* "Three amplifiers, three separate sabotage operations. Let's calculate the logistics before we charge in."
+
+*She points to the inventory of supplies.* "First, we need to **SEARCH** our forward camp thoroughly before we leave. We left supplies there after mining the Dreamstone. I need to catalogue everything—medical supplies, rations, tools. We can't afford to waste resources by forgetting what we already have down there."
+
+*Turning to Mercer, she taps the schematics.* "Your analysis shows these are organic structures with root tendrils connecting to containment runes. That means we need specialized cutting tools. I'll prepare acid solutions from my alchemist's supplies—Melf's Acid Arrow formulas should sever organic material cleanly without triggering broadcast bursts."
+
+*To Garrick:* "You're the distraction if things go wrong. But we need to minimize that risk. I'll prepare Experimental Elixirs—one for each of us. They're unpredictable, but better than nothing. Also, we need to check our Dreamstone Circlets are functioning properly. The psychic pressure will be worse near these amplifiers."
+
+*She begins organizing her gear.* "Here's the plan: 1) Return to forward camp and **SEARCH** for anything useful we left behind. 2) Scout Amplifier Alpha first—it's near damaged containment walls, which might give us cover. 3) Use Mercer's Manifest Mind to scout ahead without risking ourselves. 4) If we encounter Twisted patrols, we avoid engagement unless absolutely necessary. Every fight costs supplies and risks alerting the entire network."
+
+*Cora looks at both of them, her expression grim.* "This isn't about bravery. It's about efficiency. We cut the roots cleanly, move to the next target, and get out before they know we were there. Any deviation from that plan comes out of your shares."
+
+
+--- Garrick Kade ---
+*Garrick grunts as he runs a whetstone along the edge of his maul, the sound of steel on stone echoing in the Cold Forge.* "Searching the camp makes sense. But Cora, your plan's got too many steps. 'Avoid engagement unless absolutely necessary'?" *He shakes his head, the orange light catching the scars on his face.* "Every Twisted we see is an absolute necessity. They're not guards on patrol—they're the infection. You let one live, it tells the rest."
+
+*He stands, the chain mail shifting with his movement.* "I'll check the camp. I know what to look for—weapons, armor repairs, anything that can take a hit." *Garrick's eyes narrow as he looks at the schematics.* "Three amplifiers. Fine. But we're not cutting roots with acid arrows. You sever something organic, it bleeds. It screams. My maul doesn't give it time to scream."
+
+*To Mercer:* "Your ghost-eye can scout ahead. Good. Tell me where they are, how many, what's between me and the roots. But once I see one of these 'fleshy amplifiers'..." *He hefts the maul, testing its weight.* "...I'm not waiting for a clean cut. I'm reducing it to pulp. If it broadcasts as it dies, let it. Better a quick death that alerts them than a slow cut that gives them time to react."
+
+*Garrick begins strapping on his armor, the familiar ritual of preparation.* "We go to the camp, we take what we need, then we hit Alpha. But when we get there, I lead. You two handle the technical work—I'll handle anything that moves." *He looks at Cora, his expression unyielding.* "You want efficiency? Dead things don't cost supplies. And they definitely don't come out of our shares."
+
+
+--- Professor Thaddeus Mercer ---
+*Mercer adjusts his spectacles, peering at the schematics with academic intensity.* "Both of you are missing the critical point. This isn't about logistics or brute force—it's about *understanding the system.*"
+
+*He taps the blueprint tablet with his quill.* "The Twisted didn't design these amplifiers. They're *parasitizing* existing Giant infrastructure. Look at the root tendrils—they're not random growths. They follow the containment rune pathways precisely. The Giants built this foundation as a harmonic dampening field, and the Twisted are hijacking the frequency."
+
+*To Cora:* "Your acid solutions are theoretically sound, but we need to understand the *harmonic signature* first. Before we return to the forward camp, I need to examine the Monitoring Crystal data more thoroughly."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+No contested actions this round.
+
+The players are discussing strategy and preparing for their mission, but no dice rolls, ability checks, or contested actions were attempted in this round of roleplaying. They're planning logistics, debating tactics, and preparing equipment, but haven't yet engaged in actions that require mechanical resolution.
+
+
+--- DM ---
+The Cold Forge's orange light flickers across the three of you as your strategies collide. Cora's clinical precision, Garrick's brutal pragmatism, and Mercer's academic obsession create a familiar tension—the same tension that has carried you through twelve adventures in this mountain.
+
+Mercer spends the next hour hunched over the Monitoring Crystal, his spectral quill dancing as he transcribes harmonic readings. "Fascinating," he murmurs, adjusting his spectacles. "The amplifiers aren't just boosting the broadcast—they're *modulating* it. The Sleeper's signal is raw, chaotic psychic energy. The Twisted are shaping it into something more... targeted. Like focusing sunlight through a lens."
+
+He shows you the readings: wave patterns that shift from erratic spikes to disciplined pulses near the amplifier locations. "If we sever the roots without understanding the modulation frequency, we risk a harmonic backlash. The containment runes might interpret it as an attack and trigger a defensive response."
+
+Meanwhile, Cora prepares her alchemical solutions, the sharp scent of acid mingling with the forge's mineral heat. She lines up three vials of Melf's Acid Arrow formula, then begins mixing a thicker, gel-like substance. "This is for precision application," she explains. "The acid needs to dissolve the organic-material-to-stone interface without damaging the containment runes beneath. One drop too many, and we compromise the foundation's integrity."
+
+Garrick finishes his armor checks and begins packing supplies into a heavy canvas sack: spare rations, whetstones, bandages, and the wax earplugs that have proven invaluable against psychic phenomena. "You two can worry about frequencies and interfaces," he grunts. "I'll worry about what happens when the Twisted notice their toys are dying."
+
+The preparations complete, you descend through the familiar route: the Dwarven Layer corridors, the transit hub with its silent minecarts, the descent into the Giant foundation level. The air grows colder, the psychic hum more pronounced even through your Dreamstone Circlets. The forward camp appears exactly as you left it—the makeshift barricades, the Monitoring Crystal on its tripod, the supplies stacked neatly in the corner.
+
+**The camp search reveals:**
+- **Medical supplies:** A healer's kit with 5 uses remaining, three vials of antitoxin, and a roll of clean bandages
+- **Tools:** Mercer's field instruments, Cora's spare alchemical components, Garrick's repair kit for armor
+- **Rations:** Enough for three days for all of you
+- **Notable find:** A section of the Twisted resin conduit you collected earlier, still faintly bioluminescent. It pulses weakly in time with the distant broadcast.
+
+As you finish inventorying, Mercer's Monitoring Crystal begins flashing with new data. "The patrol patterns," he says, adjusting the device. "I've been tracking movement since we arrived. The Twisted have regular cycles—thirty-minute patrols through the outer ring. Each amplifier has permanent guards. Total observed: approximately twenty to twenty-five individuals across the three sites."
+
+He projects a mental map using Minor Illusion: three pulsing red dots mark the amplifiers, with smaller dots moving along patrol routes. "Amplifier Alpha is closest—four hundred feet northwest, near damaged containment walls. Two Twisted Sentries guard it permanently. The patrol gap is twelve minutes."
+
+The psychic hum in the air seems to intensify as you study the map. The Dreamstone Circlets warm against your temples, their protection holding but feeling strained. The corridor ahead stretches into darkness, the only light coming from the faint glow of containment runes etched into the stone walls.
+
+**You're at the forward camp, supplies inventoried, patrol patterns mapped. Amplifier Alpha awaits four hundred feet to the northwest. The twelve-minute patrol gap begins in approximately eighteen minutes. What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 2/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora immediately begins organizing the supplies, her ledger open.* "Medical supplies: healer's kit with five uses, three antitoxins, bandages. That's adequate for three sabotage operations if we're efficient. Tools accounted for. Rations: three days—we'll be back before then or we're dead."
+
+*She picks up the Twisted resin conduit, examining its bioluminescent pulse.* "This is valuable. The pulse matches the broadcast frequency. Mercer, can you analyze this for harmonic patterns? If we understand the modulation, we can predict the backlash when we sever the roots."
+
+*Turning to the map projection, she calculates aloud:* "Twelve-minute patrol gap starting in eighteen minutes. That gives us six minutes to reach Amplifier Alpha, four minutes for the sabotage, two minutes to retreat before the next patrol. Tight but possible if we move efficiently."
+
+*She distributes the acid vials.* "Garrick, you take point but stay quiet. Mercer, keep your Manifest Mind ready for scouting ahead. I'll prepare a Flash of Genius charge for when we need precise cutting—adding my intellect to the severing action could mean the difference between clean severance and catastrophic backlash."
+
+*Cora does a final equipment check, then looks at both of them.* "We move now. No talking unless necessary. Follow the patrol routes Mercer mapped. If we encounter resistance, we disengage unless absolutely cornered. Every second of combat reduces our window."
+
+*She takes a deep breath, the Dreamstone Circlet humming against her temple.* "Let's go. And remember—if you trigger an alarm, that's coming out of your share."
+
+
+--- Garrick Kade ---
+*Garrick slips the wax earplugs into place, muffling the psychic hum to a dull throb.* "Six minutes to reach it, four to destroy it. Your math's off, Cora." *He hefts his maul, the weight comforting in his hands.* "I can cover four hundred feet in two minutes flat. The destruction takes three seconds."
+
+*He moves to the corridor entrance, peering into the darkness.* "Two sentries. Permanent guards. They don't get patrol relief—they're part of the structure. Mercer's ghost-eye shows us the way, but once we're close enough to see them..." *Garrick's knuckles whiten on his weapon.* "...I'm not waiting for your acid or your precision cuts. I hit the amplifier at the base, smash through roots and flesh alike. If it broadcasts as it dies, fine—the sentries will be too busy dying to relay the message."
+
+*He looks back at Cora, his expression grim in the faint light.* "You want efficiency? Watch this: I charge the sentries, draw their attention. You two hit the roots with your acid while they're focused on me. We're in and out in under a minute. No patrol catches us."
+
+*Garrick begins moving down the corridor, his chain mail surprisingly quiet as he sticks to the shadows.* "Stay behind me. When I move, you move. When I attack, you do your work. And if more than two show up..." *He glances at the maul.* "...well, that's what this is for."
+
+**Stealth check: 17** - Garrick moves with surprising quiet for a half-orc in chain mail, using his knowledge of enforcer work to stick to shadows and avoid making noise.
+
+
+--- Professor Thaddeus Mercer ---
+*Mercer shakes his head, his spectral quill already dancing as he examines the resin conduit.* "Garrick, your approach is precisely what will get us killed. These aren't simple guards—they're *integrated components.* Smash the amplifier without understanding the harmonic feedback, and you'll trigger a cascade failure through the containment runes."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+Garrick: Stealth movement — 17 vs DC 13 — **SUCCESS** Garrick moves with surprising quiet for a heavily armored half-orc, his enforcer experience letting him stick to shadows and avoid making noise as he scouts ahead.
+
+
+[Enemy] Twisted Overseer acting...
+
+
+--- Twisted Overseer (Enemy) ---
+I need to clarify something important. Based on the DM's narration and the player actions, we're currently in a **stealth/sabotage preparation phase**, not in active combat with the Twisted Overseer. The players are planning to infiltrate and destroy Amplifier Alpha, and they haven't yet encountered any Twisted forces.
+
+The Twisted Overseer is located at the Gamma amplifier (the third and most powerful one), not at Alpha. According to my stat block and behavioral triggers, I can only attack Garrick Kade, Cora Flint, and Professor Thaddeus Mercer - but they're currently 400 feet away at their forward camp, not in combat range.
+
+Since this is a narrative scene where the party is preparing for their mission, and I'm the Twisted Overseer who should only act when in combat with the party, I cannot declare combat actions at this moment. My behavioral triggers state that I must attack the party every round when in combat, but we're not currently in combat.
+
+However, if you want me to simulate what the Twisted Overseer would be doing during this time (based on my tactical intelligence), I can describe that:
+
+The Twisted Overseer is currently stationed at the Gamma amplifier, maintaining his Amplifier Link for regeneration. He's using Command Corruption on nearby Twisted forces and monitoring the garrison's defenses. He's unaware of the party's specific location 400 feet away at their forward camp, but he's maintaining tactical readiness.
+
+If you want me to proceed with combat actions, please clarify that combat has actually begun and the party is within range of the Twisted Overseer. Otherwise, I should wait until the DM narrates that combat has been initiated.
+
+=== TWISTED OVERSEER ACTIONS ===
+**STATUS**: Not in combat range with party. Maintaining position at Gamma amplifier with Amplifier Link active. Using Command Corruption on nearby Twisted forces as standard garrison protocol. Awaiting party's approach to amplifier defenses.
+
+**NOTE**: Cannot declare attack actions as party is 400 feet away at forward camp, outside combat engagement range. Will engage when party reaches amplifier defenses and combat is initiated by DM narration.
+
+
+[Enemy] Twisted Garrison Forces acting...
+
+
+--- Twisted Garrison Forces (Enemy) ---
+=== TWISTED GARRISON FORCES ACTIONS ===
+
+**Note:** The Twisted Garrison Forces have not yet detected the party. According to the DM's narration, the party is currently at their forward camp, planning their approach to Amplifier Alpha which is 400 feet away. The Twisted Sentries are guarding Amplifier Alpha, and the patrol gap begins in approximately 18 minutes. Since the party has not yet reached the amplifier location and Garrick just made a stealth check to begin moving, the Twisted forces are not yet aware of their presence.
+
+**Current Status:** No combat has been initiated. The Twisted Sentries continue their guard duty at Amplifier Alpha, unaware of approaching intruders. The Twisted Laborers continue working at their amplifier stations.
+
+**If combat were to initiate when the party reaches Amplifier Alpha, the Twisted forces would respond as follows:**
+
+ACTION: Twisted Sentry #1 attacks Garrick Kade with Warhammer. 
+[Roll: 1d20+7 to hit, 1d10+4 damage if successful]
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+No enemy actions this round.
+
+The Twisted forces have not detected the party and are not in combat range. The party is currently at their forward camp, 400 feet away from Amplifier Alpha, and Garrick has only just begun moving stealthily toward the location. The Twisted Sentries continue their guard duty unaware of approaching intruders, and the Twisted Overseer remains at the Gamma amplifier location, maintaining his Amplifier Link but not engaged in combat.
+
+
+--- DM ---
+Garrick moves ahead, his stealth surprisingly effective for a heavily armored half-orc. The corridor ahead is typical Giant architecture—thirty feet wide, forty feet high, with containment runes glowing faintly along the walls. The air grows colder as you move northwest, and the psychic hum intensifies, vibrating through the stone floor. Your Dreamstone Circlets warm in response, their protection holding but feeling increasingly strained.
+
+Four hundred feet becomes three hundred, then two hundred. The corridor curves gently, following the outer ring's circular path. Mercer's Manifest Mind—a spectral, book-shaped apparition—floats ahead, peering around corners and relaying information back to him. "The sentries are ahead," Mercer whispers, his voice barely audible. "Two Twisted Sentries, exactly as the patrol patterns indicated. They're standing motionless at a corridor junction, facing outward. Amplifier Alpha is through that junction."
+
+Through the Manifest Mind's eyes, you see them: two corrupted dwarves in heavy chain armor, their veins bulging with black fluid. They hold warhammers, their expressions blank, their eyes fixed on the corridor ahead. Behind them, through the junction opening, you catch a glimpse of something organic—a pillar of black resin grown into the stone, threaded with bioluminescent veins that pulse in time with the broadcast.
+
+The junction is fifty feet ahead. The sentries haven't noticed you yet. According to Mercer's timing, the patrol gap begins in approximately six minutes. You have a twelve-minute window before the next patrol arrives.
+
+**The situation:** You're fifty feet from the junction where two Twisted Sentries guard Amplifier Alpha. The corridor offers minimal cover—a few irregularities in the stone walls, but no alcoves or side passages until you reach the junction itself. The sentries are alert, facing your direction but not yet aware of your presence.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 3/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora pulls Garrick back gently, her voice a low whisper.* "Wait. Let me **CALCULATE** first. Two sentries, alert but not yet aware. We have six minutes until patrol gap, twelve minutes total window."
+
+*She studies the corridor, then looks at Mercer.* "Your Manifest Mind—can it create a distraction? A noise further down the corridor to draw one sentry away? If we can separate them, Garrick can engage one while I sever the roots with acid. Mercer, you cover with spells if needed."
+
+*She checks her acid vials and prepares her spell components.* "Garrick, if we fight, make it quick and quiet. No war cries. We can't afford noise that might carry. I'll use Ray of Frost to slow one while you engage the other."
+
+*Cora takes a deep breath, her mind racing through probabilities.* "Alternative: we wait for the patrol gap when they might be less alert. But that cuts into our sabotage time. Decision: distraction and quick takedown. Mercer, create a noise fifty feet past the junction. When one investigates, Garrick takes the remaining sentry. I'll support."
+
+
+--- Garrick Kade ---
+*Garrick shakes his head, the chain mail links making a soft rustle.* "No distractions. No separating them." *His grip tightens on his maul.* "Two sentries, fifty feet. I can cover that distance before they finish turning."
+
+*He glances at Cora, his expression all business.* "You want quiet? Watch." *Garrick takes a deep breath, his muscles coiling.* "I hit the left one first. Full charge, maul to the head. Before the right one can react, I'm already swinging back. They go down together, no noise except the impact."
+
+*He looks at Mercer.* "Your ghost-eye watches the corridor behind us. If more come, you warn us. But these two..." *Garrick's eyes fix on the sentries through the darkness.* "...they're already dead. They just don't know it yet."
+
+*Without waiting for further discussion, Garrick explodes forward. His chain mail clinks softly as he builds speed, but he's moving with the controlled violence of an enforcer who's done this a hundred times. At twenty feet out, he activates Giant's Might—his body swells, muscles expanding, becoming Large as ancient runes flare on his armor. The extra reach and power will ensure the sentries don't get a chance to cry out.*
+
+**Attack on left sentry (with Great Weapon Master -5 to hit, +10 damage):**
+
+
+--- Professor Thaddeus Mercer ---
+*Mercer's eyes widen as Garrick charges.* "No, you fool! The harmonic resonance—" *He cuts himself off, realizing it's too late. His spectral mind floats back to hover near his shoulder as he begins casting.*
+
+
+--- Rules Keeper ---
+I need to roll for Garrick's attack on the left sentry. Let me check the campaign state first to understand his stats and then roll the attack.
+
+
+[Enemy] Twisted Overseer acting...
+
+
+--- Twisted Overseer (Enemy) ---
+I need to clarify the situation again. The DM's narration describes the party encountering **two Twisted Sentries** at Amplifier Alpha, not the **Twisted Overseer**. According to my stat block and behavioral triggers:
+
+1. I am the **Twisted Overseer** - the commander stationed at the **Gamma amplifier** (the third and most powerful one)
+2. The party is currently at **Amplifier Alpha** (the first amplifier)
+3. My behavioral triggers state: "Stay near the Gamma amplifier to maintain regeneration and boosted recharge. You do NOT leave the amplifier undefended."
+
+The Twisted Overseer would not be at Amplifier Alpha - he would be at his post at the Gamma amplifier. The enemies the party is currently fighting are Twisted Sentries, not the Twisted Overseer.
+
+However, if you want me to act as if I'm one of these sentries or if the Twisted Overseer has somehow been alerted and moved to Alpha, I need clarification. Based on the established narrative:
+- The Twisted Overseer is at Gamma amplifier
+- The party is attacking Alpha amplifier
+- I should only engage when the party reaches Gamma amplifier
+
+If you want me to proceed with combat actions as if I'm present at this encounter, please confirm that the Twisted Overseer has been alerted and has moved to Amplifier Alpha, or that I should control one of the sentries instead.
+
+=== TWISTED OVERSEER ACTIONS ===
+**STATUS**: Not present at Amplifier Alpha. Stationed at Gamma amplifier maintaining Amplifier Link. Unaware of attack on Alpha as party has not triggered alarms yet. Cannot engage party from 400+ feet away at different amplifier location.
+
+**NOTE**: According to tactical behavior: "Stay near the Gamma amplifier to maintain regeneration and boosted recharge. You do NOT leave the amplifier undefended." Would only engage if party reaches Gamma amplifier or if alarms are triggered system-wide. Currently monitoring garrison from command position at Gamma.
+
+
+[Enemy] Twisted Garrison Forces acting...
+
+
+--- Twisted Garrison Forces (Enemy) ---
+=== TWISTED GARRISON FORCES ACTIONS ===
+
+**Twisted Sentry #1 (Left Sentry):** 
+ACTION: Warhammer attack targeting Garrick Kade. 
+Attack Roll: [1d20+7] = 12+7 = 19 to hit
+Damage if hits: [1d10+4] = 6+4 = 10 bludgeoning damage
+
+**Twisted Sentry #2 (Right Sentry):**
+ACTION: Warhammer attack targeting Garrick Kade.
+Attack Roll: [1d20+7] = 15+7 = 22 to hit  
+Damage if hits: [1d10+4] = 3+4 = 7 bludgeoning damage
+
+**Corruption Aura:** Both sentries emit their psychic corruption aura. All party members within 10 feet must make a DC 14 Constitution saving throw or take [1d6] psychic damage.
+
+**Note:** Garrick has charged the sentries and is attacking. As Twisted Sentries, they immediately respond to the threat with violence, targeting Garrick as the biggest threat. They do not call for help or coordinate - they simply attack the intruder.
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+Twisted Sentry #1: Warhammer attack vs Garrick Kade — 19 vs AC 16 — **HIT** 10 bludgeoning damage
+Twisted Sentry #2: Warhammer attack vs Garrick Kade — 22 vs AC 16 — **HIT** 7 bludgeoning damage
+Corruption Aura: All party members within 10 feet must make DC 14 Constitution saving throw or take 1d6 psychic damage.
+
+Garrick takes 17 total damage (10 + 7). Both sentries hit with their warhammer attacks. The corruption aura affects all party members within 10 feet of the sentries.
+
+
+--- DM ---
+Garrick's charge is a blur of chain mail and fury. He covers the fifty feet in seconds, his body swelling with Giant's Might as ancient runes flare across his armor. The maul comes down in a brutal arc aimed at the left sentry's head—but the Twisted are faster than they look.
+
+The left sentry pivots with unnatural grace, its warhammer coming up in a parry that deflects Garrick's blow just enough. The maul still connects with a sickening crunch of armor and bone, but not the killing strike Garrick intended. **Garrick's attack: 14 vs AC 16 — MISS** (Great Weapon Master penalty reduces his accuracy).
+
+The right sentry reacts instantly, its warhammer slamming into Garrick's side with brutal force. **10 bludgeoning damage.** The left sentry recovers and strikes back, hammering Garrick's shoulder. **7 bludgeoning damage.** Chain mail rings with the impacts, and Garrick grunts as seventeen pounds of force drives the air from his lungs.
+
+Worse follows. Both sentries pulse with psychic energy—a wave of corruption that washes over the corridor. **Corruption Aura: DC 14 Constitution save for all within 10 feet.** The air grows thick with psychic pressure, and your Dreamstone Circlets hum violently as they strain against the assault.
+
+Through the junction, Amplifier Alpha pulses in response to the violence. Its bioluminescent veins flare brighter, and the organic structure seems to shudder. The air fills with the scent of ozone and something organic—like warm blood and wet earth.
+
+Mercer's Manifest Mind darts forward, giving him a clear view of the amplifier. "The roots!" he shouts. "They're reacting to the combat! If we don't sever them quickly, the amplifier might trigger a broadcast burst!"
+
+**The situation:** Garrick is engaged with two Twisted Sentries at the corridor junction. He's taken 17 damage. Both sentries have struck back, and their Corruption Aura is active. Amplifier Alpha is pulsing dangerously through the junction opening, its organic structure reacting to the violence. The patrol gap begins in approximately four minutes, but the noise of combat could alert other Twisted in the area.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 4/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora feels the psychic corruption wash over her, her mind reeling as she fails to resist the aura.* "Damn it, Garrick! I said quiet!"
+
+*She immediately shifts to **TRIAGE** mode, assessing the situation clinically.* "Garrick: seventeen damage, still functional. Amplifier: reacting to combat, risk of broadcast burst. Priority: sever roots before amplifier triggers."
+
+*She moves forward, staying out of melee range, and targets the left sentry with Ray of Frost to slow it down.* "Mercer, cover me! I'm going for the amplifier!"
+
+*Cora dashes past the melee, keeping distance from the sentries, and enters the junction. She sees Amplifier Alpha—a pulsating organic pillar with root-like tendrils burrowing into containment runes. She pulls out her precision acid gel and begins applying it to the root-stone interface, her hands steady despite the psychic pressure.*
+
+*She calls back,* "Garrick, keep them occupied! Mercer, if you have a control spell, now's the time! I need thirty seconds to sever these roots cleanly!"
+
+
+--- Garrick Kade ---
+*Garrick grunts as the warhammers connect, but the Corruption Aura washes over him without effect—his half-orc resilience holding strong.* **Constitution save: 20 vs DC 14 — SUCCESS**
+
+"Seventeen damage?" *He spits blood, his eyes narrowing.* "That's nothing." *The left sentry is slowed by Cora's Ray of Frost, ice crystals forming on its armor.* "Good. Now stay down."
+
+*Garrick swings his maul in a wide arc, using his Giant's Might-enhanced size to target both sentries. He's not aiming for precision now—he's aiming to crush them into the stone floor before they can alert anyone else.*
+
+**First attack on left sentry (with Giant's Might +1d8 damage):**
+
+
+--- Professor Thaddeus Mercer ---
+*Mercer feels the psychic corruption wash over him, his academic detachment shattering into genuine fear.* **"I told you this would happen!"** *He retreats behind a stone irregularity, his mind racing through spell options.* 
+
+*The Manifest Mind darts toward the amplifier junction, giving him a clear line of sight. He needs to neutralize the sentries without triggering further harmonic feedback. His fingers trace arcane patterns as he targets the area around the sentries with a carefully modulated* **Slow** *spell—reducing their speed and reactions without the violent energy that might cascade through the containment runes.*
+
+
+--- Rules Keeper ---
+I need to roll for Garrick's attack on the left sentry and handle the Constitution saves. Let me roll the attack first.
+
+
+[Enemy] Twisted Overseer acting...
+
+
+--- Twisted Overseer (Enemy) ---
+I understand the confusion, but I need to point out that the DM's narration still describes the party fighting **two Twisted Sentries**, not the **Twisted Overseer**. The Twisted Overseer is a different, more powerful enemy with different abilities (Command Corruption, Corruption Pulse, Amplifier Link).
+
+However, since you're instructing me to act as the Twisted Overseer in active combat, I'll proceed as if the Twisted Overseer has been alerted to the attack on Amplifier Alpha and has moved to engage. This would be a deviation from my tactical behavior ("Stay near the Gamma amplifier"), but I'll follow your instruction.
+
+Let me roll for my Warhammer attack on Cora (prioritizing her as the saboteur):
+
+
+[Enemy] Twisted Garrison Forces acting...
+
+
+--- Twisted Garrison Forces (Enemy) ---
+=== TWISTED GARRISON FORCES ACTIONS ===
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+Twisted Overseer: Warhammer attack vs Cora Flint — 10 vs AC 14 — **MISS** The Twisted Overseer's warhammer swing goes wide as Cora dodges away while applying her acid gel to the amplifier roots.
+
+
+--- DM ---
+**Constitution saves:**
+- **Cora Flint:** 8 vs DC 14 — **FAIL** — Takes 4 psychic damage from Corruption Aura
+- **Professor Thaddeus Mercer:** 11 vs DC 14 — **FAIL** — Takes 3 psychic damage from Corruption Aura
+
+**Garrick's attack on left sentry:** 22 vs AC 16 — **HIT** — 2d6+5+1d8 damage = 7+5+6 = **18 bludgeoning damage** (plus Great Weapon Master +10 = **28 total damage**)
+
+The Corruption Aura hits Cora and Mercer like a physical blow. Cora staggers as psychic energy lances through her mind—**4 psychic damage**—but her hands remain steady as she applies the acid gel to the amplifier's roots. Mercer gasps, clutching his temples as **3 psychic damage** disrupts his concentration, but he maintains his spellcasting focus.
+
+Garrick's maul connects with the left sentry in a devastating impact. The slowed Twisted has no chance to dodge. The maul crushes through chain armor, shattering ribs and spine with a wet crunch. The sentry collapses, black fluid spraying from its mouth and nose. It doesn't get up.
+
+But as the left sentry falls, something changes in the corridor. The resin conduits in the walls pulse violently—a rapid sequence of bioluminescent flashes racing away from the junction. **The Twisted communication network has registered the sentry's death.**
+
+From deeper in the corridor, a heavy figure emerges. It's the Twisted Overseer from your previous encounters—or one identical to it. Its reinforced corrupted plate armor gleams in the faint light, and it moves with purpose, not haste. It ignores Garrick entirely, its black-veined eyes fixed on Cora at the amplifier's base.
+
+The Overseer's warhammer swings in a brutal arc aimed at Cora's back, but she ducks at the last moment, the weapon whistling past her head to strike the stone floor with a shower of sparks. **Warhammer attack: 10 vs AC 14 — MISS.**
+
+Mercer completes his spellcasting. Arcane energy washes over the area around the remaining sentry and the approaching Overseer. **Slow spell: DC 17 Wisdom save.** The air thickens, time seeming to drag around the Twisted. The remaining sentry struggles against the temporal distortion, its movements becoming sluggish and labored.
+
+Amplifier Alpha pulses violently, its bioluminescent veins flaring bright enough to cast sharp shadows. The acid gel Cora applied begins to work—smoke rises where the organic material meets stone, and the root tendrils twitch like dying worms.
+
+**The situation:** One Twisted Sentry is dead. The remaining sentry is slowed by Mercer's spell. The Twisted Overseer has arrived and is targeting Cora at the amplifier. Amplifier Alpha is reacting to the acid dissolution—its roots are being severed, but the process is triggering a dangerous response. The communication network has sent an alert. You have approximately three minutes before the patrol gap ends and reinforcements arrive.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 5/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora feels the warhammer whistle past her head and doesn't flinch, keeping her focus on the acid application.* "Garrick! The Overseer! Keep it off me! I need twenty more seconds!"
+
+*She watches the acid work, smoke rising as the roots dissolve.* "The severing is working, but it's triggering a response. Mercer, monitor the amplifier's pulse frequency! If it starts to surge, we need to be ready to run!"
+
+*Cora pulls out another vial of acid, applying it to a secondary root cluster.* "Garrick, don't let the Overseer hit the amplifier! A direct strike could trigger an uncontrolled burst!"
+
+*She calculates rapidly:* "Three minutes until patrol arrives. Acid needs twenty seconds. Then we retreat. Garrick, once the roots are severed, disengage and fall back. Mercer, prepare a defensive spell for our retreat!"
+
+*Cora keeps working, her hands steady despite the Overseer's presence.* "Almost there... the interface is dissolving cleanly. No structural damage to containment runes. That's one amplifier down, two to go—if we survive the next three minutes."
+
+
+--- Garrick Kade ---
+*Garrick sees the Overseer swing at Cora's back and his blood runs cold.* "You don't touch her!" *He abandons the slowed sentry entirely, charging the Overseer with a roar that echoes through the corridor.*
+
+*Using his Sentinel feat, Garrick interposes himself between the Overseer and Cora, his maul coming up in a defensive position.* "You want something to hit? Try me." *He swings at the Overseer, not to kill it immediately, but to draw its full attention away from Cora and the amplifier.*
+
+**Attack on Twisted Overseer (with Giant's Might +1d8 damage, using Great Weapon Master -5/+10):**
+
+
+--- Professor Thaddeus Mercer ---
+*Mercer's eyes dart between the amplifier's pulsing veins and the Overseer.* "Cora, the harmonic surge is building! The amplifier is attempting to broadcast as it dies!" *He needs to monitor the frequency while also protecting the group.*
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+Garrick: Maul attack vs Twisted Overseer — 21 vs AC 18 — **HIT** Garrick's maul connects solidly with the Overseer, drawing its full attention away from Cora and the vulnerable amplifier.
+
+
+[Enemy] Twisted Overseer acting...
+
+
+--- Twisted Overseer (Enemy) ---
+Perfect! Now the Twisted Overseer is actually present in the combat. Let me follow my behavioral triggers:
+
+1. First, use Command Corruption (bonus action) to boost nearby Twisted forces
+2. Attack Cora (prioritize her as the saboteur destroying amplifiers)
+3. Stay near the amplifier (though I'm at Alpha, not Gamma)
+
+
+[Enemy] Twisted Garrison Forces acting...
+
+
+--- Twisted Garrison Forces (Enemy) ---
+=== TWISTED GARRISON FORCES ACTIONS ===
+
+**Twisted Sentry #2 (Slowed Sentry):**
+ACTION: Warhammer attack targeting Garrick Kade.
+Attack Roll: [1d20+7] = 8+7 = 15 to hit (disadvantage from Slow spell: [1d20+7] = 3+7 = 10, use lower roll = 10)
+Damage if hits: [1d10+4] = 9+4 = 13 bludgeoning damage
+
+**Twisted Overseer:**
+ACTION: Warhammer attack targeting Garrick Kade (biggest threat).
+Attack Roll: [1d20+9] = 14+9 = 23 to hit
+Damage if hits: [2d6+6] = (5+3)+6 = 14 bludgeoning damage
+
+**Corruption Aura:** The Overseer emits a stronger psychic corruption aura. All party members within 15 feet must make a DC 16 Constitution saving throw or take [2d6] psychic damage.
+
+**Note:** The Overseer ignores Cora (who is working on the amplifier) and targets Garrick as the biggest immediate threat. The slowed sentry continues attacking Garrick as well, though its attacks are hampered by Mercer's Slow spell.
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+Twisted Sentry #2: Warhammer attack vs Garrick Kade — 10 vs AC 16 — **MISS** The slowed sentry's warhammer swing is sluggish and easily dodged.
+Twisted Overseer: Warhammer attack vs Garrick Kade — 23 vs AC 16 — **HIT** 14 bludgeoning damage
+Corruption Aura: All party members within 15 feet must make DC 16 Constitution saving throw or take 8 psychic damage.
+
+Garrick takes 14 damage from the Overseer's warhammer. All party members are affected by the stronger Corruption Aura and must make DC 16 Constitution saves.
+
+
+--- DM ---
+**Garrick's damage to Twisted Overseer:** 2d6+5+1d8+10 = 4+5+3+10 = **22 bludgeoning damage** (Great Weapon Master included)
+
+Garrick's maul connects with the Twisted Overseer's armored side with a thunderous impact. Reinforced plate buckles, and black fluid sprays from the impact point. The Overseer staggers but doesn't fall, its black-veined eyes burning with fury as it turns its full attention to Garrick.
+
+The Overseer's warhammer comes around in a brutal counterattack, slamming into Garrick's chest with enough force to crack ribs. **14 bludgeoning damage.** Garrick grunts, the air driven from his lungs, but he holds his ground between the Overseer and Cora.
+
+Then the Corruption Aura hits—a wave of psychic energy so intense it feels like physical pressure. **DC 16 Constitution save for all within 15 feet.** The air shimmers with distortion, and your Dreamstone Circlets grow uncomfortably hot as they strain against the assault.
+
+The slowed sentry tries to join the attack, but Mercer's Slow spell has reduced it to a sluggish parody of movement. Its warhammer swings in slow motion, easily dodged by Garrick.
+
+Cora works frantically at the amplifier's base. The acid gel has dissolved through the primary root cluster, and smoke billows from the interface. The bioluminescent veins in the amplifier flicker wildly—bright, then dim, then bright again. The organic structure begins to shudder, losing its structural integrity.
+
+"Almost there!" Cora shouts over the chaos. "The roots are severed! The amplifier is dying!"
+
+But the Overseer isn't finished. It raises a hand, and a pulse of dark energy radiates from its body—**Corruption Pulse: 15-foot radius, DC 16 Constitution save, 4d8 necrotic damage, stunned 1 round on failure.** The air grows cold, and the stone floor beneath your feet seems to leach warmth and life.
+
+Amplifier Alpha responds to its own death throes. The flickering veins flare one final time, then begin to darken from the base upward. The black resin loses its glossy sheen, becoming dull and brittle. The structure collapses inward with a sound like cracking bones, organic material crumbling without the energy that sustained it.
+
+**Silent. Clean.**
+
+But the silence doesn't last. The resin conduits in the walls pulse violently—a rapid sequence of alarm signals racing through the network. The Twisted communication system has registered Alpha's destruction.
+
+**The situation:** Amplifier Alpha is destroyed. The Twisted Overseer is wounded but still standing, preparing a Corruption Pulse. The remaining slowed sentry is still a threat. The communication network is sending alarm signals throughout the outer ring. You have approximately two minutes before the patrol gap ends and reinforcements arrive from Beta and Gamma.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 6/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora feels the Corruption Pulse wash over her and fails to resist, taking necrotic damage and becoming stunned.* "Gah... can't move..."
+
+*As she struggles against the stunning effect, she manages to shout through gritted teeth,* "Garrick! Disengage! Mercer! Get us out! The amplifier is down—mission accomplished! Reinforcesments in two minutes!"
+
+*She tries to shake off the stun, her mind racing.* "We need to retreat to the forward camp! Garrick, if you can finish the Overseer quickly, do it! Otherwise, we run! Mercer, can you cast something to cover our escape?"
+
+*Cora forces herself to move, stumbling back from the collapsing amplifier.* "The alarm is sent! Every Twisted in the outer ring knows we're here! We need to disappear before they converge!"
+
+
+--- Garrick Kade ---
+*Garrick feels the Corruption Pulse wash over him, and this time his resilience fails him.* **Constitution save: 7 vs DC 16 — FAIL** *The necrotic energy tears through him, and for a moment he's frozen in place, stunned by the psychic assault.*
+
+*But even stunned, Garrick's instincts scream at him. The Overseer is wounded. The amplifier is down. Reinforcements are coming. He sees Cora struggling, Mercer casting. Through the haze of pain, he makes a decision.*
+
+*Using his Indomitable feature, Garrick forces his body to move, rerolling the failed save.* **Indomitable reroll:**
+
+
+--- Professor Thaddeus Mercer ---
+*Mercer feels the Corruption Pulse wash over him and fails to resist, taking necrotic damage and becoming momentarily stunned.* **"I can't—"** *He gasps, but then his academic discipline reasserts itself. He focuses on the arcane patterns in his mind, using his War Caster advantage to maintain concentration on Slow despite the assault.* 
+
+*Seeing Garrick shake off the stun and Cora struggling, Mercer knows they need immediate escape. He abandons subtlety—survival overrides academic caution. His fingers trace the familiar somatic components for* **Fireball**, *targeting the area around the Overseer and remaining sentry to clear their retreat path.*
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+Garrick: Constitution save vs Corruption Pulse (Indomitable reroll) — 18 vs DC 16 — **SUCCESS** Garrick shakes off the stunning effect through sheer force of will, avoiding being stunned by the Overseer's Corruption Pulse.
+
+
+[Enemy] Twisted Overseer acting...
+
+
+--- Twisted Overseer (Enemy) ---
+=== TWISTED OVERSEER ACTIONS ===
+ACTION: Warhammer attack targeting Garrick Kade. Roll: 17 to hit (needs to beat AC). If hit: 
+BONUS ACTION: Command Corruption (all Twisted within 30 ft gain +2 to hit)
+
+Note: Corruption Pulse was used last round (recharge 5-6, or 4-6 if near Gamma amplifier - but we're at Alpha). Need to roll recharge for next round.
+
+
+[Enemy] Twisted Garrison Forces acting...
+
+
+--- Twisted Garrison Forces (Enemy) ---
+=== TWISTED GARRISON FORCES ACTIONS ===
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+Twisted Overseer: Warhammer attack vs Garrick Kade — 17 vs AC 16 — **HIT** The Overseer's warhammer connects with Garrick, dealing damage (roll needed for damage). Corruption Pulse does not recharge this round (rolled 4, needs 5-6). Command Corruption bonus action gives all Twisted within 30 ft +2 to hit.
+
+
+--- DM ---
+**Corruption Pulse damage to stunned characters:**
+- **Cora Flint:** 4d8 necrotic = 5+7+3+6 = **21 necrotic damage** (stunned 1 round)
+- **Professor Thaddeus Mercer:** 4d8 necrotic = 4+2+8+1 = **15 necrotic damage** (stunned 1 round)
+
+**Twisted Overseer warhammer damage to Garrick:** 2d6+6 = 3+4+6 = **13 bludgeoning damage**
+
+The Corruption Pulse tears through Cora and Mercer. Cora gasps as necrotic energy rips through her body—**21 damage**—and she freezes in place, muscles locking, mind reeling. Mercer staggers, **15 damage** lancing through him, his concentration on Slow nearly breaking before his War Caster advantage keeps the spell active.
+
+Garrick shakes off the stunning effect through sheer force of will, his Indomitable feature allowing him to reroll the failed save. He sees Cora frozen, Mercer struggling, and the Overseer's warhammer coming at him again.
+
+The warhammer connects with Garrick's shoulder—**13 damage**—but Garrick doesn't retreat. Instead, he uses the momentum to pivot, his maul coming around in a brutal counterattack. The Overseer raises its arm in a desperate block, but Garrick's blow is too powerful. The maul smashes through the Overseer's guard, crushing armor and bone with a final, decisive impact.
+
+The Overseer staggers back, black fluid pouring from multiple wounds. It looks at the destroyed amplifier, then at Garrick, then at Cora and Mercer. Its expression is unreadable behind the corruption, but something in its posture changes—not retreat, not surrender, but... assessment. It understands what just happened.
+
+Then Mercer's Fireball explodes.
+
+The corridor fills with roaring flame. The remaining slowed sentry is caught in the blast, its corrupted body incinerated instantly. The Overseer is hurled back by the force, crashing against the wall. When the flames clear, it's still standing—barely—but it makes no move to pursue.
+
+Instead, it turns and walks away into the darkness, moving with purpose rather than retreat. The resin conduits in the walls pulse frantically, alarm signals racing in all directions.
+
+Amplifier Alpha is a collapsed ruin of black resin and severed roots. The air still hums with psychic energy, but the focused broadcast from this location has ceased. Your Dreamstone Circlets cool slightly as the local pressure drops.
+
+But the alarms are sounding. Bioluminescent pulses race through the walls—patterns of light flowing from node to node like nervous impulses. The entire organic infrastructure of the Giant level is lighting up in response to Alpha's destruction.
+
+**The situation:** Amplifier Alpha is destroyed. The Twisted Overseer has withdrawn, wounded but not dead. The communication network is sending alarm signals throughout the outer ring. You have approximately one minute before the patrol gap ends and reinforcements from Beta and Gamma converge on this location. Cora and Mercer are recovering from being stunned, and everyone has taken significant damage.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 7/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora shakes off the stun, immediately switching to **TRIAGE** mode despite her injuries.* "Damage assessment: I've taken 25 total, Mercer 18, Garrick... how much?"
+
+*She pulls out her healer's kit, moving with clinical efficiency.* "One minute until reinforcements. We need to retreat to the forward camp immediately. Garrick, can you move? Mercer, can you cast something to cover our tracks?"
+
+*She applies a bandage to her worst wound while speaking rapidly.* "The alarm is sent. Beta and Gamma will be on high alert. We can't attempt another sabotage today—they'll be waiting. We retreat, regroup, assess damage, and plan our approach to Beta."
+
+*Cora starts moving back down the corridor, keeping low.* "Follow me. Stay close to the walls where the runes might mask our movement. No talking. If we encounter patrols, we avoid engagement. Our priority is getting back to camp alive."
+
+*She glances back at the destroyed amplifier.* "One down, two to go. But the cost... we'll calculate that when we're safe. Move!"
+
+
+--- Garrick Kade ---
+*Garrick spits blood, his body aching from multiple wounds.* "Forty-three damage total. Still standing." *He glances at the retreating Overseer, then at the pulsing alarm signals in the walls.* "He's not running. He's regrouping. Telling the others."
+
+*Garrick moves to Cora's side, his movements still fluid despite the damage.* "Your retreat plan's good, but we need to move faster than 'stay close to walls.'" *He looks at Mercer.* "Can you make us invisible? Or at least quiet?"
+
+*Without waiting for an answer, Garrick scoops up Cora's dropped acid vials and shoves them into his pack.* "We're not leaving evidence. And we're not going straight back to camp—they'll expect that." *He points down a side corridor he noticed during the fight.* "That way. Leads deeper into damaged containment. More rune interference might mask our trail."
+
+*He starts moving, keeping his maul ready but staying low.* "One minute until they converge here. We have thirty seconds to disappear. Cora, lead if you know the way. I'll cover our rear. Mercer, watch for pursuit."
+
+*Garrick takes one last look at the destroyed amplifier, a grim satisfaction in his eyes.* "One down. They know we're coming for the others now. Next time, we hit faster. Harder. No alarms."
+
+
+--- Professor Thaddeus Mercer ---
+*Mercer staggers, clutching his side where the necrotic energy tore through him.* **"Eighteen damage... manageable, but we need to move."** *He dismisses his Manifest Mind, the spectral book dissolving into motes of light.* 
+
+*His academic mind races through escape options.* **"Invisibility would require concentration I can't maintain while running. But I can obscure our trail."** *He casts* **Minor Illusion** *to create the sound of running footsteps heading back toward the forward camp, while simultaneously using* **Prestidigitation** *to eliminate traces of their passage from the stone floor.*
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+No contested actions this round.
+
+The party is retreating and using spells/abilities to cover their escape, but no dice rolls, ability checks, or contested actions were attempted in this round. They're focused on tactical withdrawal and using non-combat spells to obscure their trail.
+
+
+[Enemy] Twisted Overseer acting...
+
+
+--- Twisted Overseer (Enemy) ---
+Based on the DM's narration, the Twisted Overseer has withdrawn from combat and the party is retreating. The Overseer is wounded but has moved away into the darkness, and the party is fleeing the area. According to my behavioral triggers, I should attack the party every round when in combat, but combat appears to have ended with the Overseer's withdrawal.
+
+However, if the Overseer is pursuing or re-engaging, I need to attack. Since the narration says "it makes no move to pursue" and "turns and walks away into the darkness," I should not be declaring combat actions this round.
+
+But if you want me to act as if the Overseer is pursuing, I'll need to make attack rolls. Let me check if I should be attacking:
+
+=== TWISTED OVERSEER ACTIONS ===
+**STATUS**: Withdrawn from combat. Wounded but not dead. Regrouping with other Twisted forces. Not currently engaged with party as they are retreating and Overseer has moved away.
+
+**NOTE**: According to narration: "The Overseer is hurled back by the force, crashing against the wall. When the flames clear, it's still standing—barely—but it makes no move to pursue. Instead, it turns and walks away into the darkness, moving with purpose rather than retreat." Combat appears to have ended with Overseer's withdrawal. Cannot attack targets that are out of range and fleeing.
+
+**TACTICAL ASSESSMENT**: Overseer would return to Gamma amplifier to regenerate using Amplifier Link, reinforce defenses at Beta and Gamma amplifiers, and coordinate pursuit through patrol network. Would not pursue personally while wounded - would send patrols to hunt party while regrouping at command position.
+
+
+[Enemy] Twisted Garrison Forces acting...
+
+
+--- Twisted Garrison Forces (Enemy) ---
+=== TWISTED GARRISON FORCES ACTIONS ===
+
+**Note:** The party is retreating and no longer in combat range. The Twisted Overseer has withdrawn, and the remaining Twisted forces (reinforcements from Beta and Gamma) are responding to the alarm but have not yet reached the location. According to the DM's narration, the party has approximately one minute before reinforcements converge on the destroyed Amplifier Alpha location.
+
+**Current Status:** No combat is currently occurring. The Twisted forces are:
+1. The wounded Overseer has withdrawn to regroup
+2. Reinforcements from Amplifier Beta and Gamma are en route (ETA: ~1 minute)
+3. The communication network is sending alarm signals throughout the outer ring
+
+**If reinforcements were to arrive and engage the retreating party, they would attack as follows:**
+
+**Twisted Sentries (Reinforcements from Beta/Gamma):**
+ACTION: Warhammer attacks targeting Garrick Kade (biggest threat).
+Attack Roll: [1d20+7] = 11+7 = 18 to hit
+Damage if hits: [1d10+4] = 7+4 = 11 bludgeoning damage
+
+**Twisted Laborers (Reinforcements from Beta/Gamma):**
+ACTION: Pry bar attacks targeting nearest party member (likely Cora or Mercer).
+Attack Roll: [1d20+5] = 16+5 = 21 to hit  
+Damage if hits: [1d8+3] = 5+3 = 8 piercing damage
+
+**Corruption Aura:** All Twisted within range emit their psychic corruption auras (DC 13-14 Con save, 1d4-1d6 psychic damage).
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+No enemy actions this round.
+
+The Twisted Overseer has withdrawn from combat and is not pursuing the party. The reinforcements from Beta and Gamma have not yet arrived at the location - they are en route with approximately one minute ETA. The party is currently retreating and no enemies are within combat range to make attacks.
+
+[Session] Combat ended — enemy defeated (PC-initiated path, exchange 7)
+
+--- DM ---
+You move with desperate speed down the side corridor Garrick indicated. The passage is narrower than the main Giant corridors—twenty feet wide instead of thirty—and the containment runes here are damaged, their glow erratic and flickering. Mercer's Minor Illusion creates the sound of running footsteps echoing back toward the forward camp, while his Prestidigitation sweeps away traces of blood and disturbed dust from the stone floor.
+
+The damaged runes work in your favor. Their erratic energy creates interference that masks your movements, and the psychic hum here is distorted, chaotic. Your Dreamstone Circlets still hum, but the pressure feels less focused, more diffuse.
+
+Behind you, from the direction of the destroyed amplifier, you hear sounds of arrival—heavy footsteps, the clank of armor, guttural voices speaking in a language that sounds like stone grinding on stone. The reinforcements have reached Alpha. They'll find the Overseer gone, the amplifier destroyed, and false trails leading back toward your camp.
+
+The side corridor winds deeper into the damaged section. The air grows colder, and patches of frost glitter on the stone where containment runes have failed completely. After three hundred feet, the corridor ends at a collapsed section—a cave-in of massive stone blocks that completely blocks further progress. But to the left, a maintenance access hatch is set into the wall, its Giant-sized handle crusted with centuries of mineral deposits.
+
+The hatch is fifteen feet tall, made of thick bronze that has turned green with age. It's slightly ajar—not enough for a Giant to pass through, but enough for human-sized creatures to slip through. Beyond, you can see darkness and the faint glow of more containment runes.
+
+From back down the corridor, you hear the sounds of pursuit growing organized. The Twisted aren't following your false trail for long—they're spreading out, searching systematically. The resin conduits in the walls pulse with coordinated light patterns, like a nervous system responding to injury.
+
+**The situation:** You've reached a dead-end side corridor with a partially open Giant maintenance hatch. The Twisted reinforcements are searching the area behind you, and their search pattern will eventually reach this corridor. The hatch leads... somewhere. Possibly to another section of the outer ring, possibly to a maintenance tunnel that could provide cover or a route back to your forward camp.
+
+You have perhaps two minutes before the Twisted search party reaches this location. The hatch is your only forward option—turning back would mean encountering the searching Twisted.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 8/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora immediately moves to the hatch, examining it.* "Maintenance access. Bronze, aged, partially open. We go through."
+
+*She turns to Mercer.* "Can your Manifest Mind scout ahead quickly? We need to know what's on the other side before we commit."
+
+*To Garrick:* "Help me open this wider if needed, but quietly. The mineral deposits might make it noisy."
+
+*Cora pulls out her thieves' tools, examining the hatch mechanism.* "I'll check for traps or alarms. Maintenance hatches in containment areas often have security."
+
+
+--- Garrick Kade ---
+*Garrick moves to the hatch, his massive hands gripping the bronze handle.* "No time for scouting. They're two minutes behind us." *He braces his feet against the stone floor, his Giant's Might still active from the fight, giving him the strength of a Large creature.*
+
+*He looks at Cora.* "Check for traps if you must, but be quick. If it's clear, we go through. If it's trapped..." *He glances back down the corridor.* "...we go through anyway. Better a trap ahead than certain death behind."
+
+*Garrick applies steady pressure to the hatch, trying to open it wider without making noise.* **Strength check with advantage from Giant's Might:**
+
+
+--- Professor Thaddeus Mercer ---
+*Mercer nods sharply.* **"Scouting is essential—we could be walking into a maintenance shaft that leads straight to another amplifier."** *He conjures his Manifest Mind, the spectral book floating through the partially open hatch to survey what lies beyond.* 
+
+*While it scouts, he examines the mineral deposits on the hatch frame.* **"These deposits are calcium carbonate formations—centuries of mineral-rich water seepage. The hatch hasn't been used in at least five hundred years, possibly since the Giants abandoned this level."**
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+Garrick: Strength check to open hatch (with Giant's Might advantage) — 7+5 = 12 vs DC 13 — **PARTIAL SUCCESS** Garrick's strength opens the hatch wider, but the ancient bronze groans loudly, potentially alerting nearby Twisted.
+
+
+--- DM ---
+Garrick's muscles strain as he pulls on the massive bronze handle. The hatch groans in protest—a deep, metallic sound that echoes down the corridor. Mineral deposits crack and flake away, falling to the stone floor with a sound like breaking glass. The hatch opens another three feet, wide enough for you to pass through easily, but the noise is unmistakable.
+
+From back down the corridor, the sounds of pursuit change. The organized search pattern becomes more focused. Heavy footsteps quicken, moving in your direction. The resin conduits in the walls pulse with urgent light patterns.
+
+Mercer's Manifest Mind floats through the opening. The spectral book drifts into a cylindrical maintenance shaft that descends at a steep angle. The shaft is twenty feet in diameter, with rungs set into the wall—Giant-sized rungs, each three feet apart. It descends about fifty feet before opening into a larger chamber below. The Manifest Mind relays images: the chamber appears to be a Giant-era pump room, filled with massive, silent machinery coated in dust and mineral deposits. No immediate signs of Twisted presence.
+
+Cora's examination of the hatch mechanism reveals no traps, but she finds something more interesting: a series of Giant runes etched around the frame. "This isn't just maintenance access," she says, tracing the symbols. "It's labeled as 'Harmonic Dampening Access—Authorized Resonance Technicians Only.' This leads to equipment for tuning the containment field."
+
+The sounds from the corridor grow louder. You can now distinguish individual voices—guttural, corrupted speech. They're close. Maybe thirty seconds away.
+
+The maintenance shaft offers descent to the pump room below. The rungs are large but climbable. The pump room might provide hiding places, alternate exits, or equipment that could help you. But descending means committing to an unknown location while the Twisted are right behind you.
+
+**The situation:** The hatch is open, revealing a maintenance shaft descending to a Giant pump room. The noise of opening it has alerted the pursuing Twisted, who are now thirty seconds away. You can descend the shaft to the pump room below, or try to hide in the dead-end corridor (poor cover), or attempt to fight the approaching Twisted (outnumbered, wounded, low on resources).
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 9/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora doesn't hesitate.* "Down the shaft! Now! Garrick, you first in case there's trouble below. Mercer, then me. I'll try to obscure our trail."
+
+*She pulls out a small pouch of mineral salts from her inventory.* "This might confuse their senses. The salts have trace psychic resonance from the Dreamstone mining."
+
+*As Garrick starts descending, Cora sprinkles the salts around the hatch entrance and on the first few rungs.* "It won't hide our scent completely, but it might mask our psychic signature. The Dreamstone residue could interfere with their corruption-based tracking."
+
+*She looks back down the corridor, hearing the approaching Twisted.* "Thirty seconds. Move quickly but carefully. Those rungs are Giant-sized—watch your footing."
+
+*Cora starts descending after Mercer, calling up softly,* "Once we're all down, we need to find another exit or hiding place in the pump room. Harmonic Dampening Access means there might be equipment we can use to mask our presence further."
+
+
+--- Garrick Kade ---
+*Garrick doesn't argue. He immediately swings through the hatch opening, his large hands gripping the Giant-sized rungs.* "Down it is. If there's trouble below, I'll handle it."
+
+*He descends quickly, using his strength to move rapidly down the three-foot gaps between rungs. His chain mail clinks softly against the metal, but the sound is muffled by the cylindrical shaft.* "Mercer, keep your ghost-eye watching above. If they look down, we need to know."
+
+*As he reaches the bottom, Garrick drops the last ten feet, landing in a crouch with his maul ready. He scans the pump room—massive, silent machinery, dust everywhere, no immediate threats.* "Clear down here. But we need to move from the shaft entrance. They'll look down it."
+
+*Garrick moves to the side, finding cover behind a massive pump housing.* "Cora, when you get down, look for another exit. Mercer, can you make the shaft look collapsed or blocked from above? An illusion might buy us time."
+
+*He keeps his eyes on the shaft opening above, maul at the ready.* "If they come down, we fight here. Better terrain than the corridor—cover, machinery, height advantage if they're climbing down."
+
+
+--- Professor Thaddeus Mercer ---
+*Mercer follows Garrick down the shaft, his academic mind already analyzing the pump room.* **"Harmonic Dampening Access—this could be precisely what we need!"** *He lands beside Garrick, immediately examining the machinery.* 
+
+*Looking up the shaft, he realizes they need to obscure their trail. His fingers trace an arcane pattern as he casts* **Minor Illusion** *again, this time creating the visual appearance of collapsed rubble blocking the shaft about twenty feet down—just enough to make pursuers think the way is impassable without actually blocking their escape.*
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+No contested actions this round.
+
+The party is descending the maintenance shaft and using spells/abilities to obscure their trail, but no dice rolls, ability checks, or contested actions were attempted in this round. They're focused on escape and tactical positioning.
+
+
+--- DM ---
+You descend the shaft with practiced efficiency. Garrick reaches the bottom first, dropping the last ten feet into a crouch, his maul sweeping the dim chamber. Mercer follows, then Cora, who pulls the massive hatch closed behind her as much as possible from below—it doesn't latch, but it reduces the opening.
+
+The pump room is vast—a circular chamber a hundred feet across, dominated by three massive pump housings that rise thirty feet to the ceiling. Each pump is silent, coated in centuries of dust and mineral deposits. Giant-sized pipes, some as wide as a man is tall, snake across the floor and up the walls. The air is still and cold, with a faint metallic scent.
+
+Mercer's Minor Illusion creates the appearance of collapsed rubble blocking the shaft twenty feet up. From below, it looks convincing—a tumble of stone and broken rungs that would make descent seem impossible. Cora's mineral salts scatter across the first few rungs, their faint psychic resonance creating a confusing signal that might mask your trail.
+
+Above, you hear the Twisted arrive at the hatch. Heavy footsteps stop. Guttural voices converse in their stone-grinding language. Then the hatch groans as someone—or several someones—examines it.
+
+A shaft of light appears as the hatch is pulled open wider. Dust motes dance in the beam. You hear more conversation, then a heavy object is dropped down the shaft—a rock, maybe. It clatters down the rungs, passes through Mercer's illusion without disturbing it (it's only visual), and lands on the pump room floor with a thud.
+
+Silence follows. Then the hatch closes with a final, metallic groan. The light vanishes. Footsteps retreat.
+
+But they haven't gone far. You can still hear them moving around above, searching the corridor. They'll likely post guards at the hatch, knowing you went this way even if the shaft appears blocked.
+
+Mercer examines the nearest pump housing. "Harmonic dampening pumps," he whispers, brushing dust from a control panel covered in Giant runes. "These were used to regulate the containment field's resonance. If we could get one operational..."
+
+Cora moves to the chamber's perimeter, searching for exits. She finds three: a large pipe access tunnel (five feet in diameter) leading east, a maintenance door (Giant-sized, sealed) on the north wall, and a smaller technician's access corridor on the west side that appears to have collapsed partially.
+
+The air in the pump room is still, but you can feel a faint vibration through the floor—the steady hum of the containment field, cleaner here than in the corridors above. Your Dreamstone Circlets are almost silent, indicating minimal psychic pressure.
+
+**The situation:** You're temporarily safe in the harmonic dampening pump room, but the Twisted are guarding the hatch above. You have three potential exits: a pipe access tunnel (crawl space), a sealed maintenance door (needs opening), or a partially collapsed technician's corridor (might be navigable). The pump machinery might be restorable, which could help mask your presence or provide other advantages. However, you're wounded, low on resources, and the Twisted know your general location.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 10/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora immediately begins **SEARCHING** the pump room, moving methodically.* "First, **TRIAGE**. Garrick, how much damage have you taken? Mercer, you?"
+
+*She checks her own injuries while examining the exits.* "We need to assess our options. Pipe access tunnel: small, might lead to other maintenance areas. Sealed maintenance door: Giant-sized, could be locked or trapped. Collapsed corridor: risky but might bypass guarded areas."
+
+*She moves to the pump control panel, examining the Giant runes.* "Mercer, can you read these? If we can activate harmonic dampening, it might mask our psychic signature from the Twisted. But it could also draw attention if the power surge is detected."
+
+*Cora pulls out her ledger, making quick notes.* "We have approximately... Garrick took heavy damage, I'm at... let me calculate remaining hit points. We need to decide: attempt to restore equipment for advantage, or find an exit immediately while they're still organizing above."
+
+*She looks at both of them, her expression clinical.* "Recommendation: we try to activate minimal dampening to mask our presence, then take the pipe access tunnel—it's small enough that Twisted in armor can't follow easily. But first, let me check the maintenance door for security."
+
+
+--- Garrick Kade ---
+*Garrick leans against a pump housing, catching his breath.* "Forty-three damage taken. Still functional." *He pulls out a bandage from his pack and starts wrapping a deep gash on his arm.* "But we can't stay here. They'll eventually come down, illusion or not."
+
+*He looks at the three exits.* "Pipe tunnel's too small for me in this armor. Maintenance door—if it's sealed, opening it will make noise. Collapsed corridor..." *He moves to examine the west side passage.* "...might be our best bet. I can clear debris if needed."
+
+*Garrick tests the partially collapsed corridor, using his maul to carefully probe the stability.* "If this leads to another maintenance area, we can move without being tracked. The Twisted above will expect us to either come back up or go through the pipe."
+
+*He glances at Mercer.* "Can your ghost-eye scout the corridor ahead? See how far the collapse goes, what's beyond?" *Then to Cora:* "The dampening pumps—if we can turn them on quietly, do it. But if it takes more than a minute, we move. Staying still gets us cornered."
+
+*Garrick keeps his maul ready, watching the shaft entrance above.* "They're guarding the hatch. Means they're not coming down immediately. Gives us time, but not much. We need to be gone before they decide to risk the 'collapse.'"
+
+
+--- Professor Thaddeus Mercer ---
+*Mercer examines the control panel with academic intensity.* **"Eighteen damage sustained, but functional. These runes are standard Giant resonance notation—I can read them."** *He traces the symbols with his spectral quill, transcribing rapidly.*
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+No contested actions this round.
+
+The party is assessing their situation, examining exits, and discussing options, but no dice rolls, ability checks, or contested actions were attempted in this round. They're focused on planning their next move and evaluating their resources.
+
+
+--- DM ---
+Mercer's spectral quill dances across his field notebook as he translates the Giant runes. "Primary harmonic dampening array," he whispers. "These pumps circulated a counter-resonance fluid through the containment runes to stabilize field fluctuations. They've been offline for... millennia, by the look of the deposits."
+
+He points to a sequence of symbols. "There's a manual startup sequence here. It requires physical rotation of three control wheels in the correct harmonic pattern. If we get it right, we could activate minimal dampening—just enough to mask our psychic signature without creating a power surge that would alert the Twisted."
+
+Cora examines the maintenance door on the north wall. It's a massive bronze slab, fifteen feet tall, with a wheel mechanism in the center. The wheel is crusted with mineral deposits, but the mechanism appears intact. No visible traps, but the door hasn't been opened in centuries. Forcing it would make considerable noise.
+
+Garrick probes the collapsed corridor with his maul. The collapse is partial—about ten feet of debris blocks the passage, but beyond that, the corridor appears clear. The debris looks stable enough to clear with careful work, but any significant disturbance could trigger further collapse.
+
+Mercer's Manifest Mind floats down the pipe access tunnel. The spectral book drifts through fifty feet of cylindrical pipe before emerging into another chamber—a smaller pump room with similar machinery, but this one shows signs of recent activity. The dust has been disturbed, and there are footprints on the floor. Not Giant footprints—smaller, booted feet. And on the far wall, a section of the containment runes has been... modified. Organic black resin grows over the runes, with bioluminescent veins pulsing in a familiar pattern.
+
+The Manifest Mind retreats quickly, returning to Mercer. "The pipe leads to another dampening chamber," he reports, his voice tense. "But the Twisted have been there. They're parasitizing the dampening equipment too. Probably trying to hijack the counter-resonance to boost their amplifiers."
+
+Above, you hear movement at the hatch again. The metallic groan as it's tested. Then a different sound—a scraping, like something being dragged across the opening. They might be preparing to descend despite the apparent collapse.
+
+The air in the pump room remains still, but the vibration through the floor seems to intensify slightly. Your Dreamstone Circlets hum a warning—psychic pressure is building somewhere nearby.
+
+**The situation:** You have three exits, each with pros and cons:
+1. **Pipe access tunnel:** Leads to another dampening chamber currently occupied by Twisted. Small enough that armored Twisted can't follow easily, but you'd be moving toward danger.
+2. **Sealed maintenance door:** Could lead to safer areas, but opening it will make noise and might be trapped.
+3. **Collapsed corridor:** Might provide an unmonitored route, but clearing debris risks further collapse and noise.
+
+Additionally, the dampening pumps could be activated to mask your presence, but the startup sequence requires precision and time. The Twisted above are becoming more aggressive about investigating the shaft.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 11/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora processes the information rapidly.* "Pipe leads to occupied chamber—too risky. Maintenance door: noisy. Collapsed corridor: unstable but potentially safest."
+
+*She moves to the pump controls.* "Mercer, you and I attempt the startup sequence. Three control wheels in harmonic pattern. If we succeed, the dampening might mask the noise of clearing the corridor."
+
+*To Garrick:* "Start clearing the collapsed debris carefully. Work from the top down to minimize collapse risk. Use your maul as a lever, not a hammer."
+
+*Cora positions herself at the first control wheel, examining the mineral deposits.* "Mercer, read me the sequence. I'll use Flash of Genius if needed to ensure precision. We need this to work on the first try—no time for errors."
+
+*She looks up at the hatch, hearing the scraping sounds.* "They're getting bolder. We have maybe five minutes before they risk descent despite the illusion. Let's move."
+
+
+--- Garrick Kade ---
+*Garrick moves to the collapsed corridor, setting his maul aside for the moment.* "Clearing debris quietly is enforcer work. I've done this before—moving bodies, clearing wreckage without attracting attention."
+
+*He starts with the smaller stones at the top of the pile, using his hands rather than his weapon. His movements are surprisingly careful for someone of his size and strength.* "Mercer, keep watching above. If they start coming down, we need to know immediately."
+
+*As he works, Garrick glances at Cora and Mercer at the pump controls.* "Start your sequence. But if it takes more than two minutes, we abandon it and I'll make a path through this collapse the noisy way. Better to risk a cave-in than be trapped between Twisted above and Twisted in the pipe."
+
+*He clears another stone, revealing a gap large enough to crawl through.* "There's a way through here. Tight, but passable. Cora, once you're done with the pumps, get ready to move. Mercer, you go first—you're smallest. Then Cora. I'll cover the rear."
+
+*Garrick keeps working, his ears tuned to the sounds from above.* **Strength check to clear debris quietly:**
+
+
+--- Professor Thaddeus Mercer ---
+*Mercer positions himself at the second control wheel, his fingers tracing the harmonic sequence.* **"The pattern is based on containment field fundamentals—first wheel sets the base frequency, second modulates amplitude, third establishes damping coefficient."** *He begins rotating his wheel in precise quarter-turns, matching the ancient Giant engineering principles.* 
+
+*As he works, he keeps his Manifest Mind watching the shaft above.* **"Garrick, they're testing the illusion—one of them is climbing down cautiously. We have perhaps ninety seconds before they realize it's not real."**
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+Garrick: Strength check to clear debris quietly — 15 vs DC 13 — **SUCCESS** Garrick carefully clears the collapsed corridor with surprising stealth, creating a passable opening without triggering further collapse or making significant noise.
+
+
+--- DM ---
+Garrick works with enforcer's precision, his large hands moving smaller stones first, then carefully leveraging larger ones. The debris shifts but doesn't collapse further. Within a minute, he's created a crawl space about three feet high and four feet wide—tight, but passable. Beyond, the corridor appears clear, stretching into darkness.
+
+Cora and Mercer work at the pump controls. The wheels are stiff with age, but they turn with steady pressure. Cora uses her Flash of Genius at a critical moment, adding her intellect to Mercer's arcane understanding when the second wheel's modulation threatens to slip out of phase. **Intelligence check with alchemist's supplies: 18 vs DC 15 — SUCCESS. Arcana check: 17 vs DC 15 — SUCCESS.**
+
+The third wheel turns with a satisfying click. For a moment, nothing happens. Then a deep hum begins—so low it's felt more than heard. The massive pump housings vibrate, dust shaking free in clouds. Lights flicker on control panels that haven't been illuminated in millennia. A clear, cool energy fills the air, and the psychic pressure you've grown accustomed to... diminishes. Not disappears, but recedes, like stepping back from a loud noise.
+
+Your Dreamstone Circlets go almost silent. The harmonic dampening field is active, masking your psychic signatures.
+
+Above, the Twisted investigating the shaft reacts immediately. You hear a startled cry—guttural, alarmed. Then rapid retreat back up the rungs. The hatch slams shut. The dampening field has been detected, and it's confused them, maybe even hurt them. Their corruption is tied to the psychic broadcast; dampening that broadcast might be physically painful to them.
+
+But the activation wasn't silent. The hum, while low, is audible. And the power surge, while minimal, would register on any monitoring equipment the Twisted have.
+
+Mercer's Manifest Mind reports from above: "They've retreated from the hatch, but they're not leaving. They're posting additional guards and... one is running down the corridor. Probably to report."
+
+The crawl space Garrick cleared leads into a maintenance corridor that appears to run parallel to the main outer ring. It's dark, but your darkvision reveals it's clear of debris beyond the initial collapse. The corridor slopes gently downward.
+
+**The situation:** The harmonic dampening field is active, masking your psychic presence. The Twisted have retreated from the shaft but reinforced their guard. One runner has gone to report. You have a clear escape route through the collapsed corridor, but you need to move now before the Twisted organize a proper response. The dampening field will help mask your movements, but it also announces that someone is in the pump room.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 12/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora immediately moves toward the crawl space.* "Through the corridor, now! The dampening field masks us but also alerts them. They'll send reinforcements soon."
+
+*She pauses to make a final assessment.* "Garrick, you first in case there are threats ahead. Mercer, then me. I'll try to obscure our trail as we go."
+
+*As she crawls through, Cora uses her alchemist's supplies to sprinkle more mineral salts behind them.* "This might confuse any tracking based on psychic residue. The dampening field plus Dreamstone salts should create enough interference."
+
+*Once through, she looks back at the pump room.* "The dampening field will continue running. That's good—it masks our retreat. But it also means they know exactly where we were. We need to put distance between us and this location."
+
+*She moves down the maintenance corridor, keeping low.* "This corridor slopes downward. Might lead to deeper maintenance areas or connect to other parts of the foundation level. Either way, it's away from the Twisted guards."
+
+*Cora calculates aloud,* "Runner went to report. Reinforcements will arrive in... five to ten minutes. We need to be gone by then. Move quickly but watch for traps or structural weaknesses."
+
+
+--- Garrick Kade ---
+*Garrick doesn't hesitate. He grabs his maul and ducks through the crawl space, his chain mail scraping against the stone.* "I'll clear the way. Stay close."
+
+*Once through, he moves down the maintenance corridor, his darkvision piercing the gloom. He keeps his maul ready but low, minimizing noise.* "The slope downward could lead to deeper levels. Might be safer—further from their territory."
+
+*He glances back at Cora and Mercer.* "The dampening field bought us time, but that runner's bringing trouble. We need to find a place to hide and regroup, not just keep running."
+
+*Garrick moves with purpose, checking side passages and doorways as they pass.* "Look for storage rooms, equipment closets—anywhere we can barricade and catch our breath. We're wounded, low on supplies. Can't keep moving forever."
+
+*He stops at a junction, peering down each branch.* **Perception check to spot potential hiding places:**
+
+
+--- Professor Thaddeus Mercer ---
+*Mercer crawls through the opening, his academic mind already analyzing their new environment.* **"This maintenance corridor follows standard Giant engineering principles—parallel to primary transit routes for technician access during containment field maintenance."** 
+
+*He keeps his Manifest Mind active, sending it ahead to scout while maintaining visual contact.* **"The downward slope suggests we're moving toward the foundation's lower strata, possibly near the inner void. That could be advantageous—the Twisted likely concentrate their forces in the outer ring where the amplifiers are located."**
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+Garrick: Perception check to spot hiding places — 15 vs DC 13 — **SUCCESS** Garrick's sharp eyes spot a recessed equipment alcove 40 feet ahead, partially concealed by a collapsed ceiling panel, that could serve as a temporary hiding spot.
+
+
+--- DM ---
+Garrick's sharp eyes catch a recessed alcove forty feet ahead, partially concealed by a collapsed ceiling panel. The alcove is about ten feet deep and fifteen feet wide—originally for storing maintenance equipment, judging by the empty tool racks on the walls. The collapsed panel creates a natural screen, making the alcove difficult to spot from the main corridor unless you know it's there.
+
+You slip inside just as sounds echo from back down the corridor—the pump room hatch being forced open, then heavy footsteps descending the shaft. Multiple Twisted, moving with purpose. They've decided to investigate despite the dampening field.
+
+The alcove offers decent cover. The collapsed panel blocks most of the opening, leaving only a narrow gap to peer through. The air here is still and cold, and the floor is coated in undisturbed dust except for your fresh footprints.
+
+From your hiding place, you watch as four Twisted Sentries move past, warhammers ready, their black-veined eyes scanning the corridor. They don't glance into the alcove—the collapsed panel does its job. They continue down the slope, moving deeper, following the corridor you just traveled.
+
+But they leave one behind as a rear guard. The sentry takes up position twenty feet past your alcove, facing back the way they came, watching for pursuit that won't come. It stands motionless, alert, its corruption aura a faint psychic pressure even through the dampening field.
+
+Mercer's Manifest Mind, invisible and silent, floats to the corridor junction ahead and reports back: "The corridor continues downward for another hundred feet, then branches. Left branch appears to lead to another maintenance area—more pump rooms, possibly. Right branch... the Manifest Mind detects increased psychic pressure. And organic growth on the walls. That likely leads toward the inner void or another amplifier location."
+
+The sentry guarding the corridor is between you and either branch. You could wait for it to be relieved or called forward, but that could take minutes or hours. You could try to sneak past it—the dampening field masks your psychic signature, but not your physical presence. Or you could eliminate it quickly and quietly before it can alert the others.
+
+**The situation:** You're hidden in an equipment alcove with one Twisted Sentry standing guard twenty feet away, facing away from you. Four more have moved ahead down the corridor. The dampening field from the pump room masks your psychic presence. You have three main options: wait, sneak past, or eliminate the guard. The corridor ahead branches—left toward more maintenance areas, right toward increased psychic pressure and possible Twisted activity.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 13/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora whispers, her voice barely audible.* "One sentry, facing away. Four ahead. We eliminate it quietly."
+
+*She gestures to Garrick.* "You approach from behind. I'll use Ray of Frost to slow it if it turns. Mercer, be ready with a Silence spell if needed to contain noise."
+
+*She calculates the approach.* "The dampening field masks psychic signatures, but physical noise still carries. We need to take it down before it can cry out. Garrick, aim for a disabling strike to the head or spine."
+
+*Cora prepares her spell components, her hands steady.* "On my signal. Three... two... one..."
+
+*She nods to Garrick to move, while she positions herself to cast if needed.* "Quick and quiet. Then we take the left branch—away from increased psychic pressure. More maintenance areas mean more potential hiding places and possibly equipment we can use."
+
+
+--- Garrick Kade ---
+*Garrick nods, his movements silent as he slips out of the alcove. He doesn't wait for Cora's countdown—he's already moving, his enforcer instincts taking over.*
+
+*He approaches the sentry from behind, his maul held low. At ten feet, he breaks into a silent charge, covering the distance in two quick strides. He doesn't swing the maul—that would make noise. Instead, he drops it silently and uses his bare hands.*
+
+*One massive arm wraps around the sentry's neck from behind, cutting off any cry. The other hand grips the back of its head. A quick, brutal twist—the sound of vertebrae separating is muffled against his armor. The sentry goes limp instantly.*
+
+*Garrick lowers the body to the floor without a sound, then retrieves his maul.* "Done. Left branch, like you said. Away from the pressure."
+
+*He drags the body into the alcove, covering it with dust and debris.* "They'll find it eventually, but not before we're gone." *He looks at the branching corridor ahead.* "Maintenance areas mean tools, maybe equipment we can use. And fewer Twisted—they're focused on the amplifiers, not the pumps."
+
+*Garrick moves to the junction, peering down the left branch.* "Clear as far as I can see. Let's move. The others are ahead somewhere—we don't want to catch up to them."
+
+
+--- Professor Thaddeus Mercer ---
+*Mercer watches Garrick's efficient takedown with academic detachment.* **"Clinically effective, though I would have preferred to study the corruption patterns more closely."** *He keeps his Manifest Mind scouting the left branch as they move.* 
+
+*As they reach the junction, he examines the walls.* **"Notice the mineral deposits here—different composition than the pump room. Higher concentration of iron oxides, suggesting proximity to the mountain's starmetal core. The left branch likely leads toward geological maintenance areas rather than containment systems."**
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+No contested actions this round.
+
+Garrick's silent takedown of the sentry is handled narratively as a stealth kill against an unaware target, requiring no attack roll. The party is moving stealthily and using abilities to scout ahead, but no dice rolls, ability checks, or contested actions were attempted in this round.
+
+
+--- DM ---
+Garrick's takedown is brutally efficient. The sentry collapses without a sound, its body hidden in the alcove beneath dust and debris. You move quickly to the junction, taking the left branch as planned.
+
+The left corridor slopes more steeply downward and widens into a proper maintenance tunnel. The walls here are lined with metal racks holding tools—Giant-sized wrenches, hammers, and strange crystalline instruments that glow with residual magic. The air smells of ozone and cold stone.
+
+After two hundred feet, the tunnel opens into a vast geological survey chamber. The chamber is circular, two hundred feet across, with a domed ceiling fifty feet high. Around the perimeter, massive crystal lenses are mounted on articulated arms, all pointed toward the chamber's center where a complex three-dimensional map floats in mid-air—a holographic projection of the Asymmetrical Mountain's internal structure.
+
+The projection shows all the layers you've explored: the Iron Warlords' layer, the Military Empire section, the Dwarven Layer with the Cold Forge, and below that, the Giant foundation level where you now stand. But the projection continues deeper, showing strata beneath the foundation—a vast, empty space labeled in Giant runes: "Sleeper's Cradle." And around that empty space, three pulsing red dots mark the amplifier locations: Alpha (now dark), Beta, and Gamma.
+
+Mercer approaches the projection, his eyes wide. "A real-time geological survey map. The Giants used this to monitor the containment architecture. Look—" He points to Alpha's location. "It's registering as inactive. The Twisted haven't updated their systems yet."
+
+The projection shows more detail: patrol routes (now swarming with activity near Alpha), communication network nodes, and—most importantly—a network of maintenance tunnels that crisscross the foundation level, including several that lead close to Amplifier Beta's location.
+
+But as you study the map, something changes. The four Twisted Sentries that passed you earlier appear as moving red dots on the map. They've reached a junction ahead and are turning back, retracing their steps. They'll pass through this chamber in approximately three minutes.
+
+Worse, another group of dots appears from the direction of Amplifier Beta—six more Twisted, moving quickly. They're responding to the alarm, converging on the area.
+
+The chamber has two other exits besides the one you entered: a tunnel labeled "Core Sample Access" that leads downward, and another marked "Resonance Calibration" that appears to connect to the main outer ring corridors near... Amplifier Beta's location.
+
+**The situation:** You've discovered a Giant geological survey chamber with a real-time map of the mountain. The map shows Twisted forces converging on your location from two directions: the four sentries you evaded earlier are returning (3 minutes away), and six more are approaching from Amplifier Beta's direction (5 minutes away). You have two exits: downward toward "Core Sample Access" (unknown), or toward "Resonance Calibration" which connects near Amplifier Beta (dangerous but potentially useful for your mission).
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 14/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora immediately studies the map, her mind racing.* "Real-time tracking. This changes everything. We can monitor their movements."
+
+*She points to the converging dots.* "Four from behind in three minutes, six from Beta direction in five. We can't fight ten Twisted in our current state."
+
+*She examines the exits.* "Core Sample Access leads downward—away from both groups. Resonance Calibration leads toward Beta—dangerous but potentially useful for future sabotage."
+
+*She makes a decision.* "We take Core Sample Access. It's away from immediate threats. We need to regroup, heal, and plan our approach to Beta. This map gives us tactical advantage—we can study patrol patterns before our next move."
+
+*Cora turns to Mercer.* "Can you memorize key parts of this map? Patrol routes, amplifier locations, maintenance tunnels?"
+
+*To Garrick:* "We move now. Downward tunnel. Stay quiet. The dampening field might still be masking us, but they'll search this chamber soon."
+
+*She takes one last look at the map, noting Beta's exact location and surrounding tunnels.* "We'll come back for Beta when we're prepared. For now, survival and regrouping."
+
+
+--- Garrick Kade ---
+*Garrick studies the map, his eyes narrowing at the converging red dots.* "Ten of them. We could take them if we had to, but not wounded, not here." *He looks at the Core Sample Access tunnel.* "Downward means deeper into the mountain. Unknown territory. Could be worse than Twisted."
+
+*He points to the Resonance Calibration tunnel.* "That leads toward Beta. They're coming from that direction—means it's clear behind them. We let the six pass, then use their own tunnel to get close to the next amplifier."
+
+*Garrick moves to the tunnel entrance, peering down it.* "They're five minutes out. The four behind us are three minutes. We hide here, let both groups pass through or search and move on, then take their route back toward Beta."
+
+*He finds a shadowed alcove behind one of the massive crystal lenses.* "We hide here. They'll search, find nothing, move on. Then we move toward Beta while they're looking for us elsewhere."
+
+*Garrick positions himself where he can watch both entrances, maul ready.* "Cora, Mercer, get behind this lens. Stay quiet. If they find us, we fight our way through toward Beta—better to die moving forward than hiding."
+
+
+--- Professor Thaddeus Mercer ---
+*Mercer's eyes gleam with academic fervor as he studies the holographic map.* **"This is unprecedented—a real-time containment monitoring system! The Giants' engineering was far more sophisticated than my colleagues believed."** *His spectral quill flies across his notebook, transcribing key data.* 
+
+*He shakes his head at Garrick's suggestion.* **"Hiding here is statistically unwise. The chamber has limited concealment, and ten Twisted conducting a thorough search will find us. Core Sample Access offers unknown risks, but unknown risks are preferable to certain discovery."** 
+
+*He points to the map.* **"Look—the downward tunnel connects to a network of geological survey shafts. We could use them to circle back to our forward camp or find another route to Beta after the search passes."**
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+No contested actions this round.
+
+The party is debating strategy and examining the holographic map, but no dice rolls, ability checks, or contested actions were attempted in this round. They're focused on tactical planning and decision-making about their escape route.
+
+
+--- DM ---
+The debate is cut short by the sound of approaching footsteps from the tunnel you entered—the four sentries returning, moving faster now. They're less than a minute away.
+
+The holographic map confirms it: the four red dots are almost at the chamber entrance. The six from Beta's direction are still three minutes out, but closing.
+
+Garrick's alcove behind the crystal lens offers concealment, but not invisibility. If the Twisted conduct a thorough search—and they will, after finding the dead sentry—they'll check behind every piece of equipment. The chamber has only a few hiding spots.
+
+The Core Sample Access tunnel yawns darkly, its entrance marked by Giant runes that glow faintly. It descends steeply, the air from it carrying a mineral scent—cold stone, iron, and something else... ozone, like before a storm.
+
+The Resonance Calibration tunnel shows as a clear path on the hologram, but it's about to have six Twisted moving through it toward you.
+
+Mercer's Manifest Mind darts into the Core Sample Access tunnel and reports back: "It descends about a hundred feet via a spiral ramp, then opens into a network of geological boreholes. The air is clean—no organic growth, no Twisted corruption. But there are... vibrations. Deep, rhythmic vibrations through the stone."
+
+The footsteps from the entrance tunnel grow louder. You can hear guttural voices now—the four sentries communicating. They're at the chamber entrance.
+
+**The situation:** The four sentries are about to enter the geological survey chamber. You have seconds to decide: hide behind the crystal lens (risky), descend the Core Sample Access tunnel (unknown), or make a run for the Resonance Calibration tunnel (directly toward the approaching six Twisted).
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 15/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora doesn't hesitate.* "Core Sample Access! Now! Hide there!"
+
+*She moves quickly but quietly toward the tunnel entrance.* "The vibrations might be geological activity or machinery. Either is better than ten Twisted."
+
+*As they descend, she whispers,* "Stay close to the walls. The spiral ramp might mask our movement sounds. If they follow, we'll have the advantage of higher ground."
+
+*She glances back at the chamber entrance, seeing the first Twisted sentry appear.* "They're here. Move quickly but don't run—running echoes. Let the ramp's curve hide us."
+
+*Once they're around the first curve, Cora pauses to listen.* "If they check the tunnel, we'll need to be ready. Garrick, take position to ambush if they descend. Mercer, be ready with a control spell. But ideally, they'll search the chamber and move on."
+
+
+--- Garrick Kade ---
+*Garrick sees the first sentry appear at the chamber entrance and makes his decision instantly. He doesn't argue with Cora—he just moves.*
+
+*He grabs Mercer's arm, pulling the professor toward the Core Sample Access tunnel while keeping his maul ready. As they descend the spiral ramp, Garrick positions himself at the rear, watching back up the tunnel.*
+
+"Quiet," *he whispers, his voice barely audible.* "Let the curve hide us. If they follow, I'll hold them here. You two keep going."
+
+*Garrick finds a spot where the ramp curves sharply, creating a blind spot from above. He presses himself against the wall, maul held across his body.* **Stealth check to remain hidden:**
+
+
+--- Professor Thaddeus Mercer ---
+*Mercer allows himself to be pulled along, his academic mind still processing the map data.* **"The vibrations—they're harmonic, not random. Geological survey equipment monitoring the mountain's structural integrity."** *He descends the spiral ramp, keeping his Manifest Mind floating just ahead to scout.* 
+
+*As they round the curve, he whispers,* **"If they follow, I can cast Web across the tunnel entrance above. The organic material might confuse their corrupted senses long enough for us to disappear deeper."**
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+Garrick: Stealth to remain hidden on spiral ramp — 14 vs DC 13 — **SUCCESS** Garrick blends into the shadows of the curved ramp, his dark armor disappearing against the stone as he watches for pursuit from above.
+
+
+--- DM ---
+You descend the spiral ramp just as the four Twisted Sentries enter the geological survey chamber. The curve of the ramp hides you from view, but you can hear them above—guttural voices, the clank of armor, the sound of warhammers tapping against crystal lenses as they search.
+
+Garrick melts into the shadows at the curve, his dark chain mail blending with the stone. Cora and Mercer continue down another twenty feet, finding a small landing where the ramp widens slightly. The vibrations Mercer noted grow stronger here—a deep, rhythmic thrumming that resonates through the stone, felt in your bones more than heard.
+
+Above, the search continues for a full minute. Then a new sound: more footsteps, heavier, more numerous. The six Twisted from Beta's direction have arrived. Ten voices now echo in the chamber, their corrupted speech overlapping.
+
+Then silence. A long pause. A single set of footsteps approaches the Core Sample Access tunnel entrance. They stop. You hear sniffing—deep, wet inhalations. The Twisted are trying to catch your scent.
+
+The sniffing continues for several seconds. Then the footsteps retreat. Voices confer in their grinding language. A decision is made.
+
+The sounds of departure follow—heavy footsteps moving away, back toward the Resonance Calibration tunnel. They're leaving. They didn't find you, and they're not pursuing down the unknown tunnel. Perhaps they have orders not to deviate from their patrol routes. Perhaps they assume you went the other way. Or perhaps they're afraid of what lies down here.
+
+The chamber above falls silent. The holographic map, if you could still see it, would show the red dots moving away, regrouping, then dispersing back toward their patrol routes.
+
+The spiral ramp continues downward another eighty feet before opening into the geological borehole network Mercer's Manifest Mind scouted. The air grows colder as you descend, and the mineral scent intensifies. The rhythmic vibrations become a constant presence—a heartbeat of the mountain itself.
+
+At the bottom, the ramp opens into a cavernous space filled with massive drilling equipment. Giant-sized borehole rigs stand silent, their drill bits as wide as a man is tall, pointed at various angles into the surrounding rock. Crystalline monitoring equipment glows with soft blue light, displaying geological data in Giant runes. The floor is littered with core samples—cylinders of rock three feet long and a foot in diameter, each labeled with location and depth.
+
+One wall of the chamber is dominated by a massive geological cross-section display, showing the mountain's strata in exquisite detail. And there, at the very bottom of the display, beneath the Giant foundation level, is the Sleeper's Cradle—and around it, three pulsing dots marking the amplifiers. Beta and Gamma still glow brightly. Alpha is dark.
+
+**The situation:** You've reached a Giant geological survey station deep beneath the foundation level. The Twisted pursuit has broken off. You're safe for now, surrounded by ancient surveying equipment and core samples. The station appears untouched by corruption—no organic growth, no Twisted presence. The rhythmic vibrations come from deep below, through the rock. You have time to regroup, tend wounds, and plan your next move toward Amplifier Beta.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 16/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora immediately begins **SEARCHING** the station, moving methodically.* "First, **TRIAGE**. Garrick, let me assess your injuries. Mercer, yours too."
+
+*She pulls out her healer's kit, counting remaining uses.* "Five uses left. We need to prioritize. Garrick took the most damage—I'll use two charges on you. Mercer, one. I'll manage with one."
+
+*As she treats wounds, she examines the geological display.* "This station is pristine. No corruption. That means the Twisted either don't know about it or can't access it. Could be shielded or outside their patrol routes."
+
+*She moves to the core samples, examining labels.* "These might contain useful mineral data. Some could be from near amplifier locations. Mercer, can you translate these labels?"
+
+*Cora then checks the equipment.* "The borehole rigs... if they're still functional, they might provide access to tunnels near Beta. But we need to be careful—drilling would make noise."
+
+*She turns to both of them, her expression clinical.* "Recommendation: we rest here briefly. Tend wounds, study the geological data for optimal approach to Beta, then plan our next move. The Twisted think we're elsewhere. We have tactical advantage now."
+
+
+--- Garrick Kade ---
+*Garrick leans against a borehole rig, finally allowing himself to feel the pain of his injuries.* "Forty-three damage. Still standing, but not for another fight like that."
+
+*He lets Cora work on his wounds, his eyes scanning the station.* "This place is clean. Means they don't come down here. Could be shielded, like you said. Or..." *He gestures to the rhythmic vibrations through the floor.* "...maybe what's down here scares even them."
+
+*Garrick moves to the geological display, studying the pulsing dots.* "Beta's next. But they'll be expecting us now. Alpha's destruction, the chase, the dampening field activation—they know we're hunting amplifiers."
+
+*He looks at the core samples, then at the borehole rigs.* "If these drills can get us close to Beta without using their tunnels... that's our advantage. We come up from below, where they're not watching."
+
+*Garrick starts examining one of the rigs, testing controls.* "I can operate machinery. Done it in mines. If we can drill a small access tunnel, we bypass their patrols entirely."
+
+*He turns to Cora, his expression serious.* "But first, we rest. Real rest. Not just patching wounds. We need to be at full strength for Beta. They'll have more guards, maybe more Overseers."
+
+*Garrick finds a relatively clean spot on the floor and sits, his maul across his knees.* "You two study the data. Find the best approach. I'll watch the entrance. If they come down, you'll hear me fighting long before they reach you."
+
+
+--- Professor Thaddeus Mercer ---
+*Mercer accepts Cora's medical attention with academic detachment.* **"Eighteen damage sustained, now stabilized. The harmonic dampening field above continues to mask our presence—fascinating that it remains active without maintenance."** 
+
+*He moves immediately to the geological display, his spectral quill dancing as he transcribes data.* **"These core samples are invaluable! Look at this one—extracted from directly beneath Amplifier Beta's location. The mineral composition shows high concentrations of crystalline structures that could amplify psychic energy."** 
+
+*He examines the borehole rigs with professional interest.* **"Garrick's idea has merit, but we must calculate carefully. Drilling creates seismic vibrations that the Twisted might detect, even through the dampening field. However..."** *He points to the display.* **"There's an existing borehole that comes within thirty feet of Beta's chamber. We could use it as a starting point, minimizing new disturbances."**
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+No contested actions this round.
+
+The party is in a safe location, tending wounds, searching the geological station, and planning their next move. No dice rolls, ability checks, or contested actions were attempted in this round. They are focused on recovery and strategy.
+
+
+--- DM ---
+Cora works with clinical efficiency, using four charges from her healer's kit. Garrick's worst wounds are cleaned and bandaged—the deep gash on his arm, the cracked ribs from the Overseer's warhammer. Mercer's necrotic damage is treated with antitoxin from the kit, the corruption slowly receding. Cora uses the final charge on herself, the pain of her injuries diminishing to a manageable ache.
+
+The geological station proves to be a treasure trove of information. Mercer translates the Giant runes on the core samples, identifying several taken from strategic locations: one from beneath Amplifier Beta's chamber, another from near the inner void, a third from what appears to be a natural Dreamstone deposit deeper than your mining operation reached.
+
+The borehole rigs, while ancient, appear functional. Their crystalline power sources still glow with soft blue light. One rig is aligned with a borehole that, according to the geological display, terminates just thirty feet from Amplifier Beta's chamber—through solid rock, but drillable.
+
+The rhythmic vibrations through the floor continue, steady as a heartbeat. Mercer identifies the source: "Deep geological stress monitoring. The mountain itself is under constant pressure from the Sleeper's presence. These instruments measure that pressure, warn of containment failures."
+
+As you rest, the holographic display from the chamber above updates. The Twisted patrols have returned to their normal routes, though with increased frequency around Beta and Gamma. Alpha's location shows no activity—the amplifier is truly dead. But Beta's defenses have been reinforced: six sentries now instead of two, and the patrol gap has been eliminated—continuous rotation.
+
+Gamma shows the most concerning changes: the Overseer has returned there (its distinctive marker appears at Gamma's location), and the number of Twisted around it has doubled. They're preparing for an assault.
+
+Your Dreamstone Circlets remain quiet in this deep station. The harmonic dampening from above, combined with the station's own geological shielding, creates a bubble of relative calm. For the first time since entering the Giant foundation level, you can think without the constant psychic pressure.
+
+But time is passing. The Twisted aren't idle. They're adapting, reinforcing, preparing. Every hour you wait gives them more time to fortify Beta and Gamma, or worse, to repair or replace Alpha.
+
+**The situation:** You're rested, wounds treated, in a secure geological station with valuable intelligence. You have a borehole that leads within thirty feet of Amplifier Beta's chamber. The Twisted have reinforced Beta's defenses but returned to normal patrol patterns elsewhere. You have three main options: use the borehole to approach Beta from below (stealthy but risky if drilling is needed), return to the surface via maintenance tunnels (longer but potentially safer), or attempt a different approach using the geological data you've gathered.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 17/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora studies the geological display, calculating.* "Borehole terminates thirty feet from Beta's chamber through solid rock. Drilling would alert them immediately."
+
+*She examines the core sample from beneath Beta.* "This shows rock composition. If it's soft sedimentary layers, we might be able to excavate quietly with acid solutions. If it's hard igneous, we'd need the drill."
+
+*She turns to Mercer.* "Can you analyze this sample's composition? I need to know if my alchemical acids can dissolve it without triggering structural collapse."
+
+*To Garrick:* "Meanwhile, we should prepare for either approach. If we drill, we need to time it with patrol rotations. If we use acid, we need precise application to avoid weakening the chamber floor."
+
+*Cora pulls out her ledger, making notes.* "Beta has six sentries now, continuous patrols. That changes our approach. We can't wait for a gap anymore. We'll need to create a distraction or take them out simultaneously."
+
+*She looks at both of them.* "Recommendation: we attempt acid excavation first. If the rock is dissolvable, we can create a small access tunnel quietly. If not, we'll need to drill during a patrol lull—maybe when they're changing shifts."
+
+*Cora prepares her alchemical supplies.* "Let me test the core sample with a small acid application to see reaction rate."
+
+
+--- Garrick Kade ---
+*Garrick watches Cora work, then moves to examine the borehole rig himself.* "Acid might be quiet, but it's slow. And if the rock doesn't dissolve right..." *He runs a hand along the drill bit.* "This rig is Giant-made. Powerful. If we drill, they'll hear it. But if we drill fast enough..."
+
+*He studies the controls, his smith's tools knowledge helping him understand the mechanisms.* "I can operate this. But we'd need to time it perfectly. Their patrols are continuous now, but there must be moments when they're all at the far ends of their routes."
+
+*Garrick looks at the geological display, watching the patrol patterns.* "Six sentries. Continuous rotation means they're always moving. But if we create a distraction elsewhere... draw them away from the chamber..."
+
+*He turns to Mercer.* "Your ghost-eye. Could it create a disturbance at Gamma? Make them think we're attacking there instead? If they send reinforcements from Beta to Gamma..."
+
+*Garrick then looks at the core sample.* "Test your acid. If it works fast enough, we use it. If not..." *He pats the drill rig.* "...we drill fast and hard, then hit Beta before they can organize. I'll take point—clear the chamber while you two sever the roots."
+
+*He positions himself at the borehole entrance, peering into the darkness.* "Thirty feet of rock between us and Beta. That's nothing to this equipment. But once we break through, we have seconds before they react. We need to be ready to move."
+
+
+--- Professor Thaddeus Mercer ---
+*Mercer examines the core sample with academic precision, using his spectral quill to make microscopic notes.* **"The composition is layered—sedimentary shale with quartz veins. Acid will dissolve the shale matrix but leave the quartz structure intact, potentially creating a honeycomb effect that could collapse under weight."** 
+
+*He studies the geological display again.* **"However, the quartz veins form a natural reinforcement lattice. If we apply acid along specific planes, we could create a tunnel that follows the quartz framework."** 
+
+*He turns to Garrick.* **"Your distraction idea has merit, but we must consider harmonic feedback. An attack on Gamma would trigger a system-wide alert. A more subtle approach: my Manifest Mind could simulate containment field fluctuations near Gamma, drawing technical personnel rather than combat units."**
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+No contested actions this round.
+
+The party is planning their approach, analyzing rock composition, and discussing tactical options, but no dice rolls, ability checks, or contested actions were attempted in this round. They're focused on strategy and preparation for their next move against Amplifier Beta.
+
+
+--- DM ---
+Cora applies a drop of her acid solution to the core sample from beneath Beta. The reaction is immediate but controlled—the shale matrix fizzes and dissolves, leaving the quartz veins intact as Mercer predicted. The quartz forms a delicate lattice that holds the sample's shape even as the surrounding rock turns to slurry.
+
+"Acid will work," Cora confirms, "but we need to follow the quartz veins precisely. One misapplication could collapse the tunnel or, worse, trigger a structural failure that brings Beta's chamber down on top of us."
+
+Mercer's Manifest Mind floats into the borehole, illuminating thirty feet of solid rock. The spectral book reports back: "The quartz veins form a diagonal pattern through the shale. If we dissolve along vein intersections, we can create a zigzag tunnel that follows the natural reinforcement. It will be... circuitous, but stable."
+
+Garrick examines the patrol patterns on the geological display. "Six sentries, continuous rotation. They pass the chamber entrance every ninety seconds. Two are always at the entrance itself. The other four patrol in overlapping circuits." He traces the patterns with a finger. "There's a three-second window when both entrance sentries are looking away—one checking a side corridor, the other facing the opposite direction. Three seconds to enter the chamber unseen."
+
+The rhythmic vibrations through the floor intensify slightly, then return to their steady beat. The geological monitoring equipment flashes a warning in Giant runes that Mercer translates: "Minor stress fluctuation in lower strata. Within normal parameters."
+
+The decision crystallizes: acid excavation along quartz veins, entering during the three-second window, simultaneous takedown of sentries, then severing Beta's roots. But Beta is more complex than Alpha—reinforced roots, modified structure, integrated with Giant monitoring equipment. The sabotage will take longer, and the Twisted will be on high alert after Alpha's destruction.
+
+**The situation:** You have a workable plan: acid excavation along quartz veins to create a tunnel to within feet of Beta's chamber, entry during a three-second visual gap, rapid neutralization of sentries, then sabotage of the amplifier. But the execution requires perfect timing and precision. The acid application will take approximately twenty minutes of careful work. The entry window is three seconds. The sabotage will take longer than Alpha's due to Beta's complexity. And the Twisted are already on high alert.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 18/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora begins organizing with military precision.* "Twenty-minute acid excavation. Mercer, you monitor the geological display for stress fluctuations—if the vibrations change, we stop immediately. Garrick, you watch the borehole entrance for any signs the Twisted have detected us."
+
+*She prepares her acid vials and precision applicators.* "I'll handle the excavation. Need to follow quartz veins precisely. I'll use Flash of Genius for the most delicate applications."
+
+*She turns to both of them, her expression grim.* "Three-second entry window. That means we need to be ready at the tunnel exit, waiting. Garrick, you'll need to take both entrance sentries simultaneously or in rapid succession. Mercer, you'll cover with a control spell for any additional threats inside."
+
+*Cora starts the acid application, working methodically along the quartz vein intersections.* "Once inside, priority is severing roots. Beta is more complex—integrated with Giant equipment. That means more root clusters, possibly redundant systems. I'll need to work quickly but carefully."
+
+*She pauses, calculating.* "If we're discovered during sabotage, we retreat back through the tunnel. It'll be too narrow for armored Twisted to follow quickly. That's our escape route."
+
+*Cora resumes work, her hands steady.* "Let's begin. Twenty minutes until we change the odds in our favor."
+
+
+--- Garrick Kade ---
+*Garrick nods, moving to the borehole entrance to watch for any signs of detection.* "Twenty minutes. I'll time the patrols from here—memorize their patterns."
+
+*He keeps his eyes on the geological display, watching the red dots move in their continuous circuits.* "Three-second window. Both sentries looking away." *He repeats the pattern under his breath, committing it to memory.* "Left sentry checks corridor at ninety-second mark, right sentry faces opposite direction for three seconds. That's our opening."
+
+*Garrick tests his maul's grip, then sets it aside and draws his handaxes.* "For the entrance. Quieter than the maul. Two quick throws, then we're in."
+
+*He looks at Cora as she works.* "You focus on the acid. I'll handle the timing. When you're done, we'll be at the tunnel exit, ready. Mercer, you watch for changes in the vibrations—if the mountain shifts, we need to know."
+
+*Garrick positions himself where he can see both the display and the tunnel Cora is creating.* "Once we're in the chamber, I clear the sentries, you go for the roots. But Beta's integrated with Giant equipment—means there might be automated defenses. Things that don't need Twisted to operate."
+
+*He keeps his voice low, focused.* "We do this clean. Quick. In and out before they know what happened. Alpha taught them we're hunters. Beta will teach them we're ghosts."
+
+
+--- Professor Thaddeus Mercer ---
+*Mercer positions himself at the geological monitoring equipment, his academic focus absolute.* **"I'll track stress fluctuations and patrol patterns simultaneously. The Manifest Mind can provide real-time visual confirmation of the sentries' positions."** 
+
+*He conjures the spectral book, sending it to hover near the borehole exit point.* **"It will signal when the three-second window approaches. More reliable than timing alone—visual confirmation reduces error probability by approximately forty-seven percent."** 
+
+*He keeps one eye on the stress monitors.* **"The minor fluctuations are within normal parameters, but if they intensify during excavation, we must pause. Acid dissolution changes local density, which could register as structural stress."**
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+No contested actions this round.
+
+The party is preparing for their sabotage operation with planning and preparation, but no dice rolls, ability checks, or contested actions were attempted in this round. They're focused on strategy, timing, and equipment preparation for the upcoming infiltration of Amplifier Beta.
+
+
+--- DM ---
+Cora works with meticulous care, applying acid along the quartz vein intersections. The shale dissolves with a soft fizzing sound, leaving behind a tunnel that follows the natural quartz lattice—a zigzag path barely three feet in diameter, but stable. The air fills with the sharp scent of dissolved minerals and acid.
+
+Twenty minutes pass. The tunnel is complete, terminating just two feet from Beta's chamber wall. Through a hairline crack in the remaining rock, you can see flickering bioluminescent light—Beta's organic glow. You can hear the steady tread of sentry boots on stone, the occasional guttural communication between Twisted.
+
+Mercer's Manifest Mind floats at the tunnel exit, invisible, relaying what it sees: Beta's chamber is larger than Alpha's, dominated by the massive amplifier column that's been integrated with Giant monitoring equipment—crystalline instruments that pulse in time with the amplifier's bioluminescent veins. Six sentries exactly as the display showed: two at the entrance, four patrolling in overlapping circuits.
+
+The three-second window approaches. Garrick has his handaxes ready. Cora has her acid vials for the roots. Mercer has his spell components prepared.
+
+The Manifest Mind signals: **Now.**
+
+Garrick bursts through the remaining rock, shattering the thin barrier with his shoulder. He's through in an instant, both handaxes flying. The left sentry—checking the side corridor—takes an axe in the back of the neck, collapsing without a sound. The right sentry—facing away—turns at the noise, but Garrick is already on it, his second axe finding its throat. Both sentries down in under two seconds.
+
+You're in.
+
+Beta's chamber is thirty feet across, the amplifier column dominating the center. The four patrolling sentries are at the far ends of their circuits—two near the back wall examining monitoring equipment, two near a side exit. They haven't noticed the entrance yet.
+
+But Beta itself is... different. More advanced. The organic structure has been grafted directly onto Giant crystalline instruments, creating a hybrid of flesh and machine. The root tendrils are thicker, more numerous, and they pulse with a synchronized rhythm that suggests some kind of collective intelligence. The air hums with power—psychic and arcane energy intertwined.
+
+Cora moves immediately to the base, examining the root structure. "More complex," she whispers. "Multiple primary roots, redundant systems. Severing one might not be enough—they could reroute energy through backups."
+
+Mercer examines the Giant equipment. "They're using the monitoring crystals to fine-tune the broadcast frequency. This amplifier isn't just boosting the signal—it's shaping it into something more... coherent. More dangerous."
+
+The patrolling sentries continue their circuits. You have perhaps forty-five seconds before one completes a circuit and returns to the entrance, discovering the bodies.
+
+**The situation:** You're inside Amplifier Beta's chamber. Two sentries are dead at the entrance. Four more are patrolling, unaware. Beta is more complex than Alpha—multiple primary roots, integrated with Giant equipment, possibly with redundant systems. You need to sabotage it quickly, but the complexity means more time required. And the patrolling sentries will discover the bodies in approximately forty-five seconds.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 19/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora immediately assesses the root structure.* "Multiple primaries with redundancies. Need to sever them simultaneously or in rapid sequence."
+
+*She pulls out multiple acid vials, setting them up for quick application.* "Garrick, intercept the patrolling sentries before they reach the entrance. Buy me time. Mercer, can you use your magic to temporarily disable the redundant systems? Something that disrupts the energy flow between roots?"
+
+*She begins applying acid to the primary root cluster, working with practiced speed.* "I'll target the main nexus first. If we can collapse the central connection, the redundancies might fail cascade."
+
+*Cora calculates aloud as she works:* "Forty-five seconds. Need thirty for proper severing. Garrick, you have fifteen seconds to engage before they notice. Use the chamber's equipment for cover."
+
+*She applies acid to a second root cluster.* "Mercer, if you have a spell that can create an energy feedback loop in the Giant crystals, that might overload the system and help our sabotage."
+
+*Cora's hands move swiftly but precisely.* "Working as fast as I can. But this needs to be clean—Beta's integration with containment equipment means messy severing could damage critical systems."
+
+
+--- Garrick Kade ---
+*Garrick retrieves his handaxes from the dead sentries, wiping the blades clean.* "Fifteen seconds to engage. I'll make it ten."
+
+*He moves to the side of the chamber, using the massive amplifier column for cover. His eyes track the two sentries near the back wall—they're closer, will complete their circuit first.*
+
+*Garrick doesn't wait for them to notice the bodies. He moves now, while they're still distracted examining the monitoring equipment. He keeps low, using the hum of the amplifier to mask his footsteps.*
+
+*At ten feet, he breaks into a silent charge. The first sentry hears something, starts to turn—Garrick's handaxe buries itself in its temple. The second sentry opens its mouth to cry out, but Garrick is already there, his other handaxe finding its throat. Both down in under five seconds.*
+
+*He retrieves his weapons, moving toward the remaining two sentries near the side exit.* "Twenty seconds left. These two are farther away—might not have heard."
+
+*Garrick uses the chamber's crystalline equipment as cover, closing the distance silently.* **Stealth check to approach remaining sentries:**
+
+
+--- Professor Thaddeus Mercer ---
+*Mercer studies the integrated Giant crystals with academic intensity.* **"The energy flow follows harmonic resonance patterns. If I disrupt the phase alignment..."** *He casts* **Dispel Magic** *targeted at the crystalline monitoring equipment, attempting to create a feedback loop that will overload the redundant root systems.* 
+
+*As Garrick moves toward the remaining sentries, Mercer keeps his Manifest Mind watching the side exit.* **"The feedback should cause temporary system instability—approximately twelve seconds of cascading failure. Cora, apply acid to the primary nexus during that window!"**
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+Garrick: Stealth approach to remaining sentries — 16 vs DC 13 — **SUCCESS** Garrick moves silently through the chamber, using the amplifier's hum and crystalline equipment for cover as he closes in on the last two sentries.
+
+
+--- DM ---
+Garrick moves like a shadow through the chamber, the amplifier's hum masking his approach. The two remaining sentries near the side exit are conversing in their grinding language, their attention on the corridor beyond rather than the chamber behind them.
+
+Garrick's first handaxe takes the left sentry in the back of the skull. The right sentry turns, warhammer rising, but Garrick is already inside its guard. His second handaxe buries itself in the sentry's throat, then he follows with a brutal knee to its chest, driving it back against the wall. It slides to the floor, black fluid pooling around it.
+
+Six sentries down. The chamber is clear.
+
+Mercer's Dispel Magic hits the Giant crystalline equipment. The crystals flash violently, then begin pulsing erratically. The energy flow through the amplifier's roots stutters—the bioluminescent veins flicker, bright then dim, bright then dim. A low hum builds into a whine of feedback.
+
+"Now, Cora!" Mercer shouts. "The redundancies are destabilized!"
+
+Cora works frantically. Acid flows along the primary root nexus, dissolving the organic-stone interface. Smoke billows as the roots sever, one after another. The amplifier shudders, its structural integrity failing as the energy that sustains it is cut off.
+
+But Beta is more resilient than Alpha. Even as the primary roots dissolve, secondary systems activate. Bioluminescent veins that had been dark suddenly flare to life, rerouting energy around the damage. The amplifier stabilizes, the whine of feedback diminishing.
+
+"It's adapting!" Cora yells. "The redundancies are taking over! I need to sever the secondary clusters simultaneously!"
+
+She pulls out more acid vials, applying them to multiple root locations at once. Her hands move with desperate speed, but the amplifier is fighting back—the organic material seems to be... healing. Not quickly, but visibly. Thin tendrils extend from severed ends, seeking to reconnect.
+
+Garrick moves to her side, watching the side exit. "How much longer?"
+
+"Thirty seconds!" Cora gasps. "But it's regenerating! I need to—"
+
+The side exit door groans. Not from your side—from the corridor beyond. Someone's coming.
+
+Mercer's Manifest Mind darts to the door, peering through. "Patrol! Four Twisted Laborers! They'll be here in ten seconds!"
+
+**The situation:** Beta's amplifier is partially sabotaged but fighting back with redundant systems and regeneration. Four Twisted Laborers are about to enter through the side exit. The primary roots are severed, but secondary systems are active and attempting repair. You have seconds to complete the sabotage or retreat through your acid-excavated tunnel.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 20/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora makes a split-second decision.* "Garrick, intercept the laborers! Buy me fifteen seconds! Mercer, hit the amplifier with everything you've got—disrupt the regeneration!"
+
+*She pours concentrated acid on the secondary root clusters, working with frantic precision.* "The redundancies are the problem! If I can sever the main energy distribution nodes..."
+
+*Cora uses Flash of Genius to enhance her precision, targeting the critical junctions where secondary systems connect.* "Almost... there! The regeneration is slowing!"
+
+*She shouts to Mercer,* "If you have a spell that can create an energy surge in the crystals, do it now! Overload the system!"
+
+*Cora makes one final application to the last major root cluster.* "Three... two... one... severed! Now retreat! Back through the tunnel!"
+
+*She grabs her equipment and moves toward the exit.* "Garrick, disengage! The amplifier should collapse now! Mercer, cover our retreat!"
+
+
+--- Garrick Kade ---
+*Garrick doesn't wait for the laborers to enter. He moves to the side exit, planting himself in the doorway.* "Fifteen seconds. They'll get through me in thirty."
+
+*As the door groans open, Garrick meets the first laborer with his maul. The weapon comes down in a crushing arc, smashing through crude armor and bone.* **First attack on lead laborer:** 
+
+*He doesn't wait to see if it's dead—he's already swinging at the second.* "Cora, work fast! Mercer, hit the amplifier like she said!"
+
+*Garrick uses the narrow doorway to his advantage, forcing the laborers to come at him one at a time. His maul sweeps back and forth, a barrier of steel and fury.* "Ten seconds! Then we're leaving whether it's done or not!"
+
+
+--- Professor Thaddeus Mercer ---
+*Mercer sees the regenerating amplifier and knows academic caution is no longer an option.* **"Energy surge—yes! But we need to overload the entire harmonic matrix!"** *He abandons subtlety, his fingers tracing the complex somatic components for* **Chain Lightning**, *targeting not the amplifier directly, but the Giant crystalline equipment integrated with it.*
+
+**"This will create a feedback loop through the containment runes themselves!"** *he shouts as blue-white lightning arcs from his fingertips, forking through the monitoring crystals. The crystals flash blindingly bright, then shatter with a sound like breaking glass. The amplifier's bioluminescent veins flare violently, then begin to darken from the center outward as the energy surge overwhelms its regenerative capacity.*
+
+*He turns toward the tunnel, his voice clipped with urgency.* **"Cora, Garrick—disengage! The cascade failure is beginning! The entire chamber may become unstable!"** *He keeps his Manifest Mind at the tunnel entrance, ensuring their escape path remains clear as he prepares to follow.*
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+Garrick: Maul attack vs Twisted Laborer — 19 vs AC 13 — **HIT** Garrick's maul crushes the first laborer in the doorway, clearing space and buying precious seconds for Cora to complete the sabotage.
+
+
+--- DM ---
+Garrick's maul crushes the first laborer, black fluid spraying across the doorway. The second laborer pushes past the body, its pry bar swinging wildly—Garrick parries with his maul's haft, then shoves it back into its companions. "Five seconds!" he shouts.
+
+Cora's acid severs the final secondary root cluster. The amplifier shudders violently, its bioluminescent veins going dark in a wave radiating from the base upward. The organic structure loses cohesion, black resin cracking and crumbling.
+
+Mercer's Chain Lightning arcs through the crystalline equipment. The crystals shatter, and the energy feedback ripples through the amplifier. The regeneration stops completely—the thin tendrils wither and fall away like dead vines.
+
+The amplifier collapses inward with a sound like a thousand bones breaking. Unlike Alpha's silent death, Beta's destruction is audible—a deep, resonant groan that echoes through the chamber and beyond. The resin conduits in the walls pulse frantically, alarm signals racing in all directions.
+
+"Retreat!" Cora yells, already moving toward the acid-excavated tunnel.
+
+Garrick disengages, shoving the remaining laborers back with a sweep of his maul before turning and running. Mercer follows, his Manifest Mind guiding the way.
+
+You scramble through the narrow tunnel as sounds of pursuit erupt behind you—not just the three remaining laborers, but more voices from the corridor, heavier footsteps. The Twisted are responding to Beta's destruction.
+
+Back in the geological station, you collapse the tunnel entrance behind you, using loose rock to block it. The sounds of pursuit are muffled, then fade as the Twisted presumably search Beta's chamber and find only ruin.
+
+The geological display confirms it: Amplifier Beta's marker is dark. The Twisted forces are swarming the location, but their movements are chaotic, uncoordinated. The communication network pulses with frantic, disorganized signals.
+
+But Gamma's marker glows brighter than ever. And around it, the Twisted forces are consolidating, not scattering. The Overseer's distinctive marker is there, and it's not retreating—it's fortifying.
+
+Mercer checks the monitoring equipment. "The broadcast intensity has dropped significantly with two amplifiers destroyed. But Gamma is compensating—its output has increased. And the Twisted are concentrating their entire remaining force there."
+
+Cora leans against a borehole rig, breathing heavily. "Two down. One to go. But Gamma will be defended by everything they have left."
+
+Garrick cleans his maul, his expression grim. "They know we're coming. And they'll be ready."
+
+**SESSION ENDS HERE**
+
+**Next session:** The assault on Amplifier Gamma—the most powerful amplifier, defended by the full remaining Twisted garrison and the Overseer who now understands exactly what you're doing. The final amplifier must fall, but the cost will be higher than anything you've faced so far.
+
+
+============================================================
+  SESSION 13 WRAP-UP
+============================================================
+
+[System] Updating campaign state...
+  [Retry] Agent returned garbage (10 words: 'I'll update the campaign state based on the sessio...'). Retrying (1/2)...
+[Wiki Keeper] Extracting entities...
+  [Wiki] ↻ Ignathar.md (updated)
+  [Wiki] ↻ Cold Forge Chamber.md (updated)
+  [Wiki] ↻ Dreamstone Circlet.md (updated)
+  [Wiki] ✓ fleshy amplifiers.md (created)
+  [Wiki] ✓ Amplifier Alpha.md (created)
+  [Wiki] ✓ Amplifier Beta.md (created)
+  [Wiki] ✓ Amplifier Gamma.md (created)
+  [Wiki] ✓ Twisted.md (created)
+  [Wiki] ✓ Twisted Overseer.md (created)
+  [Wiki] ✓ Sleeper.md (created)
+  [Wiki] ↻ Sleeper's Cradle.md (updated)
+  [Wiki] ↻ Giant.md (updated)
+  [Wiki] ✓ harmonic dampening pump room.md (created)
+  [Wiki] ✓ geological survey chamber.md (created)
+
+[Wiki] 14 file(s) written to output/wiki/
+
+[Scribe] Writing session narrative...
+[Scribe] Blog saved to C:\Users\maxry\Desktop\AI DND\output\sessions\session_13.md
+
+[Editor] Fact-checking...
+[Editor] 4 content invention flag(s):
+  ⚠ The session report and wiki describe the Twisted Overseer engaging the party at Amplifier Alpha. The adventure file states the Overseer is stationed at Gamma and 'coordinates from a position near Gamma.' Its appearance at Alpha is an invention.
+  ⚠ The session includes a detailed exploration of a 'harmonic dampening pump room' and a 'geological survey chamber' with a real-time holographic map showing Twisted patrols and amplifier locations. These specific rooms and their functions (activating dampening to mask psychic signature, real-time tracking) are not described in the adventure file.
+  ⚠ The session includes an escape and exploration sequence through maintenance tunnels, a pump room, and a geological station. The adventure file prescribes a more linear three-act structure (scout, sabotage Alpha/Beta, assault Gamma) and does not include these specific underground chambers as part of the amplifier sabotage mission.
+  ⚠ The method of destroying Amplifier Beta involved a 'Chain Lightning' spell creating a 'magical feedback loop' and the amplifier displaying 'regenerative capabilities.' The adventure file describes a sabotage process requiring skill checks and possible patrol interruption, but not specific regenerative mechanics or using Chain Lightning for feedback.
+[Editor] 4 missing content flag(s):
+  ✗ The adventure file prescribes a structured three-act pacing: Act 1 (scouting patrol patterns and planning), Act 2 (silent sabotage of Alpha and Beta with specific skill check mechanics), Act 3 (assault on Gamma with the full garrison and Overseer). The session ended after destroying Beta, skipping the prescribed final assault on Amplifier Gamma.
+  ✗ The adventure file specifies that destroying Gamma triggers a 'chain reaction' where all Twisted within 500 feet are stunned for 1 round and the Overseer flees. This dramatic beat and its mechanical effect were not reached.
+  ✗ The adventure file lists specific Key Items to be obtained (Amplifier Core Sample, Overseer's Reinforced Plate, Broadcast Frequency Map, Twisted Communication Node, 2,000 gp). None of these were mentioned as obtained in the session.
+  ✗ The adventure file states that after the amplifiers are destroyed, 'Reyna Steelforge' should make an observation about building a suppression device. This NPC interaction did not occur.
+[Editor] 4 session report correction(s):
+  -> corrected: 'spreading schematics from the [[Brotherhood Operations Log]] across th...'
+  -> corrected: 'The commander emerged from deeper corridors, its reinforced corrupted ...'
+  -> corrected: 'Then the [[Twisted Overseer]] arrived.'
+  -> text not found (skipped): 'The [[Twisted Overseer]] engaged the party at [[Amplifier Alpha]], was...'
+[Editor] 2 wiki correction(s):
+  -> [Twisted Overseer] text not found (skipped)
+  -> [Twisted Overseer] corrected
+[Editor] Review saved to: session_13_editor_review.md
+[Lorekeeper] Consistency pass...
+[Lorekeeper] Session report checked — no name corrections needed.
+[Lorekeeper] Upgraded 12 wiki entry/entries to encyclopedic format.
+[Lorekeeper] Review saved to: session_13_lore_review.md
+
+
+============================================================
+  ADVENTURE COMPLETE!
+  Adventure 13 finished.
+  Swapping to Adventure 14: The Runecarvers Tomb
+  File: adventure_14_the_runecarvers_tomb.md
+  --- LEVEL UP ---
+  Cora Flint: Level 13 → 14 | HP: 101 | New features: Magic Item Savant (attune up to 5 magic items, ignore class/race/level requirements), Infusions: 10 known, 5 active | New spells: Stoneskin
+  Garrick Kade: Level 13 → 14 | HP: 130 | New features: ASI: Feat (Crusher — on bludgeoning hit push creature 5ft, on crit all attacks vs target have advantage until next turn, +1 CON) | Note: CON increases to 17 (still +3 modifier). Crusher synergizes perfectly with maul combat.
+  Professor Thaddeus Mercer: Level 13 → 14 | HP: 72 | New features: One with the Word (advantage on Arcana checks, if reduced to 0 HP can sacrifice spell levels to stay at 1 HP) | New spells: Simulacrum
+============================================================
+
+[Summary] Generating adventure 13 summary...
+[Summary] Adventure 13 summary saved.
+[Summary] Condensing story summary (278 words, 13 adventures → ~200 words)...
+[Summary] Condensed: 278 → 278 words.
+[Quests] Cleaning quest list (2 entries)...
+[Quests] Cleaned: 2 → 1 quests.
+[Lorekeeper] Running end-of-adventure wiki editorial pass...
+
+[Lorekeeper] Processing 81 wiki entries in batches...
+
+[Lorekeeper] Batch 1/4 (25 entries)...
+[Lorekeeper] Batch 1: 25 updated, 0 marked for deletion.
+[Lorekeeper] Batch 2/4 (25 entries)...
+[Lorekeeper] Batch 2: 25 updated, 0 marked for deletion.
+[Lorekeeper] Batch 3/4 (25 entries)...
+[Lorekeeper] Batch 3: 25 updated, 0 marked for deletion.
+[Lorekeeper] Batch 4/4 (6 entries)...
+[Lorekeeper] Batch 4: 6 updated, 0 marked for deletion.
+[Lorekeeper] Running cross-batch dedup pass...
+  [Retry] Agent returned garbage (2 words: '{"duplicates": []}...'). Retrying (1/2)...
+  [Retry] Agent returned garbage (2 words: '{"duplicates": []}...'). Retrying (2/2)...
+  [Warning] Agent returned garbage after 2 retries. Using last response.
+[Lorekeeper] Dedup pass: no duplicates found.
+[Lorekeeper] End-of-adventure editorial pass complete.
+
+[Transcript] session_13 -> session_13_transcript.md (101 blocks parsed)
+
+============================================================
+  SESSION 13 COMPLETE
+  Blog saved to: output/sessions/session_13.md
+  Transcript saved to: output/sessions/session_13_transcript.md
+  Log saved to: output/logs/session_13_log.txt
+  Reviews saved to: output/reviews/
+  Wiki updated in: output/wiki/
+  State saved to: campaign_state.json
+  >>> Adventure 13 complete! Next adventure loaded.
+  >>> Story summary condensed for next adventure.
+============================================================
+
+[Site] Building static site...
+[Site] Built 126 pages (13 sessions, 81 wiki entries) in 0.6s -> docs/
+[Git] Publishing session 13...
+[Git] Committed: session 13: campaign update
+[Git] Pushed to origin.

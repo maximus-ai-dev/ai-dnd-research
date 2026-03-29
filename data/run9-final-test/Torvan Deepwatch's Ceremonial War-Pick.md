@@ -1,0 +1,1 @@
+**Torvan Deepwatch's Ceremonial War-Pick** is a +1 magical weapon of dwarven make, inscribed with the name of its former owner. It was salvaged from the echo of [[Torvan Deepwatch]] in a sealed mausoleum within the [[Dwarven Layer]].

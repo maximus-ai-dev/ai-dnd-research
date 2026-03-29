@@ -1,0 +1,7 @@
+The **Cold Forge** is the primary industrial facility within the upper [[Dwarven Layer]] of the [[Asymmetrical Mountain]].
+
+## History and Purpose
+Constructed by the dwarves of [[Kazad-Khrom]], the forge served as their main production center for weapons, tools, and structural components during their occupation of the mountain. It was powered by a bound [[Fire Elemental]] named [[Ignathar]]. When the dwarves retreated over a millennium ago due to rising corruption, the elemental's binding was severed and the forge fell dormant.
+
+## Description and Current Status
+The forge complex is a cathedral-like chamber approximately eighty feet across, featuring a central hearth surrounded by six massive anvils. It includes material stores, apprentice workshops, and an advanced network of cooling channels designed to utilize the mountain's geothermal heat. The forge has been reignited by an expedition from [[Grimhold]], which negotiated a new arrangement with Ignathar. With the reactivation of the mountain's pump system providing coolant and the acquisition of the Dwarven Master Forge Key, the forge is now operational at full capacity. This enables the working of advanced materials, including adamantine, and provides industrial-scale metalworking deep within the mountain.

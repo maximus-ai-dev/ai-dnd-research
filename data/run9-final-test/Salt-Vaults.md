@@ -1,0 +1,1 @@
+The **Salt-Vaults** are a series of ancient military dry-storage chambers built by the [[Iron Warlords]] beneath their fortress on the [[Asymmetrical Mountain]]. Designed to preserve supplies for a prolonged siege, they are located within the secured territory of the expedition's base.

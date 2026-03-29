@@ -1,0 +1,4 @@
+The Dwarven Transit Map is a detailed schematic of the entire [[Minecart Network]] within the [[Dwarven Layer]].
+
+## Content and Function
+Recovered from the control room of the [[Eastern Transit Hub]], it charts all branch lines, including routes to primary mining operations, [[Pump Station East]], and a sealed [[Quarantine Zone]]. The map provides critical navigational data, showing switch junctions, passing bays, and the integrated layout of the dwarven industrial transit system. It is an authoritative document for understanding the scale of the network and planning further exploration deeper into the mountain.

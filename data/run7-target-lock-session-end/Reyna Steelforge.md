@@ -1,0 +1,7 @@
+Reyna Steelforge is the leader of the [[Prospectors' Guild]] and the de facto governor of the frontier town of [[Grimhold]].
+
+## Description and Role
+She is known for her practical, no-nonsense demeanor and declarative speech, traits honed by decades of frontier leadership. Steelforge manages the guild's mining and exploration operations in the surrounding [[Starmetal Hills]]. She serves as the primary point of contact for adventurers and prospectors seeking work, posting bounties for threats to guild operations and establishing business relationships regarding salvage rights from secured sites.
+
+## Dealings with the Mountain
+In the spring of 998 A.R., Steelforge commissioned an expedition to survey the [[Military Empire]] layer of the [[Asymmetrical Mountain]] and retrieve any Giant-era artifacts. When she learned the [[Cold Forge]] had been reignited, her reaction was immediate and practical, offering to send a smith from Grimhold to assist with metalwork. She later oversaw the engineering work to create a controlled breach in the [[Giant Capstone]] and briefed the party before their descent into the [[Giant foundation level]]. She is fascinated by [[Dreamstone]] samples and wants to send fragments to scholars across Laternia for analysis.

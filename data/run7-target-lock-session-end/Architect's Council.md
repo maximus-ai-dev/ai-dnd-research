@@ -1,0 +1,5 @@
+The Architect's Council was the governing body of [[Giants]] that oversaw major construction projects and existential decisions within their society. It is most famous for its role in managing the threat posed by the [[First World Sleeper]].
+
+## History and Decisions
+Upon discovering the Sleeper, a vast, dreaming entity that leaked reality-warping radiation, the Council debated potential responses. The options considered were destruction of the entity, containment, or leaving it be. The Council determined that destruction was impossible, as the Sleeper predated the Giants' universe, and leaving it unchecked would eventually render the mountain uninhabitable. Consequently, the Council chose the path of containment.
+Master Runecarver [[Korathan]] volunteered to design and build the containment system, which became known as the [[Vessel of Dreaming Silence]]. The Council subsequently sealed Korathan within [[The Maker's Rest]] following the project's completion.

@@ -1,0 +1,4 @@
+The **Runesmith's Journal** is a scorched leather-bound log written by the last dwarven runesmith of [[Kazad-Khrom]] responsible for maintaining the binding of the Fire Elemental [[Ignathar]] at the [[Cold Forge]].
+
+## Contents
+The journal details the binding process, Ignathar's temperament, and the early signs of corruption reaching the forge level from deeper within the mountain. Its final entry describes the runesmith's decision to release Ignathar from service as an act of mercy as the dwarven civilization collapsed. The journal provides critical historical context for the forge's abandonment and the elemental's long isolation.

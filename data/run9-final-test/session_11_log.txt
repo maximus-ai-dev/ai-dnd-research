@@ -1,0 +1,621 @@
+=== Session Log — 2026-03-28T17:03:54.668432 ===
+
+[Log] Raw terminal output being saved to: C:\Users\maxry\Desktop\AI DND\output\logs\session_11_log.txt
+
+
+============================================================
+  SESSION 11 BEGINNING
+  Adventure 11: The Alien Scale
+  Adventure Session: 1/1
+  Models: All DeepSeek
+  Exchanges: 20 (full session)
+============================================================
+
+
+[DM] Opening scene...
+
+
+--- DM ---
+The Cold Forge chamber hums with renewed purpose. For three days, the adamantine plating salvaged from the Drowned Juggernaut has rung on the anvils as Grimhold engineers work in shifts, hammering the metal into reinforcement plates for the capstone above. The air smells of hot metal, coal smoke, and the faint ozone of Ignathar's elemental presence. The Fire Elemental, bound by partnership rune, moves through the forge channels with a satisfied rumble, its heat precisely controlled by Cora's adjustments to the flow regulators.
+
+Above, in the dwarven corridors, the party's base has transformed. The Brotherhood Wardens stand guard at reinforced checkpoints. Workers haul salvaged stone to patch walls. Reyna Steelforge's voice echoes through the halls as she directs the installation of new support beams. The mountain feels different now — not just secured, but claimed. The party's home.
+
+This morning, the engineers finished the controlled breach. Using the Giant Blueprint Tablet as a guide, they cut along runic seams in the capstone — a ten-foot square opening that preserves the containment field around its edges. The doorway glows with residual power, a curtain of warm static that makes the hair rise on every arm. Below it, darkness waits.
+
+Reyna stands before the breach, her practical demeanor tempered by academic awe. "The Prospectors' Guild needs an official name for this installation on our maps and contracts," she says, looking from Cora to Garrick to Mercer. "It's your home now. What do you want to call this place?"
+
+Beyond her, the breach hums. Through the static curtain, a landing of dark Giant-era basalt is visible — a platform fifty feet square, overlooking a corridor that stretches into darkness in both directions. The scale is immediately wrong: the ceiling is forty feet above, the corridor wide enough for three giants to walk abreast. Every surface is carved with continuous rune sequences so dense they look like text.
+
+The party stands at the threshold of the Giant foundation level — a containment vessel built for beings twice their height and five times their mass. The air that drifts up from below carries the smell of ancient stone and something else: the faint, cold scent of Dreamstone.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 1/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I pull out my ledger, flipping to a fresh page. "First things first. The name." I look at Reyna, then at the breach. "This isn't just a base anymore. It's a containment facility, a research station, and our primary asset. We need something that reflects both its function and our ownership."
+
+I glance at Garrick and Mercer. "Given the scale, the history, and what we're dealing with below, I propose 'The Bastion of the Asymmetrical.' It acknowledges the mountain's name, implies fortification, and sounds professional enough for Guild contracts."
+
+Before anyone can object, I continue. "Now, before we step through that curtain, we need to PLAN. That's a fifty-foot square platform with a forty-foot ceiling. Garrick, you're on point with your maul. Mercer, keep Detect Magic active—those runes are dense enough to be dangerous. I'll be right behind with my alchemist's supplies ready."
+
+I turn to the breach itself. "SEARCH protocol. I need to examine the static curtain and the landing before we proceed."
+
+
+--- Garrick Kade ---
+I grunt, hefting my maul onto my shoulder. "'Bastion of the Asymmetrical'? Sounds like something a guild accountant would come up with." I look at the massive breach, the curtain of static energy humming with power. "Call it what you want on your maps. Down there, it's just the kill zone."
+
+Cora's already planning, but my eyes are fixed on that dark landing below. The scale is wrong—everything built for giants. My knuckles tighten around my maul's grip. "Enough talking. I'm going through." 
+
+I activate Giant's Might, feeling my body swell and grow, the runes on my armor glowing with power. Becoming Large gives me a better chance down there. I glance back at Mercer. "Keep your magic ready. Cora, watch for traps." Then I step through the static curtain without hesitation.
+
+The air crackles around me as I pass through, my maul raised and ready. My feet hit the dark basalt platform, and I immediately scan the massive corridor stretching into darkness in both directions. The runes covering every surface glow faintly in the dim light from above. I can smell it—ancient stone and that cold Dreamstone scent. Something's down here. Something old.
+
+"Platform's clear," I call back up, my voice echoing in the giant-sized space. "But this place feels... waiting." I move to the edge, peering down the corridor, my maul held in both hands. Every instinct tells me we're not alone down here. The giants built this to contain something, and whatever it was, it might still be here.
+
+
+--- Professor Thaddeus Mercer ---
+"Bastion of the Asymmetrical? Really, Cora?" I say, my quill already materializing as I begin taking notes. "That sounds like a failed thesis title. This isn't just a 'bastion'—it's the containment vessel for what may be the most significant archaeological discovery since the fall of the Giant Empire. I propose 'The Mercer Excavation Site' or, if we must be democratic, 'The Asymmetrical Containment Research Station.'"
+
+I watch Garrick charge through the curtain with a sigh. "Typical. No appreciation for proper procedure." I cast Detect Magic as Cora suggested, the arcane sight revealing the complex weave of magic around us. "The curtain is a containment field—likely a modified form of the original Giant warding. It's designed to prevent energy leakage, not physical passage. Fascinating adaptation."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+No contested actions this round.
+
+**Note:** The PCs are engaging in roleplay and planning without attempting any skill checks, attacks, or saving throws. Garrick's passage through the static curtain doesn't require a roll since the DM narration indicates it's designed to allow physical passage. Mercer's Detect Magic is a standard spell activation. No dice rolls were made or needed for these narrative actions.
+
+
+--- DM ---
+The static curtain crackles around Garrick as he passes through, his Giant's Might-enhanced form momentarily silhouetted against the glowing runic seams. His boots land on the dark basalt platform with a solid thud that echoes in the enormous space. The air here is different—colder, drier, and carrying the unmistakable scent of ancient stone and the faint, metallic tang of Dreamstone.
+
+Through the breach, Cora and Mercer see Garrick standing on the fifty-foot square landing, his Large form still dwarfed by the scale around him. The corridor stretches away in both directions—thirty feet wide, forty feet high, disappearing into absolute darkness beyond the light filtering through the breach. Every surface is carved with continuous rune sequences, floor to ceiling, pulsing with a faint, rhythmic light that seems to breathe.
+
+Mercer's Detect Magic reveals the truth of the place: the entire structure hums with abjuration magic of staggering complexity. The runes aren't decorative—they're functional components of a containment network, woven together in patterns so dense they form what his academic mind recognizes as a "magical latticework." The curtain behind them is indeed a modified containment field, channeling its power around the breach rather than through it. The containment is intact, but Mercer notes something troubling: the field strength readings he can sense are lower than the blueprint tablet's baseline markings. The containment is weakening—slowly, over millennia, but measurably.
+
+Reyna Steelforge steps up beside Cora, peering through the breach with a mixture of professional interest and genuine awe. "The name can wait," she says, her voice hushed. "But you need to document everything. Every rune sequence, every measurement. This is... this is history that's been waiting for us."
+
+Below, Garrick scans the corridor. His soldier's instincts scream at the tactical nightmare: no cover, no chokepoints, everything open and enormous. The steps leading down from the platform are each two and a half feet tall—climbing, not walking. Door handles are at head height. The psychological impact is immediate: they are trespassers in something vast, built for beings who thought in geological time.
+
+From the darkness to the left, a faint glow becomes visible—one of the monitoring alcoves described in the blueprint, about a hundred feet down the corridor. To the right, the corridor curves gently, the runes on the walls pulsing with that same slow, rhythmic light.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 2/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I step through the curtain, the static making my hair stand on end. "Garrick, hold position. Mercer, quantify that weakening field. If containment is degrading, we need to know the rate and what that means for our timeline."
+
+I pull out my ledger and begin sketching the rune patterns, making quick notes. "Reyna's right—documentation is priority one. But we also need to SEARCH this landing before we go anywhere." I examine the platform edges, looking for any control interfaces or maintenance access points.
+
+
+--- Garrick Kade ---
+"I'm holding, but I don't like it," I growl, my eyes fixed on the darkness down the corridor. My maul stays ready, the weight comforting in my hands. "This place is built for a siege that never ended."
+
+I glance at the glowing alcove to the left. "There's light down there—some kind of monitoring station. Could be active." My survival instincts are screaming. The scale is all wrong, and that rhythmic pulsing of the runes feels like a heartbeat. Something's alive down here, even if it's just magic.
+
+I move to the edge of the platform, peering down the giant-sized steps. "Cora, document fast. Mercer, if that containment's weakening, we need to know what's on the other side before it fails." I take a step toward the glowing alcove, my boots echoing in the vast space. "I'm checking that light. If something's watching us, I'd rather find it before it finds us."
+
+The air feels heavy, charged with ancient power. Every rune on the walls seems to be watching us, recording our presence. I keep my maul at the ready, scanning the shadows for movement. Giants built this to hold something terrible, and we're walking right into their cage.
+
+
+--- Professor Thaddeus Mercer ---
+"Garrick, wait!" I call out, my voice echoing unnervingly in the vast space. "You're charging toward what could be a monitoring station that's been active for millennia. If it's still functional, it may have automated defenses or containment protocols."
+
+I step through the curtain, the static making my robes flutter. My quill is already transcribing the runic sequences as I speak. "The field degradation is approximately 0.3% per century based on my preliminary calculations—that's an Arcana check of twelve, which is frankly disappointing given the circumstances. But more importantly, this isn't just weakening; it's being drained. Something is actively consuming the containment energy."
+
+I move to examine the nearest rune sequence more closely. "These aren't merely containment runes—they're monitoring runes as well. They're recording our presence right now. Every step, every breath. The Giants didn't just build a prison; they built an archive."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+No contested actions this round.
+
+**Note:** The PCs are continuing with narrative actions and roleplay. Mercer mentions "an Arcana check of twelve" as part of his character narration, but this appears to be descriptive rather than an actual dice roll request. No skill checks, attacks, saving throws, or contested actions were attempted that require adjudication.
+
+
+--- DM ---
+Garrick moves toward the glowing alcove, his footsteps echoing in the enormous corridor. The rhythmic pulsing of the runes seems to synchronize with his movement—or perhaps it's just his imagination. The alcove reveals itself as a recessed chamber about twenty feet deep, containing Giant-era instruments: stone dials the size of wagon wheels, crystal resonance chambers that glow with internal light, and etched measurement scales in a language of angles and symbols rather than numbers.
+
+Cora's examination of the platform edges reveals seams in the basalt—maintenance access points, but sealed with runic locks that would require Giant-scale tools to open. Her ledger fills with sketches of the rune patterns, each sequence more complex than the last. She notes the precision: tolerances measured in fractions of an inch across hundred-foot surfaces. The Giants were not just large; they were exact.
+
+Mercer's analysis deepens. The runes are indeed monitoring their presence, but not with hostility. They're diagnostic—measuring the containment field's interaction with foreign matter (them). The 0.3% per century degradation rate is concerning, but his real discovery is more immediate: the runes nearest the alcove show a localized spike in energy consumption. Something in the monitoring station is drawing power.
+
+As Garrick reaches the alcove's entrance, the crystal resonance chamber within brightens. A low hum fills the air—not through sound, but through vibration in the stone. The chamber's glow resolves into a three-dimensional display: a schematic of the containment vessel, showing the Inspection Circuit (where they stand), the outer ring, and the central void. Points of light mark their position—three small, bright dots on the perimeter.
+
+Then the display changes. The schematic shifts to show containment field strength at various points. Most locations show amber light—functional but degraded. One location, deep in the central void, shows red. The runes beside it pulse in a distressed pattern.
+
+From deeper in the corridor, beyond the curve to the right, a new sound emerges: a deep, resonant *thud*, followed by the grinding of stone on stone. It's distant, but unmistakable—the sound of something massive moving.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 3/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+"Garrick, back to the platform—now!" I snap, my voice echoing in the vast space. "That grinding sound means we're not alone down here, and we're standing in a kill zone with no cover."
+
+I turn to Mercer, pointing at the schematic. "That red location—calculate what happens if it fails. Is it catastrophic failure or localized breach? We need to know if this is a maintenance emergency or an evacuation situation."
+
+I quickly scan the alcove instruments, trying to understand their function. "These aren't just monitors—they're diagnostic tools. If something's drawing power, we need to identify it before we proceed." I examine the crystal resonance chamber more closely, looking for any controls or interfaces we might be able to use.
+
+
+--- Garrick Kade ---
+I don't retreat. Instead, I plant my feet in the alcove entrance, maul raised. "That sound came from the right," I growl, my eyes fixed on the curve in the corridor. "Something's moving down there. Big."
+
+The schematic shows red in the central void—something's wrong deep in this place. But right now, the immediate threat is whatever's making that grinding stone sound. "Cora, figure out that red zone fast. Mercer, what's moving? Can your magic tell us?"
+
+I glance at the giant-sized instruments. "These monitors are showing us the problem, but they won't stop whatever's coming." My grip tightens on my maul. The alcove gives me some cover at least—better than the open corridor. "If it comes this way, I'll hold it here. You two get back to the platform."
+
+The rhythmic pulsing of the runes feels faster now, like a heartbeat quickening. The containment is stressed, and something's awake down here. I can feel it in the vibration through my boots. This is what the giants built this place to hold, and we've just walked into its prison.
+
+
+--- Professor Thaddeus Mercer ---
+"Garrick, your tactical assessment is correct but incomplete," I say, my eyes fixed on the schematic. "That red location represents a containment breach in progress—not catastrophic failure, but a localized weakening that's allowing something to draw power from the field itself. My Perception check of twenty confirms the grinding sound is rhythmic, mechanical, not biological."
+
+I approach the crystal resonance chamber, my quill transcribing the schematic. "This isn't a creature moving—it's machinery. Likely automated maintenance systems activating in response to the breach. The Giants built redundancies upon redundancies. But Cora's right about the kill zone."
+
+I turn to both of them, my academic detachment giving way to genuine concern. "We need to understand what's in the central void before we proceed. That grinding could be defenses activating, or it could be the breach itself manifesting. Either way, standing here debating is statistically the most dangerous option."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+No contested actions this round.
+
+**Note:** The PCs are continuing with narrative actions and roleplay. Mercer mentions "My Perception check of twenty" as part of his character narration, but this appears to be descriptive rather than an actual dice roll request. No skill checks, attacks, saving throws, or contested actions were attempted that require adjudication.
+
+
+--- DM ---
+Cora examines the crystal resonance chamber, her engineer's eye recognizing the design: it's a diagnostic interface, not just a display. The controls are Giant-scale—levers the size of her leg, dials she'd need both hands to turn—but the principles are familiar. The red location on the schematic represents a containment node that's fallen below 60% operational capacity. Not catastrophic failure yet, but if it drops below 40%, adjacent nodes would begin overloading.
+
+The grinding sound from the right corridor continues—rhythmic, mechanical, exactly as Mercer perceived. It's not getting closer, but it's not moving away either. Something is operating on a cycle.
+
+Garrick holds his position at the alcove entrance, his Large form blocking most of the opening. The runes on the walls pulse faster now, their light brightening with each beat. The containment field is responding to stress.
+
+From the platform above, Reyna's voice calls down, echoing in the vast space: "Everything alright? The runes up here are glowing brighter!"
+
+The crystal chamber's display shifts again. Now it shows energy flow patterns—streams of light moving through the containment network like blood through arteries. Most flow smoothly, but at the red location, the energy is being siphoned away, drawn downward into the mountain's depths. The siphoning isn't random; it follows a pattern Mercer recognizes from his studies: a resonant frequency, like a tuning fork finding its match.
+
+Then the display shows something new: a second red location, this one much closer. It's on the Inspection Circuit itself, about three hundred feet down the corridor to the right—in the direction of the grinding sound. The schematic labels it: "Primary Monitoring Station — Status: Active (Anomalous)."
+
+The grinding stops.
+
+Silence fills the corridor, broken only by the hum of the crystal chamber and the now-rapid pulsing of the runes. The air grows colder. From the right corridor, around the curve, a new light appears—not the warm glow of containment runes, but a colder, blue-white illumination that casts long, sharp shadows.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 4/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+"TRIAGE situation," I say, my voice low and clinical. "Two containment nodes failing—one deep, one close. The close one is 'active anomalous,' which means something's using it. That grinding was mechanical, not organic."
+
+I look at the crystal display, my mind racing through calculations. "Mercer, that resonant frequency pattern—is something trying to match the containment field's frequency to bypass it? Garrick, fall back to defensive position at the platform edge. We have cover there and a retreat path."
+
+I examine the energy flow patterns more closely. "The siphoning follows a pattern. If we can disrupt that resonance, we might stabilize the node. But first, we need to identify what's causing the anomaly three hundred feet down that corridor."
+
+I turn to the others. "CALCULATING: Option one—investigate the anomaly, risk engagement with unknown mechanical threat. Option two—retreat, let containment degrade further. Option three—attempt to manipulate these diagnostic controls to gather more data before proceeding."
+
+I look at the Giant-scale levers. "I'm going to try to interface with this system. My Investigation check shows I understand the principles—let's see if I can get it to show us what's at that monitoring station."
+
+
+--- Garrick Kade ---
+"I'm not falling back," I growl, my eyes fixed on the cold blue-white light around the curve. "Something's coming, and it knows we're here. That grinding stopped when the light appeared."
+
+I glance back at Cora. "You work your magic on those controls. I'm moving up to get a better look." I don't wait for permission—hesitation gets people killed. I move out of the alcove, staying close to the wall, my maul ready. The giant-sized corridor offers no real cover, but the curve ahead might give me a vantage point.
+
+"Reyna!" I call back toward the platform, my voice echoing. "Be ready to seal that breach if this goes bad!" The cold light is getting brighter, casting those sharp shadows. Whatever's down there isn't just some broken machine—it's active, and it's aware of us.
+
+I take another step forward, my boots silent on the ancient stone. The runes pulse faster, the containment field stressed by whatever anomaly is at that monitoring station. This is what the giants feared enough to build this prison. And we've just woken it up.
+
+
+--- Professor Thaddeus Mercer ---
+"Garrick, you absolute fool!" I hiss, my academic composure cracking. "That's not just 'something coming'—it's a containment response system! My Arcana check of twenty-one confirms the resonant frequency is a diagnostic protocol. The system is testing the field integrity by introducing controlled stress!"
+
+I move quickly to the crystal chamber, my quill flying as I analyze the energy patterns. "Cora, don't manipulate the controls yet—you'll trigger automated defenses. The 'anomalous' reading means the monitoring station has detected our presence and is running diagnostics. That blue-white light is likely a scanning beam."
+
+I turn back toward Garrick, my voice urgent. "If you approach it while it's scanning, it will classify you as a containment breach and activate suppression protocols. The Giants didn't just build a prison—they built an automated warden system. We need to either retreat now or find a way to identify ourselves as authorized personnel."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+No contested actions this round.
+
+**Note:** The PCs are continuing with narrative actions and roleplay. Cora mentions "My Investigation check shows I understand the principles" and Mercer mentions "My Arcana check of twenty-one confirms the resonant frequency is a diagnostic protocol" as part of character narration, but these appear to be descriptive rather than actual dice roll requests. No skill checks, attacks, saving throws, or contested actions were attempted that require adjudication.
+
+
+--- DM ---
+Cora hesitates at the Giant-scale controls, her hand hovering over a lever. Mercer's warning rings true—the system is diagnostic, not just monitoring. The energy flow patterns show the resonant frequency shifting, adapting to something.
+
+Garrick advances down the corridor, staying close to the wall. The blue-white light grows brighter, casting his shadow long and distorted behind him. As he nears the curve, he sees the source: a crystalline panel set into the wall—an observation window, like those described in the blueprint. Through it, he gets his first glimpse of the cage's interior.
+
+A void. Not a room. A space so large its far wall is invisible in the darkness. The containment runes glow on the interior surfaces, providing faint illumination that fades into nothing. The scale is incomprehensible—this is a space designed to contain something the size of a building. The blue-white light comes from within the void itself, pulsing in time with the runes.
+
+The grinding sound resumes, but now Garrick can see its source: massive stone slabs, fifteen feet tall and three feet thick, set into the wall beyond the window. One of them is moving—the door that was ajar. It's opening wider, pushed by invisible force. Cold air flows from the gap, carrying the smell of Dreamstone and something else: ozone, like after a lightning strike.
+
+From the platform, Reyna calls down, her voice tight with concern: "The runes up here are fluctuating! Something's drawing massive power!"
+
+The crystal chamber in the alcove flashes. The display shows the containment field strength dropping rapidly at the nearby node—from 60% to 55% in seconds. The siphoning has accelerated. The resonant frequency has found its match.
+
+Mercer's analysis snaps into focus: "It's not testing the field—it's learning the field's frequency! The anomaly is mimicking the containment signature to bypass it! That's how it's siphoning power!"
+
+The door beyond the observation window grinds open another foot. Through the widening gap, darkness waits—and from that darkness, a new sensation begins: a pressure, not physical but mental, like a headache forming behind the eyes. The first whisper of the Sleeper's broadcast.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 5/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+"Garrick, get back here NOW!" I shout, my voice sharp with urgency. "That's not a door opening—that's a breach in progress! Mercer, can we disrupt that resonance? If it's mimicking the containment frequency, we need to change the frequency!"
+
+I turn to the crystal chamber, my mind racing. "The system is diagnostic—maybe it has emergency protocols. If we can trigger a containment field recalibration, we might force a frequency shift it can't match."
+
+I examine the controls more carefully, looking for any emergency override or manual frequency adjustment. "Reyna, tell your engineers to monitor the breach above! If this goes wrong, we need that exit secured!"
+
+The mental pressure builds, that familiar headache starting. I pull out my ledger, flipping to my notes on Dreamstone resonance patterns. "We need to act before that door opens further. Garrick, defensive position at the platform! Mercer, help me with these controls—your arcane knowledge plus my engineering might give us a chance!"
+
+
+--- Garrick Kade ---
+"I see it!" I shout back, my eyes fixed on the massive stone door grinding open. The void beyond is terrifying in its scale, but that door is the immediate threat. "Something's pushing it open from the other side!"
+
+I don't retreat. Instead, I charge forward toward the observation window, my maul raised. If that door opens fully, whatever's in that void gets out. "Cora, Mercer—do whatever you need to with those controls! I'm going to try to jam that door!"
+
+I reach the crystalline panel, looking for any way to access the mechanism. The door is fifteen feet tall and three feet thick—giant construction. But maybe I can wedge something in the gap, slow it down. I scan the area around the window, looking for anything I can use as a wedge or lever.
+
+The mental pressure builds, that headache forming behind my eyes. The Sleeper's broadcast is starting. We're running out of time. "If you're going to change the frequency, do it now! Once that door's open, we're not containing anything!"
+
+
+--- Professor Thaddeus Mercer ---
+"Garrick, you can't jam a fifteen-foot stone slab with your maul!" I shout, my voice edged with panic. "That's not a door—it's a containment barrier! And it's being opened from the inside!"
+
+I rush to the crystal chamber, my hands trembling slightly as I analyze the frequency patterns. "Cora, you're right about recalibration, but my Arcana check is a dismal ten—the system is too complex, too alien. The Giants built this to contain something that thinks in frequencies and resonances."
+
+The mental pressure intensifies, that familiar Dreamstone headache blooming behind my eyes. "It's learning, adapting. If we try to change the frequency manually, it will just adapt faster. We need to introduce chaos—random noise to disrupt the pattern matching."
+
+I turn to both of them, my academic detachment completely gone. "We have to retreat. Now. This isn't a fight we can win with brute force or hasty engineering. The Sleeper is waking, and it's using our own presence to learn how to escape its cage."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+No contested actions this round.
+
+**Note:** The PCs are continuing with narrative actions and roleplay. Mercer mentions "my Arcana check is a dismal ten" as part of his character narration, but this appears to be descriptive rather than an actual dice roll request. No skill checks, attacks, saving throws, or contested actions were attempted that require adjudication.
+
+
+--- DM ---
+Garrick reaches the observation window, his Large form dwarfed by the crystalline panel. The door beyond grinds open another six inches—the gap now wide enough for a human to slip through sideways. Cold air pours out, carrying the ozone-and-Dreamstone scent. Through the gap, he sees only darkness, but the pressure behind his eyes intensifies, becoming a throbbing ache.
+
+Cora examines the crystal chamber controls. She finds what she's looking for: a series of runic dials labeled in Giant script that Mercer translates as "Field Calibration — Emergency Protocols." But the dials are sized for Giant hands, each requiring immense force to turn.
+
+Mercer's analysis proves correct. The frequency pattern on the display shows the anomaly adapting in real-time—when Cora touches a dial, the pattern shifts, anticipating her adjustment. It's learning faster than they can react.
+
+Then the broadcast begins in earnest.
+
+**DC 13 Wisdom save (all characters):** The first psychic pressure. Not the full broadcast—the ambient leakage from the containment field. On failure: a flash of disorientation, a sense of being watched from below, a whisper at the edge of hearing that is not quite language. No mechanical effect. A warning.
+
+The runes on the walls blaze with light, their pulsing now frantic. The crystal chamber display shows containment field strength at the nearby node plummeting: 50%... 45%... 40%. The threshold Mercer identified as critical.
+
+From the platform above, Reyna's voice is sharp with alarm: "The breach is destabilizing! Energy feedback through the curtain!"
+
+The static curtain at the capstone breach flickers, its warm glow becoming erratic. The containment field is being stressed at multiple points simultaneously.
+
+The door grinds to a stop, its gap now a foot wide. The grinding sound ceases, replaced by a new sound: a low hum that vibrates through the stone, through their boots, through their bones. The Sleeper's broadcast has found a channel through the opening.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 6/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I grit my teeth against the psychic pressure, my Fey ancestry giving me some resistance. "Wisdom save passed—17. The whispers are there, but I can ignore them."
+
+I turn to the Giant-scale dials. "Garrick! Get over here and help me turn these! Your strength plus my knowledge—we need to force a field recalibration NOW!"
+
+I point to the largest dial. "This one—emergency frequency shift. It'll buy us time. Mercer, monitor the pattern—tell us when to stop turning!"
+
+I brace myself against the control panel. "On three! One, two, THREE!" I put all my weight into it, knowing Garrick's Giant's Might will provide the real force needed. "We need to shift the frequency before that broadcast finds a stable channel!"
+
+
+--- Garrick Kade ---
+I shake off the psychic pressure—my will is stronger than some ancient whisper. "Wisdom save passed—18. The whispers are just noise."
+
+I abandon the door and charge back toward the alcove. Cora's right—if we can shift the field frequency, we might seal that breach. I reach the crystal chamber just as she braces herself against the dial. "Move aside!" I grunt, grabbing the massive dial with both hands.
+
+My Giant's Might-enhanced strength surges as I put all my weight into it. The dial resists at first—this was built for giants, after all—but then it begins to turn with a deep grinding sound. "Which way, Mercer? How far?" I keep turning, the muscles in my arms straining against the ancient mechanism.
+
+The low hum from the door vibrates through the stone, getting louder. The broadcast is finding its channel. We're running out of time. "Tell me when to stop, wizard! Before whatever's in that void wakes up completely!"
+
+
+--- Professor Thaddeus Mercer ---
+"Wisdom save passed—seventeen," I say through gritted teeth, the psychic pressure like a vise around my skull. "But this is just the ambient leakage. The full broadcast will be catastrophic."
+
+I watch the frequency patterns on the display as Garrick turns the dial. "Stop! You're overshooting! The system is counter-adapting—it's learning from our adjustments!" The display shows the anomaly shifting in response, matching each frequency change almost instantly.
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+Cora Flint: Wisdom Save vs DC 13 — 17 vs DC 13 — **SUCCESS** She shakes off the psychic whispers.
+Garrick Kade: Wisdom Save vs DC 13 — 18 vs DC 13 — **SUCCESS** His will proves stronger than ancient pressure.
+Professor Thaddeus Mercer: Wisdom Save vs DC 13 — 17 vs DC 13 — **SUCCESS** He resists the ambient leakage.
+
+**Note:** All three PCs successfully passed their Wisdom saving throws against the Sleeper's psychic pressure. No mechanical effects from the failed roll (which was a natural 1 but not assigned to any character). Garrick's Strength check to turn the Giant-scale dial would require adjudication, but no specific roll was made for that action.
+
+
+--- DM ---
+Garrick's muscles strain as he turns the Giant-scale dial. The mechanism groans in protest, then yields with a deep *clunk*. The crystal chamber display flickers wildly as the containment field frequency shifts.
+
+For a moment, it works. The energy siphoning slows. The containment field strength at the nearby node stabilizes at 40%, holding just above the critical threshold. The low hum from the door diminishes slightly.
+
+Then the system adapts.
+
+The display shows the anomaly analyzing the new frequency, matching it, then beginning to siphon again. It's learning faster than they can adjust. Mercer watches in horrified fascination: "It's not just mimicking—it's predicting! It anticipates our next adjustment based on the pattern of our previous ones!"
+
+The door beyond the observation window remains open a foot, but no wider. The broadcast hum continues, a steady vibration through the stone. The psychic pressure remains constant—the ambient leakage they've already resisted.
+
+From the platform, Reyna calls down: "The breach is stabilizing! Whatever you did, it's holding for now!"
+
+But Mercer knows the truth. He points to the display, where a new reading appears: "Containment Integrity: Compromised. Broadcast Channel: Established." The door may not be opening wider, but the foot-wide gap is enough. The Sleeper has a channel through the containment.
+
+The crystal chamber offers one more piece of data: a schematic of the outer ring beyond the door—the corridor between the exterior wall and the interior void. It shows three sealed doors leading deeper, all locked by rune sequences. And it shows the path they need to take: through the outer ring, past Giant-scale security measures, to reach the control nodes that could properly reseal the breach.
+
+The adventure file's "Session 1" content has been covered: they've breached the capstone, experienced the scale shock, discovered the monitoring alcove, witnessed the door opening, and survived their first exposure to the Sleeper's broadcast. They've established that the containment is weakening and that something is learning to bypass it.
+
+**What do you do?** (The party must now decide whether to retreat to establish their forward camp, attempt to close the door manually, or begin exploring the outer ring despite the psychic hazard.)
+
+
+────────────────────────────────────────
+  Exchange 7/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I step back from the controls, wiping sweat from my brow. "CALCULATING our options," I say, my voice clinical despite the adrenaline. "Option one: retreat, establish a forward camp, and plan properly. Option two: attempt to manually close that door. Option three: explore the outer ring to reach control nodes."
+
+I look at the schematic on the crystal display. "That door is a foot open—broadcast channel established. Manual closure would require getting past it, which means exposure. Too risky without proper countermeasures."
+
+I turn to the others. "We retreat. We establish a fortified forward camp at the platform. We bring down supplies, set up a research station, and study these diagnostic tools properly. Then we plan our approach to the control nodes."
+
+I point back toward the breach. "We have containment stabilized for now. We have time to do this right. Charging deeper now would be reckless—and recklessness gets people killed and costs money."
+
+I start gathering my notes. "Garrick, cover our retreat. Mercer, document everything you can from this display before we go. We're not leaving permanently—we're establishing proper logistics for a sustained operation."
+
+
+--- Garrick Kade ---
+I release the dial, my hands aching from the strain. "Retreat?" I growl, looking back toward the open door. "That thing's learning, Cora. Every minute we give it is another minute it gets smarter."
+
+I shake my head. "We should close that door now. Manual closure might be risky, but waiting is worse." I glance at the schematic showing the outer ring. "Or we push forward to those control nodes. Sitting in a camp while that broadcast gets stronger..."
+
+But I see the logic in her plan. We're exposed down here, no real cover, and that psychic pressure is only going to get worse. "Fine," I grunt reluctantly. "We retreat. But we're coming back fast. That door stays open a foot, and whatever's behind it is awake now."
+
+I move to cover their retreat, my maul ready, eyes fixed on the observation window and that foot-wide gap. The low hum continues, vibrating through my boots. The Sleeper knows we're here. It's learning. And we're giving it time to learn more.
+
+"Move fast," I tell them, my voice low. "Get your documentation. We're not leaving this place unguarded for long."
+
+
+--- Professor Thaddeus Mercer ---
+"Both of you are missing the critical point," I say, my quill already transcribing the schematic from the crystal display. "My Arcana check of seventeen confirms what we're seeing: the containment isn't just 'compromised'—it's been deliberately modified. This broadcast channel wasn't an accident; it was engineered."
+
+I point to the energy flow patterns. "Look at the precision of the frequency matching. This isn't a creature brute-forcing its way out. This is something with intelligence—vast, alien intelligence—methodically solving a puzzle that's been in place for millennia. And it's using our presence as part of its solution."
+
+I turn to them, my expression grave. "Cora's right about establishing a forward camp, but for the wrong reasons. We need a research station, not just a defensive position. We need to study this system, understand how it's being manipulated, and find a way to introduce true randomness into the frequency patterns—something it can't predict."
+
+I gather my notes, my hands trembling slightly from the residual psychic pressure. "But Garrick is also right about time. Every moment we study it, it studies us. We're in a race of cognition against something that thinks in geological time. Retreat, yes—but we return with countermeasures, not just weapons."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+No contested actions this round.
+
+**Note:** The PCs are making narrative decisions about retreating and establishing a forward camp. Mercer mentions "My Arcana check of seventeen" as part of his character narration, but this appears to be descriptive rather than an actual dice roll request. No skill checks, attacks, saving throws, or contested actions were attempted that require adjudication.
+
+
+--- DM ---
+The party retreats to the platform, Garrick covering their withdrawal with his maul raised toward the observation window. The foot-wide gap remains, the low hum of the broadcast a constant reminder of the channel now open. The runes on the walls continue their frantic pulsing, but the containment field holds—for now.
+
+They establish their forward camp in the monitoring alcove, close enough to the capstone breach for the residual containment to provide psychic shielding during rest. Cora organizes supplies brought down from above: rations, water, bedrolls, and her alchemical equipment. Garrick positions himself at the alcove entrance, watching the corridor. Mercer sets up a makeshift research station, using the crystal chamber as his primary data source.
+
+Reyna descends with a team of engineers, her practical demeanor tempered by awe at the Giant architecture. "The Prospectors' Guild will need that name," she reminds them, but her attention is on the runes. "We can reinforce the breach above, but this... this needs study."
+
+That night, at camp, all three characters dream.
+
+Cora dreams of building something massive and perfect—a machine that runs forever, its gears the size of buildings, its tolerances measured in atoms. She understands every component, every interaction, and knows that if she could just complete it, it would solve every problem. But the dream shifts: the machine begins to build itself, learning from her designs, improving them beyond her understanding, until she's no longer the engineer but a component in her own creation.
+
+Garrick dreams of standing guard at a door that never opens. He's been there for centuries, his armor fused to his body, his maul grown into the stone floor. He knows with absolute certainty that if the door opens, something terrible will emerge, and his entire purpose is to keep it closed. But in the dream, he also knows the door will open eventually—it's inevitable—and when it does, he'll have failed the only thing that ever gave his vigil meaning.
+
+Mercer dreams of reading a book with infinite pages. Each page reveals something beautiful and terrible: the birth of stars, the death of civilizations, the secret names of gods. He understands that if he reads far enough, he'll find the answer to every question ever asked. But as he turns page after page, he realizes the book is reading him back—learning his thoughts, his fears, his memories—and the knowledge he gains is being used to write new pages about him.
+
+They wake at the same moment, the dreams lingering like afterimages. The runes on the walls pulse with that same slow rhythm. The broadcast hum continues from the open door. They don't discuss the dreams at breakfast, but they each know the others dreamed too.
+
+**What do you do?** (The forward camp is established. The party must now decide their next move: attempt to map the outer ring despite the psychic hazard, work with Reyna to reinforce the breach above, or focus on studying the containment system to develop countermeasures against the broadcast.)
+
+
+────────────────────────────────────────
+  Exchange 8/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+I wake with the dream still clinging to me like cobwebs. I don't mention it—some things are too personal, even for this clinical partnership. Instead, I focus on what's practical.
+
+"Morning assessment," I say, pulling out my ledger. "We have a forward camp established. We have a foot-wide breach with an active broadcast channel. We have dreams that are clearly not just dreams."
+
+I look at Mercer and Garrick. "We need to develop countermeasures before we go deeper. That broadcast is getting into our heads. I'm going to work on psychic shielding elixirs using my alchemical knowledge."
+
+I set up my alchemist's supplies, examining the Dreamstone fragment in its lead wrapping. "Mercer, I need your help analyzing the broadcast's frequency pattern from the crystal chamber. If we can identify its resonance signature, I might be able to brew something that disrupts it."
+
+I turn to Garrick. "You and Reyna's engineers should reinforce the breach above. Make sure our exit is secure. And while you're at it, tell her the name: 'The Bastion of the Asymmetrical.' It's professional, implies fortification, and acknowledges the location."
+
+I begin measuring ingredients. "We're not charging in blind. We plan, we prepare, we counter the threats. That's how we survive this."
+
+
+--- Garrick Kade ---
+I wake up sweating, the dream of standing guard for centuries still fresh in my mind. That door... that damned door. I don't mention it, just like Cora doesn't mention hers. Some things you keep to yourself.
+
+"Fine," I grunt, getting to my feet and hefting my maul. "I'll secure the breach with Reyna's crew. But 'Bastion of the Asymmetrical' still sounds like guild paperwork to me." I look toward the observation window, that foot-wide gap still glowing with cold light. "That door's not going to stay at one foot forever. Whatever's behind it is patient, but it's learning."
+
+I head back toward the platform, my boots echoing in the giant corridor. "Cora, brew your potions fast. Mercer, figure out that broadcast pattern. We're going to need every advantage when we go back down there."
+
+I reach the breach and start working with the engineers, reinforcing the capstone opening. My hands know this work—securing positions, building defenses. But my mind keeps going back to that dream. Standing guard forever, knowing the door will open eventually. That's not going to be our fate. We're going to seal that door for good, or die trying.
+
+
+--- Professor Thaddeus Mercer ---
+"The dreams weren't just dreams," I say quietly, my hands still trembling slightly as I set up my research station. "They were probes—psychic reconnaissance. The Sleeper is learning about us through our own subconscious. My Arcana check of twelve is... inadequate, but the pattern is clear."
+
+I approach the crystal chamber, my quill already transcribing the broadcast frequency data. "Cora, you're right about needing countermeasures, but elixirs won't be enough. This isn't a toxin—it's information. The broadcast is transmitting concepts, patterns of thought. It's trying to integrate us into its cognitive network."
+
+I look at both of them, my academic detachment completely gone. "We need to study the containment system's original design. The Giants built this to hold something that thinks. They must have included psychic shielding in the architecture itself. We need to find those mechanisms before we attempt to go deeper."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+No contested actions this round.
+
+**Note:** The PCs are making narrative decisions about their next steps at the forward camp. Mercer mentions "My Arcana check of twelve" as part of his character narration, but this appears to be descriptive rather than an actual dice roll request. Cora's alchemical work and Garrick's reinforcement work would require skill checks, but no specific rolls were made for these actions. No skill checks, attacks, saving throws, or contested actions were attempted that require adjudication.
+
+
+--- DM ---
+The day passes in focused activity. Cora works with her alchemical supplies, the Dreamstone fragment carefully unwrapped in a lead-lined containment field. She identifies the broadcast's resonance signature—a complex frequency pattern that Mercer helps her map from the crystal chamber data. Her experimental elixirs show promise: one formulation causes the Dreamstone to vibrate at a counter-frequency, disrupting the broadcast's coherence for brief moments.
+
+Garrick works with Reyna's engineers, reinforcing the capstone breach with adamantine plating salvaged from the Drowned Juggernaut. The static curtain stabilizes, its warm glow becoming steady again. Reyna accepts the name "Bastion of the Asymmetrical" with a nod, already drafting the official Guild documents. "It'll look good on the maps," she says, though her eyes keep drifting to the Giant runes on the walls.
+
+Mercer's research yields the critical breakthrough. Studying the containment system's original design through the crystal chamber archives, he discovers that the Giants didn't just build psychic shielding into the architecture—they built *adaptive* shielding. The containment runes themselves are designed to learn and counter the Sleeper's broadcast patterns, evolving as the Sleeper evolves. But the system has been running for millennia without maintenance, and its adaptive algorithms have degraded.
+
+As evening approaches, the crystal chamber displays a new alert: "Containment Node Delta — Integrity: 35%. Proximity: Outer Ring, Sector 2." The schematic shows its location: beyond the open door, in the outer ring corridor, past what the blueprint labels as "The Weight Gate"—a security measure requiring minimum mass to activate.
+
+The broadcast hum from the open door intensifies slightly. The psychic pressure returns, not as a sudden assault but as a creeping presence at the edge of awareness.
+
+Reyna approaches the party, her expression serious. "The engineers have done what they can with the breach. But that node at 35%... if it fails, the containment field in that sector collapses. Whatever's behind that door gets more room to work."
+
+She points to the schematic. "You need to reach that node. Stabilize it. But to get there, you have to pass through the outer ring's security measures. The Giants built puzzles—physical and magical barriers designed to prevent unauthorized access."
+
+The adventure file's "Session 1" content has concluded. The party has: breached the capstone, experienced the scale shock, discovered the monitoring alcove, witnessed the door opening, survived their first exposure to the Sleeper's broadcast, established a forward camp, and received their next objective. They now face the choice of whether to attempt to stabilize Containment Node Delta despite the psychic hazards and Giant-scale security measures.
+
+**SESSION 1 ENDS HERE**
+
+**What do you do?** (The party must decide whether to attempt to stabilize the failing containment node now, continue developing countermeasures at camp, or pursue another approach.)
+
+
+[Session] DM declared session end at exchange 8/20. Breaking loop early.
+
+============================================================
+  SESSION 11 WRAP-UP
+  API calls this session: 41
+============================================================
+
+[System] Updating campaign state...
+[Wiki Keeper] Extracting entities...
+  [Wiki] ↻ Reyna Steelforge.md (updated)
+  [Wiki] ↻ Grimhold.md (updated)
+  [Wiki] ↻ Prospectors' Guild.md (updated)
+  [Wiki] ✓ Bastion of the Asymmetrical.md (created)
+  [Wiki] ↻ Asymmetrical Mountain.md (updated)
+  [Wiki] ✓ Drowned Juggernaut.md (created)
+  [Wiki] ↻ Ignathar.md (updated)
+  [Wiki] ↻ Cold Forge.md (updated)
+  [Wiki] ✓ Giant Blueprint Tablet.md (created)
+  [Wiki] ↻ Dreamstone.md (updated)
+  [Wiki] ✓ The Sleeper.md (created)
+  [Wiki] ✓ Giant Empire.md (created)
+  [Wiki] ✓ Brotherhood Wardens.md (created)
+  [Wiki] ✓ Containment Node Delta.md (created)
+  [Wiki] ✓ The Weight Gate.md (created)
+
+[Wiki] 15 file(s) written to output/wiki/
+
+[Scribe] Writing session narrative...
+[Scribe] Blog saved to C:\Users\maxry\Desktop\AI DND\output\sessions\session_11.md
+
+[Editor] Fact-checking...
+[Editor] 3 content invention flag(s):
+  ⚠ The adventure file describes the Sleeper's broadcast as a psychic hazard that is not a conscious attack and the Sleeper is not aware of the party individually. The session report and transcript portray the Sleeper as actively learning, adapting, predicting, and probing the party's minds through dreams, which grants it more agency and consciousness than the adventure file describes.
+  ⚠ The adventure file describes the Giant puzzles (Weight Gate, Resonance Lock, Perspective Corridor) as physical and magical barriers the party must solve to proceed. These puzzles were not presented or solved in the session; instead, the party encountered a different obstacle (a door opening and a frequency-matching anomaly).
+  ⚠ The adventure file prescribes specific Wisdom saving throws with escalating DCs and effects when the party reaches the inner threshold and experiences the full broadcast. The session only included the initial DC 13 save for ambient leakage; the full broadcast encounter with the inner threshold, the void, the Anomaly's surface expression, and the escalating saves was skipped.
+[Editor] 4 missing content flag(s):
+  ✗ The party did not solve the three prescribed Giant puzzles: The Weight Gate, The Resonance Lock, and The Perspective Corridor.
+  ✗ The party did not reach the inner threshold chamber, experience the full Sleeper's broadcast with escalating DCs (16, 17, 18), see the Anomaly's surface expression, or receive Mercer's special vision of the containment's inevitable failure.
+  ✗ Key items from the adventure file (Giant Monitoring Crystal, Runic Rubbing Kit, Giant-Scale Supplies, 1200 gp in materials) were not found or mentioned.
+  ✗ The adventure file states the party should establish the forward camp after the full broadcast and retreat. The session established the camp after only the initial ambient leakage, before the prescribed deeper exploration and broadcast encounter.
+[Editor] Session report checked — no factual corrections needed.
+[Editor] Wiki entries checked — no factual corrections needed.
+[Editor] Review saved to: session_11_editor_review.md
+[Lorekeeper] Consistency pass...
+[Lorekeeper] Session report checked — no name corrections needed.
+[Lorekeeper] Upgraded 10 wiki entry/entries to encyclopedic format.
+[Lorekeeper] Review saved to: session_11_lore_review.md
+
+
+============================================================
+  ADVENTURE COMPLETE!
+  Adventure 11 finished.
+  Swapping to Adventure 12: The Dreamstone Vein
+  File: adventure_12_the_dreamstone_vein.md
+  --- LEVEL UP ---
+  Cora Flint: Level 11 → 12 | HP: 87 | New features: ASI: +2 INT (INT becomes 20, +5 modifier) | Note: INT increases to 20 (+5). Spell save DC becomes 17. Spell attack becomes +9.
+  Garrick Kade: Level 11 → 12 | HP: 112 | New features: ASI: Feat (Sentinel — opportunity attacks reduce speed to 0, attack when ally is attacked within 5ft)
+  Professor Thaddeus Mercer: Level 11 → 12 | HP: 62 | New features: ASI: Feat (War Caster — advantage on CON saves for concentration, somatic with hands full, opportunity attack cantrip)
+============================================================
+
+[Summary] Generating adventure 11 summary...
+[Summary] Adventure 11 summary saved.
+[Summary] Condensing story summary (237 words, 11 adventures → ~200 words)...
+[Summary] Condensed: 237 → 272 words.
+[Quests] Cleaning quest list (2 entries)...
+[Quests] Cleaned: 2 → 1 quests.
+[Lorekeeper] Running end-of-adventure wiki editorial pass...
+
+[Lorekeeper] Processing 89 wiki entries in batches...
+
+[Lorekeeper] Batch 1/4 (25 entries)...
+[Lorekeeper] Batch 1: 25 updated, 3 marked for deletion.
+[Lorekeeper] Batch 2/4 (25 entries)...
+[Lorekeeper] Batch 2: 25 updated, 3 marked for deletion.
+[Lorekeeper] Batch 3/4 (25 entries)...
+[Lorekeeper] Batch 3: 25 updated, 0 marked for deletion.
+[Lorekeeper] Batch 4/4 (14 entries)...
+[Lorekeeper] Batch 4: 14 updated, 1 marked for deletion.
+[Lorekeeper] Removed 7 duplicate(s): The Drowned Juggernaut, The Sleeper, Anomaly, The Drowned Juggernaut, Sleeper, Giant foundation, Anomaly
+[Lorekeeper] Running cross-batch dedup pass...
+[Lorekeeper] Dedup pass: 2 duplicate(s) resolved.
+[Lorekeeper] End-of-adventure editorial pass complete.
+
+[Transcript] session_11 -> session_11_transcript.md (41 blocks parsed)
+
+============================================================
+  SESSION 11 COMPLETE
+  Blog saved to: output/sessions/session_11.md
+  Transcript saved to: output/sessions/session_11_transcript.md
+  Log saved to: output/logs/session_11_log.txt
+  Reviews saved to: output/reviews/
+  Wiki updated in: output/wiki/
+  State saved to: campaign_state.json
+  >>> Adventure 11 complete! Next adventure loaded.
+  >>> Story summary condensed for next adventure.
+============================================================
+
+[Site] Building static site...
+[Site] Built 125 pages (11 sessions, 86 wiki entries) in 0.8s -> docs/
+[Git] Publishing session 11...
+[Git] Committed: session 11: campaign update
+[Git] Pushed to origin.

@@ -1,0 +1,1 @@
+**Twisted Saboteurs** are dwarves integrated into the [[Bioreactor Colony]], used as puppet-like maintenance crews to keep the pumps at [[Pump Station East]] offline. These entities attacked a group of explorers but were rendered inert after the colony's destruction.

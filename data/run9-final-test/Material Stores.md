@@ -1,0 +1,4 @@
+The **Material Stores** are a series of vast storage chambers within the [[Dwarven Layer]], located above the [[Cold Forge]]. They were used by the dwarves of [[Kazad-Khrom]] to stockpile raw materials for forge operations.
+
+## Description
+The chambers feature iron-railed shelving carved directly into the stone walls. While mostly empty, some shelves contain quantities of raw ore, including iron, copper, and tin. One sealed bin holds approximately forty pounds of unworked adamantine ore, which requires the extreme heat of a fully operational Cold Forge to be worked. The stores also contained the [[Runesmith's Journal (Forge Master Ignathar Binding Log)]].

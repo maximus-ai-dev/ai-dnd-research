@@ -1,0 +1,1 @@
+The **Marker Stone** is an ancient standing stone located in the town square of [[Grimhold]]. A magical examination of the stone revealed its true purpose as part of a larger containment system and triggered a response from the seal, alerting the [[First World Sleeper]] to the presence of those who examined it.

@@ -1,0 +1,4 @@
+**Scaling Runes** are a set of advanced runic techniques developed by the Giant architect [[Korathan]].
+
+## Nature, Discovery, and Significance
+These runes represent Korathan's masterwork, detailing the principles that allow containment magic and other runic architectures to function effectively at any scale. They enable the translation of Giant-sized magical engineering down to human-portable devices. The runes were discovered inscribed on the walls of Korathan's tomb, [[The Maker's Rest]]. Their placement there was intentional, as Korathan anticipated that future maintainers of the containment would be smaller than Giants. The acquisition of these runes by the expedition is a critical technological breakthrough. They allow for the enhancement of existing [[Dreamstone]] equipment, the design of new portable containment devices, and lay the essential theoretical groundwork for the construction of a final [[Dreamstone Seal]].

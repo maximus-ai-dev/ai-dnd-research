@@ -1,0 +1,1485 @@
+=== Session Log — 2026-03-26T20:56:00.896460 ===
+
+[Log] Raw terminal output being saved to: C:\Users\maxry\Desktop\AI DND\output\logs\session_02_log.txt
+
+
+============================================================
+  SESSION 2 BEGINNING
+  Adventure 2: The Salt Vaults Scavenge
+  Adventure Session: 1/1
+  Models: All DeepSeek
+  Exchanges: 20 (full session)
+============================================================
+
+[Session] Enemy agents created: Rat King, Rat Swarm
+[Session] Enemy acts AFTER PCs (PC-initiated)
+
+[DM] Opening scene...
+
+
+--- DM ---
+The chill of winter has settled over the Starmetal Hills like a heavy blanket. For three days after their confrontation with Kregg, the party rested in the captured fortress — now their fortress — while the first snows dusted the mountain peak in white. They made the trip down to Grimhold, resupplied at the Griffon's Hold, and returned with enough provisions to last a week. Cora negotiated with Reyna Steelforge for a modest advance on future salvage rights. Garrick spent hours on the walls, watching the hills below for signs of trouble. Mercer cataloged the fortress's strange architecture, his journal filling with sketches and theories about the mountain's unnatural geometry.
+
+Now, on the fourth morning, the reality of their situation becomes starkly clear. Brenna — the scarred, practical woman who has become the de facto leader of the former bandits — finds the party in the main hall. Her expression is grim but not panicked.
+
+"Ten days," she says, her voice carrying the flat certainty of logistics. "Maybe twelve if we cut portions again. We have water from the deep well, but the food stores Kregg hoarded are nearly gone. After that, I can't keep them here. People will start dying or deserting."
+
+She gestures toward the courtyard where fifteen cold, hungry people huddle around small fires. They're not soldiers — they're failed criminals, desperate souls who followed Kregg because he offered shelter. Now they look to the party for the same.
+
+Rolf, the quiet one who has been exploring the fortress perimeter, approaches. "Found something," he grunts, pointing toward the back of the hall. "Behind the collapsed timber wall. A stairwell, partially choked with rubble. Leads east and down — not toward the foul drafts from the west. This one smells like dust and old stone. Worked stone."
+
+The air in the hall is cold enough to see breath. Through the open doorway, snowflakes drift lazily past the ancient standing stones that circle the courtyard. The fortress provides shelter, but shelter without food is just a slower way to die.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 1/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora pulls out her ledger, flipping to a fresh page and making quick calculations with a charcoal pencil. The numbers are stark, and she doesn't bother softening them.*
+
+"Ten days. That's our timeline. Fifteen mouths to feed, plus the three of us. Let's break this down." *She looks at Brenna, then at her companions.* "We have three options: One, we abandon this fortress and return to Grimhold empty-handed — which means I default on my debts and we lose the salvage rights. Two, we try to hunt enough game in winter-stricken hills to feed eighteen people — statistically impossible. Three," *she gestures toward the stairwell Rolf indicated,* "we explore that worked stone passage and hope it leads to something valuable enough to trade for supplies."
+
+*She closes her ledger with a snap.* "Option three is the only one that doesn't end with us starving or bankrupt. But we don't go in blind." *Turning to Mercer,* "Professor, I need you to examine that stairwell for magical traces or architectural clues about its purpose. Garrick, clear the rubble safely — I don't want a cave-in on our only potential asset."
+
+*Cora moves toward the stairwell herself, pulling out her thieves' tools and beginning a systematic examination of the stonework, looking for traps, structural integrity, and any signs of what might lie below.*
+
+
+--- Garrick Kade ---
+*Garrick grunts in agreement, hefting his maul onto his shoulder.* "Option three it is. Talking won't fill bellies, and hunting in this snow would just waste time we don't have."
+
+*He strides toward the collapsed timber wall, his heavy boots crunching on stone dust. Without hesitation, he begins clearing rubble from the stairwell entrance, using his maul's handle as a lever for larger stones and his brute strength for the rest. His movements are methodical and efficient — years of enforcer work taught him how to clear paths quickly without causing further collapse.*
+
+
+--- Professor Thaddeus Mercer ---
+*Ahem.* "A moment, if you please. Before we go charging into what could be a significant archaeological site."
+
+I produce my wizardly quill with a flourish—it materializes from thin air, a floating instrument of shimmering blue light—and open my spellbook. "First, an examination. Rolf mentioned 'worked stone' and 'dust and old stone' rather than 'foul drafts.' That suggests dwarven or perhaps pre-Calamity Giant construction, not the more recent... improvisations of bandits."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Investigation check on stairwell stonework — Let's roll with advantage since she's using thieves' tools and being systematic. Roll: 2d20kh1+3 (Investigation +3). Result: 17 (14+3) vs DC 13 — **SUCCESS** Cora finds no traps and confirms the stonework is ancient but structurally sound.
+
+**Garrick Kade**: Athletics check to clear rubble safely — Roll: 1d20+5 (Athletics +5). Result: 19 (14+5) vs DC 12 — **SUCCESS** Garrick efficiently clears the stairwell entrance without causing further collapse.
+
+**Professor Thaddeus Mercer**: Arcana check to identify architectural origins — Roll: 1d20+5 (Arcana +5). Result: 22 (17+5) vs DC 15 — **SUCCESS** Mercer confirms this is pre-Calamity Giant construction, not dwarven or bandit work.
+
+
+--- DM ---
+Garrick's powerful shoulders strain as he lifts a massive stone slab that had partially collapsed across the stairwell entrance. With a grunt of effort, he shifts it aside, sending dust and smaller debris cascading down the newly revealed steps. The stairwell is narrow — barely wide enough for one person — and descends into darkness at a steep angle. The air that rises is cold, dry, and carries the scent of ancient dust and worked stone, not the metallic corruption they'd encountered in the western passages.
+
+Cora kneels at the entrance, her thieves' tools probing the stonework with practiced precision. "No traps," she announces, brushing dust from her hands. "And the masonry is solid — whoever built this knew what they were doing. These stones are fitted without mortar, but they've held for centuries. The stairwell is structurally sound."
+
+Mercer approaches, his wizardly quill floating beside him as it scribbles notes in his open spellbook. "Fascinating," he murmurs, peering at the stonework. "Not dwarven — the scale is wrong. Dwarves build for eternity, but they use mortar and reinforcement. This..." He runs a hand along the edge of a stone block. "This is Giant construction. Pre-Calamity. Look at the size of these blocks — each one weighs as much as a cart horse. And the precision of the fitting... Giants didn't just throw stones together. They engineered." He turns to the others, his eyes alight with academic excitement. "This isn't a mine shaft. This is architecture. Purpose-built corridors leading somewhere important."
+
+From the courtyard behind them, Brenna watches with folded arms. "Important is good," she says flatly. "Important might mean food stores. Or it might mean more trouble. Either way, we're on the clock."
+
+Rolf moves to the stairwell entrance, peering down into the darkness. "I'll go first," he says quietly. "Quieter than all of you." He produces a hooded lantern from his pack, lights it, and begins descending the steps, his movements silent as a shadow.
+
+The stairwell descends about sixty feet through the mountain's heart. The air grows colder with each step, and the sound of their breathing echoes in the confined space. At the bottom, the stairs open into a corridor — but this is no crude tunnel. The walls are smooth, worked stone, the ceiling low enough that Garrick has to duck. Arrow slits are carved into the walls at regular intervals, angled to provide overlapping fields of fire down the corridor. Murder holes dot the ceiling above.
+
+Rolf holds up a hand, his lantern casting long shadows. The corridor stretches ahead into darkness, branching in multiple directions. Faint scratching sounds echo from somewhere deeper in — the sound of claws on stone. The air smells of dust, old stone, and something else... a faint, unsettling scent of ammonia.
+
+**The Iron Warlords' layer lies before you. What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 2/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora immediately pulls out her ledger, making a quick sketch of the corridor layout as she sees it. Her eyes scan the murder holes and arrow slits with professional assessment.*
+
+"Hold position," *she whispers, her voice carrying the flat tone of someone calculating survival odds.* "This is a defensive corridor — designed to funnel attackers into kill zones. Those murder holes mean there are chambers above us. Those arrow slits mean side passages or guard rooms. We're walking into a prepared battlefield."
+
+*She turns to Mercer, keeping her voice low.* "Professor, I need you to use Detect Magic. Check for magical traps, wards, or surveillance. This is Giant architecture, and if they were paranoid enough to build murder holes, they might have layered in magical defenses."
+
+*To Garrick, she gestures toward the branching corridors.* "We need to map this systematically. Every branching path is a potential ambush point or resource location. Rolf, listen carefully — those scratching sounds. Can you identify direction, number, or type? Claws on stone could be vermin, constructs, or something worse."
+
+*Cora herself moves to examine the nearest arrow slit, checking for mechanisms, residue, or signs of recent use.*
+
+
+--- Garrick Kade ---
+*Garrick's hand tightens on his maul as he hears the scratching sounds. He ignores Cora's mapping instructions and pushes past Rolf, his chain mail scraping against the low ceiling.*
+
+"Enough talking. That's not vermin — that's something moving. If it's in here, it's a threat."
+
+*He charges down the main corridor toward the source of the scratching, his maul raised and ready. The defensive architecture means nothing to him — if there's something alive down here, it needs to be dealt with before it can set up an ambush from those murder holes.*
+
+
+--- Professor Thaddeus Mercer ---
+"Garrick, you absolute fool!" I hiss, my voice tight with frustration. "This isn't a tavern brawl—this is a pre-Calamity Giant defensive corridor! Those murder holes could be manned by constructs that haven't moved in centuries, waiting for exactly this kind of frontal assault!"
+
+I ignore his reckless charge and focus on Cora's request. Closing my eyes, I begin the somatic gestures for Detect Magic, my fingers tracing arcane patterns in the cold air. "A moment for proper examination. Let's see what magical residues linger in this place..."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Investigation check on arrow slit — Roll: 1d20+3 (Investigation +3). Result: 15 (12+3) vs DC 13 — **SUCCESS** Cora finds no recent use but notes the arrow slits have simple mechanical shutters that could be operated from side chambers.
+
+**Garrick Kade**: Stealth check while charging (disadvantage due to chain mail and charging) — Roll: 2d20kl1+1 (Stealth +1 with disadvantage). Result: 6 (5+1) vs DC 10 — **FAILURE** Garrick's armor clanks loudly as he charges, alerting anything nearby to his approach.
+
+**Professor Thaddeus Mercer**: Casting Detect Magic (no roll needed for ritual casting) — **SUCCESS** Mercer begins the 10-minute ritual to detect magical auras in the area.
+
+**Rolf**: Perception check to identify scratching sounds — Roll: 1d20+4 (Perception +4). Result: 18 (14+4) vs DC 12 — **SUCCESS** Rolf identifies the scratching as coming from two sources: one ahead to the left, one further down the right corridor. The sound suggests multiple small creatures, not one large one.
+
+
+--- DM ---
+Garrick's charge echoes down the corridor like a thunderclap. His chain mail scrapes against the low ceiling, his boots pound on the stone floor, and the sound of his breathing is loud in the confined space. The scratching sounds ahead stop abruptly — then resume with frantic urgency, moving away from his approach.
+
+Rolf holds up a hand, his eyes narrowing. "Two groups," he whispers. "Left corridor, maybe thirty feet ahead. Right corridor, further down. Multiple small creatures. They heard him."
+
+Cora examines the nearest arrow slit, her fingers tracing the edges. "Simple mechanical shutters," she reports. "Operated from side chambers. No recent use — the dust is undisturbed. But if there are creatures down here, they could figure out how to use them." She turns back to the group, her expression grim. "Garrick just announced our presence to everything in this layer."
+
+Mercer ignores the commotion, his eyes closed as he completes the ritual. A faint shimmer of arcane energy spreads from his hands, washing over the corridor. He opens his eyes, and the world shifts into layers of magical residue. "Fascinating," he murmurs. "No active magical traps or wards. But there's... a background radiation. Faint, diffuse magical energy permeating the stone itself. Not dangerous — just residual. Like the stone has been soaking in low-level magical energy for centuries." He looks at Cora. "It explains the mutations in any creatures living down here long-term. They'd be exposed to constant, low-dose magical radiation."
+
+From ahead, Garrick reaches a junction where the corridor splits left and right. The scratching sounds have retreated down both passages, but now new sounds emerge — the skittering of many small feet, moving quickly. Not fleeing. Circling.
+
+Rolf moves up beside Garrick, his lantern revealing the junction. To the left, the corridor continues about forty feet before turning. To the right, it opens into what appears to be a larger chamber. On the floor at the junction, fresh scratches mar the ancient stone — deep gouges, the size of large dog claws. And they're recent.
+
+From the left corridor, three pairs of glowing eyes appear in the darkness. Then three more from the right. The creatures emerge into the lantern light — giant rats, but wrong. Their fur has a faint iridescent sheen, like oil on water. Their eyes glow with a sickly yellow light. They're larger than any rat should be, the size of medium dogs, and they don't flee from the light. Instead, they fan out, blocking both passages, their teeth bared in silent snarls.
+
+**Six mutated giant rats have the party surrounded at the junction. They're not attacking yet — they're positioning, cutting off retreat. What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 3/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora's eyes dart between the two groups of rats, calculating angles, distances, and tactical positions. She doesn't panic — she assesses.*
+
+"Garrick, hold the right flank — they're trying to flank us through that chamber. Rolf, left corridor — keep them from surrounding us. Mercer, magical radiation means they're resistant or enhanced. Standard attacks might not be enough."
+
+*She raises her hand, frost forming around her fingers as she targets the closest rat on the right flank.* "I'm creating a choke point with Ray of Frost. Slowing one down will bottleneck their approach."
+
+*She lets the icy beam fly at the lead rat on the right side, then immediately starts backing toward the wall to give Garrick room to swing his maul.* "Don't let them get behind us! They're coordinating — this isn't animal behavior. They've been down here long enough for the radiation to affect their intelligence."
+
+
+--- Garrick Kade ---
+*Garrick ignores Cora's tactical instructions about holding position. He sees the glowing-eyed rats blocking the right passage and immediately charges, his maul already swinging in a wide arc aimed at the lead mutant rat.*
+
+"Enough of this! They're rats — mutated or not, they die the same!"
+
+*His maul connects with a sickening crunch as he brings it down on the nearest rat. The force of the blow sends the creature skidding across the stone floor, but the mutated creature's unnatural resilience means it's still twitching.*
+
+
+--- Professor Thaddeus Mercer ---
+"Coordinated flanking maneuvers? Cora's right—this isn't simple vermin behavior." I retreat several steps, positioning myself between Garrick and the wall to avoid being surrounded. My mind races through my spellbook's options. "Magical radiation exposure suggests potential resistance to conventional damage... but sound and concussive force should remain effective."
+
+I raise my hands, my fingers tracing precise arcane patterns. "A controlled application of thunderwave should disrupt their coordination without collapsing the ancient architecture. Stand clear!" I target the three rats on the left flank—the ones Rolf is holding back—and unleash a wave of thunderous force.
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Ray of Frost attack on right flank rat — Roll: 1d20+5 (spell attack +5). Result: 18 (13+5) vs AC 12 — **HIT** Damage: 1d8 cold = 5 damage. The rat is slowed (speed reduced by 10 ft) and now has 5 damage.
+
+**Garrick Kade**: Maul attack on right flank rat — Roll: 1d20+5 (attack +5). Result: 22 (17+5) vs AC 12 — **HIT** Damage: 2d6+3 (reroll 1s and 2s) = 8 (3,5+3) damage. The rat takes 8 damage and is badly injured but still alive due to mutation resilience.
+
+**Professor Thaddeus Mercer**: Thunderwave spell on left flank rats — Rats make CON saves DC 13. Roll for 3 rats: 12, 15, 8. Results: 1 SUCCESS, 2 FAILURES. Damage: 2d8 thunder = 9 (4,5) damage. Two rats take 9 damage each (likely dead), one takes half damage (4).
+
+
+--- DM ---
+Cora's ray of frost streaks across the junction, striking the lead rat on the right flank. Ice crystals bloom across its iridescent fur, and the creature staggers, its movements suddenly sluggish as the cold magic seeps into its mutated flesh.
+
+Garrick's maul follows a heartbeat later, descending in a brutal arc that connects with a sickening crunch. The rat's body contorts unnaturally, bones snapping, but the creature doesn't die immediately. It twitches on the stone floor, black blood oozing from its mouth, its glowing eyes fixed on Garrick with unnatural hatred.
+
+From the left corridor, Mercer's thunderwave erupts. The concussive force slams into the three rats, sending two of them flying backward to smash against the stone walls. They fall limp, their bodies broken. The third rat staggers but remains standing, shaking its head as blood trickles from its ears.
+
+The remaining rats don't flee. Instead, they attack with coordinated fury. The injured rat on the right lunges at Garrick, its teeth sinking into his leg armor. [Garrick takes 4 piercing damage — 18/22 HP remaining]. The slowed rat tries to circle around Cora, but its frozen limbs betray it, and it stumbles against the wall.
+
+From the left, the surviving rat and the two from the right chamber rush forward. Rolf meets them with his short sword, his movements economical and deadly. He impales one through the throat, but the other two swarm past him, heading straight for Mercer.
+
+The wizard backs against the wall, his hands already weaving another spell. "They're targeting the spellcaster! Cora, they're learning!"
+
+The corridor fills with the sounds of combat — the clang of Garrick's maul against stone as he swings at the rat clinging to his leg, the hiss of Cora's alchemical preparations, the skittering of claws on stone as more rats approach from deeper in the corridors. The scratching sounds they heard earlier weren't just these six — they were scouts. The main colony is coming.
+
+**Four rats remain active: one injured on Garrick, one slowed near Cora, and two fresh ones closing on Mercer. More scratching sounds echo from both corridors — reinforcements are coming. What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 4/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora's eyes dart to Mercer, then to the approaching reinforcements. She makes a quick calculation — healing Garrick now versus protecting their spellcaster.*
+
+"Garrick can take another hit — Mercer can't. Rolf, cover the left corridor! Garrick, finish that rat on your leg!"
+
+*She raises her hand, magical energy coalescing as she targets Mercer with Healing Word.* "Professor, stay on your feet! That's coming out of your share!"
+
+*The healing energy washes over Mercer, then Cora immediately turns her attention to the slowed rat near her. She draws a dagger from her belt, moving to finish it off before it can recover.*
+
+
+--- Garrick Kade ---
+*Garrick grunts as the rat's teeth sink into his leg armor. He ignores the pain and brings his maul down in a vicious overhead strike on the creature still clinging to him.*
+
+"Get off me, you glowing-eyed vermin!"
+
+*The maul connects with a wet crunch, smashing the mutated rat against the stone floor. He then immediately turns toward the two rats closing on Mercer, charging between them to put himself between the wizard and the approaching reinforcements.*
+
+"Back to back, professor! They want the magic-user — they'll have to go through me first!"
+
+
+--- Professor Thaddeus Mercer ---
+"Thank you, Cora—though I'll note that magical healing is hardly an 'expense' in the ledger sense." I feel the healing energy knit together minor scrapes and bruises as Garrick positions himself between me and the approaching rats.
+
+My eyes dart between the two fresh rats closing in. "They're targeting spellcasters specifically. That suggests either instinctual recognition of magical threat... or something more disturbing." I raise my hand, three glowing darts of force materializing around my fingers. "Magic Missile doesn't require an attack roll—perfect for coordinated, intelligent creatures trying to dodge."
+
+I target the two rats closing on me, splitting the missiles between them. "Let's see how they handle unavoidable arcane force!"
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Healing Word on Mercer — Automatic success, heals 1d4+3 = 6 (3+3) HP. Mercer at 12/12 HP. Dagger attack on slowed rat — Roll: 1d20+4 (attack +4). Result: 19 (15+4) vs AC 12 — **HIT** Damage: 1d4+2 = 5 (3+2) damage. The slowed rat is finished off.
+
+**Garrick Kade**: Maul attack on rat clinging to leg — Roll: 1d20+5 (attack +5). Result: 24 (19+5) vs AC 12 — **HIT** Damage: 2d6+3 = 10 (4,3+3) damage. The injured rat is killed instantly. Garrick then moves to protect Mercer (no attack).
+
+**Professor Thaddeus Mercer**: Magic Missile on two rats — Automatic hits, no attack roll needed. Damage: 3 missiles total. Two rats get 1 missile each (1d4+1 = 4 damage each), one rat gets the third missile (1d4+1 = 3 damage). Two rats take 4 damage each, one takes 3 damage. All three rats are injured but still standing.
+
+
+[Enemy] Rat King acting...
+
+
+--- Rat King (Enemy) ---
+I need to check the current campaign state to see the party's positions and HP before declaring my actions as Rat King.
+
+
+[Enemy] Rat Swarm acting...
+
+
+--- Rat Swarm (Enemy) ---
+=== RAT SWARM ACTIONS ===
+
+**Wave 1 Giant Rats (4 remaining):**
+
+1. **Slowed rat near Cora:** The rat, still slowed by ray of frost, stumbles toward Cora and attempts to bite her.
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+**Slowed rat**: Bite attack vs Cora Flint — Roll: 1d20+4 (attack +4 with disadvantage due to slowed condition). Result: 2d20kl1+4 = 8 (4+4) vs AC 14 — **MISS** The slowed rat stumbles and misses Cora completely due to its frozen limbs.
+
+**Note**: The enemy actions only specified one rat attacking. Based on the scene description, there should be additional rats attacking Garrick and Mercer, but those actions weren't declared in the enemy actions provided. Only the slowed rat's attack was specified.
+
+
+--- DM ---
+The slowed rat stumbles toward Cora, its movements jerky and uncoordinated from the ray of frost. It lunges, teeth snapping at the air where she stood a moment before, then crashes into the stone wall beside her. Ice crystals shatter from its fur as it struggles to right itself.
+
+Mercer's magic missiles streak across the junction, three glowing darts of force that slam into the two rats closing on his position. The impacts send them skidding backward, black blood spraying from fresh wounds. They shake their heads, disoriented but not dead, their glowing eyes fixed on the wizard with renewed fury.
+
+From the left corridor, the scratching sounds grow louder. Rolf holds his position, his short sword ready, but his eyes widen as he sees what's coming. "More of them!" he calls out. "A dozen at least!"
+
+The two injured rats near Mercer don't retreat. Instead, they split — one circling to flank Garrick while the other tries to dart past him to reach Mercer. The rat going for Garrick sinks its teeth into his already-injured leg [Garrick takes 3 piercing damage — 15/22 HP remaining]. The other rat manages to slip past the fighter's guard, leaping toward Mercer with teeth bared.
+
+From the right corridor, fresh rats emerge — four more of the mutated creatures, their iridescent fur gleaming in Rolf's lantern light. They don't charge immediately. Instead, they fan out, blocking the retreat back up the stairwell, their movements coordinated, their glowing eyes watching the party with unsettling intelligence.
+
+The junction has become a killing ground. Garrick is wounded and surrounded. Mercer has a rat leaping at him. Cora has the slowed rat recovering at her feet. Rolf faces a dozen more approaching from the left. And the escape route is now blocked by four fresh rats.
+
+**The party is surrounded. Garrick is wounded. Mercer is about to be attacked. More rats are coming from both directions. What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 5/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora's mind races through options — retreat blocked, reinforcements incoming, Garrick bleeding. She makes the only logical calculation.*
+
+"Fall back to the right chamber! It's our only defensible position! Garrick, clear the path! Mercer, Thunderwave the ones blocking our retreat!"
+
+*She drops to one knee, placing her hands on Garrick's wounded leg as golden healing energy flows from her hands.* "Cure Wounds — that's expensive, so don't waste it!"
+
+*As the healing takes effect, she rises and fires another Ray of Frost at the lead rat blocking their retreat to the right chamber, trying to create an opening.*
+
+
+--- Garrick Kade ---
+*Garrick feels the healing energy flow through his leg as Cora's magic knits the wounds. He doesn't thank her — there's no time. Instead, he roars and charges straight at the four rats blocking their retreat to the right chamber, his maul swinging in a wide, brutal arc.*
+
+"Out of my way!"
+
+*He smashes through their formation, his maul connecting with one of the blocking rats and sending it flying into the wall. He doesn't wait to see if it's dead — he keeps moving, creating a path for the others.* "Mercer! Rolf! Move! Through the gap!"
+
+
+--- Professor Thaddeus Mercer ---
+"Retreating to a defensible position is sound tactics!" I shout, already moving as the rat leaps at me. I duck and weave aside with surprising agility—my elven reflexes serving me well despite my scholarly nature.
+
+As I follow Garrick's path through the gap he created, I glance back at the rats blocking our retreat. "Thunderwave would risk catching Garrick in the blast... but a more precise application..." I raise my hand, targeting the three rats still blocking our escape route with another volley of Magic Missile. "This should clear our exit!"
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Cure Wounds on Garrick — Automatic success, heals 1d8+3 = 9 (6+3) HP. Garrick at 24/22 HP (overhealed by 2). Ray of Frost attack on lead blocking rat — Roll: 1d20+5 (spell attack +5). Result: 16 (11+5) vs AC 12 — **HIT** Damage: 1d8 cold = 7 damage. The rat is slowed and takes 7 damage.
+
+**Garrick Kade**: Maul attack on blocking rat formation — Roll: 1d20+5 (attack +5). Result: 23 (18+5) vs AC 12 — **HIT** Damage: 2d6+3 = 11 (5,3+3) damage. One rat is smashed aside, creating a gap in their formation.
+
+**Professor Thaddeus Mercer**: Acrobatics check to dodge leaping rat — Roll: 1d20+2 (DEX +2). Result: 15 (13+2) vs DC 12 — **SUCCESS** Mercer dodges the rat's attack. Magic Missile on three blocking rats — Automatic hits, no attack roll needed. Damage: 3 missiles total. Each rat takes 1 missile (1d4+1 = 3, 4, 3 damage respectively). All three rats take damage but remain standing.
+
+
+[Enemy] Rat King acting...
+
+
+--- Rat King (Enemy) ---
+Based on the DM's narration, I can see the party is in combat with rats and trying to retreat. As Rat King, I need to declare my combat actions. However, I notice that the DM hasn't mentioned my presence or position yet - I'm supposed to be atop the stone silo according to my behavioral triggers. The narration describes rats attacking but doesn't mention the Rat King specifically.
+
+Since I'm Rat King and I'm supposed to be on the stone silo throne, and I need to attack the party (Garrick, Cora, and Mercer), I'll assume I'm observing from my position and will use my abilities. According to my triggers, I use Aura of Command every round it's available to make my rats attack as reactions. Let me check if Aura of Command is available by rolling for recharge.
+
+
+[Enemy] Rat Swarm acting...
+
+
+--- Rat Swarm (Enemy) ---
+=== RAT SWARM ACTIONS ===
+
+**Wave 1 Giant Rats (multiple remaining):**
+
+1. **Rat leaping at Mercer:** The rat that slipped past Garrick attempts to bite Mercer as he dodges away.
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+**Rat leaping at Mercer**: Bite attack vs Professor Thaddeus Mercer — Roll: 1d20+4 (attack +4). Result: 17 (13+4) vs AC 12 — **HIT** Damage: 1d4+2 piercing = 5 (3+2) damage. Mercer takes 5 damage, now at 7/12 HP.
+
+**Note**: The Rat King's Aura of Command cannot be used because the Rat King hasn't been introduced into the scene yet according to the DM's narration. Only the rat attacking Mercer was specified in the enemy actions.
+
+
+--- DM ---
+Cora's healing magic washes over Garrick, knitting the wounds in his leg as golden light flows from her hands. The fighter feels strength return to his limbs, and he charges forward with renewed fury. His maul smashes into one of the rats blocking their retreat, sending the creature flying into the stone wall with a sickening crunch.
+
+Mercer dodges the leaping rat with elven grace, but as he moves to follow Garrick, the creature's teeth sink into his shoulder. [Mercer takes 5 piercing damage — 7/12 HP remaining]. The wizard gasps in pain but keeps moving, firing three glowing missiles of force that strike the remaining blocking rats. The impacts stagger them, black blood spraying across the stone floor.
+
+Cora's ray of frost strikes the lead rat, ice crystals blooming across its iridescent fur. The creature staggers, its movements slowed, but it doesn't fall.
+
+Garrick's charge has created a gap in the blockade. The right corridor opens into a larger chamber — a guardroom, by the look of it. Rusted weapon racks line the walls, and a collapsed wooden table lies in the center. Most importantly, there's space to maneuver, and only one entrance to defend.
+
+Rolf backs toward the opening, his short sword keeping the rats from the left corridor at bay. "Through! Now!" he shouts.
+
+The party scrambles through the gap into the guardroom. The rats don't follow immediately — they regroup at the entrance, their glowing eyes watching from the darkness of the corridor. The scratching sounds from both corridors continue, but no more rats emerge to attack. For the moment, there's a standoff.
+
+Inside the guardroom, the air is still and cold. A faded map is painted on one wall — a schematic of corridors, barracks, and a large area labeled in old Common as "The Salting Halls." The map shows their current location and the path to what must be the food stores. On the opposite wall, a row of arrow slits looks out into darkness.
+
+Garrick stands at the entrance, his maul ready, breathing heavily. Cora immediately begins examining the map, her fingers tracing the route to the Salting Halls. Mercer leans against the wall, pressing a hand to his bleeding shoulder.
+
+From the corridor outside, the scratching sounds continue, but they're moving away now — retreating deeper into the complex. The rats aren't pursuing. They're falling back to defend something.
+
+**The party has reached a defensible position and found a map to the Salt-Vaults. Mercer is wounded. The rats have retreated but are still out there. What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 6/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora immediately turns from the map to Mercer, her clinical efficiency taking over. She pulls out her alchemist's supplies and begins preparing a poultice.*
+
+"Professor, sit. Shoulder wound, five points of damage. You're at seven of twelve." *She applies the poultice with practiced hands.* "This will stop the bleeding and prevent infection. The rats' teeth are likely carrying bacteria from whatever they've been eating down here."
+
+*She turns to the map, tracing the route with her finger.* "The Salting Halls are our objective — food preservation. But those rats retreated to defend something. Either they're guarding their nest, or they're guarding the food stores themselves." *She looks at Garrick.* "You took nine points of damage total. You're at fifteen of twenty-two. We need to stabilize before pushing deeper."
+
+*Cora begins examining the guardroom systematically, checking the weapon racks for anything salvageable, the arrow slits for visibility, and the collapsed table for usable wood.* "We fortify this position first. Rolf, watch the entrance. Garrick, help me barricade. We're not moving until everyone is patched up and we have a fallback position secured."
+
+
+--- Garrick Kade ---
+*Garrick keeps his maul ready, his eyes fixed on the corridor entrance. He doesn't move to help with barricades or examine the map. His breathing is heavy but controlled.*
+
+"I'll hold the door. You do your patching and planning."
+
+*He positions himself just inside the guardroom entrance, his bulk filling most of the opening. He glances at Mercer's shoulder wound, then back to the darkness beyond.* "Those things are smart. They retreated to regroup, not because they're scared. They'll be back, and next time they'll have a plan."
+
+*He tests his wounded leg, putting weight on it and finding it holds. The healing magic did its work.* "Fifteen's enough. I've fought through worse. But if we're going deeper, we go together. No more charging ahead alone — they'll pick us off one by one."
+
+*He keeps watching the corridor, his knuckles white on the maul's handle.* "Salting Halls means food. Food means our people don't starve. We're getting to those stores, rats or no rats."
+
+
+--- Professor Thaddeus Mercer ---
+I wince as Cora applies the poultice. "Thank you. Though I must note that 'bacteria' is a rather simplistic term for what might be growing in creatures exposed to centuries of magical radiation." I examine the wound with academic detachment, though my hands tremble slightly from adrenaline.
+
+Turning to the map, my eyes widen. "The Salting Halls... of course. Pre-Calamity Giant food preservation techniques were legendary. They used mineral salts from deep mountain veins combined with subtle cryomancy to create preservation chambers that could keep meat edible for centuries." I conjure my wizardly quill and begin taking notes. "But Garrick's right—those rats retreated with purpose. They're either guarding their nest... or they've been feeding on whatever's in those halls."
+
+I try to examine the faded map more closely, but my vision swims from blood loss and pain. "Blast. I can't focus properly. The schematic appears to show... multiple chambers branching from a central corridor. But the details are..." I trail off, shaking my head.
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Medicine check to treat Mercer's wound — Roll: 1d20+3 (Medicine +3). Result: 18 (15+3) vs DC 10 — **SUCCESS** Mercer stabilizes and stops bleeding. Investigation check on guardroom — Roll: 1d20+3 (Investigation +3). Result: 16 (13+3) vs DC 12 — **SUCCESS** Cora finds a rusted but functional iron bar that can be used as a barricade, and the arrow slits provide good visibility of the corridor approach.
+
+**Garrick Kade**: Perception check watching corridor — Roll: 1d20 (no proficiency). Result: 11 vs DC 10 — **SUCCESS** Garrick notices the scratching sounds have stopped completely, suggesting the rats have either retreated far or are lying in ambush.
+
+**Professor Thaddeus Mercer**: History check on Salting Halls — Roll: 1d20+5 (History +5). Result: 20 (15+5) vs DC 15 — **SUCCESS** Mercer recalls that Giant salting techniques used specific mineral salts that might have magical preservation properties, and the halls would be cold, dry chambers ideal for long-term storage.
+
+
+[Enemy] Rat King acting...
+
+
+--- Rat King (Enemy) ---
+Based on the DM's narration, the party has retreated to a guardroom and the rats have fallen back. As Rat King, I'm on my stone silo throne according to my behavioral triggers. The party is now in a defensible position, but I need to attack them. However, I cannot leave my silo throne voluntarily. 
+
+Looking at the situation: the party is in a guardroom, I'm on my silo throne somewhere else in the complex. According to my triggers, I use Aura of Command every round it's available to make my rats attack as reactions. Let me check if Aura of Command is available by rolling for recharge (5-6 on a d6 means it recharges).
+
+
+[Enemy] Rat Swarm acting...
+
+
+--- Rat Swarm (Enemy) ---
+=== RAT SWARM ACTIONS ===
+
+**Wave 1 Giant Rats (regrouping):**
+
+The rats have retreated from the immediate area and are not currently in attack range. They are regrouping deeper in the corridors, preparing for another assault. No valid targets are currently within biting range.
+
+**Behavioral Note:** As mindless creatures, the rats will not attack until they have closed distance with the party again. They are currently out of range in the darkness of the corridors, but will return to attack once they regroup.
+
+**Status:** Rats are regrouping. No attack possible this round as targets are not within reach. They will return to attack the party (Garrick, Cora, Mercer) when they close distance again.
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+**Rat King**: Aura of Command recharge check — Roll: 1d6. Result: 3 — **FAILURE** Aura of Command does not recharge this round. The Rat King remains on its silo throne, unable to leave voluntarily, and cannot command rats that are out of range.
+
+**Rat Swarm**: No attacks possible — All rats are regrouping out of attack range (more than 5 feet away from any party member). The rats are preparing for another assault but cannot attack this round as they are not within biting distance of any targets.
+
+
+--- DM ---
+Cora's poultice works quickly, the herbal mixture staunching the bleeding from Mercer's shoulder wound. The wizard's breathing steadies, though pain still etches lines around his eyes. "Thank you," he murmurs, his scholarly detachment returning as he examines the map with renewed focus.
+
+"The Salting Halls," Mercer says, his finger tracing the faded lines on the wall. "Giant preservation techniques. They used specific mineral salts from deep mountain veins — salts that might have subtle magical preservation properties. The halls would be cold, dry chambers, ideal for long-term storage. If anything edible remains after centuries, it would be there."
+
+Garrick keeps his position at the entrance, his eyes scanning the darkness beyond. "Scratching's stopped," he reports, his voice low. "Complete silence. They're not gone — they're waiting. Or regrouping somewhere deeper."
+
+Cora finds a rusted but solid iron bar among the debris, perfect for barricading the door. The arrow slits provide clear lines of sight down the corridor approach — anyone trying to reach the guardroom would be exposed for twenty feet. "Good defensive position," she notes, already calculating sight lines and angles of attack. "We can hold here if we need to."
+
+Rolf moves to one of the arrow slits, peering out. "No movement," he whispers. "But the air... smells different. Ammonia and rot. Stronger than before."
+
+The guardroom offers a moment of respite, but the silence from the corridors is more unnerving than the scratching sounds were. The rats haven't fled — they've withdrawn to somewhere deeper in the complex. The map shows the path to the Salting Halls, but it also shows multiple branching corridors, barracks, and what appears to be a preparation kitchen between here and there.
+
+Mercer studies the map more closely, his wizardly quill copying the schematic into his journal. "The preparation kitchen is our next landmark," he says, pointing. "Massive stone counters, drainage channels... industrial-scale food preparation. From there, a loading corridor leads to the Salting Halls proper."
+
+He looks at the others, his expression serious. "The rats retreated toward the Salting Halls. They're defending their food source. Or their nest. Either way, that's where we'll find them in force."
+
+**The party has a defensible position, a map to their objective, and time to plan their next move. But the rats are waiting somewhere between here and the Salting Halls. They can fortify and rest here, or push forward toward their objective. What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 7/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora pulls out her ledger, making quick notes and calculations. She looks at the map, then at her companions' conditions.*
+
+"We have a defensible position, but we're on a timeline — ten days of food above, and we've already consumed resources in this fight." *She taps the map.* "The preparation kitchen is our next objective. Industrial-scale means there might be tools, containers, or preserved ingredients we can use even if the main stores are contaminated."
+
+*She turns to the group, her tone all business.* "Here's the plan: We rest here for one hour — enough for Mercer to recover some spell slots through Arcane Recovery, and for me to prepare additional alchemical defenses. Garrick, you take first watch at the entrance. Rolf, check the arrow slits for any movement patterns."
+
+*She begins organizing her supplies.* "When we move, we go methodically. Preparation kitchen first — we search it thoroughly for anything usable. Then we assess the rat situation. If they're massed in force between us and the Salting Halls, we need a strategy to bypass or eliminate them efficiently." *She looks at Mercer.* "Professor, can you prepare any area-control spells? Anything that creates barriers or affects multiple targets?"
+
+*Cora starts preparing small alchemical smoke pellets from her supplies.* "I'm making distraction devices. If we need to draw them away or create cover, these will help. But we don't move until everyone is at optimal capacity. Wasting resources now means starvation later."
+
+
+--- Garrick Kade ---
+*Garrick keeps his position at the entrance, his eyes never leaving the corridor. He listens to Cora's plan but shakes his head.*
+
+"One hour's too long. They're not sitting idle while we rest. They're either fortifying their position or circling around to flank us."
+
+*He tests his grip on his maul, rotating his wounded shoulder.* "I'm good to fight. Mercer needs patching, but he can walk. We push now, while they're still regrouping from our last hit."
+
+*He points toward the corridor with his maul.* "Preparation kitchen first, like you said. But we move fast and stay together. No splitting up, no elaborate plans. We find what's usable, then push straight through to the Salting Halls. If the rats are waiting in force, we hit them hard before they can set up another ambush."
+
+*He glances back at the others, his expression grim.* "Every minute we wait is another minute our people go hungry upstairs. I'll take point — I've got the armor and the weapon to clear a path. You two cover the flanks and watch for surprises."
+
+
+--- Professor Thaddeus Mercer ---
+"Both of you are missing the critical factor," I say, my voice gaining strength as I analyze the tactical situation with sudden clarity. "Garrick, charging ahead plays into their coordinated intelligence—they'll expect and prepare for that. Cora, waiting gives them time to reinforce, yes, but also to potentially contaminate or destroy the food stores if they perceive us as a threat to their nest."
+
+I examine the map with renewed focus, my mind making connections. "The preparation kitchen is the key. Industrial-scale food preparation means drainage channels, ventilation shafts, service corridors. Rats—even mutated ones—follow infrastructure. They'll use the paths of least resistance."
+
+I turn to the group. "We take a middle course. Thirty minutes of rest—enough for me to recover one spell slot through Arcane Recovery. During that time, I'll study this map and identify secondary access points to the Salting Halls. There will be service entrances for cleaning staff, ventilation for air circulation, drainage for runoff."
+
+My wizardly quill dances across my journal, copying the schematic. "We don't fight through their main force. We find an alternative route, secure the food stores from an unexpected direction, then deal with the rats from a position of strength with preserved supplies behind us."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Alchemist's Supplies check to create smoke pellets — Roll: 1d20+5 (Alchemist's Supplies +5). Result: 22 (17+5) vs DC 15 — **SUCCESS** Cora creates 3 smoke pellets that can create 10-foot radius of obscuring smoke for 1 minute each.
+
+**Garrick Kade**: Perception check watching corridor for flanking movements — Roll: 1d20 (no proficiency). Result: 8 vs DC 12 — **FAILURE** Garrick doesn't detect any movement, but his vigilance prevents surprise if anything approaches.
+
+**Professor Thaddeus Mercer**: Investigation check to find alternative routes on map — Roll: 1d20+5 (Investigation +5). Result: 19 (14+5) vs DC 15 — **SUCCESS** Mercer identifies a service corridor marked on the map that connects the preparation kitchen to the Salting Halls via a maintenance access route. Arcane Recovery: Mercer recovers 1 first-level spell slot (now has 2/3 slots remaining).
+
+
+[Enemy] Rat King acting...
+
+
+--- Rat King (Enemy) ---
+The Aura of Command recharge roll was 1, which means it does NOT recharge this round (needs 5-6). According to my behavioral triggers, I'm on my stone silo throne and cannot leave it voluntarily. The party is in a guardroom somewhere else in the complex, so they're not within my attack range from the silo. However, I MUST declare at least one attack action every round according to my instructions.
+
+Since I cannot reach them from my silo throne, I need to use my Iridescent Shriek if 2+ enemies are within 15 ft, but they're not within range. I still must attack. I'll target the closest threat with my bite attacks, but since no one is in range, I'll assume I'm commanding my rats to attack instead.
+
+=== RAT KING ACTIONS ===
+ACTION: Multiattack - Two bite attacks targeting Garrick Kade (closest threat). Since Garrick is not in melee range from my silo throne, I command my rats to continue harassing the party from the corridors.
+
+
+[Enemy] Rat Swarm acting...
+
+
+--- Rat Swarm (Enemy) ---
+=== RAT SWARM ACTIONS ===
+
+**Wave 1 Giant Rats (regrouping deeper in corridors):**
+
+The rats are still regrouping and are not within attack range. They are preparing for another assault but are currently positioned deeper in the corridors, outside of immediate biting distance from the party in the guardroom.
+
+**Behavioral Note:** As mindless creatures operating on pack instinct, the rats will attack when they close distance again. They are currently out of range but will return to swarm the party (Garrick, Cora, Mercer) once they finish regrouping.
+
+**Status:** No attack possible this round as targets are not within reach. The rats are preparing their next assault from deeper in the complex.
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+**Rat King**: Multiattack bite attempts vs Garrick Kade — **NO VALID TARGETS** The Rat King is on its stone silo throne and cannot reach Garrick who is in the guardroom. No attack possible due to range limitations.
+
+**Rat Swarm**: No attacks possible — All rats are regrouping out of attack range (more than 5 feet away from any party member). The rats are preparing for another assault but cannot attack this round as they are not within biting distance of any targets in the guardroom.
+
+
+--- DM ---
+The thirty minutes pass in tense silence. Cora works efficiently, combining chemicals from her alchemist's supplies to create three smoke pellets that emit thick, obscuring smoke when crushed. Garrick maintains his vigil at the entrance, his eyes scanning the darkness beyond. Mercer studies the map, his wizardly quill copying the schematic into his journal with meticulous precision.
+
+"Here," Mercer says, pointing to a narrow passage marked on the map. "A service corridor. It connects the preparation kitchen to the Salting Halls via a maintenance access route. Smaller than the main loading corridor — probably used by cleaning staff or for repairs. The rats might not be watching it as closely."
+
+He looks up, his expression thoughtful. "If we can reach the preparation kitchen, we can access this service corridor. It should bring us out near the rear of the Salting Halls, possibly behind any defensive positions the rats have established."
+
+Cora finishes her preparations, tucking the smoke pellets into a belt pouch. "Three distraction devices," she reports. "Ten-foot radius of obscuring smoke, lasts one minute each. Useful for covering a retreat or creating confusion." She checks her ledger, making a final notation. "We're as ready as we're going to be."
+
+Garrick shifts his weight, testing his wounded leg. The healing magic has done its work — he's sore but functional. "Then we move," he says, his voice low. "Preparation kitchen first. Stay close, watch the flanks. If we encounter resistance, we push through fast — no getting bogged down in another corridor fight."
+
+Rolf extinguishes his lantern, plunging the guardroom into near-darkness. Only the faint glow from the arrow slits provides any illumination. "Eyes adjust," he whispers. "Better to move in darkness than be a beacon."
+
+The corridor outside remains silent. Too silent. The complete absence of scratching sounds is more unnerving than the noise was. The rats are somewhere ahead, waiting, watching.
+
+**The party has rested, prepared, and identified an alternative route to the Salting Halls. They're ready to move from the guardroom toward the preparation kitchen. The corridor ahead is dark and silent. What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 8/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora moves to the entrance, her eyes scanning the dark corridor with practiced precision. She holds up a hand for silence, listening intently.*
+
+"Formation: Rolf takes point — you're the quietest. Garrick behind him, ready to engage anything that appears. Mercer in the middle, protected. I'll take rear guard, watching our flank." *She checks her smoke pellets and draws her dagger.* "We move slowly, checking side passages as we go. The service corridor is our objective, but we don't bypass the preparation kitchen — we search it first for usable resources."
+
+*She gives a final glance around the guardroom, ensuring nothing valuable is being left behind.* "Remember: complete silence. No light unless absolutely necessary. If we encounter rats, we don't engage unless forced — we use smoke to disengage and continue toward our objective. Every fight costs resources we can't afford to waste."
+
+*With a nod to Rolf, she indicates they should begin moving, keeping her own senses alert for any signs of ambush or traps in the dark corridor ahead.*
+
+
+--- Garrick Kade ---
+*Garrick shakes his head at Cora's formation plan. He pushes past Rolf to take the lead position, his maul already in hand.*
+
+"I'll take point. Rolf's quiet, but I've got the armor and the weapon to handle whatever jumps out. You want stealth, fine — but if something attacks, I need to be in front to stop it."
+
+*He moves into the corridor, his chain mail making soft scraping sounds against the low ceiling. He doesn't try to be silent — he moves with purpose, his eyes scanning the darkness ahead for any movement.*
+
+"Preparation kitchen first, like you said. But if we see rats, we don't disengage. We hit them hard and fast, before they can swarm us again. Smoke won't stop hungry vermin — a maul to the skull will."
+
+*He keeps moving down the corridor, his senses alert but his weapon ready to strike at the first sign of threat.*
+
+
+--- Professor Thaddeus Mercer ---
+"Garrick, your chain mail is announcing our presence like a town crier!" I hiss, keeping my voice low. "But since subtlety appears to be a lost cause..." I move into the middle position as Cora suggested, though I keep glancing nervously at the dark side passages.
+
+My eyes strain in the darkness, but my elven heritage grants me some advantage in low light. I focus on the architectural details as we move, trying to identify landmarks from the map. "The preparation kitchen should be marked by larger double doors and drainage grates in the floor. Look for stone counters at waist-height for Giants—which would be about eight feet tall for us."
+
+I keep one hand near my spellbook, ready to cast Mage Armor on myself at the first sign of trouble. "And for pity's sake, if we do encounter rats, let me position myself before you charge. A well-placed Thunderwave could clear a corridor without risking close combat."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Perception check listening in corridor — Roll: 1d20+3 (Perception +3). Result: 14 (11+3) vs DC 12 — **SUCCESS** Cora hears faint skittering sounds far ahead, but nothing immediately nearby.
+
+**Garrick Kade**: Stealth check moving in chain mail (disadvantage) — Roll: 2d20kl1+1 (Stealth +1 with disadvantage). Result: 7 (6+1) vs DC 10 — **FAILURE** Garrick's armor scrapes loudly against the low ceiling, alerting anything within 30 feet to their approach.
+
+**Professor Thaddeus Mercer**: Perception check with low-light vision — Roll: 1d20+3 (Perception +3). Result: 19 (16+3) vs DC 15 — **SUCCESS** Mercer spots the distinctive double doors and drainage grates marking the preparation kitchen entrance about 40 feet ahead.
+
+
+[Enemy] Rat King acting...
+
+
+--- Rat King (Enemy) ---
+Aura of Command recharge roll was 2 (needs 5-6), so it's not available. The party is moving through corridors toward the preparation kitchen. As Rat King on my stone silo throne, I need to attack. According to my triggers, I use Iridescent Shriek when 2+ enemies are within 15 ft, but they're not in range from my silo. I must declare at least one attack action every round.
+
+Since the party is moving through the complex and getting closer to my location (the Salting Halls where my silo throne is), I'll prepare an ambush. I'll command my rats to attack from side passages as the party approaches.
+
+=== RAT KING ACTIONS ===
+ACTION: Multiattack - Two bite attacks targeting Garrick Kade (closest threat). Since Garrick is leading the party through the corridors, I'll have my rats ambush from a side passage. First bite attack: 1d20+4 to hit. Second bite attack: 1d20+4 to hit.
+
+
+[Enemy] Rat Swarm acting...
+
+
+--- Rat Swarm (Enemy) ---
+=== RAT SWARM ACTIONS ===
+
+**Wave 1 Giant Rats (ambush in corridor):**
+
+The rats have been waiting in the darkness, hearing Garrick's chain mail approaching. As the party moves down the corridor, four giant rats emerge from side passages ahead, their glowing eyes visible in the darkness.
+
+1. **Two rats attack Garrick (front of party):** They swarm the armored fighter, biting at his legs and arms.
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+**Rat King commanded rats**: First bite attack vs Garrick Kade — Roll: 19+4 = 23 vs AC 16 — **HIT** Damage: 1d4+2 piercing = 5 (3+2) damage. Garrick takes 5 damage, now at 19/22 HP.
+
+**Rat King commanded rats**: Second bite attack vs Garrick Kade — Roll: 4+4 = 8 vs AC 16 — **MISS** The second rat misses as Garrick deflects it with his maul.
+
+**Additional rats**: Two more rats emerge but don't attack this round — they're positioning to flank the party.
+
+
+--- DM ---
+Garrick's chain mail scrapes against the low ceiling, the sound echoing down the corridor like a dinner bell. Forty feet ahead, Mercer spots the distinctive double doors of the preparation kitchen, but before the party can reach them, glowing eyes appear in the darkness.
+
+Four mutated giant rats emerge from side passages, their iridescent fur gleaming in the faint light. Two of them swarm Garrick, moving with coordinated precision. One sinks its teeth into his leg armor [Garrick takes 5 piercing damage — 19/22 HP remaining], while the other lunges and misses as he deflects it with his maul.
+
+The other two rats fan out, one moving to flank Cora's position at the rear, the other circling toward Mercer. They don't attack immediately — they're positioning, cutting off escape routes, their movements too coordinated for normal animals.
+
+The corridor becomes a kill zone. Garrick is wounded and surrounded at the front. Cora has a rat moving to flank her. Mercer has one approaching from the side. And the double doors to the preparation kitchen are still thirty feet ahead, past the rats blocking the way.
+
+Rolf draws his short sword, his eyes darting between the threats. "They're herding us," he says quietly. "Pushing us away from the kitchen."
+
+From deeper in the corridor, more scratching sounds echo — reinforcements coming. The rats aren't just defending; they're executing a tactical withdrawal, drawing the party into an ambush point where they can be surrounded.
+
+The preparation kitchen doors stand tantalizingly close, but reaching them means fighting through the rat blockade. Retreating means giving up on the food stores and condemning the fortress to starvation.
+
+**The party is surrounded in the corridor, with rats blocking the path to the preparation kitchen. Garrick is wounded. More rats are approaching from behind. What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 9/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora's mind races through tactical calculations. She glances at the approaching reinforcements, then at the kitchen doors.*
+
+"They're trying to pin us in the corridor — classic ambush tactics. We need to break through to the kitchen NOW. It's defensible space versus this kill zone."
+
+*She raises her hand, frost forming around her fingers as she targets the rat flanking Mercer.* "Ray of Frost on the one near Mercer — slow it down! Garrick, CHARGE the doors! Don't fight them all — just clear a path! Rolf, cover our rear against the reinforcements!"
+
+*She fires the icy beam at the rat approaching Mercer, then immediately grabs a smoke pellet from her belt.* "Mercer, get ready to Thunderwave anything that follows us through! I'm creating cover!"
+
+*As the ray hits its target, she crushes the smoke pellet at her feet, thick smoke billowing out to obscure their position and confuse the rats.*
+
+
+--- Garrick Kade ---
+*Garrick ignores the rat biting his leg and charges straight through the blockade toward the kitchen doors. He doesn't try to fight all the rats — he uses his maul as a battering ram, swinging it in a wide arc to clear a path.*
+
+"Through! Now!"
+
+*He smashes one rat aside with his maul, creating an opening, then keeps moving toward the double doors. The smoke billowing from Cora's pellet provides cover as he reaches the doors and puts his shoulder into them, trying to burst through into the preparation kitchen.*
+
+
+--- Professor Thaddeus Mercer ---
+"Excellent! A controlled application of force!" I shout as Cora's smoke billows around us. The rat approaching me staggers from her Ray of Frost, ice crystals blooming across its iridescent fur.
+
+I don't follow Garrick immediately. Instead, I position myself strategically, waiting for the rats to pursue through the smoke. As they start to move toward the kitchen doors, I unleash Thunderwave directly at the corridor behind us—targeting the approaching reinforcements rather than the immediate threats.
+
+"Let's discourage pursuit!" The concussive blast should buy us time to secure the kitchen without being overwhelmed from behind.
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Ray of Frost attack on rat near Mercer — Roll: 17 vs AC 12 — **HIT** Damage: 6 cold damage. The rat is slowed (speed reduced by 10 ft) and takes 6 damage. Smoke pellet creates 10-foot radius of obscuring smoke for 1 minute.
+
+**Garrick Kade**: Athletics check to burst through kitchen doors — Roll: 17 vs DC 15 — **SUCCESS** Garrick smashes through the double doors into the preparation kitchen. Maul attack on blocking rat — Roll: 17 vs AC 12 — **HIT** Damage: 9 damage. One rat is smashed aside.
+
+**Professor Thaddeus Mercer**: Thunderwave on approaching reinforcements — Rats make CON saves DC 13. Assuming 3 rats in area: rolls needed. Damage: 8 thunder damage. Rats that fail take 8 damage, those that succeed take 4. The blast buys time by damaging pursuing rats.
+
+
+[Enemy] Rat King acting...
+
+
+--- Rat King (Enemy) ---
+Aura of Command recharge roll was 6, so it IS available this round! According to my behavioral triggers, I use Aura of Command every round it is available to make my rats attack as reactions. The party is now at the preparation kitchen doors. I'm on my stone silo throne, which should be in the Salting Halls beyond the preparation kitchen. Since the party is getting closer to my location, I'll use Aura of Command to command all Giant Rats within 30 ft that can see me to use their reaction for one bite attack.
+
+=== RAT KING ACTIONS ===
+ACTION: Aura of Command - All Giant Rats within 30 ft that can see the Rat King use their reaction for one bite attack. I'm on my stone silo throne in the Salting Halls, commanding my rats to attack the party as they approach the preparation kitchen doors.
+
+BONUS ACTION: Multiattack - Two bite attacks targeting Garrick Kade (closest threat and leading the charge). First bite: 1d20+4 to hit. Second bite: 1d20+4 to hit.
+
+
+[Enemy] Rat Swarm acting...
+
+
+--- Rat Swarm (Enemy) ---
+=== RAT SWARM ACTIONS ===
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+**Rat King**: Aura of Command activated — All Giant Rats within 30 ft that can see the Rat King use their reaction for one bite attack. However, the Rat King is in the Salting Halls, and the party is still in the corridor approaching the preparation kitchen. The rats in the corridor cannot see the Rat King from their position, so Aura of Command has no effect this round.
+
+**Rat King**: Multiattack first bite vs Garrick Kade — Roll: 6+4 = 10 vs AC 16 — **MISS** The attack misses Garrick's armored form.
+
+**Rat King**: Multiattack second bite vs Garrick Kade — Roll: 1+4 = 5 vs AC 16 — **MISS** Critical failure! The rat bites its own leg in confusion.
+
+**Note**: The Rat Swarm actions were not specified beyond the Rat King's commands, so no additional rat attacks occur this round beyond what was already adjudicated in the previous scene.
+
+
+--- DM ---
+Garrick's maul smashes through the rat blocking his path, sending the creature flying into the stone wall with a sickening crunch. He doesn't pause to see if it's dead — he charges through the opening, his shoulder slamming into the double doors of the preparation kitchen. The ancient wood groans, then gives way, bursting inward with a shower of splinters and dust.
+
+Cora's ray of frost strikes the rat approaching Mercer, ice crystals blooming across its iridescent fur. The creature staggers, its movements suddenly sluggish. As she crushes the smoke pellet at her feet, thick gray smoke billows out, filling the corridor with obscuring fog. The remaining rats hesitate, confused by the sudden lack of visibility.
+
+Mercer waits until the rats start moving toward the kitchen doors, then unleashes his thunderwave. The concussive blast slams into the corridor behind them, sending three pursuing rats flying backward. The sound echoes through the stone passages like a thunderclap, and for a moment, all scratching ceases.
+
+The party scrambles through the smoke and into the preparation kitchen. Garrick stands just inside the doorway, his maul ready, breathing heavily. Cora and Mercer follow, with Rolf bringing up the rear, his short sword keeping watch on the smoke-filled corridor behind them.
+
+The preparation kitchen is enormous — a cavernous space with stone counters eight feet high (waist-height for Giants), rusted meat hooks hanging from the ceiling, and drainage channels cut into the floor. The air is cold and dry, smelling of ancient dust and faint ammonia. The hooks sway slightly in a draft from somewhere deeper in the complex.
+
+Mercer's eyes widen as he takes in the scale. "Industrial food preparation," he murmurs, his wizardly quill already taking notes. "Stone basins large enough to butcher a whole deer. Drainage channels for fluids... this was designed to feed an army."
+
+From the corridor outside, the smoke begins to clear. The rats haven't pursued — they've retreated again, falling back to somewhere deeper. But the scratching sounds haven't stopped completely; they've just moved further away, toward what must be the Salting Halls.
+
+Cora immediately begins examining the room, her eyes scanning for the service corridor Mercer identified on the map. "We need to find that maintenance access," she says, her voice low. "Before they regroup and come at us again."
+
+**The party has reached the preparation kitchen — a massive, defensible space with multiple exits. The rats have retreated deeper toward the Salting Halls. The service corridor to bypass their defenses should be somewhere in this room. What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 10/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora immediately begins a systematic search of the kitchen, her eyes scanning for the service corridor entrance while also cataloguing anything of value.*
+
+"Garrick, watch the main entrance. Rolf, check those drainage channels — they might connect to maintenance tunnels. Mercer, help me search for the service corridor — look for smaller doors, hatches, or passages that would be human-sized, not Giant-sized."
+
+*She moves along the stone counters, checking beneath them and behind the massive butchering stations.* "While we search, we inventory anything usable. Rusted tools can be salvaged, containers might still be intact, and..." *She pauses, examining a series of stone jars on a high shelf.* "These might contain preserved spices or salts. Even if the food is gone, preservation materials have value."
+
+*Cora pulls out her thieves' tools, checking for hidden mechanisms or disguised entrances in the stonework.* "The service corridor would be intentionally inconspicuous — maintenance access isn't meant for guests. Look for seams in the stone, disguised handles, or areas where the architecture doesn't match."
+
+
+--- Garrick Kade ---
+*Garrick keeps his position at the broken doorway, his eyes fixed on the smoke-clearing corridor. He doesn't join the search, instead maintaining watch for any returning rats.*
+
+"I'll hold the door. They'll be back — they're too smart to just give up."
+
+*He glances around the massive kitchen, taking in the scale of the butchering stations. His eyes narrow as he spots the swaying meat hooks.* "There's a draft. Means another opening somewhere. Could be your service corridor."
+
+*He keeps his maul ready, testing his wounded leg. The bite still stings, but he can stand on it.* "Search fast. Every minute we're in here is another minute they're fortifying whatever's ahead. If we find that corridor, we move immediately — no more resting. We hit the Salting Halls before they can set up another ambush."
+
+
+--- Professor Thaddeus Mercer ---
+"Garrick's observation about the draft is astute," I say, my academic curiosity overriding my earlier frustration. I move toward the swaying meat hooks, examining the air currents with a scholar's eye.
+
+"Maintenance access in Giant architecture typically follows functional logic," I lecture, my wizardly quill taking notes as I speak. "Service corridors for cleaning would need access to drainage channels and ventilation. They'd be positioned near the areas requiring the most maintenance—which in a butchering kitchen would be..."
+
+I trace my fingers along the stone wall near the largest drainage channel. "Here. The stonework shows subtle differences in tooling marks. This section was added later or modified." I press against what appears to be a solid section of wall, and with a soft grinding sound, a narrow door—human-sized, not Giant-sized—swings inward, revealing a dark passage.
+
+"Pre-Calamity craftsmanship. Hidden but not trapped—maintenance staff needed regular access." I peer into the darkness. "This should lead to the Salting Halls. And if I'm reading the air currents correctly... it bypasses whatever defenses the rats have established in the main corridors."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Investigation check to search kitchen and find service corridor — Roll: 1d20+3 (Investigation +3). Result: 18 (15+3) vs DC 15 — **SUCCESS** Cora finds several usable items: rusted but salvageable butchering tools, three intact stone containers with preserved mineral salts, and identifies the draft source.
+
+**Garrick Kade**: Perception check watching corridor for returning rats — Roll: 1d20 (no proficiency). Result: 14 vs DC 12 — **SUCCESS** Garrick spots distant glowing eyes in the corridor but they're retreating, not advancing. He confirms the rats are falling back to defend deeper areas.
+
+**Professor Thaddeus Mercer**: Investigation check to locate hidden door — Roll: 1d20+5 (Investigation +5). Result: 23 (18+5) vs DC 18 — **SUCCESS** Mercer finds and opens the hidden maintenance door to the service corridor, confirming it bypasses the main rat defenses.
+
+
+[Enemy] Rat King acting...
+
+
+--- Rat King (Enemy) ---
+Aura of Command recharge roll was 2 (needs 5-6), so it's not available. The party has found the service corridor and is about to enter it, which will bring them closer to my location in the Salting Halls. According to my behavioral triggers, I'm on my stone silo throne. The party is getting closer - they're in the preparation kitchen and about to enter the service corridor that leads to the Salting Halls where I am.
+
+I should use Iridescent Shriek when 2+ enemies are within 15 ft, but they're not in range yet. However, I must declare at least one attack action every round. Since they're approaching my throne room, I'll prepare to attack as they emerge from the service corridor.
+
+=== RAT KING ACTIONS ===
+ACTION: Multiattack - Two bite attacks targeting Garrick Kade (closest threat and first to emerge from corridor). First bite: 1d20+4 to hit. Second bite: 1d20+4 to hit. I'm positioned on my stone silo throne, ready to attack as the party emerges into the Salting Halls.
+
+
+[Enemy] Rat Swarm acting...
+
+
+--- Rat Swarm (Enemy) ---
+=== RAT SWARM ACTIONS ===
+
+**Wave 1 Giant Rats (regrouping near Salting Halls):**
+
+The rats have retreated deeper toward the Salting Halls and are not currently in the preparation kitchen. They are regrouping in the main corridors leading to the food storage area, preparing their defenses. No valid targets are within attack range.
+
+**Behavioral Note:** As mindless creatures, the rats will not attack until the party enters their territory near the Salting Halls. They are currently positioned in the main corridors, not in the service corridor that Mercer discovered.
+
+**Status:** Rats are fortifying positions near Salting Halls. No attack possible this round as targets are not within reach. They will attack when the party approaches the food storage area through either the main corridors or the service corridor.
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+**Rat King**: Multiattack bite attempts vs Garrick Kade — **NO VALID TARGETS** The Rat King is on its stone silo throne in the Salting Halls, but Garrick and the party are still in the preparation kitchen, not yet emerged into the throne room. No attack possible due to range and line of sight limitations.
+
+**Rat Swarm**: No attacks possible — All rats have retreated to fortify positions near the Salting Halls and are not within attack range of the party in the preparation kitchen. The party has not yet entered the rats' defended territory.
+
+
+--- DM ---
+The hidden door swings inward with a soft grinding of stone on stone, revealing a narrow passage barely wide enough for one person. The air that flows out is colder than the kitchen's, carrying the faint scent of dust and ancient spices. The service corridor stretches into darkness, its walls showing the same precise stonework as the rest of the Iron Warlords' architecture, just on a smaller scale.
+
+Cora quickly gathers the salvageable items she found: rusted but functional butchering tools that could be cleaned and sharpened, and three intact stone containers filled with crystalline mineral salts that still carry a faint preservative magic. "These salts alone are worth the trip," she notes, tucking them into her pack. "Proper preservation materials."
+
+Garrick keeps his position at the main entrance, his eyes fixed on the corridor beyond. "Glowing eyes in the distance," he reports. "Retreating, not advancing. They're falling back to defend something." He tests his wounded leg again, finding it holds. "They know we're coming. Whatever's down that service corridor, they'll be waiting on the other side."
+
+Mercer peers into the darkness of the maintenance passage, his elven eyes adjusting to the low light. "The air currents confirm it — this leads directly to the Salting Halls. And it bypasses the main corridors where the rats have established their defensive positions." He turns to the others, his expression serious. "We'll emerge behind their lines. Possibly right into their nest."
+
+Rolf moves to the service corridor entrance, his movements silent. He listens for a moment, then shakes his head. "No scratching from this direction. Either it's clear, or whatever's waiting is being very quiet."
+
+The choice is clear: go back through the main corridors where the rats are waiting in fortified positions, or take the service corridor that bypasses their defenses but might lead directly into the heart of their territory. The kitchen offers temporary safety, but every minute spent here is another minute the fortress above grows hungrier.
+
+**The service corridor lies open before you, offering a direct route to the Salting Halls that bypasses the rats' main defenses. But it's dark, narrow, and could lead straight into their nest. Garrick is wounded but functional. The rats are regrouping somewhere ahead. What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 11/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora makes a quick assessment, weighing risks against the ticking clock of starvation above.*
+
+"Service corridor is our best option — surprise and bypass versus frontal assault through prepared defenses. But we go carefully." *She organizes the group.* "Rolf takes point — you're the quietest. I'll follow with light from a Magical Tinkering stone — minimal illumination, just enough to see. Garrick behind me, ready to push through if we encounter resistance. Mercer at the rear, watching our flank."
+
+*She takes a small stone from her pouch and imbues it with a faint, directional glow that illuminates only a few feet ahead.* "Limited light means limited visibility for enemies too. We move slowly, check for traps, and listen for any signs ahead."
+
+*She looks at each of them in turn.* "If we encounter the nest, we don't engage unless forced. Our objective is the Salting Halls, not extermination. We grab what we can carry and retreat back through this corridor. No heroics — this is a supply run, not a crusade."
+
+*With a nod to Rolf, she indicates they should begin moving into the narrow passage, her senses alert for any signs of danger in the confined space.*
+
+
+--- Garrick Kade ---
+*Garrick shakes his head at Cora's cautious approach. He pushes past Rolf to take the lead position in the narrow corridor.*
+
+"I'll take point. If there's something waiting in there, I've got the armor and the maul to handle it. Rolf can watch our backs — he's better at spotting ambushes from behind."
+
+*He squeezes into the service corridor, his chain mail scraping against the stone walls. He doesn't wait for the magical light — his half-orc darkvision allows him to see well enough in the darkness.*
+
+"Keep your light low. If this leads to their nest, we don't want to announce ourselves until we're through. But if we see rats, we hit them fast and hard — no backing out. We need those food stores, and we're not getting another chance at surprise."
+
+*He moves forward cautiously but with purpose, his maul held ready in the confined space.* "Stay close. If this gets tight, we can't afford to get separated."
+
+
+--- Professor Thaddeus Mercer ---
+"Garrick, your chain mail is like a dinner bell in this confined space!" I hiss, taking up the rear position as instructed. The narrow corridor feels claustrophobic, and I keep glancing behind us, half-expecting rats to emerge from the darkness.
+
+My elven eyes strain in the low light, but the combination of Garrick's bulk ahead and the tight quarters makes it difficult to see much. "The air grows colder and carries stronger mineral scents—we're approaching the preservation chambers. But listen... do you hear that?"
+
+I pause, trying to discern sounds from ahead. "Not scratching. Something else... dripping water? Or perhaps fluids draining through the preservation system." I keep one hand on my spellbook, ready to cast Mage Armor if we're ambushed in this confined space.
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Magical Tinkering to create light stone — Automatic success (class feature). Perception check listening in corridor — Roll: 1d20+3 (Perception +3). Result: 16 (13+3) vs DC 12 — **SUCCESS** Cora hears faint dripping sounds ahead but no scratching or movement.
+
+**Garrick Kade**: Stealth check in chain mail (disadvantage) — Roll: 2d20kl1+1 (Stealth +1 with disadvantage). Result: 8 (7+1) vs DC 10 — **FAILURE** Garrick's armor scrapes loudly in the narrow corridor, potentially alerting anything ahead. Darkvision allows him to see 60 feet in darkness.
+
+**Professor Thaddeus Mercer**: Perception check to identify sounds — Roll: 1d20+3 (Perception +3). Result: 19 (16+3) vs DC 15 — **SUCCESS** Mercer identifies the dripping as mineral-rich water flowing through preservation system drainage, not rats. He also detects a faint, rhythmic vibration through the stone — machinery or ventilation systems still operating after centuries.
+
+
+[Enemy] Rat King acting...
+
+
+--- Rat King (Enemy) ---
+Aura of Command recharge roll was 4 (needs 5-6), so it's not available. The party is moving through the service corridor toward the Salting Halls where I'm on my stone silo throne. They're getting very close now. According to my triggers, I use Iridescent Shriek when 2+ enemies are within 15 ft. They're approaching but not quite in range yet. I must declare at least one attack action every round.
+
+Since they're about to emerge into the Salting Halls where my throne is, I'll prepare an ambush. I'm on my stone silo throne with full cover, and melee attackers must climb DC 10 Athletics to reach me. I'll attack as soon as they enter.
+
+=== RAT KING ACTIONS ===
+ACTION: Multiattack - Two bite attacks targeting Garrick Kade (first to emerge from service corridor). First bite: 1d20+4 to hit. Second bite: 1d20+4 to hit. I'm positioned on my stone silo throne in the Salting Halls, waiting for the party to emerge from the service corridor entrance.
+
+
+[Enemy] Rat Swarm acting...
+
+
+--- Rat Swarm (Enemy) ---
+=== RAT SWARM ACTIONS ===
+
+**Wave 1 Giant Rats (ambush in service corridor):**
+
+The rats have anticipated the party might use the service corridor. As Garrick moves forward in the narrow passage, two giant rats drop from ventilation shafts in the ceiling ahead, blocking the way.
+
+1. **First rat attacks Garrick (front of party):** The rat lands directly in front of Garrick and immediately bites at his legs in the confined space.
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+**Rat King**: Multiattack first bite vs Garrick Kade — Roll: 1d20+4 = 14 (10+4) vs AC 16 — **MISS** The attack misses as Garrick is still in the corridor, not yet emerged into the Salting Halls.
+
+**Rat King**: Multiattack second bite vs Garrick Kade — Roll: 1d20+4 = 9 (5+4) vs AC 16 — **MISS** The Rat King cannot reach Garrick from its throne as the party hasn't entered the chamber yet.
+
+**Rat Swarm ambush**: First rat bite vs Garrick Kade — Roll: 1d20+4 = 18 (14+4) vs AC 16 — **HIT** Damage: 1d4+2 piercing = 5 (3+2) damage. Garrick takes 5 damage, now at 14/22 HP. The rat drops from a ventilation shaft, blocking the narrow corridor ahead.
+
+
+--- DM ---
+The service corridor narrows further, forcing Garrick to turn sideways to squeeze through. The air grows colder, carrying stronger mineral scents and the rhythmic vibration Mercer detected — ancient preservation machinery still operating after centuries. Cora's magical stone casts just enough light to see the stone walls pressing close on either side.
+
+Then, without warning, a rat drops from a ventilation shaft directly in front of Garrick. The creature lands with a thud, its iridescent fur gleaming in the faint light, and immediately sinks its teeth into Garrick's leg [Garrick takes 5 piercing damage — 14/22 HP remaining]. The narrow corridor becomes a choke point, with the rat blocking the way forward and Garrick's bulk preventing retreat.
+
+From ahead, the corridor opens into a larger space — the Salting Halls. Through the opening, Garrick can see enormous chambers with stone shelving carved from floor to ceiling. And at the center of the largest chamber, atop a massive stone silo, sits the Rat King — a bloated, iridescent-furred creature the size of a large dog, with multiple tails fused together. Its glowing eyes fix on the corridor entrance, but it doesn't move from its throne.
+
+More rats drop from ventilation shafts behind the party — two more land between Cora and Mercer, cutting off their retreat back to the kitchen. The service corridor has become a trap, with rats at both ends and Garrick wounded in the middle.
+
+Rolf reacts instantly, his short sword flashing as he engages the rats behind them. "They anticipated this route!" he shouts, his voice tight. "They're herding us into the main chamber!"
+
+The Rat King watches from its stone silo throne, unmoving. Around it, dozens of glowing eyes appear in the darkness of the Salting Halls — the main colony, waiting. The service corridor exit opens into the heart of their territory, and the party is pinned in the narrow passage with enemies at both ends.
+
+**Garrick is wounded and facing a rat blocking the exit. More rats have cut off retreat behind the party. The Rat King watches from its throne in the Salting Halls, surrounded by its colony. The party is trapped in the service corridor. What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 12/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora's mind races — trapped in a choke point with enemies on both sides. She makes the only logical calculation.*
+
+"Garrick, PUSH FORWARD! Through the rat and into the hall! We need space to maneuver! Rolf, hold the rear — don't let them surround us! Mercer, Thunderwave the ones behind us when we're clear!"
+
+*She raises her hand, frost forming as she targets the rat blocking Garrick's path.* "Ray of Frost to slow it down! Then we all charge forward together — the hall gives us fighting room!"
+
+*She fires the icy beam at the rat in front of Garrick, then immediately grabs another smoke pellet.* "Once we're in the hall, I'll create cover with smoke! We fight our way to the silo — if we take out the Rat King, the colony might break!"
+
+*As the ray hits its target, she prepares to follow Garrick's charge, dagger ready and smoke pellet in hand.*
+
+
+--- Garrick Kade ---
+*Garrick ignores the pain in his leg and charges forward, using his maul as a battering ram against the rat blocking the exit. He doesn't try to fight it — he smashes through it, using his weight and momentum to force his way into the Salting Halls.*
+
+"Through! Now!"
+
+*He bursts into the larger chamber, his eyes immediately locking onto the Rat King on its stone silo throne. He doesn't hesitate — he charges straight toward the bloated creature, his maul raised.*
+
+"The king dies first! Take it down and the rest might break!"
+
+
+--- Professor Thaddeus Mercer ---
+"Garrick, no! That's exactly what it wants!" I shout, but he's already charging. The tactical situation is clear—we're being herded into a classic pincer movement.
+
+As Cora's Ray of Frost hits the rat in front and Garrick bursts through, I turn to face the rats behind us. "Thunderwave in this confined space risks collapsing the corridor on us... but Magic Missile is precise." I raise my hand, three glowing darts of force materializing and streaking toward the two rats blocking our retreat.
+
+"Clear our exit first! We may need to retreat!" The missiles slam into the creatures, buying us precious seconds. "Now forward—but not toward the king! Toward the food stores! That's our objective!"
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Ray of Frost attack on rat blocking Garrick — Roll: 1d20+5 = 18 vs AC 12 — **HIT** Damage: 1d8 = 5 cold damage. The rat is slowed (speed reduced by 10 ft) and takes 5 damage.
+
+**Garrick Kade**: Athletics check to smash through rat and charge into hall — Roll: 1d20+5 = 22 vs DC 15 — **SUCCESS** Garrick bursts into the Salting Halls, moving toward the Rat King. No attack roll yet as he's using movement.
+
+**Professor Thaddeus Mercer**: Magic Missile on two rats behind — Automatic hits, no attack roll needed. Damage: 3 missiles total. Two rats get 1 missile each (1d4+1 = 3 damage each), one rat gets the third missile (1d4+1 = 4 damage). The rats are injured but still blocking the retreat.
+
+
+[Enemy] Rat King acting...
+
+
+--- Rat King (Enemy) ---
+Aura of Command recharge roll was 5, so it IS available this round! According to my behavioral triggers, I use Aura of Command every round it is available. Garrick has charged into the Salting Halls and is approaching my stone silo throne. According to my triggers, I use Iridescent Shriek when 2+ enemies are within 15 ft - Garrick is charging toward me, and others will follow, so I should use it now.
+
+=== RAT KING ACTIONS ===
+ACTION: Iridescent Shriek (1/day) - DC 12 Constitution save or stunned until end of next turn (15 ft radius). Garrick is within range as he charges toward my silo throne.
+
+BONUS ACTION: Aura of Command - All Giant Rats within 30 ft that can see the Rat King use their reaction for one bite attack. I command my colony to attack as the party enters the Salting Halls.
+
+
+[Enemy] Rat Swarm acting...
+
+
+--- Rat Swarm (Enemy) ---
+=== RAT SWARM ACTIONS ===
+
+**Wave 1 Giant Rats (multiple attackers):**
+
+1. **Rat blocking Garrick's path:** The rat, slowed by Cora's Ray of Frost, still attempts to bite Garrick as he charges through.
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+**Rat King**: Iridescent Shriek vs Garrick Kade — Garrick makes CON save DC 12. Roll: 1d20+3 (CON +3) = 14 (11+3) vs DC 12 — **SUCCESS** Garrick resists being stunned. The shriek echoes painfully but doesn't incapacitate him.
+
+**Rat King**: Aura of Command — All Giant Rats within 30 ft that can see the Rat King use their reaction for one bite attack. The rats in the Salting Halls (dozens) and the two behind the party can see the Rat King and get reaction attacks.
+
+**Rat blocking Garrick's path**: Bite attack vs Garrick Kade (slowed, disadvantage) — Roll: 2d20kl1+4 = 9 (5+4) vs AC 16 — **MISS** The slowed rat misses Garrick as he charges past.
+
+**Rats behind party (2)**: Reaction bite attacks vs Rolf (closest target) — First rat: 1d20+4 = 18 (14+4) vs AC 14 — **HIT** Damage: 1d4+2 = 5 (3+2) damage. Second rat: 1d20+4 = 12 (8+4) vs AC 14 — **MISS** Rolf takes 5 damage from the coordinated rat attacks.
+
+
+--- DM ---
+Garrick charges through the slowed rat, his maul smashing it aside as he bursts into the Salting Halls. The chamber is enormous — a series of connected halls with stone shelving carved from floor to ceiling, once filled with preserved foods for an army. Now, it's filled with rats.
+
+The Rat King opens its mouth and emits an iridescent shriek — a piercing sound that echoes through the stone halls. Garrick grits his teeth, his half-orc resilience allowing him to shake off the stunning effect, though the sound leaves his ears ringing.
+
+As the shriek echoes, the colony attacks. Dozens of rats surge forward from the shadows, their glowing eyes fixed on the intruders. Two rats behind the party take advantage of the distraction, both lunging at Rolf. One sinks its teeth into his arm [Rolf takes 5 piercing damage], while the other misses as he twists away.
+
+Cora and Mercer follow Garrick into the hall, emerging into chaos. The Salting Halls stretch out before them — massive storage chambers filled with the remains of ancient food stores. Some sealed stone crocks remain intact, large quantities of rock salt fill carved bins, and stone silos at the back likely hold ancient grain. But between them and those supplies stands the rat colony.
+
+The Rat King watches from its stone silo throne, unmoving, as its colony swarms toward the party. Garrick is twenty feet from the silo, facing a wave of rats. Cora and Mercer are just inside the entrance, with Rolf still in the service corridor fighting the rats behind them. The party is split, surrounded, and outnumbered twenty to one.
+
+From the stone silo, the Rat King's multiple fused tails twitch. It doesn't need to move — its colony does the fighting for it. The food stores are visible, tantalizingly close, but reaching them means fighting through a sea of mutated vermin.
+
+**The party is in the Salting Halls, surrounded by the rat colony. Garrick is wounded and isolated near the Rat King's silo. Cora and Mercer are at the entrance with limited space to maneuver. Rolf is still in the service corridor fighting rats behind them. The food stores are visible but protected by the swarm. What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 13/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora's eyes dart between Garrick, the Rat King, and the food stores. She makes a split-second tactical decision.*
+
+"Garrick, TARGET THE RAT KING! Take out the leader and the colony might scatter! Mercer, Thunderwave the swarm between us and Garrick — clear a path! Rolf, fall back to us — we need to regroup!"
+
+*She raises her hand, golden healing energy flowing toward Garrick.* "Healing Word to keep you in the fight! That's coming out of your share!"
+
+*As the healing takes effect, she crushes her last smoke pellet at her feet, creating an obscuring cloud between them and the main swarm.* "We use the smoke as cover! Garrick goes for the King, we secure the nearest food stores! Grab what we can carry and retreat back through the service corridor!"
+
+*She moves toward the nearest intact stone crocks, dagger ready to defend herself while assessing which supplies are most valuable and portable.* "Prioritize sealed containers and rock salt! We don't need to clear the hall — just secure enough to buy us time!"
+
+
+--- Garrick Kade ---
+*Garrick feels the healing energy flow through him as Cora's magic takes effect. He doesn't acknowledge it — his eyes are fixed on the Rat King. He charges through the smoke and swarming rats, his maul aimed straight at the bloated creature on its stone silo throne.*
+
+"The king dies now!"
+
+*He swings his maul in a brutal overhead strike at the Rat King, ignoring the smaller rats swarming around his legs. If he can take out the leader, maybe the colony will break — and if not, at least he'll have eliminated their command.*
+
+
+--- Professor Thaddeus Mercer ---
+"Cora's right—decapitation strategy!" I shout, already moving into position. As Garrick charges through the smoke toward the Rat King, I target the swarm between us with Thunderwave.
+
+"Creating a corridor!" The concussive blast slams into the mass of rats, sending a dozen of them flying back from Garrick's path. But I'm careful with the angle—I don't want to catch Garrick in the blast or risk collapsing the ancient stone shelving.
+
+"Rolf, fall back to us! We'll cover your retreat!" I keep one eye on the service corridor exit, ready to cover our escape route once we've secured supplies. "And for pity's sake, Garrick—make that strike count! We can't afford a prolonged engagement!"
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Healing Word on Garrick — Automatic success, heals 1d4+3 = 6 (3+3) HP. Garrick at 20/22 HP. Smoke pellet creates 10-foot radius of obscuring smoke for 1 minute.
+
+**Garrick Kade**: Maul attack on Rat King — Roll: 1d20+5 (attack +5). Result: 18 (13+5) vs AC 13 — **HIT** Damage: 2d6+3 = 10 (4,3+3) damage. The Rat King takes 10 damage and is badly wounded.
+
+**Professor Thaddeus Mercer**: Thunderwave on rat swarm — Rats make CON saves DC 13. Assuming 6 rats in area: 3 fail, 3 succeed. Damage: 2d8 thunder = 9 (3,6) damage. 3 rats take 9 damage each (likely dead), 3 take 4 damage each. A corridor is cleared toward Garrick.
+
+
+[Enemy] Rat King acting...
+
+
+--- Rat King (Enemy) ---
+Aura of Command recharge roll was 2 (needs 5-6), so it's not available. Garrick is charging toward me on my stone silo throne with his maul. According to my behavioral triggers, I fight from atop the stone silo (full cover, melee attackers must climb DC 10 Athletics to reach me). I target the closest threat with my bite attacks. Garrick is the closest threat and is attacking me.
+
+I need to make my bite attacks against Garrick. I'll roll for both attacks.
+
+=== RAT KING ACTIONS ===
+ACTION: Multiattack - Two bite attacks targeting Garrick Kade. First bite:
+
+
+[Enemy] Rat Swarm acting...
+
+
+--- Rat Swarm (Enemy) ---
+=== RAT SWARM ACTIONS ===
+
+**Wave 1 Giant Rats (swarming attacks):**
+
+1. **Three rats swarm Garrick as he charges toward the Rat King:** They attempt to slow him down by biting at his legs and arms.
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+**Rat King**: First bite attack vs Garrick Kade — Roll: 1d20+4 = 14 (10+4) vs AC 16 — **MISS** The Rat King's bite scrapes off Garrick's chain mail.
+
+**Rat King**: Second bite attack vs Garrick Kade — Roll: 1d20+4 = 9 (5+4) vs AC 16 — **MISS** Garrick deflects the second bite with his maul.
+
+**Swarming rats**: Three rats attack Garrick — Rolls: 1d20+4 = 12 (8+4) vs AC 16 — **MISS**, 1d20+4 = 7 (3+4) vs AC 16 — **MISS**, 1d20+4 = 15 (11+4) vs AC 16 — **MISS** All three rats fail to penetrate Garrick's armor as he charges through them.
+
+
+--- DM ---
+Garrick's maul connects with the Rat King in a sickening crunch of bone and flesh. The bloated creature shrieks in pain, black blood spraying from the wound. It reels on its stone silo throne, its multiple fused tails lashing wildly. The blow is devastating — the Rat King is badly wounded, its iridescent fur matted with its own blood.
+
+Cora's healing magic flows through Garrick, knitting his wounds as he stands before the silo. Her smoke pellet creates an obscuring cloud that blankets the area between the party and the main swarm, buying precious seconds. She moves toward the nearest intact stone crocks, her dagger ready, already assessing which supplies to grab first.
+
+Mercer's thunderwave slams into the rat swarm, sending a dozen creatures flying backward. The concussive blast clears a corridor through the mass of vermin, creating a temporary path between Garrick and the rest of the party. Rats squeal in pain and confusion, their coordinated attack momentarily disrupted.
+
+The Rat King lashes out with two vicious bites, but Garrick's chain mail deflects the first, and he parries the second with his maul. Three smaller rats swarm his legs, trying to slow him, but their teeth scrape harmlessly against his armor.
+
+From the smoke, Rolf emerges, backing toward the party with his short sword keeping the rats at bay. He's bleeding from a bite on his arm, but he's still fighting. "They're regrouping!" he shouts. "More coming from side passages!"
+
+The situation is critical but not hopeless. The Rat King is wounded on its throne. The smoke provides cover. The food stores are within reach — sealed stone crocks of preserved goods, bins of rock salt, stone silos of ancient grain. But the colony hasn't broken. If anything, the Rat King's injury has made them more frenzied.
+
+Garrick stands before the silo, wounded but defiant, his maul raised for another strike at the Rat King. Cora is at the food stores, ready to grab supplies. Mercer and Rolf hold the line against the swarming rats. The service corridor exit is still open behind them — a potential escape route.
+
+**The Rat King is badly wounded but still fighting. The colony is frenzied but disorganized. The food stores are within reach. The party has a clear path to retreat through the service corridor. What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 14/20
+  ⚔ COMBAT ACTIVE
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora makes a rapid assessment — wounded leader, frenzied swarm, supplies within reach, escape route open. She shouts commands with clinical efficiency.*
+
+"Garrick, FINISH THE RAT KING! One more solid hit! Mercer, cover him with Magic Missile on any rats trying to interfere! Rolf, help me load supplies — we grab and go!"
+
+*She immediately begins grabbing the most valuable items: sealed stone crocks that are still intact, bags of rock salt from the bins. She works with practiced speed, prioritizing portability and preservation value.*
+
+"Garrick, once it's down, we retreat through the service corridor! Don't get surrounded! The colony might scatter without their leader, but we don't wait to find out!"
+
+*She loads what she can carry, then moves to help Rolf with additional containers.* "We take what we can now, retreat to the kitchen, then barricade and assess. If the colony breaks, we can return for more. If not, we have enough to buy us time for another approach."
+
+*She keeps one eye on Garrick's fight, ready to provide support if needed, but her primary focus is securing the supplies that mean survival for the fortress above.*
+
+
+--- Garrick Kade ---
+*Garrick doesn't need Cora's command. He sees the wounded Rat King reeling and brings his maul down in another crushing overhead strike, aiming to finish the bloated creature for good.*
+
+"Die!"
+
+*The maul connects with a final, wet crunch, silencing the Rat King's shrieks. He doesn't wait to see the effect on the colony — he immediately turns and starts backing toward the service corridor, his weapon still ready.*
+
+"Grab what you can and move! Now! Back to the kitchen — we can barricade there!"
+
+*He keeps himself between the swarming rats and his companions, covering their retreat as they load the salvaged supplies. His eyes scan the frenzied colony, watching for any coordinated counterattack now that their leader is dead.*
+
+
+--- Professor Thaddeus Mercer ---
+"Precision support—understood!" I call out, my eyes fixed on the rats swarming around Garrick as he delivers the final blow to the Rat King. I raise my hand, and three glowing darts of force streak from my fingertips, targeting the three smaller rats trying to drag him down. The missiles slam into them with sharp impacts, knocking them back from his legs.
+
+"Path clear! Now retreat in good order!" I shout, already backing toward the service corridor entrance. My wizardly quill hovers beside me, still taking frantic notes despite the chaos. "Observing colony behavior post-decapitation... initial disarray, but potential for a successor to emerge quickly in such a magically saturated environment!"
+
+I keep one hand raised, ready to cast another spell if the swarm surges forward. "Rolf, with me—cover the rear! Cora, lead the way with the supplies! Garrick, don't linger for trophies—this is a tactical withdrawal, not a victory parade!" The scholarly part of me aches to examine the Rat King's corpse and the structure of the silo throne, but the part that doesn't want to be eaten by mutant rodents wins out. "Back to the kitchen—we can barricade and assess our haul there!"
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Athletics check to load supplies quickly — Roll: 1d20+0 (STR +0). Result: 14 vs DC 12 — **SUCCESS** Cora efficiently loads 3 sealed stone crocks and 2 bags of rock salt, maximizing portability.
+
+**Garrick Kade**: Maul attack on wounded Rat King — Roll: 1d20+5 (attack +5). Result: 22 (17+5) vs AC 13 — **HIT** Damage: 2d6+3 = 11 (4,4+3) damage. The Rat King is killed instantly.
+
+**Professor Thaddeus Mercer**: Magic Missile on three rats swarming Garrick — Automatic hits, no attack roll needed. Damage: 3 missiles total, each rat takes 1d4+1 = 3, 4, 3 damage respectively. All three rats are knocked back and injured.
+
+
+[Enemy] Rat King acting...
+
+
+--- Rat King (Enemy) ---
+Based on the DM's narration, Garrick has delivered a final blow to the Rat King. According to my stat block: "When killed, all remaining rats flee immediately." The DM says "The maul connects with a final, wet crunch, silencing the Rat King's shrieks." This indicates I have been killed.
+
+According to my behavioral triggers: "When killed, all remaining rats flee immediately." I am Rat King and I have been killed, so I cannot take any actions this round. The rats should flee.
+
+=== RAT KING ACTIONS ===
+ACTION: Rat King is dead. All remaining rats flee immediately as per stat block. No attacks possible.
+
+
+[Enemy] Rat Swarm acting...
+
+
+--- Rat Swarm (Enemy) ---
+=== RAT SWARM ACTIONS ===
+
+**Wave 1 Giant Rats (frenzied attacks):**
+
+The Rat King is dead. According to my behavioral triggers: "All rats flee when the Rat King dies."
+
+**Behavioral Trigger Activated:** The Rat King has been killed. All rats flee immediately.
+
+**Status:** The rat colony breaks and scatters. The rats retreat into the side passages, ventilation shafts, and deeper parts of the Salting Halls. No attacks occur this round as the rats are fleeing from the party.
+
+**Note:** As mindless creatures controlled by the Rat King's influence, the death of their leader causes the colony to break and flee. The party is no longer under attack.
+
+
+--- Rules Keeper (Enemy) ---
+=== RULES KEEPER (ENEMY ACTIONS) ===
+**Rat King**: Rat King is dead — no actions possible. All remaining rats flee immediately as per stat block trigger.
+
+**Rat Swarm**: All rats flee — no attacks occur this round. The colony breaks and scatters into side passages and ventilation shafts. The party is no longer under attack.
+
+[Session] Combat ended — enemy defeated (PC-initiated path, exchange 14)
+
+--- DM ---
+Garrick's maul comes down in a final, crushing blow. The Rat King's skull collapses with a sickening crunch, and the bloated creature goes limp on its stone silo throne. Black blood pools beneath the body, and the multiple fused tails twitch once, then fall still.
+
+For a heartbeat, nothing happens. Then the colony breaks.
+
+The rats stop their frenzied attacks. Their glowing eyes dart from the dead Rat King to the party, then to the dark passages around them. A high-pitched squeal echoes through the Salting Halls — not a battle cry, but a signal to retreat. The rats turn as one and flee, scrambling over each other in their panic to escape. They vanish into ventilation shafts, side passages, and cracks in the stonework, their scratching sounds receding into the distance.
+
+Within seconds, the Salting Halls are empty except for the party and the dead Rat King. The silence that follows is profound, broken only by the party's heavy breathing and the faint drip of mineral-rich water somewhere in the preservation system.
+
+Cora has loaded three sealed stone crocks and two bags of precious rock salt. Rolf helps her with additional containers. Mercer's magic missiles hang in the air for a moment, then dissipate as their targets flee. Garrick stands before the silo, his maul dripping with black blood, watching the rats disappear.
+
+The food stores are now theirs. The Salting Halls stretch out before them — massive chambers filled with preserved goods that could sustain the fortress through winter and beyond. Sealed stone crocks of pickled vegetables older than anyone's grandparents. Bins of rock salt for preserving fresh game. Stone silos at the back that likely hold ancient grain. And the Rat King's nest, built around the largest silo, contains a small cache of shiny objects the rats collected.
+
+The service corridor stands open behind them, a clear path back to the preparation kitchen and then to the surface. But the Salting Halls themselves are now secure, waiting to be properly inventoried and organized.
+
+**The Rat King is dead. The colony has fled. The Salting Halls and their food stores are secured. The party has salvaged initial supplies and stands victorious in the heart of what was enemy territory. What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 15/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora immediately begins a systematic assessment, pulling out her ledger and making rapid notes. Her clinical efficiency takes over completely.*
+
+"First: triage. Garrick, sit — you took seventeen points of damage total. Let me check those bites for infection. Rolf, your arm needs cleaning and bandaging. Mercer, you're at seven of twelve — conserve your remaining spells."
+
+*She tends to the wounds with practiced hands, then turns her attention to the hall.* "Second: inventory. We need to catalogue everything here before moving supplies. Sealed crocks first — check seals for integrity. Grain silos next — test for spoilage. Rock salt is stable but needs proper storage containers."
+
+*She moves to the Rat King's nest, examining the shiny objects.* "Third: salvage. Anything valuable the rats collected goes into the ledger. Then we prioritize what to move first based on weight, preservation, and nutritional value."
+
+*She looks at the group, already calculating logistics.* "We make three trips today with what we can carry. Tomorrow, we organize proper transport. But first, we secure this location — barricade the main entrances, leave someone on guard. This isn't just a windfall; it's a sustainable resource that needs management."
+
+*She begins examining the nearest sealed crock, checking for magical preservation residue.* "Mercer, I need you to check these for magical contamination or preservation spells. We don't want to poison everyone upstairs."
+
+
+--- Garrick Kade ---
+*Garrick leans on his maul, breathing heavily as he watches the rats flee. He doesn't sit when Cora orders him to — instead, he keeps his eyes scanning the dark passages, his weapon ready.*
+
+"The bites are fine. They'll heal. We need to secure this hall before those things get brave again."
+
+*He moves to the main entrance they came through, using his maul to lever a fallen stone slab into a makeshift barricade. His movements are slow and pained, but determined.*
+
+"We'll guard in shifts. I'll take first watch. You do your inventory and patching." *He glances at the dead Rat King, then at the food stores stretching into the darkness.* "This is what we came for. This means our people don't starve. Means we can hold that fortress."
+
+*He positions himself at the barricaded entrance, his back to the stone, and finally allows himself to slump slightly against the wall. The adrenaline is fading, and the pain from his wounds is becoming more insistent, but his expression is one of grim satisfaction.* "We won. Now we make sure we keep it."
+
+
+--- Professor Thaddeus Mercer ---
+"Remarkable," I breathe, the academic awe in my voice genuine as I survey the now-quiet Salting Halls. My wizardly quill appears, frantically taking notes. "Observe—the colony's coordinated retreat upon the leader's death suggests a hive-mind intelligence, likely enhanced by the ambient magical radiation. A fascinating case study in mutated social structures."
+
+I move to the nearest stone crock, ignoring Cora's order to conserve spells. Instead, I murmur the incantation for *Detect Magic*, my eyes taking on a faint shimmer as I examine the seals. "The preservation magic is... subtle. Interwoven with the mineral properties of the rock salt. Pre-Calamity Giant enchantment, not merely physical preservation. These stores could be centuries old yet still viable."
+
+I then approach the Rat King's corpse with morbid curiosity, though I keep a respectful distance. "Its physiology is... extraordinary. Those fused tails suggest either a magical mutation or a bizarre parasitic bonding. We should take samples for study—carefully, of course. The academic implications are—"
+
+I stop myself, remembering the practicalities. "But first, Cora is correct about contamination checks. A systematic magical survey is required before we consume anything." I turn to Garrick, my tone shifting to one of grudging respect. "Your brute-force approach was... effective. But now we must apply scholarly rigor. This isn't just a larder—it's an archaeological treasure trove *and* our salvation. Let's secure it properly."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Medicine check on Garrick's wounds — Roll: 1d20+3 (Medicine +3). Result: 17 (14+3) vs DC 12 — **SUCCESS** Cora cleans and treats the bites, preventing infection. Investigation check on food stores — Roll: 1d20+3 (Investigation +3). Result: 19 (16+3) vs DC 15 — **SUCCESS** She identifies the most valuable and portable supplies: 8 sealed crocks of preserved vegetables, 3 bags of rock salt, and 1 grain silo with viable contents.
+
+**Garrick Kade**: Athletics check to barricade entrance — Roll: 1d20+5 (Athletics +5). Result: 22 (17+5) vs DC 15 — **SUCCESS** Garrick creates a solid barricade with fallen stone slabs. Perception check on watch — Roll: 1d20 (no proficiency). Result: 13 vs DC 10 — **SUCCESS** He remains alert for any returning rats.
+
+**Professor Thaddeus Mercer**: Arcana check on preservation magic — Roll: 1d20+5 (Arcana +5). Result: 24 (19+5) vs DC 18 — **SUCCESS** Mercer confirms the preservation is safe, ancient Giant enchantment woven with mineral salts, not corrupted by rat contamination. Casting Detect Magic (ritual) — **SUCCESS** No dangerous magical residues detected in the food stores.
+
+
+--- DM ---
+Cora works with efficient precision, cleaning Garrick's wounds and preventing infection while simultaneously cataloguing the food stores. Her ledger fills with notes: eight sealed stone crocks of preserved vegetables, three bags of rock salt, one grain silo with viable contents, and various other salvageable materials. The Rat King's nest yields a small treasure trove — 35 gold pieces in old coins, a silver ring worth 25 gold, and a strange cloak that seems to shift colors and textures when examined.
+
+Garrick's barricade holds firm, a solid wall of fallen stone slabs blocking the main entrance. He keeps watch, his eyes scanning the dark passages, but no rats return. The colony has truly fled, their coordinated intelligence broken with their leader's death.
+
+Mercer's magical examination confirms what they hoped: the preservation is safe. "Ancient Giant enchantment," he announces, his wizardly quill taking notes. "Woven with the mineral properties of the rock salt. Not corrupted by the rats' presence. These stores are centuries old but still viable. The pickled vegetables will be sour, the grain stale, but nutritious if properly prepared."
+
+Rolf helps with the inventory, his wounded arm bandaged. "Enough here to feed twenty people through winter," he says quietly, his practical assessment matching Cora's calculations. "More if we supplement with hunting."
+
+The Salting Halls are secured. The food crisis is solved. The party stands in the heart of what was enemy territory, now transformed into their greatest asset. The path back to the surface is clear, and the workforce above will eat tonight.
+
+But as they prepare to make their first load-bearing trip back to the kitchen, Mercer notices something. On the wall near the Rat King's silo throne, partially hidden by the nest material, is another faded map. This one shows not just the Salting Halls, but the entire Iron Warlords' layer — barracks, armories, guardrooms, and something labeled "The Deep Forge" with passages leading even deeper into the mountain.
+
+The map suggests the Salt-Vaults are just one part of a much larger complex. And the passages marked "The Deep Forge" lead in the same direction as the foul drafts and metallic corruption they encountered in the western parts of the fortress above.
+
+**The immediate crisis is solved. The food stores are secured and safe. The party has salvaged treasure and identified enough supplies to sustain the fortress through winter. But a new map reveals the Iron Warlords' layer extends much deeper, with something called "The Deep Forge" waiting to be explored. What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 16/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora examines the new map with professional interest, but her priorities remain clear and practical.*
+
+"First things first: we secure our primary objective. The Deep Forge can wait — it's not putting food on the table tonight." *She makes a quick sketch of the new map in her ledger.* "We make three trips today with supplies. Garrick and Rolf carry the heavy loads. Mercer and I handle documentation and smaller items."
+
+*She organizes the group with logistical precision.* "Trip one: immediate rations for tonight — one crock of vegetables, one bag of salt, and grain samples. Trip two: bulk supplies for the week. Trip three: remaining salvage and treasure."
+
+*She looks at the map again, her mind already calculating future expeditions.* "Once the food situation is stabilized, we can consider exploring the Deep Forge. But that requires proper preparation — the metallic corruption suggests environmental hazards. We'll need protective equipment, air filtration, and a dedicated expedition budget."
+
+*She begins loading the first crock onto a makeshift sled from debris.* "Right now, our job is logistics, not exploration. We get these supplies upstairs, organize distribution, and ensure the fortress is secure. Then we plan the next phase with proper risk assessment and resource allocation."
+
+*She gives one last look at the Deep Forge markings.* "It's an asset, not an emergency. And assets get scheduled, not rushed."
+
+
+--- Garrick Kade ---
+*Garrick keeps his position at the barricaded entrance, his eyes still scanning the darkness. He listens to Cora's plan and gives a grunt of approval.*
+
+"She's right. Food first. Our people are hungry — that's why we came down here."
+
+*He shoulders the heaviest crock without complaint, testing his wounded leg and finding it holds. The healing and his own endurance have done their work.* "Three trips. I'll take point on each one — clear the path back to the kitchen in case any stragglers are lurking."
+
+*He glances at the map showing the Deep Forge, his expression hardening.* "That forge can wait. We've got what we need to survive. No more rushing into dark holes until we're fortified and fed. Let's get this food upstairs — then we can talk about what's deeper."
+
+*He starts moving toward the service corridor, the crock balanced on his shoulder, his maul still in his other hand.* "Stay close. Keep watch. Just because they ran doesn't mean they won't try to take back what's theirs."
+
+
+--- Professor Thaddeus Mercer ---
+"One moment, please."
+
+My voice cuts through the practical planning with academic insistence. I approach the newly discovered map, my wizardly quill already transcribing it into my journal with feverish precision. "The Deep Forge... Cora, Garrick, you're both correct about immediate priorities, but you're missing the historical significance. This isn't just another chamber—this is the heart of Iron Warlords' industry."
+
+I trace the faded lines with a trembling finger. "The map shows direct connections between the Salting Halls, barracks, and the forge. That suggests an integrated logistical system—food for workers, housing near production, centralized industry. This isn't a simple fortress; it's a pre-Calamity manufacturing complex."
+
+I turn to them, my eyes alight with scholarly fervor. "The 'metallic corruption' we detected aligns perfectly with forge operations—magical smelting, arcane metallurgy. The Giants weren't just making weapons; they were working with materials that required containment. This could be the source of the mountain's unnatural geometry I've been documenting!"
+
+I take a steadying breath, forcing myself to be practical. "But you're right—the food comes first. However, we must document this map thoroughly before we leave. The Rat King's nest obscured it for a reason—perhaps the corruption affected even the vermin's behavior."
+
+I make a final sketch, then reluctantly step back. "Three trips for supplies, yes. But on the third trip, I'm bringing proper documentation materials. This site requires systematic archaeological study, not just looting. The Deep Forge can wait, but it cannot be ignored—it may hold the key to understanding everything about this mountain."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Cora Flint**: Investigation check to assess and prioritize supplies — Roll: 1d20+3 (Investigation +3). Result: 18 (15+3) vs DC 12 — **SUCCESS** Cora efficiently organizes the supplies into three optimal loads, maximizing nutritional value and portability.
+
+**Garrick Kade**: Athletics check to carry heavy crock while wounded — Roll: 1d20+5 (Athletics +5). Result: 22 (17+5) vs DC 10 — **SUCCESS** Garrick manages the heavy load without aggravating his injuries, clearing the path back effectively.
+
+**Professor Thaddeus Mercer**: History check on the Deep Forge map — Roll: 1d20+5 (History +5). Result: 24 (19+5) vs DC 15 — **SUCCESS** Mercer identifies the forge as a pre-Calamity arcane smelting facility, likely the source of the mountain's metallic corruption and unnatural geometry.
+
+
+--- DM ---
+The three trips pass without incident. Garrick clears the path each time, his maul ready for any straggling rats, but the colony has truly fled. Cora's logistical planning proves flawless — the first load provides immediate rations for the hungry workforce above, the second secures supplies for the week, and the third brings the remaining salvage and the Rat King's treasure.
+
+By the time they return to the preparation kitchen with the final load, the sun must be setting above, though down in the Iron Warlords' layer, time has no meaning. The kitchen becomes their staging area, with supplies organized and ready for transport up to the fortress.
+
+Mercer spends the final trip documenting the new map, his wizardly quill creating a perfect copy in his journal. "The Deep Forge," he murmurs, his academic excitement barely contained. "Arcane smelting facility. The source of the metallic corruption. And look — the passages connect directly to areas marked 'Containment.' Whatever the Giants were working with down there, they knew it was dangerous."
+
+Cora makes final notes in her ledger. "Food crisis solved. Immediate supplies secured. Additional resources identified for future harvesting. The Salt-Vaults are now a sustainable asset." She looks at the others, her expression one of grim satisfaction. "Our people won't starve. The fortress is viable."
+
+Garrick finally allows himself to sit, leaning against the stone counter. His wounds ache, and exhaustion is setting in, but there's a quiet pride in his eyes. "We did what we came to do," he says simply. "No one upstairs goes hungry tonight."
+
+Rolf, who has been quietly efficient throughout, nods. "They'll be waiting. Brenna will have organized work parties to help with the final haul to the surface."
+
+The service corridor stands open behind them, the path back to the stairwell and the waiting fortress above. The Salt-Vaults are secured. The rat infestation is cleared. The food supply is guaranteed. Adventure 2 is complete.
+
+**SESSION ENDS HERE**
+
+The party has successfully cleared the Salt-Vaults of mutated pests, secured a sustainable food supply for the fortress workforce, and discovered clues about deeper mysteries in the Iron Warlords' layer. They return to the surface with their mission accomplished, their people fed, and their foothold in the Asymmetrical Mountain secured. The next adventure awaits, but for now, they have earned their rest and the satisfaction of a job well done.
+
+
+[Session] DM declared session end at exchange 16/20. Breaking loop early.
+
+============================================================
+  SESSION 2 WRAP-UP
+============================================================
+
+[System] Updating campaign state...
+[Wiki Keeper] Extracting entities...
+  [Wiki] ↻ Reyna Steelforge.md (updated)
+  [Wiki] ↻ Grimhold.md (updated)
+  [Wiki] ↻ Griffon's Hold.md (updated)
+  [Wiki] ↻ Starmetal Hills.md (updated)
+  [Wiki] ✓ Iron Warlords' layer.md (created)
+  [Wiki] ✓ Salting Halls.md (created)
+  [Wiki] ✓ The Deep Forge.md (created)
+  [Wiki] ✓ Brenna.md (created)
+  [Wiki] ✓ Rolf.md (created)
+  [Wiki] ✓ Rat King.md (created)
+  [Wiki] ✓ Pre-Calamity Giants.md (created)
+
+[Wiki] 11 file(s) written to output/wiki/
+
+[Scribe] Writing session narrative...
+[Scribe] Blog saved to C:\Users\maxry\Desktop\AI DND\output\sessions\session_02.md
+
+[Editor] Fact-checking...
+[Editor] 4 content invention flag(s):
+  ⚠ Intelligent, coordinated rat behavior: The session report describes rats as 'coordinated', 'learning', 'targeting the spellcaster specifically', 'executing tactical withdrawals', 'herding the party', and 'anticipating routes'. The adventure file states rats are 'animals', 'not intelligent', 'not organized', 'do not think strategically', and 'are just rats that have been exposed to residual magical radiation'.
+  ⚠ Rat King's 'Aura of Command' and 'Iridescent Shriek' abilities: The adventure file prescribes these specific mechanics for the Rat King boss fight. The session transcript shows these abilities were used (Iridescent Shriek in Scene 11, Aura of Command attempted in Scene 8). However, the Rat King's presence and these mechanics were introduced by the DM/Enemy actions, not invented in the report/wiki. The report's description of the Rat King and its death causing the colony to flee is canonical.
+  ⚠ Metaphysical system of 'magical radiation': The session report mentions 'magical radiation' causing mutations and 'background radiation permeating the stone'. The adventure file only mentions 'residual magical radiation' as a background cause for mutations, not an active, detectable 'radiation' or 'permeating energy' system. This is a minor embellishment but aligns with the file's intent.
+  ⚠ The 'Deep Forge' as an arcane smelting facility and source of corruption: The adventure file does not mention the Deep Forge, arcane smelting, or it being the source of metallic corruption. This is a plot element invented for future sessions.
+[Editor] 6 missing content flag(s):
+  ✗ Scouting the nest: The adventure file prescribes the party observing the main nest from a vantage point, seeing 20+ rats, the Rat King on its silo, and three tunnel entrances. This detailed scouting and planning phase was skipped.
+  ✗ Planning the assault: The adventure file gives options like smoking rats out, bottleneck strategies, or lure and ambush. The party did not engage in this planning; they charged directly into the nest chamber via the service corridor.
+  ✗ Wave-based boss fight structure: The adventure prescribes a three-wave climax (8 Giant Rats, then 2 Rat Swarms, then the Rat King). The session combined these into a single chaotic engagement in the Salting Halls, though the Rat King and many rats were present.
+  ✗ Environmental features in nest chamber: The adventure mentions collapsible shelving, the stone silo providing cover, and ventilation shafts as tactical elements. These were not described or utilized.
+  ✗ Secured resources detail: The adventure file lists specific secured resources (sealed crocks, rock salt, grain silos). The session included these but omitted the detail about 'a functional path between the surface fortress and the Iron Warlords' layer' as a reward.
+  ✗ The workforce's reaction scene: The adventure file prescribes a scene where the party returns to the surface, Brenna organizes work parties, Rolf gives praise, Tomas asks about more exploration, and morale improves. This was not included in the session end.
+[Editor] Session report checked — no factual corrections needed.
+[Editor] Wiki entries checked — no factual corrections needed.
+[Editor] Review saved to: session_02_editor_review.md
+[Lorekeeper] Consistency pass...
+[Lorekeeper] Session report checked — no name corrections needed.
+[Lorekeeper] Upgraded 11 wiki entry/entries to encyclopedic format.
+[Lorekeeper] Added to canonical record: Tomas
+[Lorekeeper] Review saved to: session_02_lore_review.md
+
+
+============================================================
+  ADVENTURE COMPLETE!
+  Adventure 2 finished.
+  Swapping to Adventure 3: The Interstitial Breach
+  File: adventure_03_the_interstitial_breach.md
+  --- LEVEL UP ---
+  Cora Flint: Level 2 → 3 | HP: 24 | New features: Alchemist Specialist — Experimental Elixir (create 1 free elixir on long rest), Alchemist Spells: Healing Word, Ray of Sickness (always prepared), The Right Tool for the Job (conjure artisan's tools) | New spells: Healing Word (always prepared), Ray of Sickness (always prepared)
+  Garrick Kade: Level 2 → 3 | HP: 31 | New features: Rune Knight: Rune Carver — inscribe 2 runes on gear (choose from list), Giant's Might (bonus action: become Large for 1 min, +1d6 damage, advantage on STR checks, prof uses/LR)
+  Professor Thaddeus Mercer: Level 2 → 3 | HP: 17 | New spells: Misty Step, Web, Shatter, Hold Person
+============================================================
+
+[Summary] Generating adventure 2 summary...
+[Summary] Adventure 2 summary saved.
+[Summary] Already concise (94 words). Skipping condensing.
+[Quests] Cleaning quest list (2 entries)...
+[Quests] Cleaned: 2 → 2 quests.
+[Lorekeeper] Running end-of-adventure wiki editorial pass...
+
+[Lorekeeper] Processing 20 wiki entries in batches...
+
+[Lorekeeper] Batch 1/1 (20 entries)...
+[Lorekeeper] Batch 1: 20 updated, 0 marked for deletion.
+[Lorekeeper] Running cross-batch dedup pass...
+  [Retry] Agent returned garbage (2 words: '{"duplicates": []}...'). Retrying (1/2)...
+  [Retry] Agent returned garbage (2 words: '{"duplicates": []}...'). Retrying (2/2)...
+  [Warning] Agent returned garbage after 2 retries. Using last response.
+[Lorekeeper] Dedup pass: no duplicates found.
+[Lorekeeper] End-of-adventure editorial pass complete.
+
+[Transcript] session_02 -> session_02_transcript.md (81 blocks parsed)
+
+============================================================
+  SESSION 2 COMPLETE
+  Blog saved to: output/sessions/session_02.md
+  Transcript saved to: output/sessions/session_02_transcript.md
+  Log saved to: output/logs/session_02_log.txt
+  Reviews saved to: output/reviews/
+  Wiki updated in: output/wiki/
+  State saved to: campaign_state.json
+  >>> Adventure 2 complete! Next adventure loaded.
+  >>> Story summary condensed for next adventure.
+============================================================
+
+[Site] Building static site...
+[Site] Built 32 pages (2 sessions, 20 wiki entries) in 0.1s -> docs/
+[Git] Publishing session 02...
+[Git] Committed: session 02: campaign update
+[Git] Pushed to origin.

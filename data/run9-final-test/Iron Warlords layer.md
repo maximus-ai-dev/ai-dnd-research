@@ -1,0 +1,1 @@
+The **Iron Warlords layer** is a fortified stratum within the [[Asymmetrical Mountain]], currently serving as the expedition's primary base of operations. It is located above the ruins of the [[Military Empire]].

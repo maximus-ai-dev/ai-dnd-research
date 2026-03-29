@@ -1,0 +1,1 @@
+**Tomas** is the youngest member of the workforce of former [[Emberfell Rejects]] now employed at the fortress on the [[Asymmetrical Mountain]]. He is characterized by a keen curiosity and eagerness, often showing a distinct interest in exploration and the deeper mysteries of the mountain complex that surrounds the workforce's living area.

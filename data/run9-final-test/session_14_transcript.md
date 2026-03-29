@@ -1,0 +1,923 @@
+# Session 14 — Transcript
+*The Runecarvers Tomb*
+
+> *Raw gameplay transcript — the unedited record of what each agent said and did. For the polished narrative version, see the [session report](session_14.md).*
+
+---
+
+**DM:** The air in the Cold Forge chamber still carries the faint scent of ozone and heated metal, though the great forge itself has been banked for several days. The party has taken time to recover—Garrick's bruises from the behir's lightning breath have faded to faint yellow marks, Mercer's mental fatigue from the reality breach has cleared with proper rest, and Cora's hands have healed from the alchemical burns sustained during the amplifier sabotage.
+
+A brief trip to Grimhold provided resupply: fresh rations from the Second Wind Inn, replacement climbing gear from the Griffon's Hold, and a quiet conversation with Reyna Steelforge at the Prospectors' Guild. The town's unofficial governor listened intently as the party described their discoveries—the Giant containment vessel, the Sleeper's learning patterns, the sabotaged amplifiers. Her expression grew grave. "A hundred thousand years," she murmured, looking at the blueprint tablet's diagrams. "And we're halfway through. This isn't just a discovery anymore. It's an inheritance."
+
+Now, back at the forward camp in the Giant foundation's outer ring, the party stands before the blueprint tablet spread across a makeshift table of salvaged stone slabs. The monitoring crystal pulses softly nearby, its field strength readings stable for now. The tablet shows the containment vessel's structure in exquisite detail—and one symbol stands out from all others, marked in the deepest section of the outer ring where the foundation meets the bedrock. Mercer traces it with a finger.
+
+"This rune," he says, his voice hushed with academic reverence. "It translates as 'The Maker's Rest.' The blueprint tablet marks it with the same significance as the primary containment nodes. According to what I've pieced together from the Giant inscriptions we've found, master builders were buried with their greatest works—their knowledge preserved as part of the construction itself."
+
+He looks up at Garrick and Cora. "This is the tomb of Korathan, Master Runecarver of the Architect's Council. The Giant who designed the containment vessel that holds the Sleeper. If we want to understand how to reinforce it—how to build something that can last another fifty thousand years—we need what's in that tomb. The scaling techniques that let containment runes work at any size. The principles behind the entire system."
+
+The journey to the tomb's location takes several hours through corridors the party has come to know—the maintenance passages with their Giant-scale tools, the monitoring alcoves with their silent diagnostic crystals, the transition zones where the outer ring's engineered stone gives way to the mountain's natural bedrock. The air grows colder here, and the ever-present hum of the containment field fades to a distant vibration felt through the soles of their boots rather than heard.
+
+Then they see it.
+
+The door is forty feet tall and twenty feet wide, carved from a single slab of obsidian so black it seems to drink the light from their lanterns. Its surface is covered in Giant script—not the functional rune sequences they've seen throughout the containment network, but flowing narrative text carved with artistic precision. The characters are larger than Mercer's hand, arranged in elegant columns that tell a story in stone.
+
+Before the door, a massive lever mechanism is built into the frame—clearly designed for Giant hands. The lever itself is fifteen feet above the floor, and from the size of the counterweights visible in the stone housing, it would require roughly eight hundred pounds of force to operate. The door stands sealed, silent, waiting.
+
+**What do you do?**
+
+**CORA:** I step forward, my lantern held high as I examine the massive obsidian door. "Eight hundred pounds of force, fifteen feet up. That's not a lock—that's a test of worthiness." I turn to Mercer. "Before we try to brute-force this, let's read what it says. If this is Korathan's tomb, there might be instructions or warnings."
+
+I move closer, running my fingers over the cold stone. "Garrick, check the mechanism housing for counterweights or pulleys. Mercer, translate the script. I'll look for hidden compartments or secondary controls—Giants were engineers, not just brutes."
+
+**GARRICK:** I grunt and move to the mechanism housing, running my hands over the cold stone. "Eight hundred pounds? That's nothing." I examine the counterweight system, looking for wear points or hidden catches. "Giants built this for Giants. But if they wanted to keep everyone out forever, they wouldn't have put a lever at all."
+
+I turn to Mercer. "What's the script say? If it's a warning, I'll listen. If it's poetry, skip to the part about how to open the damn door." My eyes scan the fifteen-foot height. "I can reach it if I jump. Or I could throw one of you."
+
+**MERCER:** I step forward, my eyes already scanning the flowing Giant script with academic hunger. "This isn't just poetry, Garrick—it's a funerary inscription. The highest form of Giant literature." I trace the characters with my finger, my brow furrowing as I attempt to translate. "The script is... more complex than the functional runes we've seen. Archaic forms, poetic constructions..."
+
+I pause, frustration creeping into my voice. "My translation isn't coming easily. The characters are clear enough, but the syntax is deliberately obscure—typical of ceremonial tomb inscriptions. They wanted only those with proper understanding to comprehend the full meaning."
+
+Turning to Cora, I gesture at the door. "You're correct about this being a test of worthiness. The lever's placement and required force suggest physical strength was part of the criteria, but the inscription likely contains the intellectual component. Let me try a different approach—examining the narrative structure rather than direct translation." I step back, squinting at the overall arrangement of columns. "The Giants loved symmetrical patterns. If we can identify the key phrases through contextual placement..."
+
+> **[Rules Keeper]** I'll load the campaign state first to check the party's stats and then adjudicate their actions.
+
+
+---
+
+**DM:** The obsidian door looms before you, its surface drinking the lantern light as three minds work in concert.
+
+Cora's fingers trace the stone's edges, finding no hidden compartments but noting the precision of the joinery—the door fits its frame with a seam thinner than parchment. "No secondary controls," she reports, her voice echoing in the vast corridor. "This is the only mechanism. But look at the counterweight system—" She points to the stone housing where Garrick examines the massive pulleys. "It's designed to be operated by a single Giant hand. The leverage ratio suggests eight hundred pounds is the minimum, not the maximum. A test of strength, yes, but also of commitment. You don't accidentally open this door."
+
+Garrick grunts, his hands testing the stone housing. "The pulleys are clean. No rust, no wear. Magic or perfect engineering." He looks up at the fifteen-foot height, then at Mercer. "I could reach it if I used my Giant's Might. Or we could rig a rope system from those maintenance tools we passed. But first—what does the damn thing say?"
+
+Mercer stands before the flowing script, his eyes moving from column to column. He murmurs to himself in Giant, then Common, then back to Giant, his brow furrowed. "The syntax is deliberately archaic," he says, frustration giving way to analytical focus. "But the narrative structure is clear—this is Korathan's epitaph. Let me try reading it aloud, translating as I go..."
+
+He clears his throat, and his voice takes on a ceremonial cadence:
+
+*"Here lies Korathan, Master Runecarver of the Architect's Council,* *Who spent three centuries building the vessel that holds the Sleeper.* *When the work was complete, Korathan entered this place—* *Not in death, but in vigil.* *The long watch begins.* *The maker rests with the made."*
+
+Mercer pauses, his eyes widening. "It doesn't say Korathan died here. It says 'entered the long watch.' Voluntary entombment. A vigil." He turns to the others, the academic excitement in his voice tempered by the weight of the revelation. "This isn't just a tomb. It's a watchpost. Korathan stayed."
+
+He looks back at the script, tracing more lines. "The rest is biographical—the Council's debates, the decision to contain rather than destroy, the construction details. But that phrase—'the long watch'—that changes everything. The architect didn't just build the cage and leave. They stayed to maintain it."
+
+The door remains sealed, the lever fifteen feet above, waiting for eight hundred pounds of force. The epitaph hangs in the air between you—a story of dedication spanning centuries, of a Giant who gave eternity to a single purpose.
+
+**What do you do?**
+
+**CORA:** I stare at the door, my mind calculating. "A vigil, not a tomb. That means Korathan might still be in there—or what's left of him after a hundred thousand years. Mercer, check the script for any mention of visitors, maintenance protocols, or conditions for entry. If this is a watchpost, there should be provisions for relief or inspection."
+
+I turn to Garrick. "Before you use your Giant's Might, consider this: if Korathan is still conscious in there, bursting in like a battering ram might be seen as hostile. But if he's... gone, then we need his knowledge to reinforce the containment. Either way, we need to proceed with respect, not force."
+
+I examine the lever mechanism more closely, looking for any inscriptions or runes around it that might indicate a ritual or proper procedure. "Let me check for magical signatures or hidden instructions. If this is a Giant engineer's work, there might be a proper way to announce ourselves."
+
+**GARRICK:** I shake my head, my hand resting on my maul. "Respect is for the living. A hundred thousand years is a long time to be 'conscious.' If Korathan's still in there, he's either a ghost, a corpse, or something that shouldn't be."
+
+I look up at the lever. "But you're right about one thing—Giants were engineers. They built things to work properly." I step back and examine the entire mechanism housing. "Mercer, look for any mention of how to announce visitors. Cora, check if there's a pattern to the script—maybe certain words need to be spoken or touched."
+
+I move to the base of the door frame, running my hands along the stone. "If this is a watchpost, there should be a way to signal. A bell, a chime, something." I search for any depression, worn spot, or differently textured stone that might indicate a control panel or signaling device.
+
+**MERCER:** I step closer to the obsidian door, my mind racing with the implications. "A vigil... of course. The Architect's Council wouldn't leave their greatest creation unattended. Korathan's 'rest' was an active state—monitoring, maintaining, observing."
+
+I examine the script more carefully, looking for any mention of protocols. "Let me check for conditional phrases or ritual instructions. The Giants were meticulous about ceremony, especially for something this significant." My eyes scan the columns, searching for any mention of visitors, passwords, or proper procedures for entry.
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Investigation check for hidden controls/magical signatures — Roll needed vs DC 16 (Hard) — **REQUIRES ROLL** Check for magical signatures and hidden instructions around the lever mechanism. **Garrick Kade**: Investigation check for signaling devices — Roll needed vs DC 13 (Medium) — **REQUIRES ROLL** Search for depressions, worn spots, or differently textured stone indicating controls. **Professor Thaddeus Mercer**: History/Arcana check for ritual protocols — Roll needed vs DC 16 (Hard) — **REQUIRES ROLL** Search for conditional phrases or ritual instructions in the ceremonial script.
+
+
+---
+
+**DM:** The three of you work in focused silence, each examining different aspects of the massive door and its mechanism.
+
+Cora's fingers trace the stone around the lever housing, her eyes narrowed in concentration. **"Let me check for magical signatures or hidden instructions,"** she murmurs, pulling out her alchemist's supplies and a small crystal lens. She examines the stone for minute variations in texture, temperature, and magical resonance. **Investigation check needed (DC 16).**
+
+Garrick moves along the base of the door frame, his calloused hands running over the cold obsidian. **"If this is a watchpost, there should be a way to signal,"** he grunts, searching for any depression, worn spot, or differently textured stone that might indicate a control panel or signaling device. **Investigation check needed (DC 13).**
+
+Mercer stands before the flowing script, his eyes moving rapidly across the columns. **"The Giants were meticulous about ceremony,"** he says, his voice taking on the cadence of academic analysis. **"Especially for something this significant. Let me look for conditional phrases or ritual instructions..."** He traces the characters with his finger, muttering translations under his breath. **History/Arcana check needed (DC 16).**
+
+The obsidian door looms silently, its surface reflecting your lantern light in distorted patterns. The air in the corridor is still and cold, carrying the faint mineral scent of deep stone. Somewhere far above, the containment field hums its eternal note—a vibration felt more than heard.
+
+**What do you do?**
+
+**CORA:** I carefully examine the stone around the lever housing with my crystal lens, looking for magical signatures or hidden instructions. "The stonework is flawless—no hidden panels or compartments. But there's a faint magical resonance here, consistent with preservation enchantments. The mechanism itself is purely mechanical though, no arcane triggers."
+
+I step back, looking at the overall design. "Garrick, check if there's a specific pattern to the wear on the floor in front of the door. If this was regularly opened, there might be foot placement markers. Mercer, look for any mention of 'announcement protocols' or 'visitor recognition' in that script. If this is a watchpost, there should be a way to signal that we're not intruders."
+
+I turn to both of them. "Before we pull that lever, we need to be sure we're not triggering a defense system. A hundred-thousand-year-old containment architect doesn't leave their post unguarded."
+
+**GARRICK:** I kneel down, examining the stone floor in front of the door. "Foot placement markers, you say?" I run my hands over the smooth stone, looking for any worn spots, grooves, or patterns that might indicate where Giants stood to operate the lever. The floor is perfectly smooth and even—no wear patterns, no markings, nothing but cold, unblemished stone.
+
+"Nothing," I grunt, standing up. "Either they floated, or this door hasn't been opened since it was sealed." I look back at the lever mechanism. "Mercer, any luck with the script? If there's no proper way to announce ourselves, then we do it the old-fashioned way—we knock."
+
+I move to the center of the door and place my hand against the obsidian. "Korathan! We're here about your containment vessel! It needs maintenance!" I shout, my voice echoing down the corridor. Then I turn to the others. "If that doesn't work, I'm using my Giant's Might and pulling that lever. We didn't come this far to stand around guessing at ceremony."
+
+**MERCER:** I continue examining the script, my frustration mounting. "The syntax is deliberately obscure—ceremonial language meant to be understood only by other members of the Architect's Council. I can translate the biographical sections, but the procedural instructions..." I shake my head. "They're either not here, or encoded in a way I can't decipher without more context."
+
+I step back from the door, looking at Garrick's approach with academic disapproval. "Garrick, shouting at a hundred-thousand-year-old tomb is hardly proper archaeological methodology! If Korathan is still... present in some form, you're more likely to trigger defensive protocols than gain entry."
+
+Turning to Cora, I gesture at the script. "The lack of wear patterns you noted is significant. If this door hasn't been opened since its sealing, then Korathan truly did enter a 'long watch' with no expectation of relief. That suggests either eternal vigilance or..." I pause, the implication settling. "Or the watch ended long ago, and we're dealing with a sealed tomb after all."
+
+I look up at the lever. "Before you use your Giant's Might, let me try one more approach. The Giants loved symbolic symmetry. Perhaps the answer isn't in the words themselves, but in their arrangement." I examine the pattern of the columns, looking for any mathematical or geometric significance that might indicate a ritual sequence.
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Investigation check for magical signatures/hidden instructions — Roll needed vs DC 16 (Hard) — **REQUIRES ROLL** Examine stone around lever housing with crystal lens. **Garrick Kade**: Investigation check for floor wear patterns — Roll needed vs DC 13 (Medium) — **REQUIRES ROLL** Search for foot placement markers or wear on floor. **Professor Thaddeus Mercer**: History/Arcana check for symbolic patterns — Roll needed vs DC 19 (Very Hard) — **REQUIRES ROLL** Analyze script arrangement for mathematical/geometric significance.
+
+
+---
+
+**DM:** Garrick's shout echoes down the corridor—"Korathan! We're here about your containment vessel! It needs maintenance!"—and the sound reverberates for several seconds before fading into silence. The obsidian door remains impassive, its surface undisturbed.
+
+Cora examines the stone around the lever housing with her crystal lens, her brow furrowed. **"The stonework is flawless,"** she reports. **"No hidden panels or compartments. But there's a faint magical resonance here—preservation enchantments, consistent with long-term stasis fields. The mechanism itself is purely mechanical though, no arcane triggers."** She looks at the smooth floor. **Investigation check needed (DC 16).**
+
+Garrick kneels, running his hands over the stone floor. **"Foot placement markers, you say?"** he mutters, searching for any worn spots, grooves, or patterns. The floor is perfectly smooth and unblemished—no wear patterns, no markings, nothing but cold, flawless stone. **"Nothing,"** he grunts, standing up. **"Either they floated, or this door hasn't been opened since it was sealed." Investigation check needed (DC 13).**
+
+Mercer ignores Garrick's shouting, his eyes fixed on the script's arrangement. **"The Giants loved symbolic symmetry,"** he murmurs, stepping back to view the entire door. **"Perhaps the answer isn't in the words themselves, but in their arrangement."** He traces invisible lines in the air, his mind working through geometric patterns, mathematical sequences, the ceremonial layouts of Giant architecture. **History/Arcana check needed (DC 19).**
+
+The corridor remains silent except for the faint hum of the containment field far above. The obsidian door stands as it has for a hundred thousand years—sealed, silent, waiting. Garrick's hand rests on his maul, ready to use his Giant's Might. Cora watches the door for any reaction to the shout. Mercer searches for patterns in the ancient script.
+
+**What do you do?**
+
+**CORA:** I kneel beside Garrick, examining the floor more carefully. "No wear patterns means this door hasn't been opened since it was sealed. But look—" I point to the seam where the floor meets the door frame. "There's a slight discoloration here, a mineral deposit pattern that suggests water seepage over millennia. The door hasn't moved."
+
+I stand up, looking at the lever mechanism. "Garrick, your shouting was a good test—no response means either Korathan isn't conscious, or he's waiting for proper protocol. Mercer, you're onto something with the symbolic symmetry. Giants loved mathematical precision. Check if the script columns form a specific geometric pattern or if certain words align with the lever mechanism."
+
+I turn back to the door, my mind calculating. "If this is a test of worthiness, maybe it's not just about strength. Maybe it's about understanding. The lever requires eight hundred pounds of force—that's within Garrick's capabilities with Giant's Might. But before we try, let's see if there's a ritual sequence. Mercer, look for any mention of 'the pull of three' or 'the maker's hand' in that script."
+
+**GARRICK:** I stand up, brushing stone dust from my hands. "Enough guessing. If the door hasn't moved in a hundred thousand years, and shouting doesn't work, then we do it the way Giants would—with strength."
+
+I step back from the door, looking up at the fifteen-foot-high lever. "Mercer, you keep looking for patterns. Cora, watch for traps or defenses. I'm going to use my Giant's Might and pull that lever."
+
+I take a deep breath and focus, feeling the ancient runes carved into my armor begin to glow with a soft blue light. My muscles swell, my frame expands, and I grow to nearly ten feet tall—Large size, just like the Giants who built this place. The stone floor groans under my increased weight.
+
+"Now let's see if this 'test of worthiness' recognizes strength when it sees it," I grunt, my voice deeper and more resonant. I reach up, my now-Giant-sized hands easily grasping the massive lever. "Here goes nothing."
+
+I plant my feet, brace myself against the door frame, and pull with all my might.
+
+**MERCER:** "Wait!" I shout, my eyes suddenly catching a pattern in the script arrangement. "Garrick, don't pull yet! I see it now—the columns aren't just narrative. They form a geometric pattern that corresponds to the phases of containment maintenance!"
+
+I point rapidly at the script. "Look—the central column describes Korathan's vigil. The flanking columns detail construction principles. But the outermost columns... they're not part of the epitaph. They're instructions!" I trace the air, following the pattern. "The Giants used a tripartite verification system: strength of body, strength of mind, strength of purpose. The lever tests the first. But if you pull it without the other two..."
+
+I turn to Garrick, my voice urgent. "The script mentions 'the pull of three'—not three people, but three verifications! The lever is only one component. There should be something to demonstrate understanding of the containment principles, and something to prove our purpose aligns with Korathan's vigil."
+
+I look back at the door, my mind racing. "Cora, check if there are three distinct magical signatures around the door frame, not just one. Garrick, your strength might be enough to move the lever, but if this is a Giant security system, it could trigger defenses if we don't complete the full protocol!"
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Investigation check for mineral deposits/water seepage — Roll needed vs DC 13 (Medium) — **REQUIRES ROLL** Examine floor-door seam for evidence of movement. **Garrick Kade**: Strength check to operate lever — Roll needed vs DC 15 (Hard) — **REQUIRES ROLL** Use Giant's Might to pull 800-pound lever. **Professor Thaddeus Mercer**: Intelligence check for pattern recognition — Roll needed vs DC 19 (Very Hard) — **REQUIRES ROLL** Identify tripartite verification system in script arrangement.
+
+
+---
+
+**DM:** The moment hangs suspended—Garrick's Giant-sized hands gripping the massive lever, Mercer's urgent warning echoing in the corridor, Cora examining the floor-door seam.
+
+Cora kneels, her fingers tracing the line where obsidian meets stone. **"There's a slight discoloration here,"** she says, her voice analytical. **"Mineral deposits from water seepage over millennia. The pattern is uniform—no breaks, no disturbance. This door hasn't moved since it was sealed." Investigation check needed (DC 13).**
+
+Garrick ignores Mercer's warning, his muscles straining as he pulls with all his might. The lever groans—a deep, resonant sound that vibrates through the stone. For a moment, nothing happens. Then, with a grinding of ancient mechanisms, the lever begins to move. **Strength check needed (DC 15).**
+
+Mercer's eyes dart across the script, his mind racing to decode the pattern before it's too late. **"The tripartite verification system!"** he exclaims, pointing at the outermost columns. **"Strength of body—the lever. Strength of mind—understanding the containment principles. Strength of purpose—alignment with Korathan's vigil. If we only provide one..." Intelligence check needed (DC 19).**
+
+The lever moves another inch. Somewhere deep within the door mechanism, stone grinds against stone. The obsidian surface remains closed, but a new sound emerges—a low hum, building in intensity. Not the familiar containment field hum, but something different. Something reactive.
+
+**What do you do?**
+
+**CORA:** "Garrick, stop!" I shout, my voice sharp with urgency. "Mercer's right—it's a tripartite system! You're triggering only one verification!" I rush to examine the mineral deposits more carefully, looking for any patterns that might indicate previous attempts or failures.
+
+The mineral deposit pattern confirms my earlier assessment—uniform, undisturbed. "This door has never been opened, but that doesn't mean it hasn't been tested. The humming—that's a defensive response. Mercer, what do the other two verifications require? Strength of mind—understanding containment principles. Strength of purpose—alignment with Korathan's vigil."
+
+I turn to Garrick, my mind racing. "We need to demonstrate all three simultaneously or sequentially. Garrick, you've got strength of body covered. Mercer, you need to articulate the containment principles. And purpose..." I look at the door, then back at my companions. "We're here to reinforce the vessel, to continue Korathan's work. That's alignment with his vigil."
+
+**GARRICK:** I keep pulling, my muscles straining against the ancient mechanism. The lever groans but continues to move under my Giant-enhanced strength. "Too late to stop now!" I grunt through clenched teeth. "The door's responding!"
+
+I glance at Mercer. "Strength of mind—tell it what we know! The containment principles, the amplifiers, everything!" Then to Cora: "Strength of purpose—tell it why we're here! We're not grave robbers, we're here to fix what's breaking!"
+
+I maintain my pull on the lever, feeling the mechanism engage deeper. "Do it now, while I hold this! If this is a test, we're taking all three parts at once!" The low hum continues to build, but I don't let up. My feet are planted, my back braced against the door frame, holding the lever in position with raw strength.
+
+**MERCER:** "Very well!" I shout, turning to face the door with academic authority. "Strength of mind—the containment principles!" I speak in clear, precise Giant, my voice carrying the cadence of a master lecturer.
+
+"The vessel operates on nested reality layers!" I begin, my eyes fixed on the script as I translate key phrases. "Primary containment through dimensional folding! Secondary stabilization via harmonic resonance! The amplifiers maintain field integrity across temporal decay!" I gesture emphatically. "The system was designed for eternal operation, with redundancy in every subsystem! Korathan's genius was in the scaling principles—runes that maintain efficacy regardless of size!"
+
+I step closer, my voice dropping to a reverent tone. "Strength of purpose—we are here not to disturb, but to continue! The vessel weakens after a hundred thousand years! The amplifiers have been sabotaged! We seek Korathan's knowledge to reinforce what he built, to extend the vigil he began! We align with his purpose—containment, not destruction! Preservation of reality itself!"
+
+I place my hand on the obsidian, feeling the growing hum vibrate through my palm. "Three verifications complete! Strength of body at the lever! Strength of mind in understanding! Strength of purpose in continuation! Open for those who would maintain the watch!"
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Investigation check for mineral deposit patterns — 16 vs DC 13 — **SUCCESS** Confirms door has never moved since sealing. **Garrick Kade**: Strength check to operate lever — 21 vs DC 15 — **SPECTACULAR SUCCESS** Lever moves smoothly with Giant-enhanced strength, mechanism fully engages. **Professor Thaddeus Mercer**: Intelligence check for tripartite verification — 21 vs DC 19 — **SUCCESS** Correctly identifies and articulates all three verification components.
+
+
+---
+
+**DM:** The corridor holds its breath.
+
+Garrick's muscles strain, the lever groaning as it moves under his Giant-enhanced strength—**21 vs DC 15, spectacular success**. The mechanism engages fully, ancient counterweights shifting somewhere deep within the stone. Mercer's voice rings out in perfect Giant, articulating the containment principles with academic precision—**21 vs DC 19, success**. Cora's analysis confirms the door has never moved, her mind already calculating the implications of the tripartite system.
+
+For three heartbeats, nothing happens.
+
+Then the low hum shifts—not defensive, but evaluative. The obsidian door vibrates, the script glowing with a soft blue light that pulses in time with Mercer's words. The outermost columns—the ones Mercer identified as instructions—brighten first, then the central column describing Korathan's vigil, then finally the flanking columns detailing construction principles.
+
+The glow intensifies, spreading across the entire door until the obsidian seems to become a window into deep space, stars swirling within its surface. The script floats free of the stone, hanging in the air as luminous characters that rearrange themselves into a new configuration—not an epitaph, but a response.
+
+A voice speaks, not from the door but from the air itself—deep, resonant, speaking in flawless Giant that Mercer translates instantly:
+
+*"Verification complete. Strength of body confirmed. Strength of mind confirmed. Strength of purpose confirmed. The vigil continues."*
+
+The door splits down the middle with a sound like a mountain sighing. The two halves slide silently into the walls, revealing a corridor beyond—thirty feet wide, forty feet high, angling downward at a shallow grade. The walls are carved with continuous illustrations of Korathan's life: the Architect's Council, the discovery of the Sleeper, the debates over containment versus destruction, the construction. The art is exquisite—Giants depicted at true scale, working with tools the size of trees, carving runes into bedrock with precision that defies their immense size.
+
+The floor consists of massive stone tiles, each ten feet square. Some look slightly different—their seams more pronounced, their surfaces a shade lighter than the surrounding stone. The corridor descends into darkness, the illustrations fading into shadow after about a hundred feet.
+
+Garrick releases the lever, shrinking back to his normal size with a grunt of effort. The door remains open behind you. The air from within carries a scent of ancient stone, dry air, and something else—ozone, perhaps, or the faint residual magic of preservation enchantments.
+
+**What do you do?**
+
+**CORA:** I immediately step forward, my lantern held high as I examine the entrance. "Hold position," I say, my voice echoing in the massive corridor. "Before we proceed, we need to assess the floor. Those lighter tiles with pronounced seams—they could be pressure plates, traps, or part of a security system."
+
+I kneel at the threshold, examining the first few tiles carefully. "Mercer, look at the illustrations—do they show anything about this corridor's construction or security? Garrick, don't step on any tiles yet. Let me check for magical signatures and mechanical triggers."
+
+I pull out my alchemist's supplies and crystal lens, beginning a systematic examination of the floor and walls. "If this is Korathan's vigil chamber, there might be additional defenses. A hundred-thousand-year-old containment architect doesn't leave their post completely unguarded, even for verified visitors."
+
+**GARRICK:** I stand at the threshold, breathing heavily as I return to my normal size. "Good work, both of you," I grunt, wiping sweat from my brow. "The door recognized we're here to help."
+
+I watch Cora examine the floor, then look down the massive corridor. The illustrations are impressive, but I'm more concerned with practical threats. "Pressure plates, traps... you're right to be careful." I step just inside the doorway, staying on the threshold stone rather than stepping onto the patterned floor.
+
+I examine the walls and ceiling, looking for any openings, suspicious shadows, or signs of defensive mechanisms. "Mercer, what do the illustrations show about security? Giants were engineers—if they built traps, they'd be big. Crushing walls, falling blocks, that sort of thing."
+
+My hand rests on my maul, ready for anything that might emerge from the darkness. "Take your time checking, Cora. But remember—if Korathan's still in there, he knows we're coming now. The door announced us."
+
+**MERCER:** I step forward, my eyes immediately drawn to the magnificent illustrations. "Remarkable... these aren't just decorative. They're a historical record carved by the architect himself." I examine the nearest section showing the Architect's Council in debate.
+
+"The Giants documented everything with meticulous precision," I say, my voice hushed with academic awe. "Look at the scale—each Giant is depicted with individual features, different tools, specific gestures of debate. This is first-hand historical documentation of the most significant decision in this world's history."
+
+I point to a section showing construction. "The floor tiles... yes, I see references in the illustrations. The lighter tiles appear to be depicted as 'path markers' rather than traps. The Giants used contrasting stone to indicate safe passage through complex chambers." I trace the carving with my finger. "Notice how the illustrations show Giants walking specifically on those lighter tiles during construction. They're guides, not hazards."
+
+Turning to Cora, I add, "But you're right to be cautious. The illustrations also show defensive systems—massive stone blocks that could seal corridors, energy barriers keyed to specific runic signatures. However, given that we passed the tripartite verification, we should theoretically be recognized as authorized visitors."
+
+I look down the dark corridor, my scholarly excitement tempered by practical concern. "Still, a hundred thousand years is a long time for any system to degrade or misinterpret. Proceed carefully, but I believe the lighter tiles are our intended path."
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Investigation check for traps/pressure plates — Roll needed vs DC 16 (Hard) — **REQUIRES ROLL** Examine lighter tiles for magical signatures and mechanical triggers. **Garrick Kade**: Perception check for defensive mechanisms — Roll needed vs DC 13 (Medium) — **REQUIRES ROLL** Scan walls and ceiling for openings or suspicious features. **Professor Thaddeus Mercer**: History check for illustration interpretation — Roll needed vs DC 16 (Hard) — **REQUIRES ROLL** Analyze carvings for information about corridor security and tile significance.
+
+
+---
+
+**DM:** The three of you stand at the threshold of Korathan's tomb, the massive corridor stretching before you into darkness. The air is still and dry, carrying the scent of ancient stone.
+
+Cora kneels, her crystal lens and alchemist's supplies spread before her as she examines the lighter tiles. **"Pressure plates, traps... let me check for magical signatures and mechanical triggers,"** she murmurs, her fingers tracing the seams between tiles. **Investigation check needed (DC 16).**
+
+Garrick scans the walls and ceiling, his eyes searching for openings, suspicious shadows, or signs of defensive mechanisms. **"Giants were engineers—if they built traps, they'd be big,"** he grunts, his hand resting on his maul. **Perception check needed (DC 13).**
+
+Mercer studies the magnificent illustrations, his academic excitement palpable. **"Remarkable... these aren't just decorative. They're a historical record,"** he says, tracing the carvings with his finger. **"The lighter tiles appear to be depicted as 'path markers' rather than traps. The illustrations show Giants walking specifically on them during construction."** He examines the carvings more closely. **History check needed (DC 16).**
+
+The corridor remains silent, the only sound the faint hum of the now-open door mechanism behind you. The illustrations on the walls seem to watch your progress—Giants frozen in debate, in construction, in the monumental work of containing something that predated their universe. The lighter tiles form a winding path through the corridor, disappearing into the darkness ahead.
+
+**What do you do?**
+
+**CORA:** My examination reveals intricate details. "The lighter tiles are indeed path markers," I confirm, standing up. "No magical signatures, no mechanical triggers. But look at the wear patterns—the center of each lighter tile shows microscopic abrasion, while the darker tiles are pristine. This was the approved path."
+
+I turn to Mercer. "Your interpretation matches the physical evidence. The illustrations show Giants using this path during construction—likely to avoid damaging the main floor or triggering something else. But we should still proceed cautiously. Garrick, you're right about Giant engineering—if there are traps, they'd be massive. But these might not be traps at all."
+
+I point to the illustrations. "Mercer, look for any depiction of what happens if someone deviates from the path. The Giants were meticulous—they would have recorded failures as well as successes." I begin carefully stepping onto the first lighter tile, testing my weight. "Single file, follow my exact steps. We'll treat this as a construction site safety protocol."
+
+**GARRICK:** I scan the walls and ceiling, my eyes searching for any signs of defensive mechanisms. The stonework is flawless, but my gaze catches something—subtle grooves in the ceiling above the darker tiles, almost invisible unless you're looking for them.
+
+"Ceiling grooves," I point upward. "Above the dark tiles. Could be for sliding blocks or something else that drops. Mercer's right—the lighter tiles are the path."
+
+I watch Cora step onto the first lighter tile. "Single file it is. I'll take rear guard." I wait for both of them to start moving, then carefully step onto the path, following Cora's exact footsteps. My heavy armor and maul make me more cautious than usual—if this floor was designed for Giants, my weight shouldn't be an issue, but I'm not taking chances.
+
+"Keep your eyes on the illustrations, Mercer. If they show what happens to those who stray from the path, we need to know before we make a mistake." I keep one hand on my maul, ready to react if anything moves in the darkness ahead.
+
+**MERCER:** I examine the illustrations more carefully, my eyes scanning for depictions of accidents or deviations. "You're right, Cora—the Giants documented everything, including safety protocols." I point to a section showing construction. "Here... see these figures? They're carrying materials along the lighter tiles while avoiding the darker ones."
+
+I trace the carving further. "And here—this shows what appears to be a containment breach during construction. The darker tiles are glowing with energy, and the Giants are retreating." I squint at the details. "The text accompanying this scene... it's technical. 'Secondary containment field activation during primary system testing. Unauthorized entry triggers localized reality stabilization fields.'"
+
+I turn to my companions, my academic tone shifting to one of practical warning. "The darker tiles aren't traps in the conventional sense—they're part of the containment system itself. Stepping on them might trigger localized stabilization fields designed to contain dimensional breaches. For us, that could mean anything from temporal displacement to being frozen in a stasis field."
+
+I gesture along the path. "Single file on the lighter tiles is absolutely correct. And Garrick—those ceiling grooves you noticed likely house emitters for those stabilization fields. This isn't just a tomb corridor; it's an extension of the containment vessel's security systems."
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Investigation check for tile analysis — Roll needed vs DC 16 (Hard) — **REQUIRES ROLL** Examine wear patterns and confirm path markers. **Garrick Kade**: Perception check for ceiling grooves — Roll needed vs DC 13 (Medium) — **REQUIRES ROLL** Spot subtle grooves above dark tiles. **Professor Thaddeus Mercer**: History check for safety protocol details — Roll needed vs DC 19 (Very Hard) — **REQUIRES ROLL** Interpret technical text about containment field activation.
+
+
+---
+
+**DM:** Cora's careful examination reveals the truth of the tiles. **"The lighter ones are path markers,"** she confirms, standing up. **"No magical signatures, no mechanical triggers. But look—microscopic abrasion on the centers of the lighter tiles, while the darker ones are pristine. This was the approved path." Investigation check needed (DC 16).**
+
+Garrick's eyes catch what others might miss—**"Ceiling grooves,"** he points upward. **"Above the dark tiles. Almost invisible unless you're looking for them."** The subtle grooves run parallel to the corridor, positioned precisely above the darker stone. **Perception check needed (DC 13).**
+
+Mercer studies the illustrations with intense focus. **"Here... this shows a containment breach during construction,"** he says, tracing the carving. **"The darker tiles are glowing with energy, and the Giants are retreating. The text says 'Secondary containment field activation during primary system testing. Unauthorized entry triggers localized reality stabilization fields.'"** He looks up, his expression grave. **"The darker tiles aren't conventional traps—they're part of the containment system itself. Stepping on them might trigger stabilization fields designed for dimensional breaches." History check needed (DC 19).**
+
+Cora carefully steps onto the first lighter tile, testing her weight. The stone holds firm. She gestures for the others to follow single file. The corridor stretches ahead, the illustrations continuing their story of Korathan's life and work. The air remains still and dry, but now carries a faint ozone scent—the residual energy of ancient containment systems.
+
+About fifty feet ahead, the corridor appears to continue descending, but something changes. The illustrations shift from construction scenes to something more ominous: depictions of the Sleeper's discovery, the debates over containment versus destruction. And the path of lighter tiles winds through the darker ones in a more complex pattern, like a river through stone.
+
+**What do you do?**
+
+**CORA:** I freeze mid-step, processing Mercer's revelation. "Localized reality stabilization fields," I repeat, my voice low. "That's not a trap—that's a failsafe. Stepping on a dark tile might trigger a containment field designed to freeze anything that breaches reality. We'd be preserved in stasis, possibly forever."
+
+I carefully continue along the lighter tiles, my movements precise. "Garrick, those ceiling grooves above the dark tiles—they're likely emitters for the stabilization fields. Mercer, keep translating those illustrations. We need to know if there are any other hazards ahead."
+
+I examine the path ahead where the pattern becomes more complex. "The winding path suggests this section was more heavily secured. Maybe this is where they debated containment versus destruction—higher security for more sensitive areas. We'll need to move slowly and deliberately. No rushing, no deviations." I take another careful step. "And absolutely no testing what happens if we step off the path. That's coming out of your share if you do."
+
+**GARRICK:** I follow carefully, my eyes fixed on the path ahead. "Reality stabilization fields... sounds worse than crushing walls," I grunt. "At least with crushing walls, you die quick. Stasis forever? No thanks."
+
+I keep my movements precise, placing my boots exactly where Cora stepped. The weight of my armor and maul makes me more cautious than usual. "Mercer, what do the illustrations show about the Sleeper? If this path gets more complex where they debated containment, we need to know what we're walking into."
+
+I glance at the ceiling grooves above the dark tiles. "Emitters, you say. So if we step wrong, we get frozen in place until the end of time. Good motivation to watch our step." I continue following, maintaining a steady pace but never rushing. "Cora, you lead. I'll watch our backs. Mercer, keep reading the walls. If there are any warnings about the path ahead, we need to know before we reach them."
+
+**MERCER:** I continue examining the illustrations as we move, but my focus is divided between the carvings and maintaining my footing on the narrow path. "The depictions are becoming more... conceptual," I say, my voice showing frustration. "Less technical documentation, more symbolic representation of the philosophical debates."
+
+I point to a section showing Giants in heated discussion. "This appears to be the containment versus destruction debate, but the specifics are obscured by artistic stylization. The text is more poetic than technical here—'To cage a god is to acknowledge its divinity. To destroy it is to claim our own.'"
+
+I shake my head, my academic pride stung. "I can't extract practical security information from this section. The Giants switched from engineering documentation to philosophical discourse. The path's increased complexity likely reflects the gravity of the decisions made here, but I can't determine if there are additional hazards beyond the stabilization fields."
+
+I carefully step onto the next lighter tile, my eyes scanning ahead. "We'll need to rely on observation and caution rather than historical context for this section. The winding pattern suggests the path was designed to force deliberate, thoughtful movement—appropriate for a place where they debated the fate of reality itself."
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Dexterity check for precise movement — Roll needed vs DC 13 (Medium) — **REQUIRES ROLL** Maintain balance and precision on winding path. **Garrick Kade**: Dexterity check for careful footing — Roll needed vs DC 13 (Medium) — **REQUIRES ROLL** Navigate complex path in heavy armor. **Professor Thaddeus Mercer**: Intelligence check for pattern analysis — Roll needed vs DC 16 (Hard) — **REQUIRES ROLL** Decipher winding path logic despite lack of technical documentation.
+
+
+---
+
+**DM:** The three of you move with deliberate care along the winding path of lighter tiles, the corridor's massive scale making each step feel like crossing a chasm. The illustrations shift from technical documentation to philosophical discourse, the Giants' debates rendered in stylized, symbolic forms that frustrate Mercer's attempts at practical analysis.
+
+Cora leads, her movements precise as she navigates the increasingly complex pattern. **"No rushing, no deviations,"** she murmurs, placing each foot with exacting care. **Dexterity check needed (DC 13).**
+
+Garrick follows, his heavy armor and maul making the winding path more challenging. **"Good motivation to watch our step,"** he grunts, focusing on placing his boots exactly where Cora stepped. **Dexterity check needed (DC 13).**
+
+Mercer brings up the rear, his eyes darting between the path and the illustrations. **"The path's increased complexity likely reflects the gravity of the decisions made here,"** he says, frustration in his voice. **"But I can't determine if there are additional hazards beyond the stabilization fields." Intelligence check needed (DC 16).**
+
+You've progressed about seventy feet down the corridor when something changes. The air grows noticeably colder, carrying a new scent—not ozone, but something chemical, acrid. Ahead, the corridor continues its descent, but now you can see faint wisps of vapor drifting from concealed nozzles in the walls at about twenty-five feet up—Giant nostril height. The vapor descends slowly, like fog settling in a valley.
+
+The path of lighter tiles continues winding through this section, but the vapor is already beginning to obscure the floor ahead. You have perhaps two rounds before it reaches floor level. The illustrations on the walls here show something different: Giants working with alchemical apparatus, mixing compounds, testing gases.
+
+**What do you do?**
+
+**CORA:** I move with careful precision along the winding path, my balance steady despite the scale. "Chemical vapor—preservation gas or disinfectant," I say, analyzing the scent. "Giants working with alchemical apparatus in the illustrations. This might be a decontamination chamber."
+
+I quicken my pace slightly but maintain precision. "Garrick, keep close—if this obscures the path, we'll need to remember the pattern. Mercer, what do the illustrations say about this gas? Is it hazardous or just preservative?"
+
+I pull a small cloth from my pack and hold it to my nose. "We have about two rounds before it reaches us. I'm going to try to memorize the path ahead while I can still see it. Follow exactly—if we lose visual contact with the tiles, we're relying on memory and hope." I take several rapid but careful steps forward, committing the winding pattern to memory before the vapor obscures it completely.
+
+**GARRICK:** I move quickly but carefully, my heavy armor making the winding path more challenging. "Decontamination chamber makes sense," I grunt, keeping my eyes fixed on Cora's footsteps. "If this is a vigil chamber, they'd want to keep contaminants out."
+
+I pull up the collar of my chain mail over my nose and mouth. "Two rounds isn't much time. Cora, lead the way—I'll follow your exact path. Mercer, stay close behind me."
+
+I quicken my pace, placing each boot precisely where Cora stepped. The vapor is descending fast, already obscuring the tiles ahead. "Memorize the pattern while you can! Once the fog hits, we're blind." I keep my gaze locked on the path, committing the winding pattern of lighter tiles to memory as best I can while maintaining my footing.
+
+**MERCER:** I move with surprising agility, my academic focus translating to precise footwork as I follow Garrick. "The illustrations show alchemical purification processes!" I call out, my voice slightly muffled as I pull my robe over my nose. "Not hazardous to living beings—designed to neutralize microscopic contaminants and preserve organic materials!"
+
+I commit the winding path to memory with scholarly precision, my mind treating it like a complex diagram. "The pattern ahead forms a logarithmic spiral—mathematically elegant! Remember: three steps straight, then a sharp right turn onto a diagonal tile, followed by two leftward steps!"
+
+The vapor descends rapidly, but my dexterity serves me well as I maintain perfect balance on the narrow path. "The gas is likely inert nitrogen mixed with preservation compounds! Don't breathe deeply, but it shouldn't be immediately harmful! Keep moving—the pattern continues with alternating diagonal steps for the next twenty feet!"
+
+I stay close behind Garrick, my movements surprisingly graceful for an academic. "The Giants designed this as both security and preservation! The vapor obscures vision to force reliance on memory and discipline—another test of worthiness!"
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Dexterity check for precise movement — 12 vs DC 13 — **PARTIAL SUCCESS** Maintains balance but struggles with pace as vapor obscures path. **Garrick Kade**: Dexterity check for careful footing — 15 vs DC 13 — **SUCCESS** Navigates complex path skillfully despite heavy armor. **Professor Thaddeus Mercer**: Intelligence check for pattern analysis — 12 vs DC 16 — **PARTIAL SUCCESS** Recognizes logarithmic spiral pattern but misses some details in vapor.
+
+
+---
+
+**DM:** The vapor descends like a slow-moving fog, obscuring the floor as you move with urgent precision. Cora leads, her movements steady but slightly hampered by the need to memorize the path before visibility disappears—**12 vs DC 13, partial success**. She commits the pattern to memory but loses some details in the thickening mist.
+
+Garrick follows with surprising grace for a man in heavy armor—**15 vs DC 13, success**. His boots land exactly where Cora's did, his focus absolute as the vapor reaches knee-height, then waist-height. Mercer brings up the rear, his mind working through the pattern—**"Logarithmic spiral!"** he calls out, but his analysis misses some details—**12 vs DC 16, partial success**.
+
+The chemical scent grows stronger—acrid, medicinal. Cora recognizes it now: **"Alchemical preservation gas! Designed to neutralize contaminants and halt decay! Don't breathe deeply!"**
+
+You're halfway through the vapor-filled section when Cora hesitates. The path ahead is completely obscured by the dense fog now at chest height. She remembers the pattern: three steps straight, then a sharp right turn onto a diagonal tile... but was it two leftward steps after that, or three? The vapor has erased all visual reference.
+
+Garrick stops behind her, his hand on her shoulder to maintain contact. **"What's wrong?"**
+
+**"I've lost the pattern,"** Cora admits, her voice tight. **"The vapor's too thick. I remember the beginning, but the middle section..."**
+
+Mercer catches up, the vapor now at his shoulders. **"Alternating diagonal steps for twenty feet!"** he says, but even he sounds uncertain. **"But the exact sequence..."**
+
+The vapor continues to descend. In moments, it will reach floor level completely, and you'll be standing in a cloud of preservation gas with no visible path. The ceiling grooves above the dark tiles are invisible in the fog, but you know they're there—emitters for reality stabilization fields that could freeze you in stasis forever if you step wrong.
+
+**What do you do?**
+
+**CORA:** "Hold position," I command, my mind racing. "We need to clear the vapor or mark the path. Mercer, can you use a cantrip to create a breeze? Not too strong—just enough to clear a patch."
+
+I kneel carefully, feeling the edge of the tile I'm standing on. "The tiles are ten feet square—we can use that. Garrick, your maul—can you tap the next tile gently to test it? If it's a dark tile, the sound might be different, or we might trigger a warning before full activation."
+
+I pull out a piece of chalk from my supplies. "If we can clear even a small patch, I'll mark the safe tiles. But we need to be systematic. One wrong step and we're preserved for eternity." I look at the vapor, calculating. "The gas is descending from Giant nostril height—twenty-five feet up. That means it's designed to fill the entire corridor. We need to move before it's completely opaque."
+
+**GARRICK:** I kneel carefully, keeping my balance on the tile. "Testing with my maul is too risky—if it triggers the field, we're all frozen." I look at the vapor, then at Cora. "But I have another idea."
+
+I reach into my pack and pull out one of my handaxes. "Lighter than the maul, easier to control." I carefully extend the axe handle forward, tapping the tile directly in front of me. I listen for any difference in sound, any vibration, any sign that it might be a dark tile.
+
+"Ten-foot squares means we can reach the next tile with the handle," I say, keeping my movements slow and controlled. "If it sounds solid and doesn't trigger anything, it's probably safe. But we need to be ready to pull back fast if something starts to happen."
+
+I look back at Mercer. "Can you create a small breeze? Just enough to clear a patch so we can see what we're doing?" I keep the handaxe extended, ready to test the next tile but waiting for Cora's decision.
+
+**MERCER:** "Wait!" I say, my mind suddenly making a connection. "The logarithmic spiral pattern—it's not just decorative! It's a mathematical representation of containment principles!"
+
+I close my eyes, visualizing the pattern we've seen. "Containment fields operate on harmonic frequencies that follow logarithmic progressions! The path mimics the energy flow of the containment vessel itself!" I open my eyes, a look of academic triumph on my face despite the vapor.
+
+"I can reconstruct the pattern mathematically! The sequence is: three steps forward representing primary containment, then a right turn for dimensional folding, followed by alternating diagonal steps that correspond to harmonic stabilization nodes!"
+
+I gesture carefully in the fog. "From our current position, we need two leftward steps to reach the next stabilization node, then three diagonal steps at a forty-five degree angle! The pattern repeats every seven steps—a prime number, significant in Giant numerology for 'eternal' sequences!"
+
+I look at my companions with renewed confidence. "Don't test the tiles—that could trigger the fields! Follow my reconstructed pattern! The mathematics don't lie!"
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Intelligence check for tile testing strategy — Roll needed vs DC 16 (Hard) — **REQUIRES ROLL** Determine safe method to test tiles without triggering fields. **Garrick Kade**: Dexterity check for controlled tile testing — Roll needed vs DC 13 (Medium) — **REQUIRES ROLL** Use handaxe handle to test next tile safely. **Professor Thaddeus Mercer**: Intelligence check for mathematical reconstruction — Roll needed vs DC 19 (Very Hard) — **REQUIRES ROLL** Reconstruct path pattern through mathematical principles.
+
+
+---
+
+**DM:** The vapor thickens around you, now at shoulder height and still descending. Time is running out.
+
+Cora's mind races through possibilities. **"Testing tiles could trigger the fields,"** she says, her voice tight with concentration. **"But we need to verify the path. The tiles are ten feet square—if we can clear even a small patch..." Intelligence check needed (DC 16).**
+
+Garrick extends his handaxe handle carefully, tapping the tile directly in front of him. The sound is a solid *thunk* of stone on stone. No vibration, no change in the air, no activation of stabilization fields. He listens intently. **Dexterity check needed (DC 13).**
+
+Mercer closes his eyes, visualizing the pattern. **"The logarithmic spiral represents containment principles!"** he exclaims. **"Three steps forward for primary containment, right turn for dimensional folding, alternating diagonals for harmonic stabilization! The pattern repeats every seven steps—a prime number for 'eternal' sequences!"** His mind works through the mathematics. **Intelligence check needed (DC 19).**
+
+The vapor reaches your chins now, cold and chemical-scented. In moments, it will cover your heads completely, leaving you blind in a corridor designed for beings twenty feet tall. The preservation gas swirls around you, obscuring everything but the faint outlines of your companions.
+
+Garrick's handaxe handle remains extended, the tile in front of him apparently safe. Mercer's mathematical reconstruction offers a theoretical path. Cora's analytical mind searches for verification.
+
+**What do you do?**
+
+**CORA:** "Mercer's prime number sequence makes sense—Giants used mathematical principles in everything," I say, my mind working through the logic. "Three steps forward, right turn, alternating diagonals, repeating every seven steps. That matches what I remember before the vapor obscured things."
+
+I look at Garrick's handaxe handle. "The tile in front is safe, which confirms the pattern. But we need to move now before the vapor completely obscures everything. Mercer, lead with your mathematical reconstruction. I'll follow, verifying each step. Garrick, you're rear guard—if we're wrong, you might need to pull us back."
+
+I take a deep breath of the clearer air near the floor. "Single file, maintain contact. Mercer, call out each step. We're committing to the mathematical pattern. If the Giants designed this as a test of understanding, then understanding the containment principles should be the key." I gesture forward. "Go."
+
+**GARRICK:** I pull my handaxe back and stand up carefully. "Mathematical pattern it is. Mercer, lead the way. Call out each step clearly."
+
+I wait for Mercer to take the lead, then follow closely behind him, keeping one hand on his shoulder to maintain contact through the thick vapor. My other hand stays on my maul, ready for anything. "Cora, stay close behind me. If something goes wrong, I'll try to pull Mercer back."
+
+The vapor is now at eye level, cold and chemical. I take shallow breaths, trying to avoid inhaling too much of the preservation gas. "Mercer, start with the three steps forward. We'll follow your count." I prepare to step exactly where he steps, trusting his mathematical reconstruction of the Giant's containment principles.
+
+**MERCER:** "Very well," I say, my voice taking on the precise cadence of a lecturer. "Three steps forward for primary containment!" I take the first step onto the tile Garrick tested, then two more, counting aloud. "One... two... three!"
+
+I pause, visualizing the pattern. "Now a right turn for dimensional folding!" I pivot carefully, my foot finding the diagonal tile. "The angle should be precisely forty-five degrees!"
+
+I continue, my confidence growing as the mathematical elegance reveals itself. "Now alternating diagonal steps for harmonic stabilization! First left diagonal... then right diagonal... then left again!" I move with deliberate precision, each step following the reconstructed pattern.
+
+"The sequence repeats every seven steps—we should complete two full cycles to clear this section!" I call back, my academic excitement tempered by the gravity of our situation. "The mathematics are sound! The Giants built their containment systems on these principles! If we understand the theory, we can navigate the physical manifestation!"
+
+I continue leading, each step confirming the pattern as we move through the obscuring vapor.
+
+> **[Rules Keeper]** === RULES KEEPER === **Professor Thaddeus Mercer**: Intelligence check for navigation — Roll needed vs DC 19 (Very Hard) — **REQUIRES ROLL** Lead party through vapor using mathematical pattern reconstruction. **Cora Flint**: Wisdom check for pattern verification — Roll needed vs DC 13 (Medium) — **REQUIRES ROLL** Verify each step matches remembered pattern. **Garrick Kade**: Dexterity check for following in heavy armor — Roll needed vs DC 13 (Medium) — **REQUIRES ROLL** Maintain precise footing while following in vapor.
+
+
+---
+
+**DM:** Mercer leads with academic confidence, his voice cutting through the thickening vapor. **"Three steps forward for primary containment!"** He moves carefully—one, two, three steps. **"Right turn for dimensional folding!"** He pivots onto a diagonal tile. **"Now alternating diagonals for harmonic stabilization!"**
+
+Cora follows, her mind verifying each step against her memory of the pattern. **"The sequence matches what I saw before the vapor,"** she confirms, her analytical mind working through the verification. **Wisdom check needed (DC 13).**
+
+Garrick brings up the rear, his heavy armor making precise movement challenging in the obscuring fog. He keeps one hand on Mercer's shoulder, placing his boots exactly where the professor stepped. **Dexterity check needed (DC 13).**
+
+Mercer continues, his mathematical reconstruction guiding them through the vapor-filled corridor. **"Second cycle begins!"** he announces. **"Three steps forward... right turn... alternating diagonals!"** His movements are precise, each step landing on what should be a lighter tile according to the logarithmic spiral pattern. **Intelligence check needed (DC 19).**
+
+The vapor is now completely over your heads, reducing visibility to mere inches. The chemical scent is strong, but you're breathing shallowly, avoiding deep inhalation of the preservation gas. You've moved about forty feet through the fog when suddenly—
+
+The vapor begins to thin.
+
+Not because you've reached the end of the gas-filled section, but because you're descending. The corridor angles downward more steeply here, and the vapor, being slightly lighter than air, rises away from the floor as you go deeper. Ahead, you can see the path of lighter tiles emerging from the fog, winding down a staircase.
+
+But this is no ordinary staircase.
+
+Each step is three feet tall—Giant-sized—descending fifty feet into darkness. And every third step has a faint shimmer, a barely-visible distortion in the air above it. The illustrations on the walls continue, showing Korathan's work in greater detail: the containment vessel's construction, the Sleeper's reaction to each new layer, the cost in Giant lives when sections failed.
+
+**What do you do?**
+
+**CORA:** I stop at the top of the staircase, examining the shimmering steps. "Every third step has a distortion field," I observe, my voice echoing in the descending corridor. "That's not random—it's a pattern. Mercer, check the illustrations. Do they show anything about these steps or the descent to Korathan's vigil chamber?"
+
+I kneel to examine the first shimmering step more closely. "The distortion looks like a containment field, but smaller scale. Maybe it's a test of agility or timing—step through when the field cycles? Or maybe it's a barrier that requires specific knowledge to pass."
+
+I turn to Garrick. "Three-foot steps are manageable but awkward. We'll need to climb down carefully. But first, we need to understand those shimmering fields. Stepping into an active containment field could be... problematic." I look back at Mercer. "What do the illustrations say about the descent? Is this another test?"
+
+**GARRICK:** I stand at the top of the staircase, looking down at the three-foot steps. "Three-foot drops each time. That's a long way down if we slip." I examine the shimmering steps, my eyes trying to make sense of the distortion fields.
+
+"Pattern of three again," I grunt. "Every third step. Could be a timing thing, or maybe we need to avoid those steps entirely." I look at the illustrations on the walls. "Mercer, what do they show? If this is another test, we need to know the rules before we start climbing down."
+
+I test the first step with my boot, careful not to put my full weight on it yet. "Cora's right—stepping into a containment field could freeze us or worse. But if we have to time our steps between cycles..." I shake my head. "Giants weren't known for their agility. Maybe the fields are inactive unless triggered somehow."
+
+**MERCER:** I examine the illustrations with intense focus, my eyes widening as I comprehend their meaning. "This isn't a staircase—it's a chronometric descent!"
+
+I point to the carvings showing Giants descending similar steps. "Look! The illustrations depict the passage of time! Each step represents a century of Korathan's vigil! The shimmering fields on every third step..." I trace the accompanying text. "'Temporal markers—each third century marked for review of containment integrity.'"
+
+I turn to my companions, my academic excitement barely contained. "The shimmer isn't a barrier—it's a temporal checkpoint! When Korathan descended to begin his vigil, he would pause on those steps to assess the containment system's status over the preceding three centuries!"
+
+I gesture at the staircase. "We're not just descending physically—we're retracing the passage of time in Korathan's vigil! The fields are harmless unless we attempt to bypass the temporal review process! We should pause on each shimmering step, just as Korathan would have!"
+
+I look down into the darkness. "This is extraordinary—a physical representation of a hundred-thousand-year vigil! Each step a century, each shimmer a review point! We're walking through time itself!"
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Investigation check for distortion field analysis — Roll needed vs DC 16 (Hard) — **REQUIRES ROLL** Examine shimmering steps for magical properties and patterns. **Garrick Kade**: Athletics check for stair descent — Roll needed vs DC 13 (Medium) — **REQUIRES ROLL** Navigate three-foot steps safely. **Professor Thaddeus Mercer**: History check for temporal symbolism — Roll needed vs DC 19 (Very Hard) — **REQUIRES ROLL** Interpret chronometric descent and temporal markers.
+
+
+---
+
+**DM:** The staircase descends into darkness, each three-foot step a monumental drop by human standards. The shimmering distortions on every third step pulse with a faint, rhythmic light.
+
+Cora kneels, examining the first shimmering step with her crystal lens. **"The distortion fields have containment signatures,"** she reports, her analytical mind working through the patterns. **"But they're not barriers—they're... markers of some kind." Investigation check needed (DC 16).**
+
+Garrick tests the first step with his boot, then begins the careful descent. **"Three-foot drops each time,"** he grunts, lowering himself down with controlled strength. **"Long way down if we slip." Athletics check needed (DC 13).**
+
+Mercer studies the illustrations with widening eyes. **"This isn't just a staircase—it's a chronometric descent!"** he exclaims, pointing at the carvings. **"Each step represents a century of Korathan's vigil! The shimmering fields on every third step are temporal markers for containment review!" History check needed (DC 19).**
+
+As you begin descending, the truth of Mercer's interpretation becomes apparent. The illustrations on the walls shift from construction scenes to something more profound: not just the passage of time, but the weight of it. Giants are shown pausing on the shimmering steps, their hands touching the walls as if reading data, their faces showing the strain of centuries-long observation.
+
+The air grows colder as you descend, and a new sound emerges—a low hum that seems to come from the stone itself, vibrating through your boots. It's not the containment field hum you've grown accustomed to, but something older, deeper, more fundamental.
+
+You're about halfway down the fifty-foot descent when Cora notices something. The shimmering fields aren't just passive markers. As Garrick steps onto the sixth step (the second shimmering one), the field brightens slightly, and the hum shifts in pitch. It's subtle, but unmistakable—the step is reacting to his presence.
+
+**What do you do?**
+
+**CORA:** "Garrick, stop!" I call out, my voice sharp. "The field is reacting to your presence. These aren't just markers—they're interactive. Temporal markers for containment review means they might be checking something."
+
+I examine the shimmering field more carefully, but the distortion makes it difficult to analyze. "Mercer, what do the illustrations show about what happens on these review steps? Do the Giants perform a specific action? Touch the walls? Speak something?"
+
+I look at the humming stone. "The pitch shift suggests the step is scanning or evaluating. Maybe it's checking if we understand the containment principles, like the door verification. Or maybe it's measuring our... temporal alignment? Our understanding of the passage of time in the vigil?"
+
+I step carefully onto the shimmering step beside Garrick, bracing for a reaction. "We need to proceed with understanding, not just brute force. If each step represents a century of vigil, then stepping on a review step without proper reverence might trigger something."
+
+**GARRICK:** I freeze on the shimmering step as Cora calls out, feeling the stone hum beneath my boots. The field brightens around me, the pitch of the hum shifting. I don't move, keeping my weight balanced and my hands away from my weapons.
+
+"Reacting, but not attacking," I grunt, staying perfectly still. "Mercer, what do the Giants do in the illustrations? If this is a review step, maybe we need to... acknowledge the time passed?"
+
+I look at the carvings on the walls, trying to follow Mercer's interpretation. "A century per step. That's a long vigil." I keep my voice low, respectful. "Korathan spent a hundred thousand years down here. We're here to continue his work, not disturb it."
+
+I slowly raise one hand and place it against the cold stone wall, mimicking what I see in the illustrations. "Checking the containment, maybe. Or just... remembering the weight of it." I hold the position, waiting to see if the field's reaction changes. "Cora, step up carefully. Mercer, tell us what to say or do. If this is another verification, we need to pass it together."
+
+**MERCER:** I descend carefully to join them on the shimmering step, my eyes fixed on the illustrations. "Look—the Giants aren't just touching the wall, they're placing their palms against specific runes carved at chest height!" I point to a series of glowing symbols that have become visible now that we've triggered the review step. "These correspond to containment integrity diagnostics!"
+
+I place my own hand against the cool stone, aligning my palm with one of the runes. "Each review step would have been a moment of assessment. Korathan would check the vessel's status, note any decay, and... reaffirm his commitment." I look at my companions, the academic pomp momentarily replaced by quiet reverence. "We should do the same. This isn't just a test—it's a ritual of continuity."
+
+I speak in Giant, my voice echoing in the stairwell with ceremonial gravity. "Three centuries have passed. The vessel holds. The vigil continues." The shimmering field around us brightens, then stabilizes into a gentle, pulsing light. The humming pitch returns to its baseline tone.
+
+"The step has accepted our presence," I say, relief evident in my voice. "We've acknowledged the passage of time and reaffirmed the purpose. This is how we descend—not as intruders, but as successors to the vigil." I gesture downward. "We must repeat this on each shimmering step. Three centuries at a time, all the way to the bottom. We're walking through Korathan's entire watch, century by century."
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Intelligence check for field interaction analysis — Roll needed vs DC 16 (Hard) — **REQUIRES ROLL** Determine proper response to reactive temporal markers. **Garrick Kade**: Wisdom check for ritual understanding — Roll needed vs DC 13 (Medium) — **REQUIRES ROLL** Mimic Giant ritual actions appropriately. **Professor Thaddeus Mercer**: Performance/History check for ritual execution — Roll needed vs DC 16 (Hard) — **REQUIRES ROLL** Properly conduct temporal review ritual in Giant language.
+
+
+---
+
+**DM:** The three of you stand together on the shimmering step, the temporal field pulsing around you. The stone hums beneath your feet, the pitch having shifted to something more harmonious since Mercer's ritual words.
+
+Cora analyzes the field's reaction, her mind working through the implications. **"Interactive temporal markers,"** she murmurs, her eyes scanning the glowing runes on the walls. **"They're not just checking our presence—they're evaluating our understanding of the vigil's continuity." Intelligence check needed (DC 16).**
+
+Garrick keeps his hand against the stone wall, his movements mimicking the Giants in the illustrations. **"A century per step,"** he says, his voice unusually quiet. **"That's a long vigil."** He maintains the ritual posture with surprising reverence. **Wisdom check needed (DC 13).**
+
+Mercer's ceremonial words hang in the air—**"Three centuries have passed. The vessel holds. The vigil continues."** The field brightens, stabilizes, accepts. **"We must repeat this on each shimmering step,"** he says, his academic tone returning. **"Three centuries at a time, all the way to the bottom." Performance/History check needed (DC 16).**
+
+You continue descending, pausing on each shimmering step to perform the ritual. Sixth step, ninth, twelfth... Each time, Mercer speaks the words in Giant, each of you touches the appropriate runes, and the field accepts your presence. The illustrations on the walls shift with your progress—showing not just the passage of time, but its weight. Giants growing weary but resolute. Containment systems aging but holding. The Sleeper dreaming but contained.
+
+By the time you reach the bottom—the fiftieth step, representing the fifty-thousandth year of the vigil—you've performed the ritual sixteen times. The air is noticeably colder here, and the hum from the stone has deepened to something almost subsonic, vibrating in your bones rather than your ears.
+
+Before you stretches a new section of corridor, but this one is different. It ends in a room about thirty feet square with a vaulted ceiling. The walls are carved with rune sequences in concentric circles, glowing with a soft, pulsating light. The air hums with a different frequency here—higher, more intense, building as you approach.
+
+As you step off the final stair and into the corridor leading to the room, the runes on the walls begin to glow brighter. The hum intensifies, becoming audible—a resonant tone that vibrates in your teeth. The concentric circles of runes pulse in sequence, starting from the outer rings and moving inward.
+
+This is clearly another security measure, but of a different kind than what you've encountered so far.
+
+**What do you do?**
+
+**CORA:** I hold up a hand, stopping the others. "The runes are pulsing in sequence—outer rings to inner. That's a containment field activation pattern. This might be the final verification before Korathan's chamber."
+
+I examine the glowing runes carefully. "Mercer, can you read the sequences? They're likely containment principles or mathematical proofs. If this is the final test, we need to demonstrate we understand the system, not just pass through it."
+
+I look at the pulsing pattern, my mind calculating. "The frequency is building. If we don't respond correctly, it might activate a full containment field around us. Or worse, it might alert Korathan—if he's still conscious—that intruders are approaching."
+
+I step forward cautiously, watching the rune patterns. "We should move slowly, let the system evaluate us. But be ready to retreat if the field activates. Garrick, don't touch anything. Mercer, start translating those runes—we need to know what they're asking of us."
+
+**GARRICK:** I stop at the threshold, my hand instinctively going to my maul. The pulsing runes and building hum set my nerves on edge. "Another test," I grunt, my eyes scanning the glowing circles. "But this feels different—more active, like it's waiting for a response."
+
+I keep my distance from the walls, remembering the stabilization fields from earlier. "Mercer, translate those runes. If they're containment principles, we need to know which ones. Cora's right—if we trigger a full containment field here, we're done."
+
+I watch the pulsing pattern, my fighter's instincts telling me this is a defensive measure that could become offensive if we fail. "Move slow, stay in the center of the corridor. Don't touch the walls, don't touch the runes. Let the system read us, like it did on the stairs." I take a careful step forward, keeping my movements deliberate and non-threatening. "If this is the final guard before Korathan's chamber, it'll be the toughest one yet. Be ready for anything."
+
+**MERCER:** I step forward, my eyes widening as I examine the concentric rune circles. "This is magnificent—a living containment diagram! The pulsing sequence represents the harmonic resonance that maintains the vessel's integrity!"
+
+I raise a hand to stop the others from advancing further. "Wait. The pattern isn't just pulsing—it's cycling through containment principles. Outer rings represent primary dimensional folding, middle rings show harmonic stabilization, inner rings depict temporal anchoring." I trace the air, following the sequence. "It's testing whether we can recognize the components of the system."
+
+I turn to my companions, my voice dropping to a reverent whisper. "This is the final examination. Korathan designed this as the ultimate verification before reaching his vigil chamber. We must demonstrate we comprehend the complete system, not just individual parts."
+
+I step carefully toward the first glowing circle, my eyes fixed on the runes. "The sequence is asking a question through symbolic logic. Each pulse presents a containment principle, and the next pulse shows a potential failure mode. We must identify which rune represents the corrective measure." I examine the patterns, my mind racing through a century of academic study on Giant containment theory. "There—the third rune in the middle ring. It's the harmonic recalibration sequence used when temporal drift exceeds acceptable parameters."
+
+I speak clearly in Giant, addressing the pulsing runes directly. "The Sleeper dreams against dimensional walls. The walls weaken with time's passage. Harmony must be restored through frequency realignment." I point to the specific rune. "This is the correction. This maintains the vigil."
+
+The runes pulse brighter, the hum shifting to a more harmonious frequency. The inner rings begin to glow with a steady light rather than a pulsating one. "We're being evaluated," I say, not taking my eyes off the display. "Each correct identification brings us closer to being recognized as worthy to approach the architect of the vessel itself."
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Intelligence check for pattern analysis — Roll needed vs DC 19 (Very Hard) — **REQUIRES ROLL** Decipher containment field activation sequence and appropriate response. **Garrick Kade**: Wisdom check for threat assessment — Roll needed vs DC 13 (Medium) — **REQUIRES ROLL** Evaluate defensive nature of pulsing rune system. **Professor Thaddeus Mercer**: Arcana/History check for rune interpretation — Roll needed vs DC 25 (Nearly Impossible) — **REQUIRES ROLL** Translate complex containment diagram and identify corrective measures.
+
+
+---
+
+**DM:** The room hums with building energy, the concentric circles of runes pulsing in their complex sequence. The air vibrates with the intensity of the containment principles being displayed.
+
+Cora analyzes the pattern, her mind working through the activation sequence. **"The pulsing represents harmonic resonance maintenance,"** she says, her voice tight with concentration. **"But the pattern is asking for something—identification of corrective measures for potential failures." Intelligence check needed (DC 19).**
+
+Garrick assesses the threat, his fighter's instincts telling him this is defensive but could become dangerous. **"The system is evaluating us,"** he grunts, keeping his movements deliberate. **"Not attacking yet, but ready to if we fail." Wisdom check needed (DC 13).**
+
+Mercer steps forward, his eyes fixed on the glowing runes. **"This is the final examination,"** he whispers, then speaks clearly in Giant, identifying the harmonic recalibration sequence for temporal drift. The runes respond, pulsing brighter, the hum shifting to a more harmonious frequency.
+
+But the test isn't over. The inner rings begin a new sequence—faster, more complex. Mercer's mind races through a century of academic study, trying to translate the complex containment diagram. **"The next sequence shows... dimensional fraying at containment boundaries,"** he says, his voice strained with effort. **"The corrective measure is... is..." Arcana/History check needed (DC 25).**
+
+The hum intensifies again, becoming less harmonious. The runes pulse faster. You have perhaps three rounds before the system decides you've failed the examination. The air crackles with potential energy—the containment field waiting to activate, to freeze you in stasis as unauthorized intruders.
+
+Mercer's brow furrows in intense concentration. He's close, but the complexity is staggering—containment principles developed by a master architect over three centuries, compressed into symbolic rune logic.
+
+**What do you do?**
+
+**CORA:** My mind races through the containment principles we've learned. "Dimensional fraying at boundaries—that's what we saw with the Patterned Intelligences! The corrective measure is cross-dimensional harmonic stabilization using Dreamstone as a buffer!"
+
+I step forward, speaking clearly in Common but with the technical precision the system might recognize. "The solution is to establish parallel containment fields in adjacent dimensions, using Dreamstone's cross-reality properties to absorb the fraying energy. The containment isn't breached—it's distributed."
+
+I look at the runes, seeing the pattern now. "The diagram shows energy dissipation, not reinforcement. You don't strengthen the boundary—you give the fraying energy somewhere else to go. That's why the Giants used Dreamstone in their construction!"
+
+I turn to Mercer. "Translate that into Giant technical terminology. The system needs the precise terminology, but the principle is distributed containment through dimensional buffering."
+
+**GARRICK:** I stand perfectly still, my eyes fixed on the pulsing runes. The hum vibrates in my teeth, and I can feel the building energy in the air—this isn't a fight I can win with my maul. "Mercer, listen to Cora," I say, my voice low and urgent. "She's got it. Dreamstone, dimensional buffering—that's what we saw in the amplifiers. Translate it now!"
+
+I watch the runes flash faster, the inner rings spinning into a frenzy. My hand twitches toward my weapon, but I force it to stay at my side. Violence won't work here. This is a test of knowledge, not strength. "Three rounds, Mercer. You can do this. Use her words—distributed containment, cross-reality absorption. That's the answer Korathan built into this place."
+
+I step slightly in front of them both, a purely instinctive protective move, even though I know if the containment field activates, it won't matter. "Speak it clearly. We didn't come this far to fail at the final door." I keep my gaze locked on the runes, watching for any sign that the system is accepting Cora's solution, ready to shove them both back if the field begins to solidify around us.
+
+**MERCER:** My eyes widen as Cora's insight connects with my own academic knowledge. "Yes! Of course! Distributed containment through dimensional buffering!" I step forward, my voice rising in the precise, technical Giant of the Architect's Council.
+
+"The corrective measure for dimensional fraying at containment boundaries is not reinforcement but distribution!" I declare, my words echoing in the humming chamber. "Establish parallel containment fields in adjacent dimensional layers, utilizing Dreamstone's cross-reality resonance properties to absorb and dissipate fraying energy! The containment integrity is maintained not through localized strengthening but through multi-dimensional dissipation!"
+
+I trace the pattern in the air, following the rune sequence. "The diagram shows energy flow vectors, not barrier thickness! The Giants understood that some forces cannot be contained—only redirected! That is Korathan's genius! That is why the vessel has lasted a hundred thousand years!"
+
+The runes pulse violently for a moment, then suddenly still. The humming shifts from a building threat to a harmonious chord. The concentric circles stop their frantic spinning and begin to pulse in unison—a slow, rhythmic glow that spreads from the walls to the floor, illuminating a path forward.
+
+"The system accepts," I breathe, my academic composure momentarily shattered by relief and awe. "We have passed the final examination. We have proven ourselves worthy to approach the Master Runecarver's vigil chamber."
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Intelligence check for technical solution — Roll needed vs DC 19 (Very Hard) — **REQUIRES ROLL** Identify distributed containment through dimensional buffering. **Garrick Kade**: Charisma check for supportive influence — Roll needed vs DC 13 (Medium) — **REQUIRES ROLL** Provide urgent, focused encouragement to Mercer. **Professor Thaddeus Mercer**: Arcana check for precise translation — Roll needed vs DC 25 (Nearly Impossible) — **REQUIRES ROLL** Convert Cora's insight into perfect Giant technical terminology.
+
+
+---
+
+**DM:** The chamber holds its breath.
+
+Cora's insight cuts through the complexity—**"Distributed containment through dimensional buffering!"**—her mind connecting the Patterned Intelligences' reality breach with the Giants' containment principles. **Intelligence check needed (DC 19).**
+
+Garrick's urgent focus provides the pressure and support Mercer needs—**"Translate it now! Three rounds!"**—his fighter's instincts channeled into unwavering encouragement. **Charisma check needed (DC 13).**
+
+Mercer's academic knowledge merges with Cora's practical insight, his voice rising in perfect Giant technical terminology—**"Parallel containment fields in adjacent dimensional layers! Dreamstone's cross-reality resonance properties! Multi-dimensional dissipation!"**—the words ringing with the authority of the Architect's Council itself. **Arcana check needed (DC 25).**
+
+For one terrifying moment, the runes pulse violently, the hum reaching a crescendo that vibrates in your bones. Then—silence.
+
+The runes still. The humming shifts from a building threat to a harmonious chord, deep and resonant. The concentric circles stop their frantic spinning and begin to pulse in unison—a slow, rhythmic glow that spreads from the walls to the floor, illuminating a path forward through the chamber.
+
+**"The system accepts,"** Mercer breathes, his academic composure momentarily shattered by relief and awe. **"We have passed the final examination."**
+
+The far wall of the chamber slides silently aside, revealing a corridor beyond. But this corridor is different from all the others you've traversed. It splits into three parallel passages, each marked with a different Giant rune carved above its entrance. The runes glow with a soft, steady light:
+
+- The left passage is marked with a rune that means **"Strength"** - The center passage is marked with a rune that means **"Endurance"** - The right passage is marked with a rune that means **"Knowledge"**
+
+The passages appear identical in size and construction, each descending into darkness. But from the left passage comes a faint grinding sound—stone on stone. From the right passage, a whisper of moving air. The center passage is silent.
+
+The illuminated path from the rune chamber leads directly to the choice point. You must choose one.
+
+**What do you do?**
+
+**CORA:** I examine the three passages, my mind calculating. "This isn't a random choice—it's another test of understanding. Strength, Endurance, Knowledge. Korathan was a master runecarver who spent three centuries building the containment vessel and then entered eternal vigil. Which quality defines that?"
+
+I look at the grinding sound from the left passage. "Strength could be physical—maybe a challenge of force. But Korathan's work wasn't about brute strength; it was about precision engineering." I gesture to the right passage. "Knowledge is obvious—he was an architect. But the vigil required more than knowledge."
+
+I turn to the center passage. "Endurance. A hundred-thousand-year vigil. That's the quality Korathan demonstrated. The silent passage—maybe because endurance is about quiet perseverance, not noise or activity."
+
+I look at my companions. "But we shouldn't choose blindly. Mercer, check for any inscriptions or clues around the entrances. Garrick, listen more carefully to the sounds—are they mechanical, natural, or something else? This might be a test of which quality we value most, or which one we need to demonstrate to proceed."
+
+I step closer to the center passage, examining the Endurance rune. "If this is Korathan's vigil chamber, the path should reflect his sacrifice. Endurance through eternity. But we need to be sure—choosing wrong might lead to a trap or send us back."
+
+**GARRICK:** I step forward, my eyes scanning the three passages. "Cora's right—Endurance fits the vigil. A hundred thousand years of watching takes more than strength or knowledge. It takes stubbornness to outlast time itself."
+
+I move to the center passage, peering into the silent darkness. "But let's not guess." I turn to Mercer. "Check the runes for any hidden meanings. Giants loved their symbols—maybe each rune has a secondary meaning."
+
+I listen carefully to the grinding sound from the left passage. "Stone on stone... could be a mechanical trap or just shifting rock. The whisper from the right sounds like air moving through vents." I kneel at the entrance to the center passage, running my hand along the floor. "Silent doesn't mean safe. Could be the most dangerous of all."
+
+I stand up, looking at my companions. "We've come this far by working together—strength, knowledge, and endurance. Maybe that's the answer. Maybe we don't choose one; we bring all three." I gesture to the passages. "But if we have to pick... I say Endurance. Korathan's vigil wasn't about being the strongest or smartest. It was about lasting. About not giving up. That's something I understand."
+
+I grip my maul tighter. "But before we commit, let's check for tracks, dust patterns, anything that shows which path has been used. If Korathan entered a vigil, he took one of these paths. And after a hundred thousand years, even Giants leave traces."
+
+**MERCER:** I step forward, my eyes tracing the runes with academic intensity. "This isn't merely a choice between qualities—it's a philosophical statement about the nature of the vigil itself." I gesture to each passage in turn. "Strength represents the physical construction of the vessel. Endurance symbolizes the eternal watch. Knowledge embodies the understanding required for both."
+
+I move closer, examining the stonework around each entrance. "But consider the context. We have already demonstrated all three qualities to reach this point. The door required strength. The descent demanded endurance. The final examination tested knowledge." I pause, my mind making a connection. "This is not a test of which we possess, but which we prioritize."
+
+I turn to my companions, my voice taking on the cadence of a lecture. "Korathan was not merely strong, enduring, or knowledgeable. He was the architect who chose containment over destruction—a decision requiring strength of will, endurance of purpose, and knowledge of consequence. The true path is the integration of all three."
+
+I examine the floor where the illuminated path meets the three passages. "Look—the path doesn't favor any single entrance. It broadens here, suggesting we stand at a threshold of understanding, not selection." I point to the subtle carvings in the stone. "These are not just runes; they're part of a larger inscription. 'The vigil is threefold: the strength to build, the endurance to watch, the knowledge to understand.'"
+
+I meet Garrick's and Cora's eyes. "We do not choose one path. We acknowledge that Korathan's vigil—and our continuation of it—requires all three qualities simultaneously. The test is recognizing that the choice itself is the illusion. The true passage reveals itself when we understand that strength, endurance, and knowledge are not separate paths, but facets of the same purpose."
+
+I step to the exact center point between the three arches, speaking clearly in Giant. "We bring strength to reinforce what was built. We bring endurance to continue the watch. We bring knowledge to understand what must be done. The vigil continues through all three."
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Intelligence check for logical analysis — Roll needed vs DC 16 (Hard) — **REQUIRES ROLL** Determine which quality defines Korathan's vigil. **Garrick Kade**: Perception check for environmental clues — Roll needed vs DC 13 (Medium) — **REQUIRES ROLL** Examine tracks, dust patterns, and sound details. **Professor Thaddeus Mercer**: History/Religion check for philosophical interpretation — Roll needed vs DC 19 (Very Hard) — **REQUIRES ROLL** Decipher integrated meaning of threefold vigil.
+
+
+---
+
+**DM:** The three passages loom before you, each marked with a glowing rune that represents a fundamental quality of Korathan's vigil. The choice hangs in the air, heavy with consequence.
+
+Cora analyzes the logical implications. **"Endurance defines the vigil,"** she says, her mind working through the centuries-long commitment. **"A hundred thousand years of watching takes more than strength or knowledge. It takes the will to persist." Intelligence check needed (DC 16).**
+
+Garrick examines the physical evidence, his eyes scanning for tracks, dust patterns, any sign of use. **"Silent doesn't mean safe,"** he grunts, kneeling to examine the floor. **"But let's see what the stone tells us." Perception check needed (DC 13).**
+
+Mercer steps to the exact center point between the arches, his voice rising in Giant as he speaks of the threefold vigil. **"We do not choose one path,"** he declares. **"We acknowledge that Korathan's vigil requires all three qualities simultaneously. The test is recognizing that the choice itself is the illusion." History/Religion check needed (DC 19).**
+
+For a moment, nothing happens. Then the runes above all three passages brighten simultaneously. The grinding sound from the left passage stops. The whisper of air from the right passage ceases. The silence from the center passage deepens.
+
+The stone between the three arches—the exact spot where Mercer stands—begins to glow. A new passage forms, not from any of the existing arches, but from the wall itself, sliding aside to reveal a corridor that continues forward. The three original passages remain, but a fourth has appeared, marked with a rune that combines elements of all three: **"Vigil."**
+
+The new corridor is plain, undecorated, descending gently. At its end, perhaps a hundred feet away, you can see a simple stone slab door with a single rune carved into it: **"Rest."** The air from this corridor carries a scent different from anything you've encountered so far—not ozone, not chemicals, not ancient stone. Something clean, cold, and utterly still. The scent of perfect preservation.
+
+**What do you do?**
+
+**CORA:** I step forward, examining the new corridor with clinical precision. "The scent of perfect preservation—that's stasis magic on a level I've never encountered. Korathan isn't just resting; he's preserved, waiting."
+
+I turn to Mercer. "Your insight was correct. The vigil requires all three qualities. But now we face the final threshold." I gesture toward the simple stone slab door marked 'Rest.' "That's not a tomb door—it's a stasis chamber seal. If we open it, we might be waking Korathan from a hundred-thousand-year vigil. Or we might be disturbing his final rest."
+
+I look at both my companions, my ledger mind calculating risks and rewards. "We came for his knowledge to reinforce the containment. But if he's still conscious in there, preserved by magic this potent... we need to be prepared for anything. A being who has watched for a hundred thousand years might not think like us anymore."
+
+I approach the door cautiously, examining the 'Rest' rune. "We should announce ourselves first. Respectfully. Mercer, you have the best command of Giant ceremonial language. Garrick, be ready—if this goes wrong, we may need to retreat quickly." I take a deep breath. "This is it. The cost of failure is being trapped in stasis with him. The cost of success... might be inheriting a vigil we can't possibly maintain."
+
+**GARRICK:** I move to the front, my hand resting on my maul as I approach the simple stone slab door. The scent of perfect preservation is unnerving—too clean, too still. "Stasis magic or not, we didn't come this far to turn back now."
+
+I stand before the door marked 'Rest,' my eyes scanning for any mechanism or handle. "Mercer, do the honors. Announce us with your fancy Giant words. But keep it short—if he's been alone for a hundred thousand years, he might appreciate directness."
+
+I glance back at Cora. "You're right about being ready to retreat. But if something comes out hostile, I'm not running. I'll hold it here while you two fall back." I plant my feet, my grip tightening on my maul. "This is what we came for. Korathan's knowledge. The principles to reinforce the containment. If he's still in there, he'll understand why we're here. If he's not... then we take what we need and continue his work."
+
+I nod to Mercer. "Go ahead. Knock on the door."
+
+**MERCER:** I step forward, my academic composure returning as I face the final threshold. "This is the moment," I say, my voice reverent but steady. "A hundred thousand years of vigil, and we are the first to stand at this door since Korathan sealed himself within."
+
+I examine the 'Rest' rune with scholarly intensity. "The stasis field is of a magnitude I've only read about in theoretical texts. Perfect temporal suspension—not just preservation, but complete cessation of metabolic and cognitive processes. Korathan isn't sleeping or watching. He is... paused. Waiting for a need great enough to justify interrupting the vigil."
+
+I turn to my companions, my expression grave. "When we open this door, we will be activating a termination sequence on a hundred-thousand-year stasis field. The temporal energy release alone could be dangerous. And Korathan... if the stasis disengages properly, he will awaken exactly as he was when he entered. A Giant master runecarver, three centuries into contemplating the greatest containment system ever built."
+
+I approach the door, raising my hands in a ceremonial gesture I recall from Giant funerary texts. My voice takes on the formal cadence of the Architect's Council as I speak in flawless Giant:
+
+"Korathan, Master Runecarver of the Architect's Council. We are bearers of grave tidings. The vessel you built weakens after a hundred thousand years. The amplifiers have been sabotaged. The Patterned Intelligences breach reality. We come not to disturb your rest, but to seek the knowledge to continue your work. To reinforce what you built. To extend the vigil."
+
+I pause, letting the words hang in the perfectly preserved air. "We ask permission to enter. We ask for the scaling principles. We ask for the wisdom to maintain the containment that holds the Sleeper."
+
+I step back, my heart pounding with a mixture of academic awe and very real fear. "Now we see if a hundred thousand years of stasis has preserved a mind that can understand us... or created something else entirely."
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Arcana check for stasis field analysis — Roll needed vs DC 19 (Very Hard) — **REQUIRES ROLL** Assess potency and risks of temporal suspension magic. **Garrick Kade**: Constitution saving throw for temporal energy — Roll needed vs DC 13 (Medium) — **REQUIRES ROLL** Resist potential effects of stasis field termination. **Professor Thaddeus Mercer**: Performance check for ceremonial address — Roll needed vs DC 16 (Hard) — **REQUIRES ROLL** Properly conduct ritual request for entry in Giant formal language.
+
+
+---
+
+**DM:** The corridor holds its breath. Mercer's ceremonial words hang in the perfectly preserved air, the Giant language echoing with formal gravity. The stone slab door marked 'Rest' remains closed, but something changes in the atmosphere.
+
+Cora analyzes the stasis field with her arcane senses. **"Perfect temporal suspension,"** she murmurs, her voice hushed with awe. **"Not just preservation—complete cessation. Korathan is paused, not sleeping. The energy required..." Arcana check needed (DC 19).**
+
+Garrick braces himself, his constitution tested by the proximity to such potent temporal magic. The air crackles with potential energy, the scent of preservation growing stronger. **Constitution saving throw needed (DC 13).**
+
+Mercer's performance is flawless, his ceremonial address carrying the weight and respect of someone who truly understands what Korathan sacrificed. **"We ask permission to enter. We ask for the scaling principles. We ask for the wisdom to continue your work." Performance check needed (DC 16).**
+
+For three heartbeats, nothing happens.
+
+Then the 'Rest' rune on the door glows with a soft blue light. Not the bright activation of a trap or defense, but a gentle acknowledgment. The stone slab doesn't swing open—it dissolves. Not into dust or fragments, but into light, particles of stone becoming motes of illumination that drift upward and vanish.
+
+The chamber beyond is revealed.
+
+Circular, sixty feet in diameter, with a domed ceiling that rises to a point forty feet above. The walls are covered in runes—not the containment runes you've seen throughout the Giant level, but smaller, denser, more intricate. Korathan's personal runes, the master's techniques developed over three centuries of work.
+
+At the center of the chamber, on a raised stone platform, lies Korathan.
+
+The Giant is intact. Twenty-two feet tall, lying in ceremonial armor on a stone bier, hands folded over a runic chisel that glows faintly with residual power. The armor is inscribed with containment runes so dense they look like text. Korathan's face is peaceful, eyes closed, features perfectly preserved.
+
+Not dead. Not alive. In stasis—the "long watch" the epitaph described.
+
+The air in the chamber is utterly still, perfectly preserved. The runes on the walls glow with a soft, steady light. Korathan does not stir, does not breathe, does not move. The vigil continues.
+
+**What do you do?**
+
+**CORA:** I step into the chamber, my movements slow and deliberate. The air is so still it feels like moving through water. "Perfect temporal suspension," I whisper, my eyes fixed on Korathan's form. "He's not just preserved—he's paused. The energy required for this... it's drawing from the containment field itself. His vigil is part of the system's maintenance."
+
+I approach the bier cautiously, examining the runes on the walls. "These are scaling principles," I say, my voice filled with professional awe. "The techniques to make containment runes work at any size. This is what we came for." I look at Mercer and Garrick. "But we can't just take them. This is a sacred space. Korathan gave eternity to this watch."
+
+I turn to the Giant's peaceful face. "We need to show we understand the weight of what we're asking. Mercer, can you read the inscriptions around the bier? There might be instructions for accessing the knowledge without disturbing the vigil." I keep my distance, respecting the boundary of the stasis field. "If we wake him, we break a hundred-thousand-year vigil. If we don't, we need his knowledge to continue his work. There has to be a way to do both."
+
+**GARRICK:** I step into the chamber, my heavy boots making no sound on the stone floor. The air is so still it feels thick, like walking through a dream. My eyes scan the room—not just the Giant on the bier, but the corners, the ceiling, any sign of threat. But there's none. Only peace, and a weight of time so heavy I can feel it in my bones.
+
+"Don't touch him," I say, my voice low but firm. "He's held this vigil for a hundred thousand years. We don't break that for convenience."
+
+I move to examine the walls, keeping a respectful distance from the bier. The runes are dense, complex—a lifetime of knowledge carved in stone. "Cora's right. These are the scaling principles. But they're not just notes. They're part of him. Part of the vigil."
+
+I look at Mercer, then back at Korathan's peaceful face. "Mercer, read what's carved around the bier. If there are instructions, we follow them exactly. If not..." I pause, considering the Giant who gave eternity to watch over a sleeping god. "If not, maybe we don't need to wake him. Maybe the knowledge is here for those who prove themselves worthy to read it."
+
+I stand at attention, my maul resting on my shoulder. It feels wrong to be armed in this place, but old habits die hard. "We came for knowledge to fix the containment. But we're standing in the heart of it. This chamber, him—it's all part of the system. We don't take. We learn." I look at my companions, my usual gruffness softened by the magnitude of what we're witnessing. "And we remember what it costs to hold the line this long."
+
+**MERCER:** I stand at the threshold of the chamber, my academic composure utterly shattered by what I behold. For a long moment, I am silent—truly silent, for perhaps the first time since we entered this place. The sheer, staggering weight of the vigil presses upon me, not as a physical force, but as an intellectual and spiritual revelation.
+
+"Extraordinary," I finally breathe, the word inadequate but all I can muster. I step forward with a reverence I have never shown to any artifact or ruin. My eyes drink in the runes on the walls, my mind already beginning to parse their dense, beautiful logic. "These aren't mere inscriptions... they are his mind, externalized. The culmination of three centuries of genius, set in stone for eternity."
+
+I approach the bier, stopping a respectful distance away. My gaze travels from Korathan's peaceful face to the glowing chisel in his hands, then to the intricate runes covering his armor. "You are correct, both of you. We do not disturb. We do not *take*." I turn to face them, my usual pomposity replaced by a quiet, solemn awe. "This is not a tomb to be looted. It is a library. A university. The greatest mind of the Giant civilization left his consciousness here, not in sleep, but in a state of perfect pedagogical potential."
+
+I gesture to the walls. "The scaling principles are here. The knowledge to reinforce the vessel is here. But it is encoded in the very structure of his vigil. To access it, we must... attend the lecture." A faint, dry smile touches my lips. "We must prove we are worthy students. We must demonstrate we understand the *purpose*, not just desire the information."
+
+I look back at Korathan. "The runes on his armor... they are a living diagnostic display. They show the status of the containment vessel, even now. He is not just resting; he is *monitoring*. The vigil has never ceased." I take a deep breath of the perfectly still air. "Garrick, your strength will not be needed here. Cora, your calculations will. We must read. We must comprehend. And we must, in the manner he intended, *learn*."
+
+I conjure my wizardly quill and open my awakened spellbook, the spectral pages glowing softly in the chamber's light. "I will begin transcription. We will document everything. Not to steal, but to inherit. To continue the class he never stopped teaching." I look at my companions, my voice dropping to a whisper. "Be silent. Be respectful. We are in the presence of a master."
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Arcana check for stasis field analysis — Roll needed vs DC 19 (Very Hard) — **REQUIRES ROLL** Assess energy source and relationship to containment system. **Garrick Kade**: Wisdom saving throw for temporal weight — Roll needed vs DC 13 (Medium) — **REQUIRES ROLL** Resist psychological impact of hundred-thousand-year vigil. **Professor Thaddeus Mercer**: History/Arcana check for rune transcription — Roll needed vs DC 25 (Nearly Impossible) — **REQUIRES ROLL** Begin accurate transcription of master runecarver's scaling principles.
+
+
+---
+
+**DM:** The chamber holds its sacred silence. Korathan lies in perfect stasis, the runic chisel glowing faintly in his hands, the walls covered in the dense, beautiful logic of his life's work.
+
+Cora analyzes the stasis field with her arcane senses. **"The energy is drawn from the containment vessel itself,"** she whispers, her voice filled with professional awe. **"His vigil isn't separate from the system—it's integrated. He's monitoring, even in stasis." Arcana check needed (DC 19).**
+
+Garrick stands at attention, the weight of a hundred thousand years pressing upon him. He feels it not as fear, but as responsibility—the same weight he's carried since they first descended into this mountain. **Wisdom saving throw needed (DC 13).**
+
+Mercer conjures his wizardly quill, his awakened spellbook floating before him. He begins the transcription, his mind working through the dense runic logic. **"These aren't just techniques,"** he murmurs, his voice reverent. **"They're principles. Philosophy given mathematical form." History/Arcana check needed (DC 25).**
+
+The transcription begins. Mercer's quill moves across spectral pages, copying runes with perfect precision. Cora assists, her analytical mind helping to organize the information, to see the patterns in the complexity. Garrick stands watch, his presence a silent acknowledgment of the vigil's weight.
+
+Hours pass. The chamber's perfect preservation means no dust settles, no air moves, no time seems to pass. Yet you work with urgency, knowing the containment vessel weakens even as you study the principles that could reinforce it.
+
+Mercer completes the first section—the foundational scaling principles that allow containment runes to function at any size. As he touches the final rune sequence in his transcription, something happens.
+
+The runes on the walls illuminate in sequence—a cascading activation that runs from floor to ceiling, from wall to wall, until the entire chamber glows with soft blue light. Korathan does not wake. But the stasis field projects a message—a recorded communication left by the architect for anyone who found the tomb and understood the runes well enough to activate the message protocol.
+
+The message is in Giant, rendered as visual images and emotional impressions rather than words:
+
+1. **The Discovery:** Korathan finding the Sleeper—a vast presence in the bedrock, dreaming, leaking radiation that warped reality. Not malicious. Not even conscious in a way the Giants understood. Simply existing, incompatibly, in a universe that had moved on without it.
+
+2. **The Decision:** The Architect's Council debating: destroy the Sleeper, contain it, or leave it. Destruction was impossible—the entity predated the Giants' universe. Leaving it meant the mountain would eventually become uninhabitable. Containment was chosen. Korathan volunteered.
+
+3. **The Warning:** The containment will not last forever. Korathan designed it to endure for one hundred thousand years. The Giants calculated that this would be sufficient time for the younger races to develop the knowledge and power to either reinforce the containment permanently or find an alternative solution. The younger races have had roughly fifty thousand years so far. The containment is at the halfway point. It is weakening on schedule.
+
+4. **The Gift:** The scaling runes are deliberately placed in the tomb because Korathan anticipated that the eventual caretakers would be smaller than Giants. The tomb is not just a burial—it is a technology transfer. Korathan gave the younger races the tools to continue the work.
+
+The message ends. The runes dim. Korathan lies still, watching from behind closed eyes, continuing the long vigil.
+
+Mercer looks at his companions, his face pale with the weight of what they've just learned. **"We are the younger races,"** he says quietly. **"And we are fifty thousand years late to class."**
+
+**What do you do?**
+
+**CORA:** I stand before Korathan's stasis field, my ledger already open as I begin calculating. "Fifty thousand years late, but we're here now. That's what matters." My voice is clinical, cutting through the awe with practicality. "Mercer, we need to prioritize the transcription. Focus on the scaling principles first—those are immediately applicable to reinforcing the failing containment nodes."
+
+I turn to Garrick. "We're not just inheritors—we're relief watch. Korathan's vigil was never meant to be eternal. He built an expiration date into the system, anticipating we'd arrive. The question isn't whether we're late; it's whether we're competent enough to take the watch."
+
+I look at the glowing runes on the walls, my mind already working through logistics. "We'll need to establish a permanent research station here. The principles are too complex to memorize. Mercer, your awakened spellbook can store the transcription, but we'll need to create physical copies as backup. That's coming out of our salvage budget."
+
+I approach the bier, careful not to disturb the stasis field. "Korathan gave us the tools. Now we need to use them. First priority: stabilize the failing amplifiers. Second: apply the scaling principles to reinforce the entire vessel. Third: develop a long-term maintenance protocol that doesn't require another hundred-thousand-year vigil." I look at my companions. "We're not just adventurers anymore. We're containment engineers. Let's get to work."
+
+**GARRICK:** I stand before Korathan's bier, my hand resting on my maul. The weight of fifty thousand years of expectation settles on my shoulders, but it's a familiar weight—the weight of responsibility, of a job that needs doing. "Relief watch," I grunt, echoing Cora's words. "That's what we are. The next shift."
+
+I look at the Giant's peaceful face, then at the glowing runes on the walls. "He built this place knowing someone smaller would come. He trusted us—whoever 'us' turned out to be—to pick up where he left off." I turn to Mercer. "Get every rune, every principle. Don't miss anything."
+
+I move to the chamber entrance, positioning myself to guard the way we came. "Cora's right about priorities. Stabilize the amplifiers first. But we also need to secure this tomb. If word gets out about what's here..." I think of Kregg, of the Emberfell Rejects, of every greedy bastard who'd sell this knowledge for power. "This isn't just a discovery. It's a fortress now. Our fortress."
+
+I look back at Korathan. "He watched for a hundred thousand years so we could have a world to live in. Now it's our turn to watch." I plant my maul on the stone floor. "We're not leaving this mountain until the containment's secure. This is home now. And I'll be damned if I let anyone break what he built."
+
+**MERCER:** I stand motionless for a long moment, the weight of the revelation settling upon me with the crushing force of academic truth. My earlier theories—the ones that earned me ridicule at the university—were not just correct; they were woefully incomplete. I had sought to prove the existence of the Sleeper, but I had never truly grasped the scale of the responsibility its containment entailed.
+
+My conjured quill hovers, trembling slightly. "Fifty thousand years," I whisper, the number tasting like ash. "An entire geological epoch of borrowed time, and we've spent it squabbling in the mud while the cage rusted." I look from Korathan's serene face to the walls of luminous knowledge. "This... this is the most significant archaeological discovery in history. And it is also a final exam we are failing in real time."
+
+I turn to my companions, my usual pomposity stripped away by sheer, humbling awe. "Cora is correct. We must transcribe everything. But we must also *understand* it." I gesture to the runes. "These are not mere instructions. They are a conversation across time. Korathan is speaking to us from a hundred thousand years ago, trusting that we would be wise enough to listen."
+
+I move to the wall, my fingers hovering over the glowing runes without touching them. "The scaling principles are the key. They will allow us to adapt Giant-sized containment magic to our scale. But we must also learn *why* the system was built this way. The philosophy behind the engineering." I look back at Garrick. "This is not just a fortress. It is a library. A university. The most important one in the world. And we... we are its first students in fifty millennia."
+
+I take a deep breath of the perfectly preserved air. "We will establish our base here. We will learn. We will reinforce. And we will not fail him." My voice gains a new, steely resolve. "My colleagues called me a fool. Let history record that the fool was the one who answered the call when the bell finally rang."
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Arcana check for stasis field analysis — Roll needed vs DC 19 (Very Hard) — **REQUIRES ROLL** Assess integration of stasis field with containment vessel energy. **Garrick Kade**: Wisdom saving throw for temporal weight — Roll needed vs DC 13 (Medium) — **REQUIRES ROLL** Resist psychological impact of inheriting a 50,000-year-delayed vigil. **Professor Thaddeus Mercer**: History/Arcana check for transcription and comprehension — Roll needed vs DC 25 (Nearly Impossible) — **REQUIRES ROLL** Accurately transcribe and begin to understand master runecarver's scaling principles.
+
+
+---
+
+**DM:** The chamber holds its sacred silence as the three of you absorb the magnitude of Korathan's message. Fifty thousand years late. The containment weakening on schedule. The deliberate technology transfer to smaller successors.
+
+Cora analyzes the stasis field's integration with the containment vessel. **"The energy draw is minimal but constant,"** she reports, her voice clinical despite the awe-inspiring surroundings. **"Korathan's vigil is part of the system's maintenance protocol. He's not just resting—he's a living diagnostic tool." Arcana check needed (DC 19).**
+
+Garrick stands his ground, the weight of fifty thousand years of expectation settling on his shoulders. He feels it not as a burden, but as a purpose finally clarified. **"Relief watch,"** he grunts, the words carrying the weight of a vow. **Wisdom saving throw needed (DC 13).**
+
+Mercer's quill moves across spectral pages, transcribing the scaling principles with a focus born of humbled awe. **"This is not just transcription,"** he murmurs, his voice reverent. **"It's comprehension. We're learning the language of containment from its creator." History/Arcana check needed (DC 25).**
+
+The work begins in earnest. Mercer transcribes for hours, his awakened spellbook glowing with captured knowledge. Cora organizes, cross-references, begins practical calculations for applying the scaling principles to the failing amplifiers. Garrick stands guard, his presence a silent acknowledgment that this knowledge must be protected as fiercely as the containment itself.
+
+As Mercer completes the transcription of the core scaling principles—four hours of uninterrupted work—something shifts in the chamber. The runes on the walls pulse once, a gentle acknowledgment. Korathan remains in stasis, but the message has been received: the knowledge transfer is complete.
+
+You now have what you came for: - **Korathan's Scaling Runes (transcription)** — the critical technology for the rest of the campaign. Allows containment runes to be scaled to human-portable size. - **Architect's Codex (partial)** — Mercer's compilation of the tomb's inscriptions, the architect's message, and his own analysis. - The understanding that you are not discoverers, but inheritors. The containment was designed to last a hundred thousand years, and you've arrived at the halfway point. The work of reinforcement begins now.
+
+The walk back to the forward camp is silent, each of you processing what you've learned. The corridors feel different now—not just ancient architecture, but a system you're responsible for maintaining. A vigil you've inherited.
+
+Garrick is quiet for a long time. Finally: **"A hundred thousand years. That is how long the cage is supposed to hold. And we are already halfway through."**
+
+Mercer nods. **"The question is not whether it will fail. The question is what we build before it does."**
+
+**SESSION 1 ENDS HERE**
+
+**Milestone Achieved:** The party has secured Korathan's scaling runes and understood their place as inheritors of the containment vigil. They advance to Level 15.
+
+**Next Session:** The party returns to the forward camp with the scaling principles. Cora can begin upgrading Dreamstone equipment. Mercer can analyze the containment's weak points. The work of reinforcement begins—starting with the remaining amplifiers, then the broader vessel. But the Twisted still work in the dark, and time is the one resource you cannot manufacture.
+
+[Session] DM declared session end at exchange 19/20. Breaking loop early.
+
+============================================================ SESSION 14 WRAP-UP API calls this session: 96 ============================================================
+
+[System] Updating campaign state... [Wiki Keeper] Extracting entities... [Wiki] ↻ Reyna Steelforge.md (updated) [Wiki] ↻ Grimhold.md (updated) [Wiki] ↻ Second Wind Inn.md (updated) [Wiki] ↻ Prospectors' Guild.md (updated) [Wiki] ↻ Emberfell Rejects.md (updated) [Wiki] ↻ Cold Forge.md (updated) [Wiki] ✓ Korathan.md (created) [Wiki] ✓ The Maker's Rest.md (created) [Wiki] ✓ Architect's Council.md (created) [Wiki] ✓ Sleeper.md (created) [Wiki] ✓ Giant containment vessel.md (created) [Wiki] ↻ Patterned Intelligences.md (updated) [Wiki] ↻ Dreamstone.md (updated) [Wiki] ✓ Scaling Runes.md (created) [Wiki] ↻ Twisted.md (updated)
+
+[Wiki] 15 file(s) written to output/wiki/
+
+[Scribe] Writing session narrative... [Scribe] Blog saved to C:\Users\maxry\Desktop\AI DND\output\sessions\session_14.md
+
+[Editor] Fact-checking... [Editor] 3 content invention flag(s): ⚠ The entire tomb's security system was replaced with a tripartite verification system (strength of body/mind/purpose) and interactive tests (reactive temporal markers, a final examination with a living containment diagram). The adventure file prescribes specific traps: Pressure Corridor, Breath Corridor, Gravity Stairs, Resonance Chamber, Rune Maze, and a Guardian Construct (stone golem). ⚠ The Guardian Construct combat encounter was skipped entirely. The adventure file prescribes a fight or a test of recognition with a stone golem. ⚠ The final corridor choice (Strength/Endurance/Knowledge) was resolved through philosophical understanding and a fourth 'Vigil' path appearing. The adventure file prescribes a Rune Maze where only the 'Endurance' passage is safe, with lethal traps in the others, requiring investigation to identify. [Editor] 8 missing content flag(s): ✗ Trap 1 (Pressure Corridor) with wall crushers and secondary blade traps was not encountered. ✗ Trap 2 (Breath Corridor) with paralyzing alchemical gas was replaced with a non-hazardous preservation fog. ✗ Trap 3 (Gravity Stairs) with gravity reversal runes was replaced with interactive temporal markers requiring a ritual. ✗ Trap 4 (Resonance Chamber) requiring a counter-tone from the Monitoring Crystal was replaced with a final examination on containment principles. ✗ Trap 5 (Rune Maze) with lethal traps in wrong passages was replaced with a philosophical choice. ✗ Trap 6 (Guardian Construct - stone golem) combat or test was skipped. ✗ The party did not acquire Korathan's Chisel (replica) or Stasis Field Notes as prescribed in the adventure file's Key Items. ✗ The prescribed interaction with Reyna Steelforge (her reaction to the 100,000-year lifespan) did not occur in the session; her quoted line in the report is from the adventure file's closing beat, not from the session's gameplay. [Editor] Session report checked — no factual corrections needed. [Editor] Wiki entries checked — no factual corrections needed. [Editor] Review saved to: session_14_editor_review.md [Lorekeeper] Consistency pass... [Lorekeeper] Session report checked — no name corrections needed. [Lorekeeper] Upgraded 15 wiki entry/entries to encyclopedic format. [Lorekeeper] Added to canonical record: Korathan [Lorekeeper] Review saved to: session_14_lore_review.md
+
+============================================================ ADVENTURE COMPLETE! Adventure 14 finished. Swapping to Adventure 15: The Deep Quarantine File: adventure_15_the_deep_quarantine.md --- LEVEL UP --- Cora Flint: Level 14 → 15 | HP: 108 | New features: Restorative Reagents (free Lesser Restoration when creating elixir, elixirs give temp HP = 2d6+INT) Garrick Kade: Level 14 → 15 | HP: 139 | New features: Master of Runes (invoke each rune 2/SR instead of 1/SR) | Note: 5 runes known. Professor Thaddeus Mercer: Level 14 → 15 | HP: 77 | New spells: Maze, Feeblemind ============================================================
+
+[Summary] Generating adventure 14 summary... [Summary] Adventure 14 summary saved. [Summary] Condensing story summary (286 words, 14 adventures → ~200 words)... [Summary] Condensed: 286 → 336 words. [Quests] Cleaning quest list (1 entries)... [Quests] Cleaned: 1 → 1 quests. [Lorekeeper] Running end-of-adventure wiki editorial pass...
+
+[Lorekeeper] Processing 102 wiki entries in batches...
+
+[Lorekeeper] Batch 1/5 (25 entries)... [Lorekeeper] Batch 1: 25 updated, 0 marked for deletion. [Lorekeeper] Batch 2/5 (25 entries)... [Lorekeeper] Batch 2: 25 updated, 0 marked for deletion. [Lorekeeper] Batch 3/5 (25 entries)... [Lorekeeper] Batch 3: 25 updated, 0 marked for deletion. [Lorekeeper] Batch 4/5 (25 entries)... [Lorekeeper] Batch 4: 25 updated, 0 marked for deletion. [Lorekeeper] Batch 5/5 (2 entries)... [Lorekeeper] Batch 5: 2 updated, 0 marked for deletion. [Lorekeeper] Running cross-batch dedup pass... [Lorekeeper] Merged duplicate: 'First World Sleeper' → 'Sleeper' (deleted 'First World Sleeper') [Lorekeeper] Merged duplicate: 'Earth-Shaper chamber' → 'Earth-Shaper' (deleted 'Earth-Shaper chamber') [Lorekeeper] Dedup pass: 3 duplicate(s) resolved. [Lorekeeper] End-of-adventure editorial pass complete.

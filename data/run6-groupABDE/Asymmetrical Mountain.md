@@ -1,0 +1,7 @@
+The **Asymmetrical Mountain** is a large, geologically anomalous peak located northwest of [[Grimhold]] in the [[Starmetal Hills]]. It is the site of ancient containment architecture surrounding the [[First World Sleeper]].
+
+## Geography and Structure
+The mountain's disproportionate size and unnatural structure defy local geology. A fortress sits at its peak, serving as the surface entrance to deeper complexes. Its subterranean layers represent a vertical timeline of successive civilizations: surface ruins, the [[Salt-Vaults]] of the [[Iron Warlords]], the sanctum of the [[Secretive Brotherhood]], the deep halls of the [[Military Empire]], the foundational [[Dwarven Layer]], and the original [[Giant]]-era constructions at its core.
+
+## Historical and Current Significance
+The mountain is an archaeological repository of multiple fallen civilizations and the central locus of the Sleeper's containment. Recent expeditions have accessed and partially restored ancient systems like the [[Dwarven Minecart Network]]. Following the deployment of the [[Dreamstone Seal]], the mountain's containment was secured for another hundred thousand years, and its surface fortress became a citadel dedicated to ongoing guardianship and study.

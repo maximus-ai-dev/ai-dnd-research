@@ -1,0 +1,4 @@
+**Warden Cassen** is the junior member of [[Warden Aldric]]'s [[Brotherhood]] garrison.
+
+## Description and Knowledge
+As the last of the three [[Wardens]] to fully awaken from stasis, Cassen had more subconscious time to process the passage of centuries. He often displays the most openly human reactions to the group's new circumstances. Cassen informed the expedition party that the [[Amalgamation]]'s presence generates and intensifies the magical darkness within the [[Grand Archive]]. He is generally the easiest of the Wardens to reason with, sometimes asking poignant questions about the fate of his comrades and the world.

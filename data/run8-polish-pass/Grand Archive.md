@@ -1,0 +1,7 @@
+The **Grand Archive** is the hidden sanctum and repository of knowledge built by the [[Brotherhood]] beneath the [[Salt-Vaults]] of the [[Asymmetrical Mountain]].
+
+## Location and Access
+The archive is located forty feet below the Salt-Vaults preparation kitchen, at the end of an interstitial corridor. It is sealed by a stone door inscribed with the Brotherhood's closed-eye symbol and the warning: *"The Grand Archive. Entry by rank only. The Amalgamation watches."* The arcane lock on the door can be opened by simultaneously placing three [[Brotherhood]] Scholar-rank insignias into recesses.
+
+## Layout and Contents
+The sanctum is divided into several sections. An antechamber contains personal effects and a rank-insignia board. Beyond it lies the Central Hall, a long corridor with archways leading to the East Wing, the West Wing, and the Restricted Vault. The entire sanctum is suffused with a structural magical darkness that halves the radius of all light sources. The East Wing once held the Brotherhood's primary collections, though most have been destroyed by time. A hidden preservation chamber within it contains preserved spellbooks and research. The West Wing contains a restricted vault that opens onto the [[Grand Stairwell]] leading to lower levels of the mountain. The archive is patrolled and guarded by the [[Amalgamation]].

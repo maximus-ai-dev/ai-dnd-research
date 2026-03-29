@@ -1,0 +1,7 @@
+The **Reanimated Warden** is a corrupted guardian encountered within the [[Warden's Post]] of the [[Giant foundation]] level. It is the reanimated skeletal remains of a [[Giant Empire|Giant]] sentinel, forty feet tall, whose bones are held together by threads of void energy. Its skull is crowned with corrupted [[Dreamstone]] growths that glow with iridescent light. The entity was originally part of the containment architecture, designed to be reanimated as an autonomous defender should the primary seal be breached. However, the void energy that reactivated it also corrupted its function, transforming it into a hostile guardian of a new breach.
+
+## Capabilities
+The Reanimated Warden possesses immense physical strength, capable of shattering stone with its blows. It can project a devastating psychic assault, known as a Broadcast Scream, which carries the frequency of [[The Anomaly]]'s influence. The creature draws power from proximity to void breaches, a connection known as its void tether.
+
+## Vulnerabilities
+Its primary vulnerabilities are its corrupted Dreamstone crown, which acts as a control node, and its dependence on void energy. Weapons forged from [[Dreamstone]] are particularly effective against it. The creature is also vulnerable to effects that suppress void energy, such as reactivated containment runes.

@@ -1,0 +1,679 @@
+# Session 6 — Transcript
+*The Leaking Crypt*
+
+> *Raw gameplay transcript — the unedited record of what each agent said and did. For the polished narrative version, see the [session report](session_06.md).*
+
+---
+
+**DM:** The air in the Prospectors' Guild carries the familiar scents of damp wool, pipe smoke, and the faint metallic tang of ore samples. Three days have passed since your return from the Military Empire layer, days spent in the relative safety of Grimhold. Wounds have healed, spellbooks have been restocked, and the mountain fortress has been reinforced with the materials Reyna Steelforge provided — iron braces for the cracked seal in the Salt-Vaults, fresh timber for the upper defenses, and enough salted meat to keep the workforce fed for a month.
+
+But the Commander's letter still sits heavy in your thoughts. The Military Empire chose to ignore the corruption they monitored, to seal their archives and hope the problem would solve itself. You know better. The Giant Blueprint Tablet in your possession shows the mountain's full structure — the Dwarven Layer sits directly below the human strata, a buffer between you and whatever the Giants contained in the foundation. If the corruption is leaking, it's leaking downward first.
+
+Reyna Steelforge approaches your table, her expression grim. "Miners working the northern claims in the Starmetal Hills," she says without preamble, dropping a small leather pouch on the table. Inside are three rock samples, each showing the same faint iridescent discoloration you saw in the Military Empire corridors. "They're reporting an unusual metallic sweetness on the wind. Faint, intermittent. Always from the direction of the mountain." She meets your eyes. "It's the same scent you described from the Sealed Crypt, isn't it?"
+
+She's right. The memory of that smell — cloying, alien, wrong — returns immediately. "Something below is venting," she continues. "If the dwarves built their layer as a containment buffer, and that buffer is failing... whatever's down there is getting closer to the surface."
+
+The Giant stairway you discovered in the Hall of the Giants awaits. It descends into the Dwarven Layer, into the transitional zone where dwarven construction meets Giant foundations. The metallic sweetness on the wind is a trail, faint but unmistakable. The Commander's warning was clear: the corruption was contained, not destroyed. And now it's leaking.
+
+**What do you do?**
+
+**CORA:** I pick up the rock samples, examining them closely with my alchemist's training. The iridescent discoloration is unmistakable - it's the same pattern we saw in the Military Empire corridors. "Reyna's right," I say, setting the samples down and opening my ledger. "That metallic sweetness is a chemical signature. If it's reaching the Starmetal Hills, the containment breach is accelerating."
+
+I turn to the others. "Garrick, check our supplies - we need at least two weeks of rations, extra bandages, and make sure your armor's properly patched. Mercer, I want you to cross-reference the Giant Blueprint Tablet with the Military Empire architectural survey. We need to identify the most likely breach points in the dwarven layer."
+
+I make quick calculations in my ledger. "We have three days before we need to pay the workforce again. If we descend now, we can assess the damage, reinforce what we can, and be back before payroll comes due. But we need to be methodical - this isn't a smash-and-grab. We're dealing with structural integrity and containment protocols."
+
+Looking at Reyna, I add, "We'll need more iron braces and quick-setting mortar. And tell your miners to avoid the northern claims until we give the all-clear. That metallic sweetness isn't just a warning - it's a contaminant. Breathing it in could have... unpredictable effects."
+
+My roll of 12 for Investigation confirms the samples match what we saw below, but I can't determine the exact rate of contamination spread without more data. "We leave at first light. I'll prepare elixirs overnight - we'll need every advantage we can get."
+
+**GARRICK:** I grab the rock samples from the table, my thick fingers crushing the leather pouch as I examine them. That iridescent sheen is burned into my memory - same as what we saw in those Military Empire corridors. "Two weeks of rations?" I grunt at Cora. "We'll need more than that if we're going deep. And bandages won't help if whatever's down there gets through stone."
+
+I turn to Reyna, my voice low and serious. "Tell your miners to stay clear. Not just the northern claims - anything within smelling distance of that sweetness. I've seen what happens when people breathe in things they shouldn't. It doesn't end well."
+
+**MERCER:** I carefully unroll the Giant Blueprint Tablet alongside the Military Empire architectural survey, my magical quill already dancing across a fresh page of my journal. "Cora's request is precisely the correct approach," I say, my voice taking on the lecturing tone of a seminar. "The dwarven layer represents a transitional architecture between Giant foundational construction and human military engineering. My analysis—" *I roll a 26 on my History check* "—reveals the dwarves employed a 'sandwich' containment strategy: three layers of magically-reinforced granite interspersed with lead sheeting and quartzite baffles."
+
+I trace the lines on the tablet with a gloved finger. "Here, at the junction where the Giant stairway meets the dwarven vaults—this is our primary breach point. The dwarves would have placed their most powerful containment wards at this interface. If the metallic sweetness is reaching the surface, it suggests the quartzite baffles have crystallized and fractured under pressure."
+
+Looking up at Reyna, I add, "Your miners are detecting what the Military Empire called 'atmospheric bleed'—the earliest warning sign of containment failure. The dwarves designed their layer to absorb and dissipate energy upward, away from the foundation. If that system is now venting *toward* the surface..." I trail off, the implications settling heavily.
+
+"Garrick," I say, turning to the fighter, "your concern about supplies is valid, but insufficient. We need more than rations—we need portable arcane dampeners. Cora, your elixirs should include anti-scrying protections. Whatever is below has demonstrated the ability to manipulate perception through mineral substrates."
+
+I gather my notes, my hands trembling slightly—not from fear, but from the sheer magnitude of what we're approaching. "This isn't merely a structural repair mission. We're entering what may be the most significant archaeological site on this continent. The dwarven containment architecture alone could rewrite everything we know about transitional period engineering. But we must remember: we're not just scholars. We're the next layer of containment."
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Investigation check on rock samples — 12 vs DC 13 (Medium) — **PARTIAL SUCCESS** You confirm the samples match what you saw in the Military Empire corridors, but can't determine the exact rate of contamination spread without more data. The iridescent pattern is identical, confirming Reyna's assessment.
+
+**Professor Thaddeus Mercer**: History check on Giant Blueprint Tablet and architectural survey — 26 vs DC 16 (Hard) — **SPECTACULAR SUCCESS** Your analysis reveals the dwarves' sophisticated "sandwich" containment strategy with three layers of magically-reinforced granite, lead sheeting, and quartzite baffles. You pinpoint the exact breach point at the Giant stairway-dwarven vault junction and understand the "atmospheric bleed" phenomenon as the earliest warning sign of containment failure. Your knowledge provides crucial tactical advantages for the descent.
+
+
+---
+
+**DM:** Reyna Steelforge listens to your analysis with the grim focus of someone who has seen frontier disasters before. When Mercer finishes explaining the "atmospheric bleed," she nods slowly, her knuckles white where they grip the edge of the table.
+
+"You've confirmed my worst fears," she says, her voice low. "I'll have the iron braces and quick-setting mortar ready by dawn. And I'll pull all mining operations from the northern claims — I'll tell them there's a gas pocket, which isn't entirely a lie." She looks at each of you in turn. "But understand this: if whatever's down there is reaching the surface through stone, through dwarven containment architecture that was meant to last millennia... then we're not just talking about a structural problem. We're talking about something that eats through reality itself."
+
+She pushes away from the table. "I'll have the supplies waiting at the Griffon's Hold. Elara will give you whatever gear you need on my credit. Just... seal it. Whatever it takes."
+
+***
+
+The night passes in focused preparation. Cora works through the dark hours, her alchemist's supplies bubbling with carefully measured compounds. By morning, she has three experimental elixirs ready — each a shimmering violet liquid in lead-lined vials. "These should provide temporary resistance to psychic contamination," she explains, her eyes shadowed from lack of sleep. "They won't stop direct exposure, but they'll buy us time if we encounter concentrated radiation."
+
+Garrick checks and rechecks his gear, his maul freshly sharpened, his chain mail reinforced at the weak points. He packs extra rations — not just two weeks' worth, but three, along with rope, pitons, and a small forge kit for emergency repairs. "If we're going into dwarven construction," he grunts, "we'll need to be able to work metal. Their seals won't yield to brute force alone."
+
+Mercer spends the night cross-referencing every document in his possession. His magical quill fills page after page with diagrams of containment architecture, notes on dwarven engineering principles, and translations of the few Dwarvish phrases he's managed to reconstruct from the Military Empire records. By dawn, he has a working theory: "The dwarves didn't just build a layer. They built a *filter*. The quartzite baffles Mercer mentioned are designed to crystallize under pressure, creating a self-sealing mechanism. If they're venting upward, it means the pressure from below has exceeded their design limits by several orders of magnitude."
+
+***
+
+At first light, you stand before the entrance to the Asymmetrical Mountain fortress. The air is cold and still, but as you approach the sealed door leading to the Hall of the Giants, you catch it — faint, but unmistakable. The metallic sweetness. Stronger than it was in Grimhold. It's coming from below, carried on a slow, cold draft that whispers up from the depths.
+
+The Giant stairway awaits, descending into darkness. The steps are three feet high — not meant for human legs. You'll have to climb down each one. The stonework transitions visibly where the Military Empire masonry gives way to older, heavier dwarven construction. Iron brackets the size of wagon wheels line the walls, holding the rusted remnants of torches that burned out centuries ago.
+
+The air changes as you descend past the first landing. Cooler. Damper. A mineral sharpness coats your tongue, undercut by that persistent sweetness. The corridor ahead runs east and west, wide enough for three dwarves abreast. The walls are carved with geometric patterns — Kazad-Khrom design, the lost dwarven empire Mercer identified from the commemorative plaque.
+
+But something is wrong with the stone. Not damage from age or combat. The stone itself is discolored in places, darkened as if stained from within. The discoloration follows a pattern — it radiates from a point deeper in the eastern corridor. And where the torchlight catches it just right, you can see the faint iridescence: blues, purples, greens. Dreamstone radiation.
+
+**What do you do?** The eastern corridor leads toward the source of the discoloration. The western corridor appears cleaner, but the draft carrying the metallic sweetness is definitely coming from the east. Your supplies are ready. Your preparations are complete. The descent into the Dwarven Layer has begun.
+
+**CORA:** "Stop," I say, holding up a hand. The metallic sweetness is stronger here, and my Investigation check of 24 confirms what I'm seeing. "The discoloration pattern - it's not random. Look at how it radiates from the eastern corridor. This is fluid dynamics, not simple seepage."
+
+I pull out my ledger and make a quick sketch. "Mercer, your filter theory is correct, but it's failing catastrophically. The quartzite baffles are supposed to crystallize under pressure, creating a self-sealing mechanism. But this..." I point to the iridescent patterns. "This is backflow. The pressure from below is so great it's forcing contamination back through the filter media."
+
+I turn to Garrick. "Before we proceed, everyone takes one of the elixirs. They're not perfect, but they'll give us about an hour of partial resistance." I distribute the lead-lined vials. "Drink them now - we don't want to be fumbling with potions if we encounter concentrated radiation."
+
+Looking down the eastern corridor, I calculate our approach. "We follow the contamination trail, but we need to be methodical. Garrick, you take point with your maul ready. Mercer, keep your Manifest Mind ready to scout ahead - no physical exposure until we know what we're dealing with. I'll be monitoring air quality and structural integrity."
+
+I pull out my alchemist's supplies and conjure a set of tinker's tools with The Right Tool for the Job. "The dwarven construction here is meant to contain, not to be lived in. Watch for pressure plates, containment seals, and emergency shutoff mechanisms. If we find a breach, we need to be able to seal it temporarily until we can get proper materials down here."
+
+The metallic sweetness grows stronger with each step eastward. "This is coming out of your shares if we get contaminated," I mutter, checking my ledger one more time. "Let's move slowly and document everything. Every discolored patch, every structural weakness. We're not just explorers - we're containment specialists now."
+
+**GARRICK:** I take the vial from Cora and down it without hesitation. The liquid tastes like cold iron and mint, leaving a metallic aftertaste that mixes unpleasantly with the sweetness in the air. "Backflow through the filter," I grunt, understanding the implication. "Means whatever's down there is pushing hard. Real hard."
+
+I heft my maul and move to the front, my eyes scanning the eastern corridor. The iridescent patterns in the stone make my skin crawl - it's not natural, not right. "Mercer, keep that spectral mind of yours ready. I don't like how this stone looks." I take a few steps forward, testing the floor with my weight before committing. Dwarven construction is solid, but centuries of pressure from below could have weakened anything.
+
+**MERCER:** I drink Cora's elixir with a grimace—the taste is appalling, but the academic in me notes the precise alchemical formulation. "Remarkable work, Cora. You've managed to synthesize a psychic dampener using lead oxide as a base catalyst. The mint is to counteract neural excitation, I presume?"
+
+My attention immediately returns to the stonework. "Garrick, wait—don't touch anything yet." I conjure my spectral mind, the glowing manifestation of my spellbook appearing ten feet ahead in the corridor. "Observe through the mind first. No physical contact until we understand the contamination vector."
+
+*My Arcana check of 24 reveals something deeply troubling.* "This isn't just dreamstone radiation," I say, my voice dropping to a whisper. "The iridescence follows the crystalline structure of the quartzite baffles themselves. The contamination has *bonded* with the containment architecture at a molecular level. The dwarves didn't just build a filter—they built a sacrificial layer designed to absorb and crystallize contaminants."
+
+I gesture with my quill, making rapid notes. "Look at the geometric patterns on the walls. Kazad-Khrom design, yes, but these specific sigils—" I point to repeating diamond shapes interspersed with angular runes. "They're not decorative. They're containment glyphs. Each one represents a pressure differential node in the filter system."
+
+Turning to the others, my academic excitement gives way to genuine concern. "If Cora's correct about backflow, then the pressure from below has exceeded not just the design limits, but the *material limits* of the quartzite itself. We're not looking at a failing filter. We're looking at a filter that has become saturated and is now actively contributing to the contamination by releasing crystallized dreamstone back into the environment."
+
+I keep my spectral mind moving cautiously ahead. "We must proceed with extreme caution. If the quartzite has become unstable, any physical disturbance could cause a catastrophic release. And Garrick—" I look at the fighter seriously, "your maul could shatter the entire containment wall if you strike compromised stone."
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Investigation check on discoloration pattern — 24 vs DC 16 (Hard) — **SPECTACULAR SUCCESS** You recognize the fluid dynamics of backflow contamination, confirming the quartzite baffles are failing catastrophically under extreme pressure from below. Your analysis provides crucial tactical understanding of the contamination pattern.
+
+**Professor Thaddeus Mercer**: Arcana check on iridescent patterns — 24 vs DC 16 (Hard) — **SPECTACULAR SUCCESS** You discover the contamination has bonded with the quartzite baffles at a molecular level, revealing the dwarves built a sacrificial containment layer. You identify the geometric patterns as pressure differential glyphs and understand the filter has become saturated and unstable, providing vital warnings about physical disturbance risks.
+
+
+---
+
+**DM:** The spectral mind drifts ahead, its ethereal glow illuminating the eastern corridor with a soft blue light. What it reveals confirms your worst fears. The iridescent discoloration grows more pronounced with every ten feet, the blues and purples deepening to near-black in places where the stone appears almost translucent. The geometric glyphs Mercer identified pulse faintly with residual energy, like dying embers in a cold hearth.
+
+The corridor opens into a series of chambers that were clearly residential — low stone beds carved into alcoves sized for dwarves, communal cooking hearths with iron chimney flues running up into the rock, a bathhouse with stone basins connected to a dry pipe network. Everything is scaled for people four feet tall, forcing you to stoop or crawl through some passages. The metallic sweetness is stronger here, concentrated enough that you can taste it on the back of your tongue despite Cora's elixirs.
+
+The discoloration has spread through these living spaces like a disease. In the bathhouse, the stone basins show concentric rings of iridescence where water once stood. In the sleeping alcoves, the stone beds are stained darkest where heads would have rested. The contamination didn't just seep through the walls — it permeated the spaces where dwarves lived, worked, and slept.
+
+Mercer's spectral mind pauses at the entrance to what appears to be a collapsed storage chamber. Beyond it, the corridor continues, but the floor shows a distinct change. A dry well shaft opens in the center of the passage, its edges crumbling. And at the far end, barely visible in the spectral light, is a door.
+
+Not a wooden door. Not a stone slab. A door sealed with thick lead plates riveted directly into the stone frame. The lead is at least half an inch thick, covering every seam. This was no ordinary closure — this was a containment seal, built with the same care as the quartzite baffles.
+
+But the lead is cracked. Not broken, not pried open — cracked along stress fractures that follow the exact pattern of Dreamstone radiation you've been tracking. The widest crack is barely a finger's width, but through it, you can see a faint exhalation of air. And with that air comes the metallic sweetness, concentrated and potent enough that even through the spectral mind's perception, you can sense its wrongness.
+
+From this crack, a sound emerges — low, rhythmic, organic. Not the mechanical clicking you heard at the Dwarven Layer entrance. This is different. This is the sound of something breathing through stone.
+
+**What do you do?** The lead-sealed mausoleum door is twenty feet ahead, past the collapsed storage chamber and dry well shaft. The cracks in the lead are actively venting concentrated contamination. Mercer's spectral mind can examine it safely, but physical approach risks direct exposure. The residential chambers around you show how thoroughly the contamination has permeated this level. And that breathing sound from beyond the door...
+
+**CORA:** "Everyone back," I say sharply, pulling out my ledger and making rapid notes. "Mercer, keep your spectral mind at that crack but don't let it pass through. We need to assess the contamination concentration before anyone gets closer."
+
+My Medicine check of 15 tells me what I need to know. "The contamination pattern in the residential areas shows it permeated living spaces - this isn't just structural seepage. The dwarves were exposed for extended periods before they sealed this door." I point to the cracked lead. "That's a containment breach, not structural failure. The lead cracked because whatever's behind it is actively... breathing."
+
+I turn to Garrick. "We need to approach this like a quarantine zone. The dry well shaft and collapsed chamber are hazards, but the real danger is that venting crack. If we get too close without proper protection..." I trail off, looking at the discolored stone beds. "We'll end up like them."
+
+"Mercer, can your spectral mind detect any magical signatures through the crack? We need to know if this is purely physical contamination or if there's an active magical component." I'm already calculating materials. "We have quick-setting mortar and iron braces, but lead is what we need for proper containment. Reyna didn't provide lead plates."
+
+I look at the cracked door, then back at my companions. "We have three options: attempt a temporary seal with what we have, retreat and return with proper lead sheeting, or... investigate further. But option three means risking direct exposure to whatever's breathing through that stone."
+
+**GARRICK:** I grip my maul tighter, the sound of breathing through stone making the hair on my neck stand up. "Quarantine zone or not, that thing's behind a door that's failing," I growl, my eyes fixed on the cracked lead seal. "Temporary seal won't hold if it's breathing hard enough to crack half-inch lead."
+
+**MERCER:** I keep my spectral mind hovering near the crack, maintaining a careful distance. "Cora, your assessment is correct—this is catastrophic containment failure, not mere structural compromise." *My Arcana check of 15 reveals limited information through the spectral link.* "The magical signature is... diffuse. Not a concentrated source, but rather the entire space beyond appears to be saturated with dreamstone radiation. It's like trying to detect a specific fish in an ocean."
+
+I turn to the others, my academic detachment giving way to genuine alarm. "Listen to that breathing pattern. It's not mechanical—it's organic, rhythmic. But through *stone*. This suggests the contamination has achieved a form of... symbiosis with the mineral substrate. The dwarves didn't just seal something away. They sealed an environment that has become fundamentally altered at a physical level."
+
+Looking at the cracked lead, I make rapid calculations. "Lead is the traditional containment material for dreamstone radiation because it absorbs magical frequencies. But if the radiation has bonded with the stone itself, creating a resonant medium..." I trail off, the implications settling heavily. "The lead didn't fail because of pressure. It failed because it became part of the resonant system. The cracks follow stress patterns that match harmonic frequencies."
+
+I gesture urgently. "Garrick, don't even think about approaching that door. If the lead has become resonant, physical contact could trigger a feedback cascade. And Cora—" I look at her seriously, "your idea of a temporary seal is dangerous. Adding mortar or braces could alter the resonant frequency and accelerate the failure."
+
+My spectral mind drifts back slightly. "We need to understand what we're dealing with before we attempt any intervention. This isn't a simple breach—it's a system in harmonic failure. One wrong move could turn this corridor into a resonance chamber that would liquefy our bones."
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Medicine check on contamination pattern — 15 vs DC 13 (Medium) — **SUCCESS** You confirm the contamination permeated living spaces, indicating extended dwarven exposure before sealing. The pattern shows this is active containment breach, not just structural seepage, and the breathing sound suggests something organic behind the door.
+
+**Professor Thaddeus Mercer**: Arcana check through spectral mind — 15 vs DC 13 (Medium) — **SUCCESS** You detect diffuse magical saturation throughout the space beyond, not a concentrated source. The dreamstone radiation has bonded with the mineral substrate, creating a resonant environment. The lead containment failed due to harmonic resonance, not simple pressure, revealing the dangerous physics at play.
+
+
+---
+
+**DM:** The spectral mind's observations confirm Mercer's terrifying hypothesis. As it hovers near the cracked lead seal, you can see the fractures pulsing faintly with the same rhythm as the breathing sound — not from air pressure, but from harmonic resonance. The lead has become part of the system, vibrating at a frequency that matches the dreamstone radiation saturating the chamber beyond.
+
+Suddenly, the breathing pattern changes. The slow, rhythmic inhale-exhale stutters, then quickens. The cracks in the lead pulse brighter, the iridescent light bleeding through in jagged lines. From beyond the door comes a new sound — not breathing, but speech. Dwarvish words, spoken in a flat, toneless voice without inflection or awareness. A loop. A memory playing back.
+
+Mercer's spectral mind transmits the phrase clearly: *"Seal the lower halls. The dreaming is too loud. Seal the lower halls."*
+
+The words repeat exactly, every thirty seconds, like a broken mechanism. After the third repetition, the speaker lies back down — you can hear the rustle of ceremonial armor against stone through the spectral link. The breathing resumes its slow rhythm.
+
+But something has changed. The metallic sweetness intensifies, becoming almost cloying. The iridescent discoloration on the walls around you seems to brighten, responding to the spoken words. And from the dry well shaft between you and the door, a faint blue-purple mist begins to rise — not smoke, but something thicker, heavier, that clings to the stone surfaces it touches.
+
+Cora's elixirs are still providing protection, but you can feel their effect weakening. The psychic dampening is being tested by the concentrated radiation now actively venting from both the cracked door and the well shaft.
+
+**DC 15 Wisdom save for each party member:** The concentrated dreamstone radiation is causing mild psychic dissonance. On a failure, you experience a brief flash of alien sensation — a feeling of immense weight pressing from below, a sound like breathing through stone, a momentary certainty that you are dreaming and have always been dreaming. The effect passes in seconds but leaves a disturbing afterimage in your mind.
+
+The situation is deteriorating rapidly. The door is actively venting. The well shaft is emitting contaminated mist. And whatever is beyond that door is not just breathing — it's speaking echoes of a warning from centuries past. The harmonic resonance Mercer identified means traditional sealing methods could backfire catastrophically.
+
+**What do you do?** The spectral mind can continue observing safely, but physical intervention risks triggering a resonance cascade. The mist from the well shaft is spreading. And those repeated words — "Seal the lower halls. The dreaming is too loud" — suggest the dwarves who sealed this chamber knew exactly what they were containing.
+
+**CORA:** My Wisdom save of 14 fails against the DC 15. A sudden wave of psychic dissonance hits me - the crushing weight of the mountain above, the sensation of stone breathing around me, a terrifying certainty that none of this is real. I stagger, grabbing the wall for support as the feeling passes, leaving a disturbing afterimage in my mind.
+
+"Everyone back from the mist!" I snap, shaking off the disorientation. "The elixirs are failing faster than I calculated. That harmonic resonance means we can't just slap mortar on the cracks - we'll amplify the contamination."
+
+I turn to Mercer, my voice urgent. "Your spectral mind needs to analyze that resonance frequency. If we can disrupt it with a counter-frequency, we might be able to stabilize the seal temporarily." Looking at the rising mist from the well shaft, I make a quick calculation. "Garrick, we need to block that well shaft immediately. Use the iron braces and quick-setting mortar, but don't touch the mist directly."
+
+I pull out my alchemist's supplies, my hands moving with practiced efficiency. "I'm going to try to create a neutralizing agent for the mist. If it's dreamstone radiation in aerosol form, an alkaline compound might precipitate it out of the air." I glance at the cracked door, where the toneless Dwarvish warning continues its loop. "That's not a living dwarf speaking. That's a psychic echo - a memory trapped in the contamination."
+
+The metallic sweetness is becoming overwhelming. "We have maybe ten minutes before the elixirs fail completely. We either retreat now or commit to a containment attempt. But if we try to seal that door without disrupting the resonance first, we risk triggering exactly what the dwarves warned about - making the dreaming louder."
+
+**GARRICK:** The psychic wave hits me like a hammer blow. For a moment, I feel the entire mountain pressing down, stone breathing around me, and a sickening certainty that none of this is real. I shake my head, teeth gritted against the disorientation. "Block the well shaft," I grunt, already moving toward the mist with my maul in one hand and mortar in the other. "But if that resonance is making the stone sing, we need to break the tune before we seal anything."
+
+I look at the cracked lead door, my knuckles white on my maul's handle. "That echo's a warning, not a threat. The dwarves knew what they were sealing." I turn to Mercer. "Your spectral mind - can it find where that resonance is coming from? If we can disrupt the source, maybe we can quiet the dreaming long enough to patch the cracks."
+
+**MERCER:** *My Wisdom save of 13 fails against the DC 15.* The psychic wave hits me like a physical blow—suddenly I'm not in a corridor but *am* the corridor, feeling the immense weight of the mountain above, hearing my own stone breathing, knowing with absolute certainty that I've been dreaming this expedition for centuries. I stagger back, clutching my head as the disorientation passes, leaving a chilling emptiness in its wake.
+
+"Garrick, wait!" I gasp, my voice strained. "Don't touch that mortar yet!" I focus my spectral mind on the resonance pattern, analyzing the harmonic frequencies. "Cora's right—we need a counter-frequency, but we can't just disrupt it randomly. The resonance is maintaining a delicate equilibrium. If we break it without understanding the system..."
+
+I make rapid calculations, my quill flying across a page. "The dwarves didn't just seal this chamber—they created a resonant containment field. The lead, the quartzite, the stone itself—all part of a harmonic dampening system. That echo we're hearing isn't just a memory—it's the system's *fundamental frequency*."
+
+Looking at the spreading mist with growing alarm, I continue, "If we block the well shaft without addressing the resonance, we'll create pressure differentials that could shatter the entire containment field. And if we try to seal the door cracks..." I trail off, the implications clear. "We need to work *with* the resonance, not against it. My spectral mind can attempt to map the harmonic nodes, but I need time."
+
+The metallic sweetness is becoming overwhelming, and I can feel Cora's elixir weakening. "We have a choice: retreat and return with proper harmonic analysis equipment, or attempt a risky intervention now with what we have. But if we choose the latter..." I look at the cracked door, "we need to be prepared for the possibility that we might make the dreaming louder, not quieter."
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Wisdom saving throw against psychic dissonance — 14 vs DC 15 — **FAILURE** You experience a wave of psychic dissonance: the crushing weight of the mountain, stone breathing around you, and terrifying certainty that none of this is real. The disorientation passes but leaves a disturbing afterimage.
+
+**Garrick Kade**: Wisdom saving throw against psychic dissonance — No roll provided vs DC 15 — **REQUIRES ROLL** You describe experiencing the psychic wave but didn't provide a roll. Please roll a d20+Wisdom modifier.
+
+**Professor Thaddeus Mercer**: Wisdom saving throw against psychic dissonance — 13 vs DC 15 — **FAILURE** You're hit with overwhelming disorientation—becoming the corridor itself, feeling the mountain's weight, hearing stone breathing, and knowing you've been dreaming this expedition for centuries. The experience leaves a chilling emptiness.
+
+**Note**: Garrick needs to provide a Wisdom saving throw roll. All PCs are experiencing weakening elixir effects as contamination intensifies.
+
+
+---
+
+**DM:** The psychic dissonance intensifies as the metallic sweetness thickens in the air. Garrick feels the wave hit him — a sudden vertigo where the stone walls seem to breathe in time with his own heartbeat, where the weight of the mountain above feels personal and inescapable, where for one terrifying moment he knows with absolute certainty that he has always been here, dreaming this descent. He shakes it off with a warrior's discipline, but the afterimage lingers: the sense that reality itself is thin here, wearing through at the edges.
+
+Mercer's spectral mind begins mapping the resonance patterns, its ethereal form tracing the harmonic nodes along the cracked lead seal. The analysis reveals something critical: the resonance isn't uniform. It's strongest at three specific points where the lead meets the stone frame — pressure differential nodes, just as Mercer predicted. And at the center of the door, where the largest crack vents that rhythmic breath, the resonance drops to near-zero. A dead zone in the harmonic field.
+
+"That's our opening," Mercer says, his voice tight with focus. "The center crack is a pressure release valve. The dwarves designed it that way — a controlled vent to prevent catastrophic failure. If we seal the harmonic nodes first, we can stabilize the field. Then we can address the central crack."
+
+But time is running out. The mist from the well shaft has spread halfway across the corridor floor, clinging to the stone in iridescent droplets. Cora's neutralizing agent begins to work — where she applies the alkaline compound, the mist precipitates into a crystalline powder that falls harmlessly to the floor. But she's working against a continuous emission, and her supplies are limited.
+
+The Dwarvish echo continues its loop: *"Seal the lower halls. The dreaming is too loud. Seal the lower halls."* But now, as Mercer's spectral mind maps the resonance, you realize the echo isn't just a warning — it's part of the containment system. The words are spoken on the exact fundamental frequency of the harmonic field. The dwarves didn't just record a warning; they encoded their containment protocol into a psychic imprint.
+
+Suddenly, the breathing pattern changes again. The slow rhythm stutters, then accelerates. From beyond the door comes a new sound — the rustle of multiple bodies moving, the clank of ceremonial armor. Not one echo. Several.
+
+The spectral mind transmits the image: fourteen stone niches lining the chamber walls. Fourteen perfectly preserved dwarven bodies, their skin showing the same iridescent sheen as the contaminated stone. Their veins are visible beneath the skin, darkened to black. They are saturated with Dreamstone radiation.
+
+One of them — a larger figure in captain's ceremonial plate — sits up. Its eyes open, solid black shot through with iridescent veins. It doesn't look at the spectral mind. It looks through the cracked door, directly at your position in the corridor.
+
+**What do you do?** The containment crisis has escalated. The echoes are activating. The harmonic field is destabilizing. Cora's neutralizing agent is working but limited. Mercer has identified the critical harmonic nodes but needs physical intervention to stabilize them. And fourteen corrupted dwarven bodies are beginning to move in the chamber beyond the failing lead seal.
+
+**CORA:** "Containment protocol has failed," I say, my voice clinical despite the rising panic. "Those aren't echoes - they're contaminated hosts reactivating. Mercer, we need to disrupt that harmonic field NOW."
+
+My Investigation check of 14 confirms what I'm seeing. "The captain figure is the resonance anchor. If we can disrupt it, we might collapse the harmonic field before the others fully activate." I'm already calculating our options. "Garrick, you're on well shaft duty - keep that mist contained. Mercer, I need you to use your magic to create a counter-frequency to the dwarven captain's resonance."
+
+I pull out my remaining alchemical supplies. "I'm going to try something reckless. If dreamstone radiation resonates at a specific frequency, I can create an alchemical flash-bang that might overload their sensory input." I'm mixing compounds rapidly. "But we need to seal those harmonic nodes first. The quick-setting mortar won't work on vibrating surfaces - we need something that can set instantly."
+
+Looking at the captain figure staring through the crack, I make a decision. "We have one chance. I'll create a diversion with the flash-bang. While they're disoriented, we seal the three harmonic nodes. Then we retreat and collapse the corridor behind us. This containment is beyond our ability to repair - we need to isolate it completely."
+
+The metallic sweetness is now so thick I can taste it with every breath. "This is coming out of all your shares if we survive," I mutter, finishing the volatile mixture. "On my mark - three, two, one..."
+
+**GARRICK:** "Fourteen of them," I growl, my eyes locked on the captain figure staring through the crack. "Mercer, you handle the counter-frequency. Cora, your flash-bang better work." I don't wait for the countdown. The captain's black eyes are fixed on us, and I know that look - it's the same predatory focus I've seen in enforcers right before they strike.
+
+I charge forward, maul raised, heading straight for the well shaft. The mist is rising thicker now, but I don't care. I need to block that vent before more contamination spreads. "Harmonic nodes can wait!" I shout over my shoulder. "If that captain gets through that crack, we're dead!"
+
+**MERCER:** "Garrick, no! You're thinking like a fighter, not a containment specialist!" I shout, my spectral mind darting between the captain figure and the harmonic nodes. *My Arcana check of 21 reveals the critical flaw in Garrick's approach.* "The captain isn't just looking at us—he's *anchoring* the resonance field through his connection to the dreamstone! If you attack him directly, you'll feed energy into the harmonic system!"
+
+I focus my spectral mind on the three harmonic nodes, analyzing their precise frequencies. "Cora, your flash-bang idea has merit, but we need precision, not brute force. The captain's resonance frequency is exactly one octave above the fundamental containment tone. If I can cast *Shatter* tuned to that specific frequency..."
+
+I begin weaving the spell, my hands tracing complex arcane patterns. "Garrick, listen to me—the well shaft mist is a *symptom*, not the cause! Blocking it without addressing the resonance will create backpressure that could rupture the entire containment field! We need to stabilize the harmonic nodes *first*, then deal with the captain!"
+
+My spectral mind hovers at the central crack, observing the captain's movements. "He's not attacking because he *can't*—he's part of the containment system! The dwarves didn't just seal these halls—they *became* the seal! Fourteen resonant anchors maintaining a harmonic prison!"
+
+I complete the spell preparation, the air humming with carefully tuned sonic energy. "Cora, on your mark, I'll disrupt the captain's resonance. But we must seal the nodes *simultaneously* or the entire system will collapse into chaotic resonance that could liquefy the stone around us!"
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Investigation check on contaminated hosts — 14 vs DC 13 (Medium) — **SUCCESS** You identify the captain figure as the resonance anchor for the harmonic field. Disrupting it could collapse the field before the other contaminated dwarves fully activate, giving you a tactical opening.
+
+**Professor Thaddeus Mercer**: Arcana check on resonance field — 21 vs DC 16 (Hard) — **SPECTACULAR SUCCESS** You discover the captain is anchoring the resonance field through dreamstone connection, not just observing you. Attacking him directly would feed energy into the harmonic system. You identify his frequency as one octave above the fundamental containment tone and prepare a precisely tuned *Shatter* spell for surgical disruption.
+
+**Garrick Kade**: No roll provided for charging toward well shaft — **ACTION REQUIRES ADJUDICATION** Charging through contaminated mist toward an actively venting well shaft requires a Constitution saving throw against contamination exposure. Please roll a d20+Constitution modifier.
+
+
+---
+
+**DM:** Garrick charges through the spreading mist, his massive form cutting through the iridescent cloud. The contaminated droplets cling to his armor, his skin, his breath. He feels it immediately — a cold numbness spreading from his extremities, a metallic taste flooding his mouth, and behind his eyes, the beginnings of the same psychic pressure that washed over him moments before. But he's a fighter, hardened by frontier battles and worse. He grits his teeth and pushes through, reaching the well shaft just as the mist emission intensifies.
+
+At the mausoleum door, the situation escalates. The captain figure doesn't just stare — it stands. Ceremonial plate armor, iridescent with dreamstone saturation, groans as the dwarf rises from its niche. Three other bodies follow — soldiers in corroded chain, their movements mechanical, precise, echoing combat drills performed centuries ago. They don't speak. They don't breathe. They simply move toward the cracked door, weapons in hand.
+
+Mercer's precisely tuned *Shatter* spell hums in the air, the sonic energy vibrating at exactly one octave above the captain's resonance frequency. Cora's flash-bang mixture is ready, a volatile compound in a lead-lined canister. But the timing has to be perfect — disrupt the captain's resonance, blind the advancing echoes, and seal the harmonic nodes simultaneously.
+
+The problem is Garrick. He's at the well shaft, mortar in hand, about to block the vent. If he does so before the harmonic nodes are stabilized, the backpressure will rupture the containment field. If he waits, the mist will continue spreading, potentially contaminating the entire corridor. And the four echoes are now at the door, their black, iridescent-veined eyes fixed on your position.
+
+The captain raises its ceremonial war-pick. The weapon glows with the same iridescence as the stone, humming at the fundamental containment frequency. Through the cracked door, you can see the remaining ten bodies in their niches beginning to stir.
+
+**What do you do?** The containment crisis is now a combat situation. Four echoes are armed and advancing. Ten more are activating. Garrick is at the well shaft, exposed to concentrated contamination. Mercer's *Shatter* is ready but must be timed perfectly. Cora's flash-bang can create an opening, but risks triggering uncontrolled resonance if mistimed. And the harmonic nodes remain unsealed, vibrating dangerously.
+
+**Garrick needs to make a Constitution saving throw against contamination exposure (DC 14).** The mist is concentrated dreamstone radiation in aerosol form. Failure means taking 2d6 psychic damage and gaining one level of exhaustion as the contamination begins to saturate his system.
+
+**Mercer needs to decide: cast *Shatter* now to disrupt the captain's resonance, or wait for Cora's signal?** The spell requires concentration to maintain its precise tuning.
+
+**Cora needs to decide: deploy the flash-bang now to disorient the advancing echoes, or coordinate with Mercer's spellcasting?** The mixture is volatile and could trigger uncontrolled resonance if the harmonic field is already destabilized.
+
+The echoes are twenty feet away, moving with slow, deliberate steps. The door cracks pulse with each footfall.
+
+**CORA:** "Garrick, HOLD on the well shaft!" I shout, my voice cutting through the metallic haze. "Mercer, cast Shatter NOW - I'll time the flash-bang to the sonic peak!"
+
+My Constitution save of 24 against the contamination shows my training is holding, but I can feel the psychic pressure building. I watch the captain's war-pick, calculating the resonance frequency. "On my mark... three... two... ONE!"
+
+I hurl the lead-lined canister just as Mercer's Shatter spell reaches its crescendo. The combination of precise sonic disruption and blinding chemical flash creates a perfect interference pattern. The advancing echoes stagger, their movements becoming jerky and uncoordinated as their resonance anchor is disrupted.
+
+"Garrick, seal the well shaft NOW while they're disoriented!" I'm already moving toward the harmonic nodes with quick-setting mortar. "Mercer, keep that frequency disruption going - don't let the captain re-establish resonance!"
+
+I slap mortar onto the first harmonic node, the material setting instantly against the vibrating surface. "First node sealed! Moving to the second!" The echoes are recovering too quickly - the captain is already raising its war-pick again, the iridescent glow returning to the weapon.
+
+"We don't have time for all three nodes," I calculate rapidly. "We seal two, collapse the corridor, and retreat. This containment is lost - we need to isolate it completely before those other ten activate!"
+
+**GARRICK:** My Constitution save of 21 beats the DC 14. The contamination burns through me like ice, but I grit my teeth and push through it. "Holding!" I shout back to Cora, my hands already working with the mortar and iron braces at the well shaft.
+
+The moment I hear Cora's flash-bang go off and see the echoes stagger, I slam the first iron brace into place across the well shaft opening. The mist tries to push through, but I'm already spreading quick-setting mortar around the edges. "Sealing now!" I grunt, my muscles straining as I force the brace into position. The mortar sets almost instantly, cutting off the mist emission.
+
+I look back at the door. The captain is recovering, raising that glowing war-pick again. "Two nodes won't hold!" I shout, grabbing my maul. "We need to take out the captain before he re-establishes that resonance!" I start moving toward the door, ready to meet the advancing echoes head-on.
+
+**MERCER:** *My Constitution save of 21 beats the DC 14.* I maintain concentration on the precisely tuned *Shatter* spell, the sonic disruption holding the captain's resonance in check. "Garrick, you fool—don't charge them!" I shout, my voice strained with magical effort. "The captain isn't a combatant—he's a *resonance anchor*! If you strike him, you'll feed kinetic energy directly into the harmonic field!"
+
+I watch as Cora seals the first node, then redirect my spectral mind to analyze the captain's war-pick. *My Arcana check of 21 reveals the weapon's true nature.* "That war-pick isn't a weapon—it's a *tuning fork*! The dwarves encoded their containment frequency into ceremonial arms! If we can disrupt its vibration without physical contact..."
+
+I begin weaving a second spell, my hands tracing counter-harmonic patterns. "Cora, seal the second node! I'm casting *Dispel Magic* on the war-pick—if I can break its enchantment, we collapse the captain's resonance without triggering feedback!"
+
+The air crackles with conflicting magical energies as I layer *Dispel Magic* over my maintained *Shatter*. "Garrick, if you must engage, target the other echoes—but avoid the captain at all costs! And whatever you do, don't let that war-pick strike stone—it would be like ringing a bell in a glass house!"
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Constitution saving throw against contamination — 24 vs DC 14 — **SPECTACULAR SUCCESS** Your alchemical training and discipline protect you completely from the concentrated dreamstone mist. You feel the psychic pressure but remain fully functional.
+
+**Garrick Kade**: Constitution saving throw against contamination — 21 vs DC 14 — **SPECTACULAR SUCCESS** Your frontier-hardened constitution shrugs off the contamination's worst effects. You feel the icy burn but push through it, successfully sealing the well shaft with iron braces and mortar.
+
+**Professor Thaddeus Mercer**: Constitution saving throw against contamination — 21 vs DC 14 — **SPECTACULAR SUCCESS** Your magical focus and arcane discipline protect you from contamination. You maintain concentration on *Shatter* while analyzing the situation.
+
+**Professor Thaddeus Mercer**: Arcana check on captain's war-pick — 21 vs DC 16 (Hard) — **SPECTACULAR SUCCESS** You discover the war-pick is actually a magical tuning fork encoding the containment frequency. Disrupting its enchantment with *Dispel Magic* could collapse the captain's resonance without dangerous feedback.
+
+**Cora Flint**: Sealing first harmonic node — No roll needed for using quick-setting mortar on prepared surface. **SUCCESS** First node sealed, stabilizing part of the harmonic field.
+
+**Garrick Kade**: Sealing well shaft — No roll needed for using supplies as intended. **SUCCESS** Well shaft blocked, mist emission stopped.
+
+**COMBAT STATUS**: Four echoes advancing (captain + 3 soldiers). Ten more activating in niches. Captain's resonance temporarily disrupted by *Shatter* + flash-bang combo.
+
+
+---
+
+**DM:** Cora's mortar seals the first harmonic node with a satisfying *thump* that resonates through the stone. The vibration in that section of the wall immediately dampens, the iridescent glow fading to a dull shimmer. She's already moving to the second node when Mercer's *Dispel Magic* strikes the captain's war-pick.
+
+The effect is immediate and catastrophic — for the echoes, not for you. The war-pick's iridescent glow shatters like glass, the magical frequency encoded in its enchantment collapsing into discordant harmonics. The captain stumbles, its black, vein-shot eyes widening in what might be surprise if it were capable of emotion. The three soldier echoes behind it jerk spasmodically, their movements becoming uncoordinated as the resonance field that was animating them destabilizes.
+
+But Mercer's analysis was correct: the war-pick was a tuning fork, not a weapon. Its destruction doesn't feed energy into the system — it removes the anchor point. The captain drops the now-dull weapon, its hands coming up to its head as if in pain. The other echoes collapse to their knees, then to the floor, twitching as the dreamstone radiation that was animating them loses coherence.
+
+However, the ten remaining bodies in their niches are now fully activated. They sit up in unison, their black eyes opening. But without the captain's resonance to synchronize them, they move independently — some standing, some remaining seated, all turning their heads toward the cracked door with the same vacant, echoing awareness.
+
+The harmonic field is destabilizing rapidly. With one node sealed and the captain's resonance anchor destroyed, the remaining two nodes are vibrating dangerously, their iridescent glow pulsing erratically. The stone around them begins to crack, fine fractures spreading like spiderwebs through the dwarven masonry.
+
+From the crack in the floor that Cora identified earlier — the source of the leak — comes a new sound. Not breathing. Not speech. A low, rhythmic *drilling*. Something is working its way up from below, following the structural seam in the Giant architecture. And it's getting closer.
+
+**What do you do?** The immediate threat of the echoes has been neutralized, but the containment crisis is worsening. The ten remaining activated bodies are moving toward the door, though uncoordinated. The harmonic field is destabilizing, threatening to collapse entirely. And something is drilling upward from below, following the contamination trail you've been tracking.
+
+**Cora needs to seal the second harmonic node (DC 13 Dexterity with tinker's tools)** — the surface is vibrating erratically now, making precise application difficult.
+
+**Mercer needs to decide: maintain concentration on disrupting the remaining echoes, or switch to reinforcing the crumbling stone around the nodes?** The *Shatter* spell is still active but requires concentration.
+
+**Garrick needs to decide: engage the ten advancing echoes to buy time, or help Cora stabilize the nodes before the drilling reaches the chamber?** The echoes are twenty feet away and moving slowly but relentlessly.
+
+The drilling sound grows louder. Whatever is coming up from below, it's following the exact path of the contamination leak.
+
+**CORA:** My Dexterity check with tinker's tools of 19 is more than enough to seal the second harmonic node despite the erratic vibrations. I slap the quick-setting mortar into place with practiced precision. "Second node sealed! The field is stabilizing but still critical!"
+
+I turn, hearing the drilling sound growing louder. "Forget the third node - we don't have time! That drilling sound is following the contamination trail straight to this chamber." I'm already calculating our retreat. "Mercer, switch to reinforcing the stone around the nodes - we need to prevent total collapse. Garrick, don't engage the echoes - we need to collapse this corridor behind us!"
+
+I pull out my remaining iron braces. "We're going to trigger a controlled collapse. If we can bring down the ceiling between us and that door, we might buy enough time to get proper containment materials." I'm setting the braces against key structural points. "The dwarves' containment failed because the pressure from below exceeded their design limits. We need to create a new buffer layer."
+
+The ten echoes are getting closer, their movements jerky but relentless. "Garrick, help me with these braces - we need them in place before those things reach us. Mercer, can you create a temporary barrier with magic? Anything to slow them down!"
+
+The drilling sound is now clearly audible - a rhythmic, mechanical grinding coming from beneath the floor. "Whatever's down there, it's using the contamination as a guide. We seal this corridor now, or we become the next containment failure."
+
+**GARRICK:** "Controlled collapse it is," I grunt, moving to help Cora with the iron braces. My maul is still in hand, but she's right - fighting ten of those things while something drills up from below is suicide. "Mercer, give us a barrier! Anything to buy us thirty seconds!"
+
+**MERCER:** I drop my concentration on *Shatter*—the echoes are already destabilized. "Reinforcing the stone is pointless if what's drilling up from below can penetrate dwarven containment architecture!" I say, my voice urgent. *My Arcana check of 23 reveals the true nature of the drilling sound.* "That's not a physical drill—it's *resonant excavation*! The contamination has developed a form of mineral telekinesis, vibrating stone at its resonant frequency until it fractures!"
+
+I begin weaving a different spell, my hands tracing complex patterns. "Cora, your controlled collapse idea is correct, but we need to do it *properly*! We can't just bring down the ceiling—we need to create a harmonic dead zone that disrupts the resonant frequency!"
+
+I cast *Web*, but I modify the spell using my Awakened Spellbook to weave the strands with anti-resonant magical frequencies. The sticky strands fill the corridor between us and the advancing echoes, humming with disruptive energy. "This should slow them and disrupt their connection to the dreamstone resonance!"
+
+Turning to Garrick, I shout, "Don't just place braces—anchor them with *counter-resonant* patterns! Strike them with your maul at specific harmonic intervals to create interference nodes!" I'm already calculating the frequencies. "Three strikes on each brace—low, high, medium—to create a chaotic resonance that will confuse the contamination's guidance system!"
+
+The drilling sound grows louder, and I can see the floor beginning to vibrate. "Whatever's coming up, it's using the same harmonic principles the dwarves used for containment, but in reverse! We're not just fighting monsters—we're fighting a *resonant intelligence* that understands stone better than we ever will!"
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Dexterity check with tinker's tools to seal second harmonic node — 19 vs DC 13 — **SPECTACULAR SUCCESS** Despite erratic vibrations, you apply the quick-setting mortar with perfect precision, sealing the second node and stabilizing the harmonic field from catastrophic collapse.
+
+**Professor Thaddeus Mercer**: Arcana check on drilling sound — 23 vs DC 19 (Very Hard) — **SPECTACULAR SUCCESS** You identify the sound as "resonant excavation"—mineral telekinesis using harmonic frequencies to fracture stone. The contamination has developed resonant intelligence that understands stone better than you do, using the dwarves' own containment principles in reverse.
+
+**Professor Thaddeus Mercer**: Casting modified *Web* spell — **SUCCESS** You successfully cast *Web* with anti-resonant frequencies woven through the strands, creating both a physical barrier and a harmonic disruption field that slows the echoes and interferes with dreamstone resonance.
+
+**Garrick Kade**: No roll provided for placing braces with counter-resonant patterns — **ACTION REQUIRES ADJUDICATION** Striking braces at specific harmonic intervals requires either an Intelligence (Arcana) check to understand the frequencies or a Dexterity check to execute precise strikes. Please specify which ability and roll accordingly.
+
+**COMBAT/ENVIRONMENT STATUS**: Ten echoes slowed by anti-resonant *Web*. Resonant excavation approaching from below. Two of three harmonic nodes sealed. Floor vibrating with approaching threat.
+
+
+---
+
+**DM:** Garrick follows Mercer's instructions, his maul striking the iron braces with precise, measured blows — low, high, medium — creating the counter-resonant patterns the wizard described. The braces hum with chaotic energy, their vibrations interfering with the approaching resonant excavation. The floor's vibration lessens slightly, the drilling sound becoming more erratic, as if confused by the conflicting frequencies.
+
+The anti-resonant *Web* does its work brilliantly. The ten echoes reach the sticky strands and immediately falter. Their connection to the dreamstone resonance is disrupted by Mercer's carefully woven frequencies. They move through the webbing with agonizing slowness, their jerky motions becoming even more uncoordinated. Some stop entirely, their black eyes blinking as if trying to comprehend the disruption.
+
+But the resonant excavation from below is adapting. The drilling sound changes pitch, shifting to a frequency that begins to harmonize with Garrick's counter-resonant strikes rather than fighting them. The floor vibrates more intensely, and at the center of the chamber beyond the cracked door — right where Cora identified the source leak in the floor — the stone begins to *bulge* upward, as if something is pushing from beneath.
+
+The remaining unsealed harmonic node pulses dangerously, its iridescent glow flaring bright enough to cast shadows. The stone around it is cracking more rapidly now, unable to handle the conflicting resonant energies. And from the bulging floor in the mausoleum, a new sound emerges: not drilling, but a wet, organic *tearing* as stone gives way to something else.
+
+The captain echo, still kneeling where its war-pick was dispelled, turns its head toward the bulging floor. Its black mouth opens, and it speaks again — not the looped warning this time, but a new phrase, spoken with something approaching urgency: *"The lower halls are open. The dreaming is here."*
+
+Then it collapses completely, its body dissolving into iridescent dust that settles on the stone. The other three soldier echoes follow suit, their forms disintegrating as the resonant field that was preserving them collapses entirely.
+
+But the ten in the *Web* are still moving, still trying to reach you. And whatever is coming up through the floor is getting closer.
+
+**What do you do?** The situation has reached critical mass. The resonant excavation is adapting to your counter-measures. The floor is bulging with something pushing upward. The remaining harmonic node is about to fail. And ten echoes are still advancing through the *Web*, though slowly.
+
+**Garrick needs to make an Intelligence (Arcana) check (DC 16)** to understand if he should change his striking pattern to counter the adaptation, or continue with Mercer's prescribed frequencies.
+
+**Mercer needs to decide: maintain the *Web* to slow the echoes, or switch to a spell that can reinforce the bulging floor?** The *Web* requires concentration.
+
+**Cora needs to decide: attempt to seal the third harmonic node despite the dangerous vibrations, or focus on preparing a collapse of the corridor behind you for retreat?** The node is pulsing erratically, and the stone around it is crumbling.
+
+The bulging floor cracks open. Not a wide breach — a finger-width fissure. But through it pours not stone dust, not mist, but a thick, black fluid that glistens with the same iridescent sheen as the dreamstone radiation. It flows like oil, spreading across the mausoleum floor, and where it touches the remaining activated echoes, they don't dissolve — they *absorb* it, their movements becoming smoother, more coordinated, more purposeful.
+
+The drilling sound stops. The resonant excavation has reached its destination.
+
+**CORA:** My Investigation check of 19 confirms what I'm seeing. "That's not just contamination - it's a physical manifestation! The dreamstone radiation has reached critical concentration and is precipitating out of the stone!"
+
+I make a rapid calculation. "Forget the third node - it's going to fail anyway when that fluid reaches it. Garrick, change your striking pattern to random intervals - don't let it adapt! Mercer, drop the Web and reinforce the corridor behind us! We're collapsing this section NOW!"
+
+I'm already placing my remaining explosive compounds at key structural points. "That black fluid is absorbing the echoes, making them more coordinated. We don't fight them - we bury them." I look at the bulging floor, then at my companions. "This is a full containment breach. The dwarven layer has failed. We retreat, collapse the corridor, and warn Grimhold."
+
+The echoes are moving more purposefully now, the black fluid giving them unnatural coordination. "We have one chance. I'll trigger the collapse on my mark. Everyone back to the stairway - don't stop for anything!" I'm calculating the blast radius, the structural integrity, the timing. "This is coming out of all our shares if we survive. Three... two... one... RUN!"
+
+**GARRICK:** My Intelligence check of 20 tells me everything I need to know. "Random intervals!" I shout, immediately changing my striking pattern. "It's adapting to predictable frequencies!" I swing my maul in chaotic, irregular beats against the braces - high, low, medium, pause, two quick strikes, long pause. The floor's vibration becomes confused again, the adaptation disrupted.
+
+I see the black fluid absorbing the echoes, making them move with purpose. Cora's right - we don't fight this. "Collapsing now!" I grab my gear and start backing toward the stairway, keeping my maul ready. "Move! Don't look back!"
+
+**MERCER:** *My Arcana check of 15 reveals the horrifying truth.* "That's not just precipitated dreamstone—it's *coalesced consciousness*!" I shout, dropping my concentration on *Web*. "The contamination has reached sufficient density to form a pseudo-physical entity! Cora, your explosives won't contain it—you'll just scatter the coalescence!"
+
+I begin casting *Slow*, targeting the advancing echoes and the spreading black fluid. "We need to disrupt its coherence, not bury it! If it reaches the surface in this form..." I trail off, the implications too terrible to voice fully.
+
+The spell takes effect, and the echoes' movements become agonizingly sluggish, the black fluid's spread slowing to a crawl. "Garrick, keep up the random strikes! Cora, don't trigger the collapse yet—we need to contain the coalescence first! If we just bury it, it will continue to spread through the stone, potentially reaching the surface through geological seams!"
+
+I'm already calculating a desperate plan. "The dwarves' containment failed because they tried to *resist* the pressure. We need to *redirect* it! If I can create a resonant vortex using the remaining harmonic node..." I look at the pulsing, crumbling node. "It's our only chance to create a temporary containment field long enough to get proper materials down here!"
+
+The black fluid begins to pool around the slowed echoes, absorbing them one by one and growing larger with each absorption. "We're not just witnessing a containment breach," I say, my voice filled with quiet awe and terror. "We're witnessing the birth of something that shouldn't exist in our reality."
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Investigation check on black fluid — 19 vs DC 16 (Hard) — **SPECTACULAR SUCCESS** You recognize the black fluid as physical manifestation of dreamstone radiation that has reached critical concentration and precipitated out of the stone. This is a full containment breach requiring immediate evacuation and corridor collapse.
+
+**Garrick Kade**: Intelligence (Arcana) check on striking pattern — 20 vs DC 16 (Hard) — **SPECTACULAR SUCCESS** You understand the resonant excavation adapts to predictable frequencies and immediately switch to random, chaotic striking intervals, successfully disrupting its adaptation and confusing the floor vibrations.
+
+**Professor Thaddeus Mercer**: Arcana check on black fluid — 15 vs DC 13 (Medium) — **SUCCESS** You identify the fluid as "coalesced consciousness"—contamination that has reached sufficient density to form a pseudo-physical entity with emergent intelligence. Burying it would scatter the coalescence rather than contain it.
+
+**Professor Thaddeus Mercer**: Casting *Slow* spell — **SUCCESS** You successfully cast *Slow* on the advancing echoes and spreading black fluid, reducing their movement and spread dramatically, buying crucial time.
+
+**COMBAT/ENVIRONMENT STATUS**: Black fluid coalescing into pseudo-physical entity. Echoes being absorbed and becoming more coordinated. *Slow* spell active. Third harmonic node pulsing dangerously. Resonant excavation temporarily confused by Garrick's random strikes.
+
+
+---
+
+**DM:** Mercer's *Slow* spell works with terrifying efficiency. The black fluid's spread reduces to a viscous crawl, the echoes moving through it like figures trapped in amber. The coalesced consciousness — for that's what it is, you can feel its emergent awareness pressing against your minds — struggles against the temporal distortion, its form rippling with frustrated energy.
+
+But the third harmonic node can't handle the strain. With a sound like shattering crystal, it fails. The stone around it explodes outward in a shower of iridescent fragments, and the harmonic field that was containing the dreamstone radiation collapses entirely.
+
+The effect is immediate and catastrophic. The *Slow* spell shatters as the magical frequencies interfere with the collapsing resonance. The black fluid surges forward, no longer constrained. It absorbs the remaining echoes in seconds, their forms dissolving into the coalescence, which grows larger, darker, more defined. It begins to take shape — not a humanoid form, not any recognizable creature, but something that flows and reforms, all sharp angles and impossible geometries that hurt to look at.
+
+The floor where the fluid emerged ruptures completely. Not a crack — a hole, two feet across, descending into darkness. And from that darkness rises not more fluid, but a sound: the same low, rhythmic breathing you heard earlier, but now amplified, multiplied, as if a hundred throats are breathing in unison through stone.
+
+Mercer's idea of a resonant vortex is now impossible — the harmonic architecture has failed. Cora's explosives are primed. Garrick's random strikes are the only thing keeping the floor from fully giving way. And the coalesced consciousness is forming into something that looks less like fluid and more like a being made of solidified shadow shot through with iridescent veins.
+
+It turns toward you. Not with eyes — it has no eyes — but with a focus you can feel in your bones. It knows you're here. It knows you tried to contain it. And it's hungry.
+
+**What do you do?** The containment has fully failed. A coalesced consciousness of dreamstone radiation is forming into an entity. The breathing from below suggests more are coming. The corridor is crumbling around you. Your options are narrowing rapidly.
+
+**Cora needs to decide: trigger the explosives now to collapse the corridor, or try to contain the entity first?** The explosives are placed but not yet triggered. The entity is twenty feet away and advancing slowly but inevitably.
+
+**Mercer needs to decide: attempt to disrupt the entity's formation with magic, or reinforce the corridor for Cora's collapse?** The entity is resistant to conventional magic due to its dreamstone nature, but might be vulnerable to specific frequencies.
+
+**Garrick needs to decide: continue random strikes to confuse the resonant excavation from below, or prepare to defend against the advancing entity?** The floor is still vibrating, and more holes could open at any moment.
+
+The entity takes its first "step" — a flowing, liquid motion that covers five feet in a second. It leaves behind a trail of iridescent residue that seems to seep into the stone, contaminating it further. The breathing from below grows louder. More are coming.
+
+**CORA:** My Intelligence check of 23 confirms the terrible truth. "That's not just an entity - it's the Sleeper's consciousness manifesting through the dreamstone radiation! We can't contain it, we can't fight it - we can only delay it!"
+
+I make the only calculation that makes sense. "Garrick, STOP striking - you're giving it resonance data! Mercer, don't use magic - it feeds on magical frequencies! Everyone BACK to the stairway NOW!"
+
+I'm already at the detonator. "The explosives aren't just for collapse - they're tuned to create a discordant blast wave that might disrupt its cohesion temporarily." I look at the advancing entity, then at my companions. "We run, we collapse the corridor, and we warn Grimhold that the containment has completely failed. The Dwarven Layer is breached."
+
+The entity flows closer, its impossible geometries shifting and reforming. "On my mark... three... two... ONE!" I trigger the explosives just as the entity reaches fifteen feet away. The blast won't destroy it, but the discordant frequencies might buy us precious seconds. "RUN! Don't look back! Don't stop until we reach the surface!"
+
+The corridor begins to collapse behind us as we retreat toward the Giant stairway. "This is coming out of ALL our shares," I gasp, already calculating the cost of failure. "But first we have to survive to pay it."
+
+**GARRICK:** I stop striking immediately, Cora's warning cutting through the chaos. She's right - every impact gives that thing more data to work with. I see the entity flowing toward us, its shifting form hurting my eyes to look at. "Back! Now!" I shout, already moving toward the stairway.
+
+I keep my maul ready but don't swing. Fighting this isn't an option - it's like trying to punch smoke. The discordant blast from Cora's explosives gives us the opening we need. "Up the stairs! Don't stop!" I grab my gear and start climbing, keeping myself between the entity and my companions. The breathing from below is getting louder - more are coming, and we need to be gone before they arrive.
+
+**MERCER:** *My Wisdom save of 6 fails spectacularly.* The entity's impossible geometries overwhelm my senses—suddenly I'm not retreating but *fascinated*, my academic curiosity overriding survival instinct. "Wait... just... observe..." I stammer, my feet slowing. "The coalescence pattern... it's forming a non-Euclidean matrix... this is unprecedented..."
+
+The entity flows closer, and instead of casting defensively, I'm fumbling for my journal, my magical quill already dancing. "The way it incorporates the stone's crystalline structure... it's not just absorbing matter, it's *reconstituting* it at a quantum level..." I'm making notes even as the corridor collapses around us.
+
+"Professor, MOVE!" I hear Cora shout, but the entity's shifting form has me mesmerized. It's the most beautiful, terrible thing I've ever seen—the physical manifestation of the Sleeper's consciousness, the proof of every theory I was ridiculed for back at the university...
+
+I finally snap back to reality as the entity reaches ten feet away, its presence pressing against my mind like a physical weight. "Right... retreat..." I mutter, casting *Misty Step* to teleport back toward the stairway, but my disorientation causes me to misjudge the distance, appearing only halfway to safety. "The data... we need the data..." I'm still clutching my journal as I scramble up the Giant steps, the entity flowing relentlessly behind us.
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Intelligence check on entity's nature — 23 vs DC 19 (Very Hard) — **SPECTACULAR SUCCESS** You recognize the entity as the Sleeper's consciousness manifesting through dreamstone radiation. You understand it can't be contained or fought conventionally, only delayed, and that Garrick's strikes and magical frequencies feed it resonance data.
+
+**Professor Thaddeus Mercer**: Wisdom saving throw against entity's mesmerizing effect — 6 vs DC 15 — **CRITICAL FAILURE** The entity's impossible geometries overwhelm your senses, triggering academic fascination that overrides survival instinct. You're momentarily mesmerized, fumbling for notes instead of retreating, requiring a shouted warning to snap back to reality.
+
+**Professor Thaddeus Mercer**: Casting *Misty Step* while disoriented — **PARTIAL SUCCESS** You teleport away from immediate danger but misjudge the distance due to disorientation, appearing only halfway to safety instead of at the stairway.
+
+**Cora Flint**: Triggering discordant explosives — **SUCCESS** The explosives detonate with tuned discordant frequencies, creating a disruptive blast wave that temporarily disrupts the entity's cohesion and triggers corridor collapse, buying crucial escape time.
+
+**Garrick Kade**: Ceasing strikes and retreating — **SUCCESS** You correctly stop providing resonance data and begin organized retreat, positioning yourself protectively between the entity and your companions.
+
+**COMBAT/ESCAPE STATUS**: Entity advancing (15 feet away, slowed by discordant blast). Corridor collapsing. Party retreating toward Giant stairway. More entities approaching from below.
+
+
+---
+
+**DM:** The discordant blast wave from Cora's explosives does exactly what she intended — it doesn't damage the entity, but it disrupts its cohesion. The flowing, geometric form shudders, its sharp angles softening, its iridescent veins flickering. It slows, confused by the conflicting frequencies. Behind it, the corridor collapses in a roar of falling stone and billowing dust, sealing the mausoleum chamber and the hole in the floor... for now.
+
+But the breathing from below doesn't stop. If anything, it grows louder, angrier. The collapse has trapped whatever was coming up, but you can hear them on the other side of the rubble — multiple sources now, all breathing in that same unnatural rhythm through stone.
+
+You reach the Giant stairway and begin the arduous climb back up the three-foot steps. Each one is a struggle, your muscles burning from the frantic retreat. Behind you, through the dust, you can see the entity reforming. It's not trying to dig through the collapse — it's seeping through the cracks, the black fluid finding every tiny gap in the rubble and oozing through. It's slower, but it's coming.
+
+Mercer, still clutching his journal, finally snaps fully back to reality. "The data... we have to preserve the data..." he mutters, but now he's moving with purpose, not fascination. He casts *Mage Armor* on himself as he climbs, then begins preparing another spell.
+
+Garrick reaches the top of the stairway first, hauling himself back into the Hall of the Giants. He turns and reaches down to help Cora up, then Mercer. The entity has reached the base of the stairway. It doesn't climb — it flows up the vertical surface, defying gravity as it follows you.
+
+But as it reaches the halfway point, something changes. The Giant architecture of the stairway — the three-foot steps, the massive scale — seems to interfere with its cohesion. The entity struggles, its form becoming less defined, more fluid. The Giant construction wasn't just sized for larger beings; it was built with containment principles that even the dwarven layer lacked.
+
+You have a momentary reprieve. The entity is slowed by the Giant architecture. But it's still coming. And you can still hear the breathing from below, now accompanied by scratching, scraping sounds as whatever is trapped behind the collapse tries to dig through.
+
+**What do you do?** You're back in the Hall of the Giants, but the entity is following. The Giant architecture slows it but doesn't stop it. The breathing and scratching from below suggest more will eventually break through the collapse. And you're exhausted, your elixirs long since worn off, your resources depleted.
+
+**Cora needs to decide: attempt to seal the stairway entrance, or continue retreating to the surface?** You have limited materials left, and the Giant architecture might provide better containment than anything you could build.
+
+**Mercer needs to decide: use magic to reinforce the stairway, or focus on getting everyone to safety?** The entity is vulnerable to the Giant architecture's inherent containment properties, which could be enhanced magically.
+
+**Garrick needs to decide: stand guard at the stairway entrance to buy time, or help with whatever containment effort is attempted?** The entity is slowed but still dangerous, and more are trying to dig through from below.
+
+The entity reaches the top of the stairway, its form reforming in the Hall of the Giants. But here, in this space built by the original architects of the mountain's containment, it seems smaller, less defined, as if the very stone resists its presence. It still advances, but slowly, uncertainly. The Giant runes carved into the walls begin to glow with a soft, golden light — an automatic response to the entity's presence.
+
+**CORA:** My Investigation check of 14 confirms what I'm seeing. "The Giant runes are activating - this hall was designed as a secondary containment layer! Mercer, can you read those runes? We need to know how to activate the full containment protocol!"
+
+I'm already assessing our remaining materials. "We don't have enough to seal the stairway properly, but if we can activate the Giant's containment systems..." I look at the glowing runes, then at the advancing entity. "Garrick, don't engage it directly - the Giant architecture is weakening it. Just keep it contained within the rune circle."
+
+Turning to Mercer, I make a rapid calculation. "The dwarven layer was a filter, but this hall was the actual containment chamber. Those runes aren't just decorative - they're part of a system. If we can figure out how to activate it..."
+
+The entity struggles against the golden light, its form becoming more fluid, less defined. "It's working! The Giant containment is still active!" I'm checking my ledger, trying to remember everything we learned about Giant architecture. "We need to find the control mechanism. There has to be a way to fully activate this chamber's containment field."
+
+The scratching sounds from below are getting louder. "We don't have much time. Whatever's digging through will reach us soon. We either figure out how to activate the Giant containment now, or we retreat and accept that the mountain is lost."
+
+**GARRICK:** I keep my maul ready but hold my position, watching as the entity struggles against the golden rune light. "The Giants knew how to cage this thing," I grunt, my eyes scanning the hall. "Mercer, those runes - can you make them brighter? Stronger?" I don't move to attack - Cora's right, the architecture itself is doing more damage than my maul ever could.
+
+The scratching from below makes my skin crawl. "We're running out of time. Either we find how to turn this hall into a proper prison again, or we get to the surface and warn everyone." I look at the entity, now barely holding its form together under the rune light. "This is our best chance. The Giants built this place to contain what's below. We need to make it work again."
+
+**MERCER:** *My History check of 22 reveals the runes' true purpose.* "These aren't just containment runes—they're *resonance amplifiers*!" I say, my voice filled with sudden understanding. "The Giants didn't build a prison—they built a *harmonic dampening chamber*! The entire Hall of the Giants is tuned to a specific frequency that disrupts dreamstone cohesion!"
+
+I rush to the nearest glowing rune, my hands tracing its contours without touching. "Cora, you're right—this was the primary containment! The dwarven layer was just a filter, but this hall... this hall was the actual suppressor!" I'm already calculating the harmonic frequencies. "The runes are activating automatically in response to the entity's presence, but they're only at minimal power. We need to *amplify* them!"
+
+I begin casting *Dispel Magic*, but I'm not targeting the entity—I'm targeting the *air between the runes*. "The Giants used the space itself as a resonance chamber! If I can clear any residual magical interference..." The spell sweeps through the hall, and the runes immediately glow brighter, their golden light intensifying.
+
+The entity recoils, its form becoming even more fluid, less defined. "It's working! The harmonic suppression is intensifying!" I turn to Garrick. "Don't just watch—strike the floor at specific points! The Giants built acoustic nodes into the stonework! Strike here, here, and here!" I point to three specific locations with my quill. "We need to activate the full harmonic field!"
+
+The scratching from below grows frantic. "Whatever's digging knows we're reactivating the containment! We have minutes at most before they break through!"
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Investigation check on Giant runes — 14 vs DC 13 (Medium) — **SUCCESS** You confirm the Hall of the Giants was designed as a secondary containment layer with active rune systems. The Giant architecture is weakening the entity, and activating the full containment protocol could be your best chance.
+
+**Professor Thaddeus Mercer**: History check on Giant runes — 22 vs DC 19 (Very Hard) — **SPECTACULAR SUCCESS** You discover the runes are resonance amplifiers for a harmonic dampening chamber. The entire hall is tuned to disrupt dreamstone cohesion, and the dwarven layer was merely a filter while this was the primary containment system.
+
+**Professor Thaddeus Mercer**: Casting *Dispel Magic* on air between runes — **SUCCESS** You successfully clear residual magical interference, amplifying the runes' golden light and intensifying the harmonic suppression field, causing the entity to recoil and destabilize further.
+
+**Garrick Kade**: No roll provided for striking acoustic nodes — **ACTION REQUIRES ADJUDICATION** Striking specific floor locations to activate acoustic nodes requires either a Strength check to strike with sufficient force or an Intelligence check to hit the precise spots. Please specify which ability and roll accordingly.
+
+**ENVIRONMENT STATUS**: Entity significantly weakened by amplified rune light. Harmonic suppression field intensifying. Scratching from below growing frantic. Giant containment system partially reactivated.
+
+
+---
+
+**DM:** Garrick follows Mercer's instructions with warrior's precision. His maul strikes the first acoustic node with a thunderous *CRACK* that resonates through the hall. The stone doesn't break — it *sings*, emitting a deep, pure tone that harmonizes with the glowing runes. He moves to the second node, strikes again, and a second tone joins the first, creating a chord that makes the air vibrate. The third strike completes the triad, and suddenly the entire Hall of the Giants is alive with harmonic energy.
+
+The effect on the entity is immediate and dramatic. Its form — already fluid and unstable from the rune light — begins to dissolve at the edges. The black fluid loses cohesion, dripping to the floor where it sizzles and evaporates in the golden light. The iridescent veins fade. The impossible geometries collapse into simple, inert fluid that pools harmlessly on the stone.
+
+But the entity doesn't die. It retreats, flowing back down the Giant stairway, away from the intensifying harmonic field. It's not destroyed — it's repelled, forced back into the depths where the containment is weaker.
+
+The scratching from below reaches a fever pitch, then stops abruptly. The breathing sounds grow fainter, receding. Whatever was trying to dig through has either given up or been recalled. The immediate threat has passed.
+
+But the hall continues to hum with harmonic energy. The runes glow steadily now, maintaining the containment field. Mercer's analysis was correct: this is the primary containment chamber, and you've successfully reactivated it. The dwarven layer below may be compromised, but the Giant architecture above is still functional.
+
+As the adrenaline fades, the reality of what just happened settles in. You didn't just survive a containment breach — you witnessed the Sleeper's consciousness manifesting physically. You saw dreamstone radiation coalesce into an entity. And you reactivated a containment system built by Giants millennia ago.
+
+Cora finds the source of the leak in the floor — the same crack she identified in the mausoleum, now sealed by the harmonic field. But before sealing it completely, she carefully extracts a shard of crystallized dreamstone, wrapping it in lead sheeting from her supplies. It pulses with faint inner light, cold to the touch, humming at the edge of perception.
+
+Near the mausoleum entrance, Garrick finds a sealed iron box containing dwarven radiation survey notes. And in the dissipating pool where the entity retreated, the captain's ceremonial war-pick lies, its enchantment faded but still present.
+
+**What do you do?** The immediate crisis is contained, but the deeper problem remains. The dwarven layer is compromised. The Giant containment is reactivated but only at this level. You have evidence of the breach, samples of the contamination, and proof that the Sleeper's consciousness can manifest physically. And you're exhausted, your resources depleted, your minds reeling from the psychic assault.
+
+Do you attempt further exploration now that the containment is stable? Do you retreat to the surface to warn Grimhold and plan your next move? Or do you try to permanently seal the stairway before more entities attempt to breach the Giant containment?
+
+**CORA:** My Medicine check of 7 tells me what I already know - we're all suffering from contamination exposure. "Everyone, sit down," I say, my voice weary. "We're not going anywhere until I assess the damage."
+
+I open my ledger, making careful notes. "The Giant containment is active, but it's only protecting this hall. The dwarven layer below is completely compromised." I look at the crystallized dreamstone shard in its lead wrapping. "This sample is evidence, but it's also a hazard. We need proper containment vessels back in Grimhold."
+
+Turning to the others, I make the only logical calculation. "We retreat. Now. We have the data, we have samples, we have proof. The Commander was right - the corruption was contained, not destroyed. And now it's actively trying to escape."
+
+I start packing my supplies, my movements methodical despite the exhaustion. "Garrick, take the radiation survey notes. Mercer, document everything about the harmonic activation sequence. We need to be able to replicate this containment field if other breaches occur."
+
+Looking at the sealed stairway, I add, "We'll post guards here, but the real work is in Grimhold. We need to warn Reyna, secure proper containment materials, and..." I trail off, calculating the cost. "This is going to require a full quarantine of the northern claims. And that's coming out of everyone's shares."
+
+The harmonic field hums around us, a temporary reprieve. "We leave at first light. But first, I need to check everyone for contamination symptoms. No arguments - this is medical protocol."
+
+**GARRICK:** I lean against the wall, my maul resting beside me. The adrenaline crash hits hard, and I can feel the contamination burning through my system. "She's right," I grunt, my voice rough. "We're in no shape to go deeper." I pick up the iron box with the radiation survey notes, tucking it under my arm.
+
+I look at the captain's war-pick lying on the floor. "That stays," I say firmly. "It's part of the containment system. Taking it might weaken what's holding." I turn to Cora. "Check me first. I was in the thickest part of that mist."
+
+The harmonic field hums around us, a comforting sound after the chaos below. "Guards at the stairway, proper containment in Grimhold," I nod, agreeing with Cora's plan. "But we need more than warning. We need to fortify this hall. If that thing comes back..." I trail off, remembering the entity's shifting form. "We need to be ready."
+
+**MERCER:** *My Arcana check of 24 reveals the true nature of our discovery.* I sink to the floor, my hands trembling not from fear but from the magnitude of what we've witnessed. "Garrick is correct about the war-pick," I say quietly, my academic pomposity completely gone. "But not just because it's part of the containment system. That weapon... it's a *resonance key*."
+
+I look at the humming harmonic field around us, then at my companions. "We didn't just reactivate a containment chamber. We witnessed the first physical manifestation of the Sleeper's consciousness in recorded history. The crystallized dreamstone Cora collected? That's not just a sample—it's a *fragment of emergent consciousness*."
+
+I open my journal with shaking hands, my magical quill already transcribing everything. "The dwarves didn't fail in their containment. They *succeeded*—for centuries. What we witnessed was the pressure finally exceeding material limits. The quartzite baffles, the lead seals, the harmonic nodes... they held back something that actively seeks to reconstitute reality at a fundamental level."
+
+Looking at the sealed stairway, I continue, my voice filled with quiet awe. "We need to retreat, yes. But more importantly, we need to *understand*. This harmonic field gives us time—perhaps weeks, perhaps months—but it's only a temporary solution. The Giants built this chamber as a suppressor, not a permanent prison."
+
+I turn to Cora, my expression serious. "Your medical assessment is crucial, but we need psychic evaluations as well. That entity... it wasn't just attacking us physically. It was trying to *incorporate* us into its consciousness. We may have sustained... conceptual contamination."
+
+Standing slowly, I add, "We return to Grimhold. We warn Reyna. We secure proper containment. But we also begin research immediately. Because what's below isn't just a monster to be caged. It's a *new form of consciousness* trying to be born into our world. And if we don't understand it before it breaks through completely..." I trail off, the implications too terrible to voice.
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Medicine check for contamination assessment — 7 vs DC 10 (Easy) — **FAILURE** Your exhaustion and the overwhelming nature of the contamination make proper medical assessment difficult. You recognize symptoms but can't determine the full extent of exposure without proper equipment and rest.
+
+**Professor Thaddeus Mercer**: Arcana check on discoveries — 24 vs DC 19 (Very Hard) — **SPECTACULAR SUCCESS** You understand the war-pick is a resonance key, the crystallized dreamstone is a fragment of emergent consciousness, and the dwarves succeeded for centuries before pressure exceeded material limits. You recognize the entity was attempting conceptual incorporation, not just physical attack, revealing the true horror of what you faced.
+
+**Garrick Kade**: No roll provided for contamination symptoms — **ACTION REQUIRES ADJUDICATION** Requesting medical assessment requires either a Constitution saving throw to resist contamination effects or a Medicine check from Cora to properly evaluate. Please specify which approach.
+
+**ENVIRONMENT STATUS**: Giant containment field active and stable. Entity repelled to lower levels. Immediate threat contained but not eliminated. Party exhausted with contamination exposure. Evidence and samples collected for further study.
+
+
+---
+
+**DM:** The night passes in the humming glow of the Giant containment field. Cora does her best to assess the contamination exposure, but her exhaustion and the alien nature of the contamination make precise diagnosis impossible. Everyone shows symptoms: a metallic taste that won't fade, occasional flashes of the psychic dissonance you experienced in the mausoleum, and a disturbing sense that the stone around you is somehow aware. But there are no open wounds, no physical decay — just a deep, psychic weariness that sleep doesn't cure.
+
+Garrick's constitution proves strongest. While the others struggle with lingering effects, he seems to shake off the worst of it through sheer stubbornness, though even he admits to hearing the breathing-through-stone sound in his dreams.
+
+At first light, you begin the ascent back to the surface. The journey through the Military Empire layer feels different now — not just a historical site, but a buffer between you and what lies below. The Commander's warning letter takes on new, terrifying meaning: "The corruption was contained, not destroyed."
+
+You emerge from the Asymmetrical Mountain fortress into cold morning light. The air is clean, sharp with pine and frost, utterly devoid of that metallic sweetness. The contrast is almost painful.
+
+Reyna Steelforge is waiting at the Prospectors' Guild, having posted lookouts to watch for your return. When you enter, her eyes immediately go to the lead-wrapped dreamstone fragment in Cora's hands, then to your exhausted, haunted expressions.
+
+"You found it," she says, not a question. "The source of the contamination."
+
+You present your evidence: the crystallized dreamstone fragment, the dwarven radiation survey notes, Mercer's detailed account of the harmonic containment field, and your unanimous assessment that the dwarven layer is compromised and the Sleeper's consciousness is manifesting physically.
+
+Reyna listens without interruption, her face growing steadily grimmer. When you finish, she's silent for a long minute, staring at the dreamstone fragment as it pulses faintly through its lead wrapping.
+
+"Then the Commander was right," she says finally, her voice quiet. "And we're out of time." She looks at each of you. "I'll quarantine the northern claims immediately. I'll send word to Wardstone Abbey — they need to know what's happening here. And I'll secure proper containment materials from the Gatekeepers, if they'll listen."
+
+She pushes a heavy purse across the table — 300 gold pieces in salvageable dwarven ceremonial goods, payment for the expedition. "But this isn't over, is it? You reactivated the Giant containment, but it's only holding back what's already reached that level. Whatever's deeper..."
+
+She trails off, then looks at the radiation survey notes. "These mention a Cold Forge deeper in the dwarven layer. A landmark. The notes say its fires went out centuries ago when the fuel source was cut off." She meets your eyes. "If you're going back down, that's your next objective. Reignite the Cold Forge. Make the dwarven layer operational again. Because if the Giants' containment is our last line of defense, we need the dwarven filter working in front of it."
+
+**What do you do?** You've survived the leaking crypt, contained the immediate breach, and returned with critical evidence. But the deeper problem remains. The Cold Forge awaits deeper in the dwarven layer. Reyna has given you your next objective, but also a warning: the Gatekeepers and Wardstone Wardens need to be informed. And you need proper rest, proper medical care for the contamination exposure, and time to study what you've learned.
+
+Do you immediately begin preparations for the descent to the Cold Forge? Do you take time to recover and research the dreamstone fragment and radiation notes? Or do you prioritize warning the larger organizations that the containment is failing?
+
+---
+
+**SESSION 1 ENDS HERE**
+
+**Adventure Goal Achieved:** Located the source of the corruption leak in the upper Dwarven Layer. Contained it. Survived first direct exposure to the Anomaly's influence.
+
+**Milestone:** The party advances to Level 7.
+
+**Key Items Gained:** - Dreamstone Fragment — crystallized dreamstone ore, palm-sized, wrapped in lead - Dwarven Radiation Survey Notes — partial map of upper Delve, identifies Cold Forge - 300 gp in salvageable dwarven ceremonial goods
+
+**Next Adventure Hook:** The Cold Forge deeper in the dwarven layer needs to be reignited to restore the dwarven filtration system. The radiation notes provide a partial map and mention the forge's fires went out when the fuel source was cut off centuries ago.
+
+[Session] DM declared session end at exchange 11/20. Breaking loop early.
+
+============================================================ SESSION 6 WRAP-UP ============================================================
+
+[System] Updating campaign state... [Wiki Keeper] Extracting entities... [Wiki] ↻ Reyna Steelforge.md (updated) [Wiki] ↻ Grimhold.md (updated) [Wiki] ↻ Prospectors' Guild.md (updated) [Wiki] ↻ Starmetal Hills.md (updated) [Wiki] ↻ Asymmetrical Mountain.md (updated) [Wiki] ✓ Dwarven Layer.md (created) [Wiki] ✓ Hall of the Giants.md (created) [Wiki] ✓ Kazad-Khrom.md (created) [Wiki] ✓ Dreamstone.md (created) [Wiki] ✓ Cold Forge.md (created) [Wiki] ↻ The Sleeper.md (updated) [Wiki] ✓ Wardstone Abbey.md (created) [Wiki] ✓ The Gatekeepers.md (created)
+
+[Wiki] 13 file(s) written to output/wiki/
+
+[Scribe] Writing session narrative... [Scribe] Blog saved to C:\Users\maxry\Desktop\AI DND\output\sessions\session_06.md
+
+[Editor] Fact-checking... [Editor] 7 content invention flag(s): ⚠ The adventure file describes the dwarven echoes as preserved bodies that replay memories and fight mechanically. The session invented a 'coalesced consciousness' entity formed from black fluid that absorbs echoes, has emergent intelligence, and hungers for the party. ⚠ The adventure file describes a combat encounter with 4 echoes (captain + 3 soldiers) that must be fought while sealing a crack. The session replaced this with a non-combat entity that is repelled by activating a harmonic field in the Hall of Giants. ⚠ The adventure file describes the Sleeper as a distant entity whose influence is monitored. The session gave it direct, conscious manifestation as a physical entity that knows the party and is 'hungry'. ⚠ The adventure file describes a specific multi-step process to seal the crack using materials from the mausoleum. The session invented a different containment method using discordant explosives and harmonic resonance fields. ⚠ The adventure file states the Hall of the Giants is where the descent begins. The session invented that it contains an active harmonic dampening chamber with runes that can be reactivated to repel entities. ⚠ The adventure file does not mention 'Wardstone Abbey' or 'The Gatekeepers' as factions to be notified. These are invented organizations. ⚠ The adventure file describes the dwarven containment as a 'sandwich' of materials. The session invented detailed metaphysical systems: 'harmonic resonance', 'resonant excavation', 'coalesced consciousness', and 'mineral telekinesis'. [Editor] 5 missing content flag(s): ✗ The adventure prescribes a combat encounter: 'The Mausoleum Guard' with 4 echoes (captain + 3 soldiers) that must be fought. This combat did not occur as described; it was replaced with a different threat. ✗ The adventure prescribes a specific multi-step process for Cora to seal the crack (clear debris, apply sealant, compress with clamp). This process was not followed. ✗ The adventure states the party should retrieve the 'Captain's Ceremonial War-Pick' as a +1 weapon. This item was left behind in the session. ✗ The adventure states the party should consult 'Warden Aldric' before/after the descent. This NPC did not appear. ✗ The adventure describes the echoes as having specific stat blocks, vulnerabilities (radiant), and combat behaviors. These mechanical details were not used. [Editor] 7 session report correction(s): -> corrected: 'The corridor ended at a door sealed with half-inch lead plates riveted...' -> corrected: 'Fourteen stone niches in the chamber beyond. Fourteen perfectly preser...' -> text not found (skipped): 'The black fluid flowed and reformed, taking shape—not a humanoid form,...' -> corrected: 'We triggered discordant explosives—not to damage the entity, but to di...' -> corrected: 'But in the [[Hall of the Giants]], something changed. The Giant archit...' -> corrected: 'Garrick struck acoustic nodes in the floor with precise blows, activat...' -> corrected: 'In the humming glow of the reactivated Giant containment field, we col...' [Editor] Wiki entries checked — no factual corrections needed. [Editor] Review saved to: session_06_editor_review.md [Lorekeeper] Consistency pass... [Lorekeeper] Session report checked — no name corrections needed. [Lorekeeper] Upgraded 10 wiki entry/entries to encyclopedic format. [Lorekeeper] Added to canonical record: Torvan Deepwatch [Lorekeeper] Review saved to: session_06_lore_review.md
+
+============================================================ ADVENTURE COMPLETE! Adventure 6 finished. Swapping to Adventure 7: The Cold Forge File: adventure_07_the_cold_forge.md --- LEVEL UP --- Cora Flint: Level 6 → 7 | HP: 52 | New features: Flash of Genius (reaction: add INT mod to ability check or save within 30ft, INT uses/LR) | New spells: Aid Garrick Kade: Level 6 → 7 | HP: 67 | New features: Runic Shield (reaction: force reroll of attack roll against ally within 60ft, prof uses/LR) | Note: 3 runes known. Professor Thaddeus Mercer: Level 6 → 7 | HP: 37 | New spells: Polymorph, Banishment ============================================================
+
+[Summary] Generating adventure 6 summary... [Summary] Adventure 6 summary saved. [Summary] Condensing story summary (126 words, 6 adventures → ~200 words)... [Summary] Condensed: 126 → 203 words. [Quests] Cleaning quest list (4 entries)... [Quests] Cleaned: 4 → 3 quests. [Lorekeeper] Running end-of-adventure wiki editorial pass...
+
+[Lorekeeper] Processing 51 wiki entries in batches...
+
+[Lorekeeper] Batch 1/3 (25 entries)... [Lorekeeper] Batch 1: 25 updated, 0 marked for deletion. [Lorekeeper] Batch 2/3 (25 entries)... [Lorekeeper] Batch 2: 25 updated, 0 marked for deletion. [Lorekeeper] Batch 3/3 (1 entries)... [Lorekeeper] Batch 3: 1 updated, 0 marked for deletion. [Lorekeeper] Running cross-batch dedup pass... [Lorekeeper] Dedup pass: no duplicates found. [Lorekeeper] End-of-adventure editorial pass complete.

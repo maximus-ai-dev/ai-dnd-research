@@ -1,0 +1,4 @@
+The **Giants** are an ancient, massive race of beings who constructed the foundational containment architecture deep beneath the [[Asymmetrical Mountain]].
+
+## Role and History
+The Giants built the deepest layers of the mountain complex, including the [[Adaptive Quarantine]] and the [[Giant Capstone]]. Their work was primarily focused on containing and studying powerful, primordial anomalies, such as the [[Dreaming Resonance]] and the [[First World Sleeper]]. Their monumental architectural scale and potent runic magic form the bedrock upon which all later civilizations built their own structures.

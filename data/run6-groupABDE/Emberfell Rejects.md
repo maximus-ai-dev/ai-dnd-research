@@ -1,0 +1,4 @@
+The **Emberfell Rejects** were a band of desperate bandits who operated in the [[Starmetal Hills]] near [[Grimhold]].
+
+## Origins and Demise
+As their name implies, the Rejects were failed criminals and exiles from the distant land of [[Emberfell]]. Under the leadership of [[Kregg]], they raided frontier settlements and established a fortified position at a ruined watchtower on the [[Asymmetrical Mountain]]. The group was subsequently defeated, with surviving members integrating into other workforces. They represent a past chapter of frontier lawlessness that was resolved prior to the mountain's transformation into a guarded citadel.

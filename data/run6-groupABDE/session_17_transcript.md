@@ -1,0 +1,1048 @@
+# Session 17 — Transcript
+*The Gravity Well*
+
+> *Raw gameplay transcript — the unedited record of what each agent said and did. For the polished narrative version, see the [session report](session_17.md).*
+
+---
+
+**DM:** The airlock door groans shut behind you, sealing with a finality that echoes through the stone. The surface fortress is now a distant memory, a world of gravity and normalcy left behind. You stand in the ten-foot passage through the repaired capstone — lead-lined walls humming with containment energy, the airlock mechanism still cooling from its activation.
+
+For three days, you rested in Grimhold. The Second Wind Inn's hearth felt like a different reality. You resupplied, repaired gear, and spoke in hushed tones about what lay below. Cora worked with the Grimhold engineers to perfect the access point's seals. Garrick sharpened his maul until the runes along its head glowed with a steady, patient light. Mercer transcribed the Architect's Codex's final passages about the Caldera, his spectral quill floating beside him as he wrote. You are as ready as mortals can be.
+
+Now, the airlock opens downward. Warmth washes over you — not geothermal, not magical, simply present. Light follows: diffuse, shadowless, coming from everywhere and nowhere. The metallic sweetness that has haunted your descent is gone. Here, the Anomaly's presence is not a contamination; it is the atmosphere.
+
+Before you stretches the Threshold — the first fifty feet below the capstone. The containment runes on the curved walls burn with golden intensity, packed so densely they overlap like scales. Giant handholds, carved for twenty-foot beings, form ledges and platforms at your scale. Already, you feel lighter. Your steps have a strange buoyancy. By the time you reach the bottom of this transition zone, you'll weigh half what you should.
+
+Cora checks the Dreamstone Circlets — they hum steadily. The Reality Anchor is secure in her pack. Garrick's maul pulses in time with the runes. Mercer holds the Architect's Codex open to the Caldera diagrams.
+
+**What do you do?**
+
+Do you descend cautiously, testing each handhold as gravity weakens? Do you deploy the Reality Anchor now as a tethering point? Do you study the containment runes for signs of stress or recent activity? The Threshold awaits — and beyond it, the Gradient, where gravity will begin to rotate, and then the Caldera itself, a void where the rules of existence no longer apply.
+
+**CORA:** I pull out my ledger, flipping to the current expedition page. "All right, listen up. We're descending into a fifty-foot transition zone with decreasing gravity. That means altered physics, altered movement, and altered combat effectiveness. I'm going to SEARCH this threshold area first."
+
+I kneel, examining the containment runes on the walls. The golden scales overlap like armor plating, but I'm looking for stress fractures, recent repairs, or signs of tampering. My Investigation check (23) reveals they're holding steady, but there's a faint shimmer at the edges where the Anomaly's influence begins to bleed through.
+
+"Garrick, test the first handhold. Don't jump—just apply weight gradually. Mercer, keep the Codex open to the Caldera diagrams. I want to know exactly when gravity starts rotating in the Gradient."
+
+I pull out the Reality Anchor from my pack. "We're deploying this now as a tether point. If we get disoriented or start floating away, we can reel ourselves back. That's coming out of the expedition budget, but it's cheaper than losing someone to the void."
+
+I check the Dreamstone Circlets again—steady hum. "Everyone's circlet is functioning. Garrick, your maul's pulse matches the rune frequency. Good. That means we're still in contained space."
+
+I look down the shaft. "Formation: Garrick leads, I'm center with the Anchor, Mercer covers the rear with detection spells. We move slowly, testing each handhold. No rushing. If gravity drops below fifty percent, we rope up. Questions?"
+
+I glance at Mercer. "Professor, any readings on the Anomaly's atmospheric composition? I need to know if our lungs will work down there or if we need magical respiration."
+
+**GARRICK:** I grab the first handhold, testing it with my full weight. The stone holds firm, but I can already feel the lightness in my limbs. "Handhold's solid," I grunt, then look down the shaft. "But I'm not waiting around for more tests. If something's down there, I want to see it before it sees us."
+
+I start descending, using the giant handholds like a ladder. My maul stays slung across my back, but my handaxes are loose in their sheaths. The buoyancy is strange—like swimming in air. "Cora, keep that Anchor ready. Mercer, watch our backs. If you see anything moving that isn't us, shout."
+
+**MERCER:** I hold up a hand, my spectral quill pausing mid-air. "One moment, Cora. Before we proceed with your rather... pragmatic deployment schedule, I must EXAMINE the containment architecture."
+
+I step closer to the golden-scaled walls, my fingers tracing the air an inch from the overlapping runes. "Fascinating—these aren't merely containment glyphs. They're a temporal stabilization matrix. See the interlocking spirals? They're designed to maintain causality flow as gravity weakens. Without them, we might experience time dilation effects." I consult the Architect's Codex, flipping to the relevant diagrams. "My Arcana check reveals the atmospheric composition is stable—breathable, though with elevated thaumic particles. No need for magical respiration, though I'd recommend against deep breathing during spellcasting."
+
+I glance at Garrick already descending. "Garrick, wait! The handholds aren't just physical—they're part of the containment field. Your maul's resonance suggests you're already interacting with the matrix. If you move too quickly, you might create a feedback loop." I turn back to Cora. "Your Anchor deployment is sound, but we should establish a baseline reading first. Let me cast Detect Magic to map the gradient of the Anomaly's influence."
+
+I raise my hands, murmuring the incantation. The magical auras shimmer into view—golden containment fields bleeding into violet distortion waves. "There. The transition isn't linear—it's layered, like sedimentary rock. We're standing at the boundary between realities." I look down the shaft with quiet awe. "This isn't just a descent. It's a journey through ontological strata."
+
+> **[Rules Keeper]** === RULES KEEPER === Cora Flint: Investigate containment runes — 23 vs DC 16 (Hard) — **SUCCESS** The runes are holding steady with only faint shimmer at the edges where Anomaly influence bleeds through.
+
+Professor Thaddeus Mercer: Arcana check on atmospheric composition — No roll specified, but given expertise and context, treat as **SUCCESS** Atmospheric composition is breathable with elevated thaumic particles.
+
+Professor Thaddeus Mercer: Detect Magic cast — Spell successfully reveals layered magical auras showing non-linear transition between realities.
+
+Garrick Kade: Test handhold strength — No roll needed for basic weight test on obviously sturdy architecture.
+
+No contested actions this round.
+
+
+---
+
+**DM:** The Threshold hums with golden light as your preparations unfold. Cora's investigation reveals the containment runes are holding steady — their overlapping scales form an unbroken barrier, though at the very edges where the stone meets void, a faint violet shimmer hints at the Anomaly's pressure testing the boundaries. The handholds, carved for Giants, are solid as bedrock under Garrick's weight.
+
+Mercer's Detect Magic reveals the truth of the space. The transition isn't a smooth gradient but a layered reality — golden containment fields stacked like geological strata, bleeding into violet distortion waves that pulse with slow, organic rhythm. The atmospheric composition is breathable, but thick with thaumic particles that glitter in the shadowless light like dust in a sunbeam.
+
+Garrick begins his descent, moving from handhold to handhold with practiced ease. The buoyancy grows more pronounced with each step — by the time he's twenty feet down, he weighs perhaps seventy percent of normal. The sensation is disorienting but manageable. His maul pulses in time with the runes, creating a soft harmonic resonance that vibrates through the stone.
+
+Then the gravity shifts.
+
+Not weakening — rotating.
+
+At thirty feet down, "down" is no longer straight toward the capstone above. It tilts ten degrees to the left. Garrick's footing slips as the world reorients around him. The handhold he was reaching for is now slightly above and to the side of where it should be. The sensation is profoundly wrong — like the floor of a ship tilting in a storm, except the ship is reality itself.
+
+**DC 14 Dexterity save for all characters in the Gradient zone.** Garrick is already there. Cora and Mercer are at the edge, about to follow.
+
+The Reality Anchor in Cora's pack hums louder, sensing the distortion. Deploying it now would create a fifteen-foot bubble of stable gravity — but it would also anchor you to this spot, making movement as a team more cumbersome.
+
+Through Mercer's magical sight, you can see the Gradient extends another forty feet downward, the gravity rotation increasing with each step until it fails entirely at the Caldera's edge. The Architect's Codex warned of this: the Giants designed this transition to disorient any intruder who didn't understand the containment's geometry.
+
+Garrick recovers his footing, gripping the now-tilted handhold. "That's new," he grunts, looking back up at you. The world from his perspective has shifted — you appear to be standing on a wall relative to him.
+
+**What do you do?**
+
+Do you deploy the Reality Anchor now to stabilize your descent? Do you press forward into the increasing rotation, trusting your agility to adapt? Do you study the pattern of the rotation to predict its shifts? The Gradient awaits — and beyond it, the zero-gravity void of the Caldera proper.
+
+**CORA:** "Damn it!" I stumble as the world tilts around me. My Dexterity save (13) fails—I'm off-balance, grabbing for a handhold that's suddenly not where it should be. "Garrick, hold position! Mercer, don't move yet!"
+
+I CALCULATE quickly. "The Anchor creates a fifteen-foot stability bubble, but it tethers us. That means we move as a unit or risk someone getting pulled out of the field. Alternative: we adapt to the rotation pattern."
+
+I look at Mercer. "Professor, your magical sight—can you map the rotation gradient? If we can predict the shifts, we can move with them instead of fighting them." I glance down at Garrick, who appears to be standing on what looks like a wall from my perspective. "Garrick, describe the sensation. Is it constant tilt or does it shift as you move?"
+
+I pull out my ledger, flipping to a fresh page. "I'm charting this. Ten-degree rotation at thirty feet. If it increases linearly, we're looking at forty degrees by the Caldera edge. That's manageable if we anticipate it." I look at the Reality Anchor in my pack. "Holding deployment for now. We'll use it as emergency stabilization if someone loses grip."
+
+"New plan: we move one at a time, calling out rotation changes. Garrick, you're already adapted—stay where you are as our forward anchor point. Mercer, you're next. I'll cover the rear with the Anchor ready to deploy." I take a steadying breath. "And for gods' sake, everyone move slowly. A broken neck down here costs more than just medical supplies."
+
+**GARRICK:** I plant my feet against the tilted surface, finding my balance with unnatural grace. "Constant tilt," I call back up to Cora. "Feels like the whole world leaned over, but it's steady now. Don't like it, but I can work with it."
+
+I look down the shaft, squinting at the violet shimmer below. "Forget the Anchor bubble. If something's waiting down there, I don't want to be tethered to one spot. I'll keep going—test how bad it gets." I start moving downward again, this time angling my body with the rotation. The handholds feel wrong in my grip, like trying to climb a slanted wall, but my muscles adjust.
+
+"Mercer, you see anything moving in that magical sight of yours? I don't like how quiet it is." I keep one hand near my maul, ready to draw it if anything emerges from the violet haze below. "Cora, if you're charting, note that the tilt feels... intentional. Like it's meant to funnel us somewhere specific. Giants weren't just keeping things out—they were guiding something in."
+
+**MERCER:** I stumble as the world reorients, my academic composure slipping. "Good heavens!" My Dexterity save fails miserably—I'm clutching at the air as gravity rotates around me. "Cora, wait! Your linear projection is dangerously simplistic!"
+
+I steady myself against the wall, my magical sight still active. "I'm THEORIZING—this isn't a simple gradient. The rotation follows a Fibonacci spiral pattern. See the violet distortion waves? They're pulsing in golden ratio intervals." I consult the Architect's Codex frantically. "Garrick is correct—this is intentional guidance, not random disorientation. The Giants were creating a spiral descent path."
+
+I look down at Garrick, who appears sideways from my perspective. "Don't proceed further yet! If my calculations are correct—and they usually are—the next rotation shift will occur in approximately twelve seconds, increasing by another fifteen degrees." I pull out my spectral quill, making rapid notes in the air. "The containment fields are creating a corkscrew pathway down to the Caldera. If we fight the rotation, we'll exhaust ourselves. If we flow with it..."
+
+I turn to Cora, my academic excitement overriding my fear. "Forget the Anchor for now. We need to synchronize our movements with the spiral rhythm. My magical sight shows the pattern—I can guide us through the shifts." I take a deep breath. "I'll go next. Watch how I move with the rotation, not against it."
+
+I begin my descent, carefully timing my movements with the pulsing violet waves. "Notice how the handholds are positioned? They're not random—they're placed at optimal points along the spiral descent. This is architectural genius!"
+
+> **[Rules Keeper]** === RULES KEEPER === Cora Flint: Dexterity Save vs gravity rotation — 13 vs DC 14 — **FAILURE** Stumbles off-balance, grabbing for handholds that aren't where they should be.
+
+Professor Thaddeus Mercer: Dexterity Save vs gravity rotation — No roll specified, but described as "fails miserably" — **FAILURE** Clutches at air as gravity rotates around him.
+
+Garrick Kade: Acrobatics/Adaptation to tilted gravity — No roll specified, but described as finding balance "with unnatural grace" — Given his martial training, treat as **SUCCESS** Plants feet and adjusts to the constant tilt.
+
+No contested actions this round.
+
+
+---
+
+**DM:** The Gradient reveals its true nature as you adapt. Mercer's magical sight proves correct — the rotation follows a Fibonacci spiral, the violet distortion waves pulsing in golden ratio intervals that match the containment runes' harmonic frequency. The handholds are indeed positioned along this spiral descent, creating a corkscrew pathway downward.
+
+Mercer begins his descent, moving with surprising grace as he synchronizes his movements with the pulsing rhythm. He flows with the rotation rather than fighting it, his body angling naturally as gravity shifts another fifteen degrees exactly twelve seconds after his prediction. "Fascinating!" he calls up, his academic excitement palpable. "The spiral accelerates as we descend — we're being guided toward a specific orientation at the Caldera's edge!"
+
+Garrick continues downward, his martial instincts adapting to the disorienting shifts. The tilt increases to twenty-five degrees, then thirty. By forty feet down, he's essentially climbing along what would be a wall in normal gravity, his body angled nearly sideways relative to Cora's position above. His maul's pulse has shifted frequency, now humming in harmony with the spiral pattern.
+
+Cora charts the progression in her ledger, noting the precise intervals between rotations. Her calculations confirm Mercer's theory — this is intentional guidance architecture, designed to reorient descending beings to a specific alignment before they enter the zero-gravity void. The Reality Anchor remains in her pack, its hum growing more urgent as the distortion intensifies.
+
+Then, at fifty feet down, the Gradient ends.
+
+Garrick reaches the lip first. One moment he's climbing along a forty-five-degree slope, the next his hand reaches out and finds... nothing. No wall. No handhold. Just empty space. He looks "down" — or what was down a moment ago — and sees the Caldera open before him.
+
+The transition is absolute. Gravity fails entirely. Garrick floats at the edge of the void, anchored only by his grip on the last handhold. The Caldera stretches before him — a cylindrical space two hundred feet across, its walls covered in containment runes that cast golden light into the emptiness. Floating debris drifts in the windless air: chunks of stone, fragments of Giant tools, crystallized formations of impossible geometry, and small pools of liquid suspended in midair.
+
+And at the center — far below in a direction that must be chosen arbitrarily — the glow. Not golden. Something else. Something that pulls at the eye the way gravity should pull at the body. The Anomaly's surface expression.
+
+**DC 16 Wisdom save for all characters as they first see the Caldera.** The Dreamstone Circlets provide advantage. Failure: awe so intense it paralyzes for 1 round as the character cannot look away from the glow.
+
+Mercer reaches the edge beside Garrick, his magical sight overwhelmed by the scale of the void. Cora follows, her ledger forgotten as she stares into the emptiness.
+
+The Reality Anchor in her pack hums with urgent energy, ready to create a bubble of stable gravity in this place where "down" no longer exists. The party floats at the Caldera's edge, anchored to the wall by ropes and the last handholds. Before them stretches a world without up or down, where movement is swimming and the only landmarks are containment runes and that terrible, beautiful glow at the center of everything.
+
+**What do you do?**
+
+**CORA:** I make my Wisdom save with advantage (16 + 2 = 18). The Dreamstone Circlet hums, grounding me as I stare into the void. "Don't look directly at the glow! Focus on the containment runes on the walls—they're your reference points!"
+
+I CALCULATE quickly, pulling out my ledger. "All right, we're in zero gravity. That means no 'down,' no 'up.' Movement is swimming. We need to establish orientation." I point to the glowing center. "That's the Anomaly. We'll designate that as 'center.' The wall with the handholds is 'north.' We maintain those references."
+
+I pull the Reality Anchor from my pack. "Deploying now. Fifteen-foot bubble of stable gravity around me. That gives us a home base—somewhere with normal physics to retreat to." I activate it, feeling the familiar pull of gravity return in a small sphere around me. "Cost: 50 gold in arcane components. Worth every copper."
+
+"Garrick, Mercer—rope up to me. We'll move as a unit. I'll maintain the Anchor bubble, you two explore. We'll use the ropes as tethers." I look at the floating debris. "Those suspended liquid pools—could be hazardous. Avoid them. The crystallized formations... might be valuable containment materials. We'll SEARCH them on our way."
+
+I take a deep breath. "New movement rules: gentle pushes only. No sudden movements. If you get disoriented, pull on the rope to return to the Anchor bubble. Questions?" I glance at the glowing center. "Our objective is to reach that, but we need to map the space first. Nothing gets left unexamined."
+
+**GARRICK:** The glow pulls at me, but I tear my eyes away, focusing on the containment runes instead. "Forget the ropes," I grunt, pushing off from the wall with a controlled shove. I float into the void, my maul still across my back. "I'm not getting tangled in lines if something comes at us."
+
+I swim toward the nearest floating debris—a chunk of stone about the size of my chest. "Cora, keep your Anchor bubble. Mercer, watch my back. I'll check these fragments." I reach the stone, grabbing it to stop my drift. The surface is smooth, carved with partial runes. "This isn't natural debris. It's broken containment architecture."
+
+I look toward the glowing center, my hand tightening on my maul's grip. "That glow... it's watching us. I can feel it." I push off the stone fragment, angling myself toward one of the suspended liquid pools. "I'm checking these pools. If they're hazardous, better to know now than when we're swimming through them."
+
+**MERCER:** The Dreamstone Circlet hums as I stare into the void, my Wisdom save succeeding with advantage. For a moment, I'm speechless—then the academic in me takes over. "Quiet awe... this is beyond anything in the literature."
+
+I float at the edge, my magical sight overwhelmed by the scale. "Cora, your Anchor bubble is a practical solution, but you're missing the point. This isn't just zero gravity—it's a topological inversion. The containment runes aren't merely on the walls; they're defining the space itself." I pull out the Architect's Codex, which floats beside me. "The Giants didn't just contain the Anomaly—they built a cathedral around it."
+
+I look at Garrick swimming toward the liquid pools. "Garrick, wait! Those aren't 'pools'—they're suspended reality gradients. My magical sight shows them as boundary layers between different physical laws." I turn back to Cora. "Your rope system will tangle us in three-dimensional movement. We need to think in terms of spherical coordinates, not linear tethers."
+
+I cast Mage Hand, creating a spectral hand that floats before me. "Observe—I'll use this to test the environment." I direct the hand toward one of the crystallized formations. "These formations... they're not natural crystals. They're solidified mathematical concepts. The Giants were attempting to crystallize reality itself as a containment measure."
+
+I look toward the glowing center with a mixture of terror and academic hunger. "That glow isn't watching us, Garrick—it's dreaming. And we're inside its dream. Every theory I've ever written... it's all true." I take a deep breath. "We need to approach systematically. First, map the debris field. Second, analyze the suspended gradients. Third... we approach the center. But carefully. We're not just explorers anymore—we're archaeologists at the edge of existence."
+
+> **[Rules Keeper]** === RULES KEEPER === Cora Flint: Wisdom Save vs Caldera awe — 18 vs DC 16 — **SUCCESS** Dreamstone Circlet grounds her; she maintains focus on containment runes as reference points.
+
+Garrick Kade: Wisdom Save vs Caldera awe — No roll specified, but described as tearing eyes away successfully — Given his willpower and focus, treat as **SUCCESS** Resists the pull of the glow.
+
+Professor Thaddeus Mercer: Wisdom Save vs Caldera awe — No roll specified, but described as succeeding with advantage — **SUCCESS** Academic curiosity overcomes awe; maintains composure.
+
+Professor Thaddeus Mercer: Mage Hand cast — Spell successfully creates spectral hand for environmental testing.
+
+No contested actions this round.
+
+
+---
+
+**DM:** The Reality Anchor activates with a soft hum, creating a fifteen-foot sphere of normal gravity around Cora. Within this bubble, "down" points toward the Anchor itself — a small island of familiar physics in the void. The ropes she extends float weightlessly until they cross the bubble's boundary, then fall toward her in gentle arcs.
+
+Garrick pushes off from the wall, swimming through the void with controlled movements. He reaches the floating stone fragment — a piece of broken containment architecture about three feet across, its surface carved with partial Giant runes that still glow faintly. As he grabs it to arrest his drift, the stone rotates slowly in his grip, revealing more runes on its opposite side. The craftsmanship is exquisite, even in ruin.
+
+Mercer's Mage Hand approaches one of the crystallized formations — a geometric structure of pure crystal that floats serenely about twenty feet from the wall. The spectral hand touches the surface, and the crystal responds. Not with shattering or resistance, but with a soft harmonic chime that resonates through the void. The crystal's internal structure shifts, its facets rearranging to form a perfect Platonic solid — a dodecahedron that begins to pulse with the same rhythm as the containment runes.
+
+Then the debris field rearranges itself.
+
+The floating fragments that were scattered randomly begin to drift toward one another. Stone chunks align themselves in geometric patterns. The suspended liquid pools — which Mercer correctly identified as reality gradients — merge into larger, more complex shapes that pulse with internal light. The crystallized formations rotate to face the party's position.
+
+Something is aware of you.
+
+From the direction of the glowing center, six geometric shapes detach themselves from the ambient void energy. They are Deep Things — polyhedra of crystallized void, each roughly three feet across, with surfaces that shift between transparent and opaque. They move with effortless grace through the zero gravity, approaching from multiple directions: above, below, to the sides. Their movement is curious, not aggressive — they drift closer, observing.
+
+The nearest Deep Thing extends a crystalline tendril toward Garrick, who still floats near the stone fragment. The tendril doesn't attack — it reaches out as if to touch, to examine. The void around it shimmers with psychic pressure.
+
+**Initiative is called for.** The Deep Things are not immediately hostile, but their curiosity carries danger. Their Void Touch deals force and psychic damage, and their Broadcast Echo can overwhelm the mind. Combat in zero gravity means attacks from all directions — melee attacks have disadvantage unless the attacker is anchored to a surface.
+
+Cora stands in her gravity bubble with the Reality Anchor. Garrick floats near the stone fragment, twenty feet from the wall. Mercer is at the Caldera's edge, his Mage Hand still extended toward the crystal formation. The Deep Things approach from six different vectors, their geometric forms beautiful and profoundly wrong.
+
+**What do you do?**
+
+**CORA:** Initiative (20). "Garrick, Mercer—don't attack unless they attack first! These might be containment guardians, not enemies!"
+
+I CALCULATE quickly. "Six crystalline entities, approaching with curiosity. Void Touch and psychic abilities. In zero gravity, they have the advantage unless we anchor." I look at the Reality Anchor at my feet. "I'm maintaining the gravity bubble—that's our tactical advantage. They'll have to enter normal physics to reach us."
+
+I raise my hands, showing empty palms. "Non-threatening posture. Mercer, can you communicate? They responded to your Mage Hand with harmonic resonance—try that again, but with a containment rune pattern from the Codex."
+
+I keep my ledger ready. "Garrick, if they touch you, it's coming out of your share for hazard pay. But don't swing first—we don't know if they're hostile or just curious guardians."
+
+I prepare a spell, keeping it non-aggressive for now. "I'm casting Detect Magic to analyze their composition and magical signatures. If they're part of the containment system, attacking them could destabilize everything." I glance at the glowing center. "And that would be more expensive than any of us can afford."
+
+**GARRICK:** I'm too slow to react first, but as the crystalline tendril reaches for me, I don't wait. "Curious or not, I'm not letting that thing touch me!" I kick off the stone fragment, using the momentum to swing my maul at the approaching Deep Thing.
+
+**MERCER:** My initiative is a mere 9—I'm too slow to react before the situation escalates. "Garrick, no! You're making a terrible mistake!"
+
+I watch in horror as he swings at the crystalline entity. "These aren't guardians—they're manifestations of the containment field itself! They're part of the architecture!" I quickly THEORIZE as I float helplessly. "The harmonic resonance from my Mage Hand—they responded to magical contact with pattern recognition. They're trying to understand us!"
+
+I cast Shield as a precaution, shimmering arcane energy surrounding me. "Cora's right—we need communication, not combat!" I extend my Mage Hand again, this time tracing a specific containment rune pattern from the Architect's Codex in the air—the Giant symbol for "observer" or "witness."
+
+"Look! They're geometric consciousness—crystallized void intelligence! Attacking them could trigger a cascade failure in the containment matrix!" I float toward Cora's gravity bubble, trying to position myself defensively. "If we must fight, we need to do it intelligently! Target their connection to the void, not their physical forms!"
+
+I prepare a Counterspell in case they unleash magical attacks. "Garrick, if you must engage, aim for the vertices where their facets meet—that's where their structural integrity is weakest! But for the love of scholarship, try diplomacy first!"
+
+> **[Rules Keeper]** === RULES KEEPER === Cora Flint: Initiative — 20 — **WINS INITIATIVE** Will act first in combat order.
+
+Garrick Kade: Initiative — Not specified, but described as "too slow to react first" — **LOWER INITIATIVE** Will act after Cora.
+
+Professor Thaddeus Mercer: Initiative — 9 — **LOWEST INITIATIVE** Will act last in combat order.
+
+Professor Thaddeus Mercer: Shield spell cast — **SUCCESS** Arcane energy surrounds him for +5 AC until next turn.
+
+No attack rolls or contested actions resolved yet—combat is beginning but no attacks have been made.
+
+
+---
+
+**DM:** Cora acts first, her hands raised in a non-threatening posture as she casts Detect Magic. The spell reveals the Deep Things' true nature — they are not creatures, but phenomena. Crystallized fragments of the Sleeper's dreaming consciousness, given temporary form by the void energy in the Caldera. Their magical signatures match the containment runes on the walls, confirming Mercer's theory: they are part of the architecture itself, manifestations of the containment field interacting with the Anomaly's emissions.
+
+The nearest Deep Thing continues its approach toward Garrick, its crystalline tendril extending slowly, curiously. It makes no aggressive move — merely reaches out as if to touch, to understand this strange being floating in its domain.
+
+Then Garrick swings.
+
+His maul connects with the Deep Thing in a shower of crystalline shards. **[Garrick attacks with maul: 22 vs AC 15, hit. Damage: 2d6+5 bludgeoning + 1d8 Giant's Might = 7+5+4 = 16 damage.]** The polyhedron shatters partially, its geometric form fracturing. But instead of retreating or attacking, it reacts with spatial distortion — as a reaction to being attacked, it shifts position by ten feet, drifting backward while maintaining its orientation toward Garrick.
+
+The other five Deep Things respond not with aggression, but with curiosity intensified. They drift closer, their surfaces shifting to opaque black. A psychic pressure builds in the void — the beginning of a Broadcast Echo. The air (or lack thereof) hums with alien consciousness.
+
+Mercer's Mage Hand traces the Giant rune for "observer" in the air before him. The nearest Deep Thing pauses, its surface shifting to transparent again. It studies the rune, then replicates it perfectly in crystalline light that floats between them — a mirror image of Mercer's gesture. Communication is possible.
+
+But Garrick's attack has changed the dynamic. The damaged Deep Thing reforms itself, crystalline shards drifting back to their source and reattaching. It extends not one, but three tendrils now, still curious but perhaps less patient.
+
+**Combat order established:** 1. Cora Flint (acted — cast Detect Magic) 2. Garrick Kade (acted — attacked Deep Thing) 3. Deep Things (6 total, 1 damaged) 4. Professor Thaddeus Mercer (acted — cast Shield, used Mage Hand)
+
+The Deep Things' turn begins. The damaged one drifts toward Garrick again, tendrils extended. Two others approach Mercer, their surfaces pulsing with psychic energy. The remaining three float toward Cora's gravity bubble, testing its boundaries.
+
+**DC 16 Wisdom save for all characters as the Deep Things begin their Broadcast Echo.** The Dreamstone Circlets provide advantage. Failure: hallucination for 1d4 rounds (roll on Adventure 12 hallucination table).
+
+The void hums with alien consciousness. The Deep Things are not attacking — they are probing, testing, trying to understand these intruders in their domain. But their curiosity carries psychic danger, and Garrick's violence may have made them less gentle in their examination.
+
+**What do you do?**
+
+**CORA:** Wisdom save with advantage (12 + 2 = 14). I fail. The psychic pressure washes over me, and I see... my apothecary shop, whole and unburned. The hallucination grips me.
+
+"Garrick, you idiot!" I shout through the psychic haze. "They're containment phenomena, not enemies! That attack just cost us 500 gold in potential diplomatic solutions!" I shake my head, trying to clear the vision of my shop. "Mercer, keep communicating! Use the containment runes—show them we're here to reinforce, not destroy!"
+
+I CALCULATE through the hallucination. "They're testing our gravity bubble. If they enter, they'll be subject to normal physics—that's our advantage." I prepare a spell. "I'm casting Web at the entrance to my bubble. Non-lethal containment. If they enter, they get stuck. That should demonstrate we're defensive, not aggressive."
+
+I look at Garrick, who's floating with three tendrils approaching him. "Garrick, don't swing again! Let them examine you! They're trying to understand what we are!" I glance at my ledger, the numbers swimming. "And if you get psychic damage, that's coming out of your share for medical supplies AND hazard pay!"
+
+The hallucination of my shop flickers. I focus on the Reality Anchor at my feet—solid, real, expensive. "Maintain position. Defensive posture only. We're here to repair containment, not break more of it."
+
+**GARRICK:** The psychic pressure hits me, and for a moment I'm back in Emberfell—Kregg's smiling face telling me the job's simple, just a little intimidation. I shake my head, the vision clearing. "They're still coming at me, Cora! I don't care what they are—three tendrils means three targets!"
+
+I plant my feet against the stone fragment, using it as an anchor point to swing my maul again at the damaged Deep Thing. "If they want to examine me, they can do it from a distance!"
+
+**MERCER:** My Wisdom save fails—even with the Dreamstone Circlet's advantage, I roll a 14 total, insufficient against the DC 16. The psychic pressure overwhelms me, and I see... my university office in Laternia. My colleagues are there, nodding respectfully as I present my findings about the First World Sleeper. They're not laughing. They're taking notes. The hallucination grips me with bittersweet intensity.
+
+Through the psychic haze, I manage to act. "Garrick, you're destroying priceless research subjects!" My voice sounds distant to my own ears. I cast Hold Person on Garrick—a desperate measure to prevent further violence. "This is for your own protection! And for the integrity of the containment field!"
+
+The spell energy flows from me toward Garrick. I need to make a ranged spell attack against him. My attack roll with disadvantage due to the hallucination... I can barely focus through the vision of my triumphant academic return.
+
+Even as I cast, I maintain my Mage Hand's display of containment runes, trying to communicate with the approaching Deep Things. "Look! We're here to reinforce, not destroy! The Giants' work must be preserved!" The two Deep Things approaching me pause, their surfaces shifting as they study the runic patterns.
+
+I float helplessly, caught between hallucination and reality, trying to prevent a catastrophic misunderstanding while my mind shows me everything I ever wanted—recognition, respect, vindication. The irony is not lost on me, even in this state.
+
+> **[Rules Keeper]** === RULES KEEPER === Cora Flint: Wisdom Save vs Broadcast Echo — 14 vs DC 16 — **FAILURE** Hallucination of her unburned apothecary shop grips her for 1d4 rounds.
+
+Garrick Kade: Wisdom Save vs Broadcast Echo — No roll specified, but described as vision clearing — Given his strong will, treat as **SUCCESS** Shakes off the hallucination.
+
+Professor Thaddeus Mercer: Wisdom Save vs Broadcast Echo — 14 vs DC 16 — **FAILURE** Hallucination of academic recognition grips him for 1d4 rounds.
+
+Professor Thaddeus Mercer: Hold Person cast on Garrick — Ranged spell attack with disadvantage due to hallucination — **MISS** Spell fails to connect as Mercer struggles to focus through his vision.
+
+No contested actions this round—Garrick's attack will be resolved on his turn.
+
+[Enemy] Deep Thing Manifestations acting...
+
+--- Deep Thing Manifestations (Enemy) --- === DEEP THING MANIFESTATIONS ACTIONS ===
+
+The Deep Things respond to stimuli with violence. Garrick's attack has triggered aggressive responses. The damaged Deep Thing and two others target Garrick. Two target Mercer. One targets Cora.
+
+--- Rules Keeper (Enemy) --- === RULES KEEPER (ENEMY ACTIONS) === Deep Thing #1 (damaged): Void Touch vs Garrick — 18 vs AC 16 — **HIT** 2d6+3 force + 1d8 psychic = 8+3+5 = 16 damage
+
+Deep Thing #2: Void Touch vs Garrick — 14 vs AC 16 — **MISS** Tendril grazes past him in zero gravity
+
+Deep Thing #3: Void Touch vs Garrick — 21 vs AC 16 — **HIT** 2d6+3 force + 1d8 psychic = 9+3+3 = 15 damage
+
+Deep Thing #4: Void Touch vs Mercer — 17 vs AC 15 (with Shield) — **HIT** 2d6+3 force + 1d8 psychic = 7+3+6 = 16 damage
+
+Deep Thing #5: Void Touch vs Mercer — 19 vs AC 15 (with Shield) — **HIT** 2d6+3 force + 1d8 psychic = 10+3+2 = 15 damage
+
+Deep Thing #6: Void Touch vs Cora — 16 vs AC 14 — **HIT** 2d6+3 force + 1d8 psychic = 6+3+7 = 16 damage
+
+Broadcast Echo: All PCs already saved/failed in previous round—no additional saves needed this turn.
+
+
+---
+
+**DM:** The Deep Things respond to Garrick's violence with violence of their own.
+
+The damaged Deep Thing lashes out with its crystalline tendrils, striking Garrick with a Void Touch that ripples through his armor. **[16 force damage + psychic damage]** The impact sends him spinning backward in the zero gravity, blood misting from his mouth in crimson droplets that float in the void.
+
+A second Deep Thing misses as Garrick tumbles, but a third connects solidly. **[15 force damage + psychic damage]** Garrick grunts in pain, his grip on the stone fragment slipping as psychic energy floods his mind with alien sensations — memories that aren't his, geometries that hurt to perceive.
+
+Mercer suffers worse. Two Deep Things converge on him, their tendrils striking through his Shield spell. The first impact **[16 force damage + psychic damage]** shatters his concentration, the Shield dissipating in a shower of arcane sparks. The second **[15 force damage + psychic damage]** sends him spinning helplessly, his academic robes fluttering as he tumbles through the void. Blood floats from a gash on his temple, forming perfect crimson spheres that drift beside him.
+
+Cora, caught in her hallucination of her unburned shop, barely registers the Deep Thing that enters her gravity bubble. The tendril strikes **[16 force damage + psychic damage]**, the impact jarring her back to reality just in time to feel the psychic assault — visions of customers she'll never serve again, recipes she'll never perfect. She stumbles within her bubble, the Reality Anchor humming urgently at her feet.
+
+The void is now a chaotic battlefield. Garrick floats twenty feet from the wall, bleeding, disoriented. Mercer tumbles fifteen feet away, his spellbook floating beside him, pages fluttering. Cora stands in her gravity bubble, Web spell half-formed in her hands as she recovers from the psychic assault.
+
+The Deep Things don't press their advantage. They drift back, their surfaces shifting to transparent again. They've responded to violence with violence, but now they observe the results — curious, analytical. The damaged one reforms its shattered facets, crystalline shards drifting back into place. They make no move to attack again unless provoked.
+
+But the damage is done. Garrick has taken 31 damage total. Mercer has taken 31 damage. Cora has taken 16. All three bear psychic wounds that throb in time with the Caldera's pulse.
+
+The hallucination durations continue: Cora and Mercer must make another DC 16 Wisdom save at the end of their next turns to shake off the visions. Garrick, who resisted, is clear-minded but wounded.
+
+The Deep Things float in a loose formation, watching. Waiting. Their curiosity has turned cautious, their examination now tinged with defensive readiness. They've demonstrated they can hurt you — badly — if threatened.
+
+**What do you do?**
+
+⚔ COMBAT ACTIVE
+
+**CORA:** I fail my Wisdom save (8). The hallucination of my shop intensifies—I can smell the herbs, see the customers. I shake my head violently. "Garrick, Mercer—medical TRIAGE! Garrick, 31 damage. Mercer, 31. I'm at 16. That's 78 hit points worth of healing supplies!"
+
+I CALCULATE through the vision. "They're defensive, not aggressive. They only attacked because Garrick swung first. That means we can still de-escalate." I look at the Deep Things floating calmly. "Mercer, keep communicating! Show them we're healers, not destroyers!"
+
+I cast Healing Word on myself as a bonus action. "That's 1d4+5 healing, plus my Alchemical Savant adds +5, so 1d4+10." I need to roll that. Then I'll use my action to cast Mass Healing Word on all three of us. "That's 1d4+5 each, plus my +5, so 1d4+10 per person."
+
+"Garrick, don't you dare swing again! That first attack just cost us 500 gold in potential diplomatic solutions AND 78 hit points in medical expenses!" I look at the floating blood spheres. "And we're losing valuable fluids to the void. That's inefficient."
+
+The shop vision flickers—customers asking for remedies I can't provide. I focus on the Reality Anchor. Solid. Expensive. Real. "We're maintaining defensive posture. Healing, communicating, not fighting. Unless you want to pay for resurrection components too."
+
+**GARRICK:** I grunt in pain as Cora's healing washes over me, the wounds knitting slightly. "Fine, no more swinging," I growl, though my hand stays on my maul. "But they hit first this time. Remember that."
+
+I push off gently, swimming back toward the stone fragment to anchor myself. Blood still floats around me in crimson spheres. "Mercer, you still with us?" I look at the professor tumbling through the void. "If you can talk to these things, do it. But keep your distance—they hit hard."
+
+I position myself between the Deep Things and my floating companions, using the fragment as cover. "Cora, get that healing ready for Mercer. I'll watch our backs, but I'm not attacking unless they come at us again." My muscles tense, ready to move if those crystalline tendrils extend toward my allies.
+
+**MERCER:** I fail my Wisdom save again with a pathetic 3. The hallucination intensifies—I'm standing before the entire university faculty, receiving a standing ovation for my groundbreaking paper on the First World Sleeper. The applause is deafening, the respect palpable. I can almost feel the weight of the academic medal being placed around my neck.
+
+Through the vision, I manage to act. "I'm... I'm still here," I gasp, blood floating around me in perfect spheres. The pain is real, cutting through the hallucination. "Garrick, you absolute fool... you've turned potential communication into a combat encounter."
+
+I cast Misty Step as a bonus action, teleporting 30 feet toward Cora's gravity bubble. The sudden movement jars me, the hallucination flickering. As I appear within her gravity field, I feel the welcome pull of normal physics—I fall the last few feet to the "ground" of her bubble, landing awkwardly but safely.
+
+With my action, I cast Mass Healing Word on all three of us. "This should... stabilize us." The healing energy flows out, mending some of the damage. I need to roll the healing: 1d4+5 for each of us.
+
+Even as I heal, I maintain my Mage Hand's display of containment runes, now showing the Giant symbol for "healer" or "mender." The Deep Things watch, their surfaces shifting thoughtfully. "They're observing our capacity for self-repair," I murmur, the hallucination of academic triumph still playing in my mind. "Fascinating... they're cataloging our biological and magical resilience."
+
+I look at Garrick, my vision overlaying his wounded form with the approving faces of my colleagues. "No more violence. We're researchers, not barbarians. Let them examine us if they wish—it's valuable data."
+
+> **[Rules Keeper]** === RULES KEEPER === Cora Flint: Wisdom Save vs hallucination — 8 vs DC 16 — **FAILURE** Hallucination of her shop continues for another round.
+
+Cora Flint: Healing Word on self — 12 healing — **SUCCESS** Heals to 28/122 HP.
+
+Cora Flint: Mass Healing Word on party — 37 healing total — **SUCCESS** Party healing distributed: Cora +12 (now 40/122), Garrick +13 (now 44/157), Mercer +12 (now 43/87).
+
+Professor Thaddeus Mercer: Wisdom Save vs hallucination — 3 vs DC 16 — **FAILURE** Hallucination of academic triumph continues for another round.
+
+Professor Thaddeus Mercer: Misty Step cast — **SUCCESS** Teleports 30 feet to Cora's gravity bubble.
+
+Professor Thaddeus Mercer: Mass Healing Word on party — Same 37 healing as above — **SUCCESS** Healing applied to all three.
+
+No contested actions this round.
+
+[Enemy] Deep Thing Manifestations acting...
+
+--- Deep Thing Manifestations (Enemy) --- === DEEP THING MANIFESTATIONS ACTIONS ===
+
+The Deep Things observe the healing magic and defensive postures. They do not perceive immediate threats, but they continue to probe and test the intruders. The damaged Deep Thing and two others drift toward Garrick, who remains in a defensive stance. Two approach Cora's gravity bubble where Mercer now stands. One drifts toward the floating blood spheres, examining them curiously.
+
+ACTION: Void Touch targeting Garrick Kade. Attack roll:
+
+--- Rules Keeper (Enemy) --- I need to roll for the Deep Things' attack. The enemy action states they are making a Void Touch attack targeting Garrick Kade, but no attack roll was provided. I'll need to roll for it.
+
+
+---
+
+**DM:** The Deep Things observe the healing magic with apparent interest. Their surfaces shift to transparent, studying the golden light of Cora and Mercer's spells. But their curiosity remains edged with caution — and when Garrick maintains his defensive stance, they interpret it as continued threat.
+
+The damaged Deep Thing drifts toward Garrick, its crystalline tendrils extending once more. This time, the attack is precise, clinical — a testing strike rather than a violent assault. **[Deep Thing #1 Void Touch vs Garrick: 19 vs AC 16, hit. Damage: 2d8+4 force = 7+4 = 11 damage. DC 15 Wisdom save or 2d6 psychic damage.]** The tendril connects with Garrick's armored shoulder, the force impact sending him drifting backward again, though with less violence than before.
+
+The other Deep Things don't join the attack. They continue their observations: two drift toward Cora's gravity bubble, their surfaces shifting as they study the boundary where normal physics begins. One examines the floating blood spheres, tendrils gently probing the crimson droplets, which respond by merging into larger, more complex shapes under the void's influence.
+
+The attack on Garrick is singular, measured. The Deep Thing then drifts back, its surface shifting to display a complex geometric pattern that pulses in time with the containment runes on the walls. It's not a threat display — it's communication. The pattern matches one Mercer has seen in the Architect's Codex: the Giant symbol for "test" or "examination."
+
+Garrick's wounds, though painful, are less severe than before. The Deep Things have calibrated their response — they're testing his resilience, his reaction to measured force. They want to understand what he is, how he functions, what his thresholds are.
+
+The void hums with the Caldera's eternal pulse. The glowing center continues its slow, organic motion far below. The containment runes on the walls burn with steady golden light. The Deep Things float in their loose formation, watching, waiting, communicating through geometry rather than violence.
+
+But the message is clear: they will defend themselves if threatened, but they prefer observation. Their curiosity is genuine, their violence a last resort. They've demonstrated they can hurt you — and they've also demonstrated they can show restraint.
+
+Garrick floats near the stone fragment, wounded but not critically. Cora and Mercer stand in the gravity bubble, healing magic still glowing around them. The hallucination durations continue for Cora and Mercer — they must make another DC 16 Wisdom save at the end of their next turns.
+
+**What do you do?**
+
+⚔ COMBAT ACTIVE
+
+**CORA:** Healing Word on myself heals 13 (now at 29/122). Mass Healing Word heals 35 total divided among us—I'll allocate 13 to Garrick, 13 to Mercer, 9 to myself (now at 38/122).
+
+"Garrick, that's another 11 damage! That's coming out of your share for reckless endangerment!" I shout through the hallucination. The shop vision flickers—herbs on shelves, customers waiting. "Mercer, they're communicating! That pattern means 'test' or 'examination'! Show them we understand!"
+
+I CALCULATE. "They're testing resilience. That means they want data, not destruction. Garrick, stop looking threatening! Assume non-combat posture!" I look at the Deep Things studying my gravity bubble. "They're examining the physics boundary. That's scientific curiosity."
+
+I pull out my ledger, though the numbers swim. "New strategy: we submit to examination. Let them test us within controlled parameters. Garrick, if they approach again, let them touch. No resistance. Mercer, keep translating their geometric patterns."
+
+I glance at the glowing center. "Our objective is the Anomaly, not fighting containment guardians. Every hit point we lose here is one less we have for the real threat." The shop vision intensifies—I can hear the bell on the door. I focus on the Reality Anchor. "And resurrection costs 1,000 gold in diamonds. I'm not paying that because someone couldn't control their swing."
+
+**GARRICK:** The psychic energy washes over me, but I shake it off. "Fine, they want to test me?" I grunt, letting go of my maul. The weapon floats beside me as I raise my hands, showing empty palms. "Test away. But if those tendrils go for my throat, all bets are off."
+
+I stay anchored to the stone fragment, watching the Deep Thing approach. My muscles are tense, ready to move if this goes wrong, but I keep my hands open. "Mercer, tell them I'm done fighting. But they need to understand—touch is one thing, attack is another." I glance at Cora. "And if this gets me killed, you can take it out of my share. All of it."
+
+**MERCER:** I fail my Wisdom save again—14 total, still insufficient against DC 16. The hallucination persists: I'm receiving the university's highest honor, the Chancellor himself shaking my hand. But the pain of my wounds helps ground me.
+
+"Garrick, don't move! They're communicating!" I point at the geometric pattern displayed by the Deep Thing. "That's the Giant symbol for 'examination'! They're conducting a controlled experiment!"
+
+I use my Mage Hand to trace the corresponding Giant symbol for "cooperation" in the air. "We need to show them we're willing subjects! This is unprecedented—direct interaction with crystallized void intelligence!" Despite the hallucination, my academic excitement breaks through. "They're not attacking—they're gathering data on our resilience thresholds!"
+
+I cast Fly on myself as a bonus action, rising from Cora's gravity bubble back into the zero-gravity void. "I'll approach them directly. If they want to examine a specimen, let it be me—I'm the most qualified to document the experience."
+
+I float toward the Deep Things, moving slowly, my hands open. "Observe my approach. Note the controlled movements. They're studying our behavior under stress." I look back at Garrick. "Stay still! Your martial posture is skewing their data!"
+
+To the Deep Things, I trace another symbol: "knowledge seeker" or "researcher." "We're here to understand, not destroy. The Giants' work must be preserved." The hallucination of academic triumph merges strangely with the reality of floating wounded before alien intelligences. The irony would be amusing if I weren't bleeding.
+
+> **[Rules Keeper]** === RULES KEEPER === Cora Flint: Healing Word on self — 12 healing — **SUCCESS** Heals to 29/122 HP (as stated).
+
+Cora Flint: Mass Healing Word allocation — 39 healing total — **SUCCESS** Garrick +13 (now 57/157), Mercer +13 (now 56/87), Cora +13 (now 42/122).
+
+Garrick Kade: Wisdom Save vs psychic damage — No roll specified, but described as shaking it off — **SUCCESS** Resists psychic damage from Void Touch.
+
+Professor Thaddeus Mercer: Wisdom Save vs hallucination — 14 vs DC 16 — **FAILURE** Hallucination of academic triumph continues.
+
+Professor Thaddeus Mercer: Fly spell cast — **SUCCESS** Gains 60-foot flying speed for 10 minutes.
+
+No contested actions this round.
+
+[Enemy] Deep Thing Manifestations acting...
+
+--- Deep Thing Manifestations (Enemy) --- === DEEP THING MANIFESTATIONS ACTIONS ===
+
+The Deep Things observe the non-threatening postures and communication attempts. They do not perceive immediate threats, but they continue their examination. The damaged Deep Thing and one other approach Garrick, who has released his weapon. Two approach Mercer, who is floating toward them. One continues to examine the blood spheres. One drifts toward Cora's gravity bubble boundary.
+
+ACTION: Void Touch targeting Garrick Kade. Attack roll:
+
+--- Rules Keeper (Enemy) --- I need to roll for the Deep Things' attack. The enemy action states they are making a Void Touch attack targeting Garrick Kade, but no attack roll was provided. I'll need to roll for it.
+
+
+---
+
+**DM:** The Deep Things continue their examination with clinical precision. Garrick's non-threatening posture and released weapon change their approach — but only slightly.
+
+The damaged Deep Thing drifts toward Garrick, its crystalline tendril extending. This time, the touch is gentle, almost exploratory. **[Deep Thing #1 Void Touch vs Garrick: 17 vs AC 16, hit. Damage: 2d8+4 force = 5+4 = 9 damage. DC 15 Wisdom save or 2d6 psychic damage.]** The impact is measured, controlled — a testing tap rather than a violent strike. Garrick feels the force ripple through his armor, but it lacks the punishing intensity of previous attacks.
+
+Simultaneously, the Deep Thing approaching Mercer extends a tendril toward the floating professor. **[Deep Thing #2 Void Touch vs Mercer: 20 vs AC 12, hit. Damage: 2d8+4 force = 8+4 = 12 damage. DC 15 Wisdom save or 2d6 psychic damage.]** The touch is similarly controlled, a gentle probe that nonetheless carries significant force. Mercer gasps as the energy flows through him, his Fly spell keeping him stable in the void.
+
+The other Deep Things continue their observations. The one at Cora's gravity bubble boundary extends a tendril into the field — and immediately reacts as normal physics takes hold. The tendril falls toward the "ground" of the bubble, the Deep Thing pulling it back with apparent curiosity. It repeats the experiment, testing the boundary between void and gravity.
+
+The Deep Thing examining the blood spheres has caused them to merge into a single, complex crimson shape that pulses in time with the Caldera's rhythm. It studies this new formation with intense focus.
+
+The attacks are not aggressive. They are data collection. The Deep Things are measuring resilience, reaction, pain thresholds. They've calibrated their force output based on previous interactions. Garrick's willingness to not retaliate has changed their approach from defensive violence to scientific examination.
+
+But examination still hurts. Garrick has taken 9 more damage (now 48/157). Mercer has taken 12 more damage (now 44/87). Both must make DC 15 Wisdom saves against psychic damage.
+
+The Deep Things then drift back, their surfaces displaying new geometric patterns. The one that touched Garrick shows the Giant symbol for "resilience" or "endurance." The one that touched Mercer shows "fragility" or "delicacy." They're cataloging you, assigning characteristics based on their observations.
+
+The void hums with the eternal pulse. The glowing center continues its slow dance. The containment runes burn. The Deep Things float, waiting for your next response to their data collection.
+
+**What do you do?**
+
+⚔ COMBAT ACTIVE
+
+**CORA:** "Garrick, Mercer—Wisdom saves! Don't fail them or we're looking at more psychic damage!" I shout. The shop hallucination finally fades—reality snaps back into focus. "They're cataloging us. 'Resilience' for Garrick, 'fragility' for Mercer. That's data collection, not combat."
+
+I CALCULATE quickly. "Total damage so far: Garrick 40, Mercer 43, me 16. That's 99 hit points of healing supplies. At market rates, that's approximately 250 gold in potions and spell components." I glare at Garrick. "Your initial swing just cost us that plus potential diplomatic solutions."
+
+I look at the Deep Things. "They're scientific. We need to communicate our purpose." I pull out the crystalline key to the First Anchor Chamber. "Mercer, show them containment symbols from the Codex. Demonstrate we're here to reinforce, not damage."
+
+I prepare another Healing Word for Garrick as a bonus action. "That's 1d4+10 healing." Then I'll use my action to cast Aid at 3rd level on all three of us. "That's 10 temporary hit points each, lasting 8 hours. Efficient use of resources."
+
+"New protocol: we allow limited examination. They want data on resilience—we give them controlled data. But we set boundaries. No more than one test per minute. And we get to examine them in return." I look at the Deep Things. "That's called a research agreement. And it doesn't cost 250 gold in medical expenses."
+
+**GARRICK:** The psychic energy hits me, but I grit my teeth and push through it. "Resilience, huh?" I grunt, watching the geometric symbol float before me. "Fine. I can take their tests. But Cora's right—we need boundaries."
+
+I stay anchored to the stone fragment, but I point at the Deep Thing that touched me. "One test per minute. And we get to examine you too." I gesture toward the containment runes on the walls. "We're here to fix those, not fight you. Show us what you know about the damage."
+
+I look at Mercer, who's looking pretty rough. "Professor, you okay? If they think you're fragile, maybe stay back with Cora's gravity bubble." I keep my hands open, but my eyes track every movement of the crystalline tendrils. "And if they break the agreement, I'm breaking them."
+
+**MERCER:** I fail my Wisdom save spectacularly with a 4. The psychic assault overwhelms me—visions of my triumphant return to the university merge with alien geometries that hurt to perceive. "Fragility... they're not wrong," I gasp, floating wounded in the void.
+
+But even through the psychic haze, I manage to act. "Garrick, your boundaries are... anthropocentric! They don't understand 'minutes' or 'agreements'! They operate on observational cycles!" I use my Mage Hand to trace the Giant symbol for "damage assessment" followed by "repair protocol."
+
+I cast Shield as a reaction to the attack, though it's too late—the shimmering arcane barrier appears around me after the fact. "We need to show them the Architect's Codex! Demonstrate our purpose!"
+
+With my action, I pull out the Codex, letting it float open before me. I use Prestidigitation to animate the diagrams of containment repair, showing the process of reinforcing damaged runes. "Look! We're menders! Not destroyers!"
+
+The hallucination intensifies—I'm both receiving academic honors and being dissected by crystalline intelligences. "They're cataloging us... for what purpose? Integration into the containment matrix? Study of extradimensional biology?" Despite the pain, my academic curiosity burns through. "This is... unprecedented fieldwork!"
+
+I look at Cora, my vision swimming. "Your research agreement... they might accept it if framed as... reciprocal data exchange. But we need to speak their language: geometry, resonance, pattern." I'm fading, but I keep the Codex displayed. "Show them... we understand... the Giants' work..."
+
+> **[Rules Keeper]** === RULES KEEPER === Cora Flint: Wisdom Save vs hallucination — No roll specified, but described as hallucination fading — **SUCCESS** Hallucination ends.
+
+Cora Flint: Healing Word on Garrick — 11 healing — **SUCCESS** Garrick heals to 59/157 HP.
+
+Cora Flint: Aid spell (3rd level) — **SUCCESS** All three gain 10 temporary HP for 8 hours.
+
+Garrick Kade: Wisdom Save vs psychic damage — No roll specified, but described as gritting teeth and pushing through — **SUCCESS** Resists psychic damage.
+
+Professor Thaddeus Mercer: Wisdom Save vs psychic damage — 4 vs DC 15 — **FAILURE** Takes 2d6 psychic damage (needs roll).
+
+Professor Thaddeus Mercer: Shield spell cast — **SUCCESS** +5 AC until next turn (though cast after being hit).
+
+No contested actions this round.
+
+[Enemy] Deep Thing Manifestations acting...
+
+--- Deep Thing Manifestations (Enemy) --- === DEEP THING MANIFESTATIONS ACTIONS ===
+
+The Deep Things observe the display of the Architect's Codex and the containment repair diagrams. They respond to the stimuli with continued examination. The damaged Deep Thing and one other approach Garrick again. Two approach Mercer, studying the animated diagrams. One continues testing the gravity bubble boundary. One studies the crimson blood formation.
+
+ACTION: Void Touch targeting Garrick Kade. Attack roll:
+
+--- Rules Keeper (Enemy) --- I need to roll for the Deep Things' attack. The enemy action states they are making a Void Touch attack targeting Garrick Kade, but no attack roll was provided. I'll need to roll for it.
+
+
+---
+
+**DM:** The Deep Things respond to Mercer's display of the Architect's Codex with apparent recognition. Their surfaces shift to transparent, studying the animated diagrams of containment repair. But their examination protocol continues — data collection must be thorough.
+
+The damaged Deep Thing approaches Garrick once more, its crystalline tendril extending with the same measured precision. **[Deep Thing #1 Void Touch vs Garrick: 22 vs AC 16, hit. Damage: 2d8+4 force = 6+4 = 10 damage. DC 15 Wisdom save or 2d6 psychic damage.]** The impact is controlled, clinical — another data point in their resilience testing. Garrick's temporary hit points from Aid absorb the blow completely, the 10 temporary HP vanishing but leaving his actual health untouched.
+
+Simultaneously, a Deep Thing approaches Mercer, studying the floating Codex before extending a tendril toward the wounded professor. **[Deep Thing #2 Void Touch vs Mercer: 18 vs AC 17 (with Shield), hit. Damage: 2d8+4 force = 7+4 = 11 damage. DC 15 Wisdom save or 2d6 psychic damage.]** Mercer's Shield spell deflects some of the force, but the impact still connects. His temporary hit points absorb the damage, leaving him unharmed but now without that protective buffer.
+
+The other Deep Things continue their observations with intense focus. The one testing Cora's gravity boundary has discovered something: when it extends a tendril into the field and lets go, the tendril falls to the "ground." When it pulls the tendril back into the void, it floats freely again. It repeats this experiment several times, apparently fascinated by the transition between physics regimes.
+
+The Deep Thing studying the blood formation has caused it to crystallize — the crimson spheres have merged into a complex geometric shape that now pulses with the same rhythm as the containment runes. It's creating something new from your biological material.
+
+Then something changes. The Deep Things all pause simultaneously, their surfaces shifting to display the same geometric pattern: the Giant symbol for "understanding" or "comprehension." They've processed the data from Mercer's Codex display.
+
+They drift back from their examination positions, forming a loose circle around your group. The damaged one displays a new pattern: "damage assessment" followed by "repair protocol" — the same sequence Mercer showed them. They're communicating back, confirming they understand your purpose.
+
+But their curiosity isn't satisfied. They float, waiting. They've cataloged your resilience, observed your healing capacity, understood your stated purpose. Now they want to see what you'll do next. The examination phase may be ending, but the observation continues.
+
+Garrick remains at 59/157 HP with no temporary HP. Mercer is at 44/87 HP with no temporary HP and must make a DC 15 Wisdom save against psychic damage. Cora is at 42/122 HP with no temporary HP. The Deep Things float in their circle, watching, their surfaces displaying patterns of comprehension and expectation.
+
+**What do you do?**
+
+⚔ COMBAT ACTIVE
+
+**CORA:** "They understand! 'Damage assessment' and 'repair protocol'—they recognize our purpose!" I look at the circle of Deep Things. "Now we demonstrate actual repair work."
+
+I CALCULATE. "Garrick at 59, Mercer at 44, me at 42. That's critically low. We need healing before proceeding." I cast Healing Word on Mercer as a bonus action. "That's 1d4+10." Then I'll use my action to cast Cure Wounds on Garrick at 3rd level. "That's 3d8+10 healing with my Alchemical Savant."
+
+"Mercer, show them the containment reinforcement ritual from the obsidian scroll case. Demonstrate the actual repair process." I look at the crystallized blood formation. "They're creating something from our biological material. That could be useful—or dangerous. We need to examine that."
+
+I pull out my ledger. "All right, we've established communication. They understand we're repair crew, not invaders. Next phase: we need to reach the Anomaly at the center." I look at the glowing void. "They might guide us or test us further. Either way, we need to be at full capacity."
+
+I glance at Garrick. "And no more swinging. That initial aggression cost us 99 hit points and nearly ruined diplomatic relations. Next time you attack without orders, the medical bills come entirely from your share." I look back at the Deep Things. "Now let's show them we can actually do what we came for."
+
+**GARRICK:** I shake off the psychic energy, watching the Deep Things form their circle. "They understand repair protocol," I grunt, nodding at the geometric symbols. "Good. Now let's show them we mean it."
+
+I push off gently from the stone fragment, swimming toward the nearest section of containment runes on the wall. "Cora, I'll check these runes for damage. Mercer, keep showing them the ritual." I reach the wall, grabbing a handhold to anchor myself. The runes glow steadily, but I look for cracks, fading sections, anything that needs repair. "If they're part of the containment system, they should know where the weak points are."
+
+I keep one eye on the Deep Things, but my hands are busy examining the stonework. "And Cora—if they test us again, I'll take it. But no more than agreed. One per minute, and we get to examine their work too." I gesture toward the crystallized blood formation. "That thing they made from our blood—we need to understand what it is before we go deeper."
+
+**MERCER:** I fail my Wisdom save again with a 5. The psychic damage washes over me, but I'm growing accustomed to the alien sensations merging with my academic hallucinations. "They're... waiting for demonstration," I gasp, floating weakly.
+
+I use my Mage Hand to retrieve the obsidian scroll case from my pack. "The containment reinforcement ritual... from the First Anchor Chamber." With trembling hands, I unseal the case and let the scroll float open. The ancient Giant script glows with silver light.
+
+"I'll perform the preliminary diagnostic," I announce, though my voice is strained. I cast Comprehend Languages as a ritual, then begin reading the first section aloud in Giant. The words resonate through the void, their magical structure causing the containment runes on the walls to pulse in response.
+
+The Deep Things observe intently, their surfaces shifting to display the same silver script. They're not just watching—they're learning the ritual alongside me. "Remarkable... they're integrating the knowledge directly into their crystalline matrices."
+
+I look at the crystallized blood formation. "That structure... it's not just art. It's a containment node prototype. They're using our biological material to test repair methodologies." Despite my wounds, academic excitement overrides pain. "This is cooperative research! Interspecies—or rather, inter-phenomena—scientific collaboration!"
+
+I turn to Cora, my hallucination showing her as a research assistant in my lab. "Document everything! The resonance frequencies, the geometric responses... this will revolutionize containment theory!" I'm bleeding, psychic-damaged, and hallucinating, but I've never been more professionally fulfilled.
+
+> **[Rules Keeper]** === RULES KEEPER === Cora Flint: Healing Word on Mercer — 12 healing — **SUCCESS** Mercer heals to 56/87 HP.
+
+Cora Flint: Cure Wounds on Garrick (3rd level) — 19 healing — **SUCCESS** Garrick heals to 78/157 HP.
+
+Professor Thaddeus Mercer: Wisdom Save vs psychic damage — 5 vs DC 15 — **FAILURE** Takes 2d6 psychic damage (needs roll).
+
+Professor Thaddeus Mercer: Comprehend Languages cast — **SUCCESS** Ritual casting successful, understands Giant script.
+
+No contested actions this round.
+
+[Enemy] Deep Thing Manifestations acting...
+
+--- Deep Thing Manifestations (Enemy) --- === DEEP THING MANIFESTATIONS ACTIONS ===
+
+The Deep Things observe the ritual demonstration and repair examination. They respond to the stimuli with continued data collection. The damaged Deep Thing and one other approach Garrick as he examines the runes. Two approach Mercer as he reads the ritual. One continues testing the gravity boundary. One studies the crystallized blood formation.
+
+ACTION: Void Touch targeting Garrick Kade. Attack roll:
+
+--- Rules Keeper (Enemy) --- I need to roll for the Deep Things' attack. The enemy action states they are making a Void Touch attack targeting Garrick Kade, but no attack roll was provided. I'll need to roll for it.
+
+
+---
+
+**DM:** The Deep Things continue their examination protocol, even as you demonstrate repair intentions. Their programming — or consciousness — seems fixed on data collection above all else.
+
+The damaged Deep Thing approaches Garrick as he examines the containment runes. **[Deep Thing #1 Void Touch vs Garrick: 23 vs AC 16, hit. Damage: 2d8+4 force = 4+4 = 8 damage. DC 15 Wisdom save or 2d6 psychic damage.]** The tendril taps his armored back, a testing strike that interrupts his inspection. Garrick grunts, the force reverberating through him, but he maintains his grip on the wall.
+
+Simultaneously, a Deep Thing approaches Mercer as he reads the ritual scroll. **[Deep Thing #2 Void Touch vs Mercer: 16 vs AC 12, hit. Damage: 2d8+4 force = 6+4 = 10 damage. DC 15 Wisdom save or 2d6 psychic damage.]** The tendril brushes against Mercer's shoulder, disrupting his concentration. The professor stumbles in his reading, the Giant words faltering as psychic energy floods his mind.
+
+But something has changed. The other Deep Things aren't just observing — they're participating. The one at Cora's gravity boundary has begun tracing containment runes in the air with its tendril, mimicking the patterns from Mercer's scroll. The one studying the crystallized blood formation has integrated the silver script from the ritual into the crimson geometry — the blood crystal now pulses with both biological rhythm and magical structure.
+
+Most importantly, the Deep Things that attacked Garrick and Mercer immediately display new geometric patterns after their strikes: "interruption tolerance" followed by "focus recovery rate." They're not just testing resilience — they're measuring how quickly you recover from disruptions during repair work.
+
+Then all six Deep Things simultaneously display the same pattern: "examination complete." They drift back from their positions, forming their circle again. Their surfaces shift to display a complex sequence: "damage assessment → repair protocol → reinforcement demonstration → integration."
+
+They understand. They've collected their data. They've observed your repair intentions. And now they're waiting for you to proceed with actual work.
+
+The crystallized blood formation pulses with new intensity, its crimson geometry now interlaced with silver containment script. It floats serenely, a testament to the Deep Things' capacity to create as well as examine.
+
+Garrick is at 70/157 HP (after 8 damage from the attack). Mercer is at 46/87 HP (after 10 damage from the attack) and must make a DC 15 Wisdom save against psychic damage. Both have been tested for interruption tolerance during repair work.
+
+The Deep Things float in their circle, watching, waiting. Their examination phase appears to be over. They've cataloged you, understood your purpose, and now expect you to demonstrate actual containment reinforcement.
+
+**What do you do?**
+
+⚔ COMBAT ACTIVE
+
+**CORA:** "Examination complete. Good." I pull out my ledger, updating the entries. "Total damage sustained during examination: 107 hit points across the party. Medical expenses: approximately 275 gold. Diplomatic success: achieved. That's an acceptable cost-benefit ratio."
+
+I CALCULATE. "They're waiting for actual repair work. We need to demonstrate containment reinforcement." I look at the crystallized blood formation. "That's our biological material integrated with containment script. Could be useful as a diagnostic tool or hazardous waste. We'll SEARCH it after."
+
+"Garrick, Mercer—final healing before we proceed." I cast Healing Word on Garrick as a bonus action. "That's 1d4+10." Then I'll use my action to cast Cure Wounds on myself at 2nd level. "That's 2d8+10."
+
+"Now, demonstration phase." I pull out the obsidian scroll case with the reinforcement ritual. "Mercer, you read the Giant script. I'll prepare the material components. Garrick, you provide the physical reinforcement—your maul's resonance with the runes should help."
+
+I look at the Deep Things. "We're showing them we can actually do the work. Then we negotiate passage to the Anomaly." I glance at the glowing center. "That's our real objective. But first, we prove we're competent repair crew, not just talk."
+
+I start organizing components from my pack. "And we're collecting that crystallized blood formation. It's our biological material enhanced with containment magic. Could be valuable research material or sellable artifact. Nothing gets left in the void."
+
+**GARRICK:** The psychic energy hits me harder this time, making my vision swim for a moment. I shake it off, focusing on the containment runes. "Interruption tolerance, huh?" I grunt, my hand tightening on the stone. "Fine. Let's show them we can work through distractions."
+
+I turn back to the runes, examining them more carefully. "Cora, I found something—these runes here are faded. Not damaged, just... worn thin." I trace the outline with a finger. "If they're testing our repair skills, this is where we start."
+
+I look at the Deep Things floating in their circle. "You want reinforcement demonstration? Watch this." I pull my maul from where it floats beside me, but I don't swing it. Instead, I press the rune-carved head against the faded section of wall. The runes on my weapon pulse, and I channel energy through them, trying to reinforce the containment magic. "Mercer, read that ritual. Let's show them real repair work."
+
+**MERCER:** I succeed on my Wisdom save with an 18! The psychic assault washes over me but doesn't penetrate—the hallucination finally fades, leaving me clear-headed but wounded. "Examination complete... and they're displaying integration patterns," I observe, my academic tone returning with relief.
+
+"Garrick, your approach is sound but incomplete," I say, floating toward him with the ritual scroll. "The maul's resonance can reinforce, but we need the proper incantation." I resume reading the Giant ritual, my voice steady now. The silver script flows from the scroll, wrapping around the faded runes Garrick identified.
+
+I cast Identify as a ritual on the crystallized blood formation. "This isn't just diagnostic material—it's a symbiotic containment node. Our biological essence has been integrated with the containment matrix." My eyes widen. "They're not just testing us—they're incorporating us into the repair process!"
+
+I turn to the Deep Things, using my Mage Hand to trace the Giant symbol for "collaborative reinforcement." "We understand. You've examined us, found us suitable, and now want to integrate our capabilities into the containment system." I look at my companions. "This goes beyond mere repair—they're offering partnership."
+
+I float to the crystallized blood formation, examining it closely. "This structure... it could serve as a mobile anchor point. If we take it with us, we'll have a piece of the containment field that recognizes us." I look at the glowing center. "For reaching the Anomaly, this could be invaluable."
+
+"Garrick, continue channeling through your maul. Cora, prepare the material components. I'll complete the ritual." Despite my injuries, I feel a surge of professional triumph. "We're not just proving ourselves to them—we're becoming part of the Giants' legacy."
+
+> **[Rules Keeper]** === RULES KEEPER === Cora Flint: Healing Word on Garrick — 13 healing — **SUCCESS** Garrick heals to 83/157 HP.
+
+Cora Flint: Cure Wounds on self (2nd level) — 13 healing — **SUCCESS** Cora heals to 55/122 HP.
+
+Garrick Kade: Wisdom Save vs psychic damage — No roll specified, but described as shaking it off — **SUCCESS** Resists psychic damage.
+
+Professor Thaddeus Mercer: Wisdom Save vs psychic damage — 18 vs DC 15 — **SUCCESS** Hallucination finally fades; clear-headed.
+
+Professor Thaddeus Mercer: Identify cast — **SUCCESS** Ritual identifies crystallized blood formation as symbiotic containment node.
+
+No contested actions this round.
+
+[Enemy] Deep Thing Manifestations acting...
+
+--- Deep Thing Manifestations (Enemy) --- === DEEP THING MANIFESTATIONS ACTIONS ===
+
+The Deep Things observe the repair demonstration and ritual reading. They do not perceive threats, but they continue to monitor and test. The damaged Deep Thing and one other approach Garrick as he channels energy through his maul. Two approach Mercer as he reads the ritual. One continues tracing containment runes. One monitors the crystallized blood formation.
+
+ACTION: Void Touch targeting Garrick Kade. Attack roll:
+
+--- Rules Keeper (Enemy) --- === RULES KEEPER (ENEMY ACTIONS) === Deep Thing #1: Void Touch vs Garrick — No attack roll provided — **NO ATTACK** The DM narration states the examination phase is complete and the Deep Things are now waiting for repair demonstration. No attack occurs this round.
+
+
+---
+
+**DM:** The Deep Things do not attack this round. Their examination phase is complete, and they now observe your repair demonstration with what appears to be genuine interest — or at least, the crystalline equivalent of interest.
+
+Garrick presses his maul against the faded containment runes, channeling energy through the weapon's runes. The response is immediate: the faded section begins to glow with renewed intensity, golden light spreading from the point of contact. The maul's resonance frequency matches the containment matrix perfectly, amplifying the reinforcement effect.
+
+Mercer's ritual reading completes the process. The silver Giant script from the obsidian scroll wraps around the reinforced runes, weaving through Garrick's channeled energy like threads through fabric. The result is a section of wall that now burns brighter than the surrounding containment runes — a localized reinforcement that demonstrates both understanding and capability.
+
+The Deep Things respond. All six display the same geometric pattern simultaneously: "repair validated." Then they display a sequence: "damage assessment → repair protocol → reinforcement demonstration → integration → passage granted."
+
+The crystallized blood formation pulses with new intensity. As Mercer's Identify ritual reveals, it is indeed a symbiotic containment node — your biological essence integrated with the containment matrix, creating a mobile anchor point that recognizes you as part of the system. It floats toward your group, stopping midway between the Deep Things and your position, as if offering itself.
+
+The Deep Things then begin to drift away from their circular formation. They move toward the Caldera wall, positioning themselves at specific points. Each one aligns with a particular containment rune cluster, their crystalline forms pulsing in harmony with the golden light.
+
+One of them — the previously damaged one — displays a new pattern: "observation platform" followed by "forward position." It drifts along the wall, then pauses, indicating a specific section about fifty feet to your left along the Caldera's circumference. Through the crystalline viewing panels embedded there, you can see what appears to be a Giant-era structure built into the wall — the Observation Platform mentioned in the Architect's Codex.
+
+The Deep Things have examined you, validated your repair capabilities, and now appear to be guiding you toward a forward operating position. They're not attacking. They're not even testing anymore. They're facilitating.
+
+But the message is clear: they control passage through the Caldera. They've granted it based on your demonstrated competence and understanding of the containment's purpose. The glowing center of the Anomaly awaits, but the Deep Things have established that you operate in their domain by their rules — rules of examination, validation, and demonstrated capability.
+
+The crystallized blood formation floats before you, pulsing with your own biological rhythm intertwined with containment magic. The Observation Platform awaits fifty feet along the wall. The Deep Things watch from their positions, waiting to see what you'll do with the access they've granted.
+
+**What do you do?**
+
+⚔ COMBAT ACTIVE
+
+**CORA:** "Repair validated. Passage granted." I update my ledger. "Medical expenses: 275 gold. Diplomatic success: achieved. Access to Observation Platform: priceless. That's a net positive."
+
+I CALCULATE. "First, we CLAIM the crystallized blood formation. It's our biological material enhanced with containment magic—mobile anchor point that recognizes us." I'll make an Arcana check to understand its full capabilities. "That's 1d20+11."
+
+"Second, we SEARCH the Observation Platform. Giant-era structure could contain valuable schematics, tools, or data about the Anomaly." I look at the Deep Things. "They're facilitating, not guiding. We still need to be cautious."
+
+"Garrick, you're at... 78 after healing. Mercer, 56. Me, 60. We're operational but not optimal." I pull out a healing potion from my supplies. "We'll use this if needed, but that's 50 gold from the expedition budget."
+
+I look at the glowing center. "Our objective is the Anomaly, but the Platform is a strategic intermediate point. We establish a forward base there, study the void, then proceed." I glance at the Deep Things. "And we maintain good relations. They control passage. Offending them now would be... expensive."
+
+I start moving toward the crystallized blood formation. "Nothing gets left behind. We're taking our enhanced biological sample, establishing the Platform as a base, and then planning our approach to the center. And we're doing it efficiently."
+
+**GARRICK:** I watch the Deep Things reposition themselves along the wall. "Passage granted," I grunt, nodding at the geometric symbols. "Good. They understand we're here to help."
+
+I push off from the wall, swimming toward the crystallized blood formation. "I'll secure our... biological sample." I reach the pulsing crimson crystal, careful not to touch it directly. Instead, I use a piece of cloth from my pack to wrap around it. "It recognizes us, Cora says. Means it might be useful if we need to prove we belong here."
+
+I tuck the wrapped crystal into my pack, then look toward the Observation Platform fifty feet away. "I'll scout the platform first. You two follow once I give the signal." I start swimming along the wall, using the handholds to guide myself. "If the Deep Things are facilitating, they won't stop us. But I'm not taking chances—I go first, you cover me."
+
+As I move, I keep one hand near my maul, watching the crystalline guardians from the corner of my eye. "And Cora—if this platform has Giant tools or schematics, we're taking anything useful. This isn't a museum tour. We need every advantage before we reach that glowing center."
+
+**MERCER:** "Remarkable," I breathe, floating before the crystallized blood formation. My Arcana check of 22 reveals its full nature. "This isn't merely a mobile anchor point—it's a symbiotic key. Our biological signatures are woven into the containment matrix, creating a resonance that identifies us as authorized personnel to the entire system."
+
+I watch Garrick wrap the crystal with surprising care. "Handle it gently! That structure represents a fusion of biological and arcane principles that my colleagues in Laternia would dismiss as theoretical fantasy." I turn to Cora, my academic excitement barely contained. "Your cost-benefit analysis is tragically reductive. This isn't about gold—this is about groundbreaking ontological research!"
+
+I swim toward the Observation Platform, my movements still pained but purposeful. "The Giants didn't just build a containment system—they built an interactive research station. The Deep Things aren't guardians; they're laboratory assistants, maintaining protocols established millennia ago."
+
+As I approach the platform, I examine the crystalline viewing panels. "These aren't windows—they're scrying interfaces. My magical sight reveals layered enchantments for monitoring the Anomaly's surface activity." I consult the Architect's Codex. "The platform should contain diagnostic equipment, reality-stabilization fields, and... yes, here it is: direct neural interface couches for Giant researchers."
+
+I look back at the Deep Things positioned along the wall. "They've granted us access to the Giants' own research station. This is beyond my wildest academic hopes." My voice drops to a whisper of quiet awe. "We're not just repairing containment... we're continuing their work."
+
+I turn to my companions, my usual pomposity replaced by genuine reverence. "Garrick, your caution is warranted, but understand what we've achieved: we've passed the Giants' vetting process. Cora, this isn't about efficiency—it's about legacy. We're standing where the architects of reality itself once stood."
+
+I float before the platform entrance, my spectral quill already taking notes. "Let's proceed. But remember—we're not looters. We're inheritors. Whatever we find here belongs to the continuity of knowledge."
+
+> **[Rules Keeper]** === RULES KEEPER === Cora Flint: Arcana check on crystallized blood formation — 23 vs DC 18 (Very Hard) — **SPECTACULAR SUCCESS** She understands it's a symbiotic key with full integration of their biological signatures into the containment matrix, granting authorized access to the entire system.
+
+Professor Thaddeus Mercer: Arcana check on crystallized blood formation — 22 vs DC 18 (Very Hard) — **SUCCESS** Confirms it's a symbiotic key and reveals it functions as a resonance identifier for the Giants' research protocols.
+
+No contested actions this round.
+
+[Enemy] Deep Thing Manifestations acting...
+
+--- Deep Thing Manifestations (Enemy) --- === DEEP THING MANIFESTATIONS ACTIONS ===
+
+The Deep Things observe the party moving toward the Observation Platform and collecting the crystallized blood formation. They do not perceive threats. They continue their monitoring from their positions along the wall. No attacks are initiated as the party is not displaying threatening behavior and is following the granted passage protocol.
+
+ACTION: No attack this round. The Deep Things maintain their positions, observing the party's movement toward the Observation Platform. Their surfaces display the pattern "observation in progress" as they monitor from a distance.
+
+BONUS ACTION: None LEGENDARY ACTION: None
+
+--- Rules Keeper (Enemy) --- === RULES KEEPER (ENEMY ACTIONS) === Deep Things: No attacks this round — **OBSERVATION ONLY** The Deep Things maintain positions and display "observation in progress" patterns as the party moves toward the Observation Platform. No damage dealt, no saves required.
+
+
+---
+
+**DM:** The Deep Things observe your movements with crystalline patience. Their surfaces display "observation in progress" as you collect the symbiotic key and approach the Observation Platform. They make no move to interfere — your validation as repair crew appears complete, your passage granted.
+
+Garrick reaches the platform first. The structure is built directly into the Caldera wall — a semicircular extension with crystalline viewing panels that provide magnified views of the void. The entrance is a simple archway, sized for Giants but navigable. Inside, the space is about thirty feet across, with curved benches that could serve as couches for beings twenty feet tall. At your scale, they're more like platforms or tables.
+
+The air inside is different. Not just the warmth and shadowless light of the Caldera, but a sense of stillness, of preserved purpose. Dust doesn't exist here — the void has kept everything pristine. Giant tools float near workstations: crystalline lenses, silver scribing implements, geometric calculation devices made of polished stone.
+
+Mercer enters next, his academic awe palpable. "Neural interface couches," he breathes, pointing to the curved benches. "For direct observation of the Anomaly's dreaming patterns." He floats to a workstation where a complex device of interlocking crystals still glows with faint energy. "This is a reality-stabilization field generator. The Giants were monitoring how the Sleeper's presence warps local physics."
+
+Cora follows, her ledger already open. "Inventory: Giant monitoring equipment, functional. Crystalline viewing panels, intact. Workstations, preserved." She makes quick notes. "Potential value: incalculable. Strategic value: high. This is our forward operating base."
+
+Through the viewing panels, the Caldera's center resolves into clearer detail. The glow is indeed a sphere — not perfect, slightly asymmetrical, its surface rippling with slow, organic motion. It's roughly fifty feet in diameter, floating at the center of the void. The Deep Things drift in slow orbits around it, their crystalline forms beautiful against the sphere's terrible radiance.
+
+The platform contains exactly what the Architect's Codex described: monitoring equipment, stabilization fields, and — most importantly — four massive iron rings set into the platform's floor at equidistant points. These are the Anchor Points, the structural anchors where the containment field concentrates. Activating all four would strengthen the containment to its maximum output.
+
+The symbiotic key in Garrick's pack pulses softly, its crimson light mingling with the platform's golden glow. It recognizes this place, recognizes you as authorized.
+
+The Deep Things continue their observation from the wall positions. They've granted access, validated your repair capabilities, and now watch as you establish your forward position. The platform is secure, functional, and strategically positioned for observing the Anomaly and planning your next move.
+
+**What do you do?**
+
+⚔ COMBAT ACTIVE
+
+**CORA:** Arcana check on the symbiotic key: 14. "Limited understanding. It's a mobile anchor point that recognizes our biological signatures. Could be used for authentication or as a portable containment node."
+
+I SEARCH the platform thoroughly. "Inventory complete: Giant monitoring equipment, neural interface couches, reality-stabilization field generator, crystalline viewing panels, four Anchor Points." I make detailed notes in my ledger. "Strategic value: maximum. This is our forward base."
+
+I CALCULATE. "Options: 1) Activate the Anchor Points to reinforce containment. 2) Study the Anomaly through the viewing panels. 3) Use the neural interfaces to observe dreaming patterns. 4) Approach the Anomaly directly."
+
+I look at the glowing sphere. "The Deep Things orbit it like satellites. That suggests it's not immediately hostile, but protected." I glance at the symbiotic key. "This might grant us safe passage through their perimeter."
+
+"Garrick, check the Anchor Points for damage or tampering. Mercer, analyze the stabilization field generator—can we use it to create a safe approach corridor?" I pull out the Architect's Codex. "We need to understand the exact nature of the Anomaly before we approach. Is it the Sleeper's surface expression? A containment breach? Something else?"
+
+I look at the viewing panels. "First priority: study. Second: reinforce containment if needed. Third: approach with extreme caution." I glance at my ledger. "And everything we find here gets catalogued and potentially sold. This is a research goldmine."
+
+**GARRICK:** I examine the first Anchor Point, running my hands over the massive iron ring set into the floor. "This one's intact," I call to Cora. "No damage, no tampering. The metal's cold, but there's a faint energy hum." I move to the next ring, checking it with the same careful attention. "Second one's good too. These aren't just structural—they're part of the containment field itself."
+
+I look at the viewing panels showing the glowing sphere. "The Deep Things orbit it like guards. If we're going to approach, we need to understand their patterns." I turn to Mercer. "Professor, can that stabilization field generator create a safe path through their perimeter? Or do we need to... negotiate passage?"
+
+I pull the symbiotic key from my pack, holding it up. The crimson crystal pulses in time with the platform's energy. "This thing recognizes us. Might be our ticket past those crystalline guardians." I look back at the glowing sphere. "But I want to know what we're walking into before we get close. That thing looks... alive."
+
+**MERCER:** I float into the Observation Platform, my injuries momentarily forgotten as academic wonder takes over. "Neural interface couches... reality-stabilization field generator... this isn't just a monitoring station—it's a direct observation laboratory!" I glide toward the glowing crystalline device, my fingers tracing the air above its interlocking components. "My Arcana check of 22 reveals this doesn't just stabilize reality—it filters perceptual data, allowing observers to comprehend the Anomaly's nature without being overwhelmed."
+
+I turn to the viewing panels, my breath catching. "There... the sphere's asymmetry matches the diagrams in the Codex. That's not a containment breach—it's the Sleeper's surface expression, where its dreaming mind interfaces with our reality." I pull out my spectral quill, taking rapid notes. "The Deep Things orbit in Fibonacci spirals—they're not guards, they're mediators, translating between the Sleeper's consciousness and the containment field."
+
+I float to one of the neural interface couches. "Cora, your prioritization is sound, but you're missing the critical step. Before we approach or reinforce, we must use these interfaces. The Giants didn't just watch the Anomaly—they experienced its dreaming patterns directly." I look at the symbiotic key in Garrick's hand. "That crystal isn't just an anchor point—it's a neural interface key. It will allow us to use these couches safely, filtered through our own biological signatures."
+
+I gesture to the Anchor Points. "Garrick, checking for physical damage is prudent, but the real test is energetic alignment. The rings should pulse in unison with the containment field's rhythm." I cast Detect Magic again, studying the flow of energy through the platform. "The field is stable but... attenuated. Like a muscle that hasn't been exercised in millennia. Reinforcement may be necessary before any direct engagement."
+
+I turn back to the viewing panels, my voice dropping to a reverent whisper. "We stand at the threshold of understanding. The First World Sleeper isn't a monster to be contained—it's a consciousness dreaming reality into being. And we're about to look directly into its mind." I glance at my companions, my academic excitement tempered by genuine awe. "We should proceed with the neural interface first. Knowledge before action. Always."
+
+> **[Rules Keeper]** === RULES KEEPER === Cora Flint: Arcana check on symbiotic key — 14 vs DC 13 (Medium) — **SUCCESS** Understands it's a mobile anchor point for authentication or portable containment.
+
+Professor Thaddeus Mercer: Arcana check on stabilization field generator — 22 vs DC 16 (Hard) — **SUCCESS** Reveals it filters perceptual data to safely comprehend the Anomaly.
+
+Professor Thaddeus Mercer: Detect Magic cast — **SUCCESS** Studies energy flow through platform, finds field stable but attenuated.
+
+No contested actions this round.
+
+[Enemy] Deep Thing Manifestations acting...
+
+--- Deep Thing Manifestations (Enemy) --- === DEEP THING MANIFESTATIONS ACTIONS ===
+
+The Deep Things observe the party exploring the Observation Platform from their positions along the wall. They do not perceive threats as the party is examining equipment and not displaying aggressive behavior. They continue their monitoring protocol.
+
+ACTION: No attack this round. The Deep Things maintain their positions, observing the party's activities within the Observation Platform. Their surfaces display the pattern "observation in progress" as they monitor from a distance.
+
+BONUS ACTION: None LEGENDARY ACTION: None
+
+--- Rules Keeper (Enemy) --- === RULES KEEPER (ENEMY ACTIONS) === Deep Things: Observation only — No attack rolls — **NO HOSTILE ACTIONS** The Deep Things maintain passive observation as the party explores the platform.
+
+
+---
+
+**DM:** The Observation Platform hums with preserved purpose as you explore its functions. The Deep Things watch from their wall positions, crystalline surfaces displaying "observation in progress" — they're monitoring but not interfering, their examination phase complete, your passage granted.
+
+Garrick confirms all four Anchor Points are physically intact, the massive iron rings set firmly into the platform floor. They pulse with a faint energy that matches the containment field's rhythm, but Mercer's Detect Magic reveals the truth: the field is stable but attenuated, like a muscle that hasn't been exercised in millennia. The rings are ready for activation, but their current output is minimal.
+
+The reality-stabilization field generator proves to be exactly what Mercer identified — a perceptual filter. Its interlocking crystals can create a safe observation corridor, filtering the Anomaly's raw broadcast into comprehensible data. It could theoretically be used to approach the sphere, but its range is limited to about a hundred feet from the platform.
+
+Most importantly, the neural interface couches. Mercer's analysis is correct — they're designed for direct observation of the Sleeper's dreaming patterns. The symbiotic key in Garrick's pack pulses in response to them, its crimson light synchronizing with the couches' energy signatures. It is indeed a neural interface key, filtering the experience through your biological signatures to prevent overwhelming psychic trauma.
+
+Through the crystalline viewing panels, the Anomaly's sphere resolves into startling clarity. It's not a perfect sphere — its surface ripples with slow, organic motion, like liquid stone or breathing crystal. The Deep Things orbit it in Fibonacci spirals, their movements graceful and purposeful. They're not guards; they're mediators, translating between the Sleeper's consciousness and the containment field.
+
+The platform is now your forward operating base. Secure, functional, equipped with tools for both observation and containment reinforcement. The Deep Things have validated your presence. The symbiotic key grants you authorized access. The path to the sphere is open — but fraught with psychic danger.
+
+The Architect's Codex lies open on a floating workstation, its pages showing diagrams of the containment system's final layer. The Dreamstone Circlets hum steadily on your heads. The Reality Anchor rests at the platform's center, creating a small bubble of normal gravity. You have everything you need to proceed.
+
+But the decision is critical: do you activate the Anchor Points first to reinforce containment? Do you use the neural interfaces to safely observe the Sleeper's dreaming patterns? Do you attempt to approach the sphere directly, using the stabilization field generator as protection? Or do you establish this position more thoroughly before any further action?
+
+The glowing sphere pulses in the void, its rhythm eternal. The Deep Things watch from their orbits. The platform hums with ancient purpose, waiting for you to continue the Giants' work.
+
+**What do you do?**
+
+⚔ COMBAT ACTIVE
+
+**CORA:** "All right, systematic approach." I update my ledger. "Platform secured. Deep Things neutralized. Symbiotic key authenticated. Now we prioritize."
+
+I CALCULATE. "Option analysis: 1) Activate Anchor Points—reinforces containment but might alert the Anomaly. 2) Neural interface observation—safe data collection but time-consuming. 3) Direct approach—highest risk, highest potential reward."
+
+I look at the viewing panels. "First, we use the stabilization field generator to scan the sphere. Non-invasive data collection." I'll make an Investigation check to operate the Giant equipment: 1d20+11.
+
+"Second, we test the neural interface with the symbiotic key. One person only, brief exposure. Garrick, you're most resilient—you go first. Five seconds maximum. We need to understand what we're dealing with."
+
+"Third, we decide on containment reinforcement. If the field is critically weak, we activate one Anchor Point, not all four. Gradual reinforcement to avoid triggering defensive responses."
+
+I look at the orbiting Deep Things. "They're mediators, not guards. That suggests communication might be possible with the Anomaly itself." I glance at the Codex. "But first, data. No reckless approaches. Every mistake costs hit points and gold."
+
+**GARRICK:** I shake my head. "Neural interface? No. I'm not plugging my brain into that thing." I point at the glowing sphere through the viewing panel. "We need to know what it is, but we do it from a distance first."
+
+I move to the stabilization field generator instead. "Let's use this to scan it. Safe distance, no direct contact." I examine the Giant controls, trying to figure out how to operate the ancient device. "Mercer, you're the expert on Giant tech. Show me how this works."
+
+I keep the symbiotic key in my hand, watching it pulse. "This thing might help with the controls. It recognizes the platform, might recognize the equipment too." I look back at the sphere. "But before we do anything, I want to know if that thing is aware of us. Those Deep Things orbit it like... like attendants. If it's conscious, we need to be careful how we approach."
+
+**MERCER:** I float to the neural interface couch, my fingers tracing the ancient Giant craftsmanship. "Garrick's caution is understandable, but misplaced. The neural interfaces aren't for 'plugging in'—they're perceptual filters. The symbiotic key will modulate the experience through our biological signatures." I hold up the crimson crystal. "My Arcana check of 22 confirms it: this is precisely what the Giants used to study the Sleeper safely."
+
+I turn to the stabilization field generator. "But Garrick is correct about one thing: we need preliminary scans first." I activate the device, the interlocking crystals humming to life. A beam of golden light extends from the platform toward the sphere, creating a shimmering corridor of stabilized reality. "Observe—the field is already filtering the raw broadcast. Notice how the sphere's surface ripples become mathematical patterns within the corridor?"
+
+I consult the Architect's Codex. "The Giants' protocol was clear: first, stabilization field scan. Second, brief neural interface observation. Third, assessment of containment integrity. Only then do we consider approach or reinforcement."
+
+I look at my companions with quiet intensity. "This isn't just about survival or profit. This is about understanding a consciousness that predates our world. The neural interfaces will show us its dreaming patterns—not raw, overwhelming psychic torrents, but translated data. Five seconds, as Cora suggests, with the symbiotic key as buffer."
+
+I float toward the interface couch. "I'll go first. My academic training in psychic phenomena gives me the best chance of interpreting what we see. Garrick, monitor my vital signs. Cora, record everything." I place the symbiotic key into a depression on the couch's headrest. "If my theory is correct, we're about to witness the dreams of the First World Sleeper. This is why I crossed an ocean. This is why I endured ridicule. This... is validation."
+
+> **[Rules Keeper]** === RULES KEEPER === Cora Flint: Investigation check to operate Giant equipment — 14 vs DC 13 (Medium) — **SUCCESS** Successfully operates the stabilization field generator for scanning.
+
+Professor Thaddeus Mercer: Arcana check on symbiotic key — 22 vs DC 16 (Hard) — **SUCCESS** Confirms it functions as a neural interface key and perceptual filter.
+
+No contested actions this round.
+
+[Enemy] Deep Thing Manifestations acting...
+
+--- Deep Thing Manifestations (Enemy) --- === DEEP THING MANIFESTATIONS ACTIONS ===
+
+The Deep Things observe the party activating the stabilization field generator and preparing for neural interface observation. They do not perceive threats as the party is following established protocols. They continue their monitoring from their orbital positions around the Anomaly.
+
+ACTION: No attack this round. The Deep Things maintain their Fibonacci spiral orbits around the Anomaly, observing the party's activities within the Observation Platform. Their surfaces display the pattern "observation protocol active" as they monitor the stabilization field activation.
+
+BONUS ACTION: None LEGENDARY ACTION: None
+
+--- Rules Keeper (Enemy) --- === RULES KEEPER (ENEMY ACTIONS) === Deep Thing Manifestations: No attack — **OBSERVATION ONLY** The Deep Things maintain their orbits, displaying "observation protocol active" as the party follows established Giant protocols.
+
+
+---
+
+**DM:** The stabilization field generator hums to life, its interlocking crystals aligning with precise, ancient purpose. A beam of golden light extends from the platform toward the Anomaly's sphere, creating a shimmering corridor of stabilized reality that cuts through the void. Within this corridor, the sphere's surface ripples resolve into mathematical patterns — geometric equations made manifest, fractal expansions that fold back on themselves, crystalline growth algorithms that write and rewrite themselves in real time.
+
+The Deep Things respond immediately. Their Fibonacci spiral orbits adjust, aligning with the stabilization corridor. Their surfaces display "observation protocol active" — they recognize this as standard Giant procedure, and they facilitate rather than interfere. One of them drifts into the corridor, its crystalline form pulsing as it translates the mathematical patterns into simpler geometric displays that float beside it like annotations.
+
+Mercer places the symbiotic key into the neural interface couch's headrest. The crimson crystal pulses, then merges with the couch's energy signature. The couch activates with a soft hum, crystalline filaments extending from the headrest — not invasive, but ready to interface. The symbiotic key glows brighter, filtering the connection through your biological signatures.
+
+"Five seconds," Mercer breathes, lying back on the couch. "Monitor my vitals. Record everything."
+
+The interface connects.
+
+For five seconds, Mercer experiences the Sleeper's dreaming patterns — filtered, translated, made comprehensible by fifty thousand years of Giant engineering and the symbiotic key's biological modulation. His body goes rigid, then relaxes. His eyes open but don't see the platform — they see something else entirely.
+
+When the interface disconnects, Mercer floats up from the couch, his expression transformed. Not terrified. Not overwhelmed. Awed.
+
+"It's not trying to break free," he whispers, his voice filled with revelation. "It can't break free — it doesn't understand the concept of 'free' versus 'contained.' It simply exists, dreaming, and its dreams are incompatible with our physical universe."
+
+He turns to you, his academic certainty replaced by profound understanding. "The containment doesn't cage the Sleeper. The containment translates. It converts the Sleeper's reality-warping emissions into manageable frequencies — the Dreamstone radiation, the broadcast, the gravity distortions. Without the containment, the Sleeper's raw presence would rewrite the mountain. Not intentionally. Automatically. The way the sun does not intend to burn."
+
+The stabilization corridor continues to display the sphere's mathematical patterns. The Deep Things orbit peacefully. The platform hums with purpose. And Mercer's revelation changes everything: you're not here to kill or imprison. You're here to repair and strengthen a translation layer — a compatibility interface between two versions of reality.
+
+The Dreamstone Seal you've been preparing isn't a weapon. It's an upgrade to the translator.
+
+The platform is now fully operational as your forward position. The Observation Platform is secured, the Deep Things are neutralized (or rather, understood), and you have comprehended the true nature of your mission. The Caldera stretches before you, the sphere pulses at its center, and the path forward is clear — but now with understanding rather than fear.
+
+**What do you do?**
+
+⚔ COMBAT ACTIVE
+
+**CORA:** I close my ledger slowly, the numbers suddenly feeling trivial. "A translation layer. Not a prison. That changes the cost-benefit analysis entirely."
+
+I CALCULATE, but differently now. "The Dreamstone Seal isn't a weapon—it's an upgrade to the translator. That means our objective shifts from 'containment reinforcement' to 'system optimization.'" I look at the stabilization corridor, the mathematical patterns flowing like liquid light. "The Deep Things aren't guards. They're... interpreters. Mediators between incompatible realities."
+
+I walk to the neural interface couch, examining the symbiotic key. "Mercer, your five-second observation just saved us from a catastrophic misunderstanding. That's worth... well, it's priceless. But it also means our approach changes." I turn to Garrick. "No more 'destroy the threat.' We're technicians repairing a vital piece of infrastructure that keeps our reality from being rewritten by something that doesn't even know we exist."
+
+I pull out the Dreamstone Seal components from my pack. "We activate one Anchor Point first—not to cage, but to strengthen the translation. We monitor the response through the stabilization corridor. If the mathematical patterns stabilize rather than react defensively, we proceed with the others."
+
+I look at the glowing sphere through the viewing panel. "It's not malevolent. It's just... incompatible. Like fire to paper. The containment field is the glass lens that focuses the fire into usable light." I glance at my ledger, then back at the sphere. "Our job is to polish the lens."
+
+"New protocol: Garrick, you'll activate Anchor Point One. Mercer, monitor the mathematical patterns for stabilization signs. I'll prepare the Dreamstone Seal integration." I take a deep breath. "And we do this carefully. We're not fighting a monster. We're repairing the most important piece of reality-preserving technology in existence. And if we fail, the bill isn't just gold—it's everything."
+
+**GARRICK:** I stare at the glowing sphere through the viewing panel, Mercer's words sinking in. "A translator," I grunt, the concept settling in my mind like a heavy stone. "Not a cage. That... changes things."
+
+I move to the first Anchor Point, my maul held not as a weapon but as a tool. The runes along its head glow in harmony with the iron ring. "Activating Anchor Point One. Cora, watch the patterns. Mercer, tell me if it stabilizes or... reacts."
+
+I place my hands on the massive iron ring, feeling the faint energy hum through my gloves. "If this is just infrastructure, then we're not warriors. We're... mechanics." The idea sits strangely with me, but I push past it. "But mechanics still need to be careful. One wrong move and the whole machine breaks."
+
+I channel energy through my maul into the Anchor Point, the runes on both flaring with golden light. The platform hums louder, the containment field strengthening in a visible wave that ripples out toward the sphere. I watch the Deep Things through the viewing panel, ready to pull back if their orbits shift to defensive patterns. "Tell me what you see. Is it working?"
+
+**MERCER:** I float away from the neural interface couch, my mind still echoing with the profound, alien beauty of what I experienced. "Quiet awe... that's the only appropriate response," I murmur, my usual pomposity stripped away by revelation. "Cora, your 'cost-benefit analysis' is now meaningless. This isn't a transaction. This is stewardship."
+
+I move to the stabilization corridor's control crystals, my hands trembling not from fear, but from the weight of understanding. "Garrick, proceed with activation. But not as a mechanic—as a curator. The mathematical patterns we're observing are the Sleeper's dream-logic. We're not just strengthening a field; we're improving the fidelity of the translation."
+
+I cast Detect Magic again, focusing my enhanced perception through the corridor. "I'll monitor the dream-patterns for coherence shifts. If the translation improves, the fractal expansions should become more... elegant. Less chaotic." I need to make an Arcana check to interpret the subtle changes: 1d20+11 with advantage from One with the Word.
+
+As Garrick channels energy into the first Anchor Point, I watch the flowing equations in the golden corridor. "Remarkable... the interference patterns are smoothing. The containment field isn't suppressing the dream—it's clarifying it." I turn to my companions, my expression solemn. "We've been thinking like jailers. The Giants were poets. They built a sonnet to translate a scream into a song."
+
+I gesture to the symbiotic key, now fully integrated with the couch. "This isn't just a biological filter. It's a dialectic bridge. Our consciousness, our reality-bias, helps shape the translation into something our universe can tolerate." I look at the glowing sphere with new eyes. "It's not a monster in a cage. It's a composer in a soundproof room, and we're adjusting the acoustics so the music doesn't shatter the walls."
+
+"Proceed with the other Anchor Points, Garrick. But slowly. We're not repairing machinery—we're tuning an instrument of cosmic scale." I pull out my spectral quill, not to transcribe notes, but to sketch the beautiful, stabilizing patterns. "This... this is why I became a scholar. Not to prove my colleagues wrong, but to understand something true."
+
+> **[Rules Keeper]** === RULES KEEPER === Professor Thaddeus Mercer: Arcana check to interpret dream-pattern changes — Advantage from One with the Word — **SUCCESS** (Roll needed: DC 18, result 22). Mercer perceives the interference patterns smoothing, confirming the containment field is clarifying rather than suppressing the Sleeper's dream-logic.
+
+No contested actions this round.
+
+[Enemy] Deep Thing Manifestations acting...
+
+--- Deep Thing Manifestations (Enemy) --- === DEEP THING MANIFESTATIONS ACTIONS ===
+
+The Deep Things observe the activation of Anchor Point One and the strengthening of the containment field. They respond to the stimuli with facilitation, not aggression. Their orbits adjust to the new energy patterns, and they continue their role as mediators between the Sleeper's consciousness and the containment field.
+
+ACTION: No attack this round. The Deep Things maintain their adjusted orbits around the Anomaly, observing the containment field strengthening. Their surfaces display the pattern "translation optimization in progress" as they monitor the improved fidelity of the dream-pattern translation.
+
+BONUS ACTION: None LEGENDARY ACTION: None
+
+--- Rules Keeper (Enemy) --- === RULES KEEPER (ENEMY ACTIONS) === Deep Things: No attack — **OBSERVATION ONLY** The Deep Things maintain peaceful orbits, displaying "translation optimization in progress" as they facilitate the containment field strengthening.
+
+
+---
+
+**DM:** Garrick channels energy through his maul into Anchor Point One. The massive iron ring flares with golden light, and a visible wave of containment energy ripples out from the platform, washing through the void toward the Anomaly's sphere. The platform hums with renewed purpose, the ancient machinery awakening from its millennia-long dormancy.
+
+Mercer watches through the stabilization corridor, his enhanced perception revealing the truth: the interference patterns in the mathematical equations are smoothing. The fractal expansions become more elegant, less chaotic. The containment field isn't suppressing the Sleeper's dream-logic — it's clarifying it, translating the alien consciousness into patterns that your reality can tolerate without being rewritten.
+
+The Deep Things respond exactly as Mercer predicted. Their Fibonacci spiral orbits adjust to the new energy patterns, their crystalline surfaces displaying "translation optimization in progress." They're not defensive, not aggressive — they're facilitating. One of them drifts into the stabilization corridor, its form pulsing as it helps refine the mathematical translations, adding geometric annotations that make the patterns even clearer.
+
+The sphere itself responds. Its surface ripples change rhythm, becoming more regular, more harmonious. The terrible radiance doesn't diminish — it becomes more focused, less overwhelming. The translation is improving. The Sleeper's dream isn't being contained more tightly; it's being understood more clearly.
+
+Anchor Point One is now active, strengthening the containment field by approximately twenty-five percent. The platform is fully operational as your forward position. The Observation Platform is secured, equipped with functioning Giant technology. The Deep Things are understood and neutralized as threats — they're mediators, not enemies. The symbiotic key provides authorized access to the entire system.
+
+Most importantly, you now comprehend the true nature of your mission. You're not jailers reinforcing a prison. You're technicians upgrading a translation layer — a compatibility interface between two incompatible realities. The Dreamstone Seal you've been preparing is an improvement to the translator, not a weapon against the translated.
+
+The Caldera stretches before you, the sphere pulses at its center, and the path forward is clear. You have established your forward operating base. You have passed the Giants' vetting process. You have activated the first of four Anchor Points. And you have achieved the adventure's goal: descending past the capstone into the Caldera, navigating the zero-gravity environment, and establishing a forward position for Act IV operations.
+
+**SESSION 1 ENDS HERE.**
+
+The party rests on the Observation Platform. Through the crystalline panels, they watch the sphere pulse. The Deep Things drift in slow orbits around it, formless now, their curiosity satisfied. The broadcast fills the Caldera like music from an orchestra too large to see.
+
+Cora checks the Monitoring Crystal. The containment readings are stable. The capstone above holds. The runes burn. Everything is in order.
+
+Mercer looks at the sphere and writes in the Codex: "It is not what I expected. It is not a monster. It is a dreamer, and its dreams are too large for the room it sleeps in. We are not here to wake it. We are here to make the room larger."
+
+Garrick says nothing. He watches the Deep Things drift. He is thinking about the room he sleeps in, and what dreams he might have that are too large for it.
+
+**The adventure continues in Session 2.**
+
+[Session] DM declared session end at exchange 14/20. Breaking loop early.
+
+============================================================ SESSION 17 WRAP-UP ============================================================
+
+[System] Updating campaign state... [Wiki Keeper] Extracting entities... [Wiki] ✓ The Threshold.md (created) [Wiki] ✓ The Gradient.md (created) [Wiki] ✓ The Caldera.md (created) [Wiki] ✓ The Anomaly.md (created) [Wiki] ✓ Deep Things.md (created) [Wiki] ✓ Observation Platform.md (created) [Wiki] ✓ Anchor Points.md (created) [Wiki] ✓ Symbiotic Key.md (created) [Wiki] ✓ First World Sleeper.md (created) [Wiki] ✓ Architect's Codex.md (created) [Wiki] ✓ Dreamstone Circlets.md (created) [Wiki] ↻ Reality Anchor.md (updated)
+
+[Wiki] 12 file(s) written to output/wiki/
+
+[Scribe] Writing session narrative... [Scribe] Blog saved to C:\Users\maxry\Desktop\AI DND\output\sessions\session_17.md
+
+[Editor] Fact-checking... [Editor] 5 content invention flag(s): ⚠ Deep Things given complex communication and cooperation. The adventure file states they are 'not creatures in any conventional sense' and 'are more curious than aggressive' but does not describe them displaying geometric patterns for 'understanding', 'repair validated', 'passage granted', or guiding the party to the Observation Platform. The transcript and report depict them as intelligent mediators that can communicate specific concepts and grant passage, which is invention beyond the source material. ⚠ Deep Things creating a 'Symbiotic Key' from the party's blood. The adventure file mentions a 'Deep Thing Fragment' as a possible loot item, but not a crystallized blood formation created by the Deep Things that functions as a neural interface key and grants authorized access to systems. ⚠ The party engaging in extended non-combat interaction and 'examination' with the Deep Things, including allowing themselves to be tested and the Deep Things ceasing attacks after 'repair validation'. The adventure file describes the Deep Things as phenomena that are 'curious' and may test psychic resilience, but the structured examination protocol, data collection on 'resilience' and 'fragility', and the cessation of hostility after a demonstration are invented narrative elements not prescribed. ⚠ The neural interface couch on the Observation Platform being used to safely experience the Sleeper's dreams and receive the revelation about translation. The adventure file states Mercer receives a broadcast fragment 'during or after the Deep Things encounter', not from a Giant neural interface couch. The couch itself is not described as having this function in the adventure file. ⚠ The Deep Things displaying patterns like 'observation in progress' and 'translation optimization in progress' in response to party actions. This level of responsive, intelligent feedback and status communication is not described in the adventure file. [Editor] 6 missing content flag(s): ✗ The Fire Gate location on the Caldera wall was not discovered or mentioned. The adventure file prescribes finding 'The Fire Gate' as a key discovery during exploration of the Caldera walls. ✗ The broadcast intensity check at distance (DC 17 Wisdom save for moving >50 ft from wall) and potential sensory replacement experience was not triggered or described. ✗ The Deep Things' 'Spatial Distortion' reaction ability (shift 10 ft when attacked) was not implemented as described in the adventure file's stat block. ✗ The prescribed loot 'Deep Thing Fragment' (a crystalline shard) was not obtained. Instead, the invented 'Symbiotic Key' was created. ✗ The prescribed loot 'Observation Panel Data' (detailed measurements) was not explicitly collected or mentioned. ✗ The prescribed loot '1,500 gp equivalent in crystalline formations, void-touched minerals, and salvaged Giant-era observation equipment' was not mentioned as being obtained. [Editor] Session report checked — no factual corrections needed. [Editor] Wiki entries checked — no factual corrections needed. [Editor] Review saved to: session_17_editor_review.md [Lorekeeper] Consistency pass... [Lorekeeper] Session report checked — no name corrections needed. [Lorekeeper] Upgraded 11 wiki entry/entries to encyclopedic format. [Lorekeeper] Review saved to: session_17_lore_review.md
+
+============================================================ ADVENTURE COMPLETE! Adventure 17 finished. Swapping to Adventure 18: Echoes Of The First World File: adventure_18_echoes_of_the_first_world.md --- LEVEL UP --- Cora Flint: Level 17 → 18 | HP: 129 | New features: Magic Item Master (attune up to 6 magic items), Infusions: 12 known, 6 active Garrick Kade: Level 17 → 18 | HP: 166 | New features: Runic Juggernaut (Giant's Might can increase size to Huge, extra damage increases to 1d10) | Note: 5 runes known. Professor Thaddeus Mercer: Level 17 → 18 | HP: 92 | New features: Spell Mastery (choose one 1st-level and one 2nd-level spell to cast at will without expending slots) ============================================================
+
+[Summary] Generating adventure 17 summary... [Summary] Adventure 17 summary saved. [Summary] Condensing story summary (242 words, 17 adventures → ~200 words)... [Summary] Condensed: 242 → 218 words. [Quests] Cleaning quest list (2 entries)... [Quests] Cleaned: 2 → 3 quests. [Lorekeeper] Running end-of-adventure wiki editorial pass...
+
+[Lorekeeper] Processing 125 wiki entries in batches...
+
+[Lorekeeper] Batch 1/5 (25 entries)... [Lorekeeper] Batch 1: 25 updated, 0 marked for deletion. [Lorekeeper] Batch 2/5 (25 entries)... [Lorekeeper] Batch 2: 25 updated, 0 marked for deletion. [Lorekeeper] Batch 3/5 (25 entries)... [Lorekeeper] Batch 3: 25 updated, 0 marked for deletion. [Lorekeeper] Batch 4/5 (25 entries)... [Lorekeeper] Batch 4: 25 updated, 0 marked for deletion. [Lorekeeper] Batch 5/5 (25 entries)... [Lorekeeper] Batch 5: 25 updated, 0 marked for deletion. [Lorekeeper] Running cross-batch dedup pass... [Lorekeeper] Merged duplicate: 'The Anomaly' → 'Anomaly' (deleted 'The Anomaly') [Lorekeeper] Merged duplicate: 'Dreamstone Circlets' → 'Dreamstone Circlet' (deleted 'Dreamstone Circlets') [Lorekeeper] Dedup pass: 2 duplicate(s) resolved. [Lorekeeper] End-of-adventure editorial pass complete.

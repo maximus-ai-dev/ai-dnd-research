@@ -1,0 +1,1 @@
+The **Dreamstone Fragment** is a palm-sized shard of raw [[Dreamstone]] ore, carefully wrapped in lead sheeting. It pulses with a faint inner light and radiates a cold, psychic energy. It is the first tangible piece of the [[First World Sleeper]] recovered by the expedition.

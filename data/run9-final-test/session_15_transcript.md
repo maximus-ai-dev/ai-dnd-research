@@ -1,0 +1,1248 @@
+# Session 15 — Transcript
+*The Deep Quarantine*
+
+> *Raw gameplay transcript — the unedited record of what each agent said and did. For the polished narrative version, see the [session report](session_15.md).*
+
+---
+
+**DM:** **SESSION 15: THE DEEP QUARANTINE**
+
+**Opening Narration**
+
+The Cold Forge chamber has become a sanctuary of warmth and light in the deep dark of the mountain. For two weeks, the party has rested here—Ignathar's elemental fire providing steady heat, the dwarven stonework offering solid shelter, and the minecart network secured against further incursions. Wounds have healed, supplies have been replenished from Grimhold, and the constant tension of the amplifiers campaign has given way to a different kind of vigilance: the patient, methodical work of intelligence gathering.
+
+Cora has transformed the Twisted Communication Node recovered from the outer ring into a sophisticated monitoring station. Connected to the residual resin conduits that still thread through the Giant foundation's walls, it hums softly in a corner of the Cold Forge, its organic crystals pulsing with faint, rhythmic light. For days, she has sat before it, mapping signal patterns, decoding pulse structures, and building a picture of what the Twisted are doing now that their amplifiers are silent. The intelligence is not reassuring.
+
+Mercer has been cross-referencing her findings with Korathan's scaling runes and the Giant blueprint tablet, his journal filling with diagrams of containment weak points and structural stress calculations. Garrick has maintained perimeter security, his wariness growing with each new piece of data Cora extracts from the network.
+
+This morning, Cora's monitoring crystal displays something new: a concentrated signal cluster deep in the outer ring, approximately eight hundred feet below the forward camp. It's not a patrol. It's a garrison. And at its heart, something large, alive, and growing—a second drilling operation, more advanced than the Juggernaut, aimed at a structural weak point in the Giant Capstone. The Twisted have not retreated. They have regrouped. And they are thirty feet through a fifty-foot barrier.
+
+Cora looks up from her instruments, her face pale in the forge-light. "They have a staging ground. A fortified installation. And a drill that's alive—it grows as it bores. In another month, it will be through the capstone from a direction the containment wasn't designed to defend."
+
+She points to a section of her signal map—a narrow gap in the Twisted perimeter coverage, created by a damaged resin conduit. "There's a blind spot. Thirty feet wide. It gives us one shot at surprise. But the Twisted repair their conduits on a cycle. The gap closes in twenty-four hours."
+
+The forge fire crackles. The decision hangs in the warm air.
+
+**What do you do?**
+
+**CORA:** I look up from the monitoring station, my fingers still resting on the pulsing crystals. The data is clear, and the implications are worse than I'd feared. I turn to the others, my ledger already open to a fresh page.
+
+"Right. Let's calculate this properly," I say, my voice clinical. "We have twenty-four hours before the blind spot closes. That gives us one insertion window. The staging ground is eight hundred feet below our forward camp, which means approximately two hours of descent through hostile territory if we move at optimal speed."
+
+I start writing in my ledger. "Supplies needed: climbing gear for vertical sections, cold-weather provisions for the deeper cold, alchemical components for at least three major engagements, medical supplies for trauma treatment, and emergency extraction tools in case we need to collapse tunnels behind us."
+
+**GARRICK:** I grip my maul tighter, the familiar weight grounding me as Cora lays out her calculations. Two weeks of waiting, watching those crystals pulse, and now this—another drill, another threat, another thing trying to break through.
+
+"Twenty-four hours," I grunt, my voice rough from disuse. "That's more than enough time to get down there and smash whatever's growing." I start checking my gear—chain mail still solid, handaxes sharp, maul ready. The ceremonial war-pick Torvan gave me hangs at my belt, a reminder that some fights are worth more than just survival.
+
+I look at Cora's signal map, my eyes narrowing at the blind spot. "Thirty feet wide means we go fast and quiet until we're on top of them. Then we don't stop hitting until nothing's moving." I turn to Mercer. "You got any magic that'll keep us from being seen? If not, we'll just have to be quicker than their eyes."
+
+The thought of another living drill, something that grows as it bores, makes my knuckles white around my weapon. "I'll take point. If we run into patrols before we reach the staging ground, I'll handle them. No talking, no negotiating—just put them down before they can alert the rest." I glance at the forge fire, then back at my companions. "We've rested long enough. Time to finish this."
+
+**MERCER:** I look up from my journal, my quill pausing mid-sentence. The Arcana check confirms what I suspected—this is not just another drilling operation. "Garrick, your question about concealment is secondary to the structural implications," I say, my voice taking on the clipped precision of genuine concern. "A living drill that grows as it bores? That's not engineering—that's biological adaptation. The Twisted aren't just breaking through the capstone; they're evolving a method to bypass containment entirely."
+
+I turn to Cora's signal map, my spectral mind manifesting beside the monitoring station to examine the patterns more closely. "Your calculations are sound, but we need to consider the containment mechanics. The Giant blueprint tablet shows the capstone was designed with layered redundancy—crystalline matrices, dimensional baffles, and frequency dampeners. A living drill could be adapting to each layer sequentially, learning as it penetrates."
+
+> **[Rules Keeper]** === RULES KEEPER === No contested actions this round.
+
+**Note:** The PCs are planning and strategizing rather than attempting actions that require dice rolls. Cora is calculating logistics, Garrick is preparing gear and proposing tactics, and Mercer is analyzing the situation using his Arcana knowledge (which he already succeeded at based on the narration). No ability checks, attack rolls, saving throws, or contested actions occurred in this round of roleplay.
+
+
+---
+
+**DM:** **The Planning Phase**
+
+Ignathar's firelight flickers across the Cold Forge as the party's planning takes shape. Cora's ledger fills with precise calculations—gear weights, descent times, supply allocations. Garrick's gear checks produce a rhythmic clatter of metal on stone. Mercer's spectral mind hovers over the signal map, its ethereal glow illuminating the containment diagrams.
+
+Cora nods at Garrick's assessment. "Fast and quiet until we're inside, then systematic destruction. The staging ground has three primary targets: the barracks, the armory, and the organic power hub. The hub is the nervous system—destroy it, and the Twisted lose coordination, the drill loses power, and the communication network goes dark."
+
+She taps a section of her map. "The blind spot gives us access to the perimeter corridor. From there, we have two hundred feet of patrolled territory before we reach the staging ground proper. Group stealth will be critical—if we alert patrols before we're inside, the element of surprise is gone."
+
+Mercer's spectral mind drifts to the containment diagrams. "The structural weak point they're targeting is here," he says, his quill tracing a section of the Giant blueprint. "It's where the containment wall meets the structural bedrock—a natural stress concentration. Korathan's runes indicate this area was reinforced with additional crystalline baffles, but fifty thousand years of geological settling may have compromised them."
+
+He looks up, his expression grave. "The living drill is more than a threat—it's a symptom. The Twisted are not just trying to breach containment; they're adapting their methods based on what they've learned from our previous encounters. The Overseer from Adventures 9 and 13 has been studying us. This staging ground will have countermeasures."
+
+Garrick hefts his maul. "Let them study. They'll learn what happens when you dig too close to the surface." He turns to Mercer. "You said something about concealment magic?"
+
+Mercer nods. "I can prepare *pass without trace*—it will give us a significant advantage on group stealth checks. Combined with the Dreamstone circlets for psychic shielding and the monitoring crystal for radiation tracking, we have the tools for infiltration. But we must move within the twenty-four-hour window."
+
+Cora closes her ledger. "Then we have our plan: infiltrate through the blind spot, sabotage the power hub to disrupt their coordination, then strike the command structure while they're disoriented. Priority targets are the Overseer and the drill itself."
+
+She looks at her companions. "We leave in six hours. That gives us time for final preparations, spell preparation, and one last equipment check. The descent begins at the forward camp—we'll use the same access shaft we established after breaching the capstone."
+
+**The clock is ticking. The blind spot closes in twenty-four hours. What final preparations do you make before descending into the irradiated zone toward the Twisted staging ground?**
+
+**CORA:** I look at the monitoring crystal's readings, then turn to my alchemical supplies. "First things first—I need to prepare our elixirs. With Restorative Reagents, each one will provide temporary hit points and a free Lesser Restoration if needed."
+
+I begin mixing components, my hands moving with practiced efficiency. "I'll create three experimental elixirs: one for each of us. That's 2d6+5 temporary hit points per dose, plus the restorative properties. Let me check the potency."
+
+**GARRICK:** I watch Cora mix her elixirs, the familiar scent of alchemical components filling the forge. "Good," I grunt. "We'll need every advantage." I turn to my own preparations, starting with my maul. I take out my smith's tools and begin checking the weapon's balance and edge, making minor adjustments to the grip.
+
+"While you're brewing, I'm going to inscribe my runes," I say, pulling out the materials. "I'll put the Cloud Rune on my maul—lets me redirect an attack to another target. And the Stone Rune on my armor—advantage on Strength and Constitution checks, plus I can force someone to make a Wisdom save or be incapacitated." I work methodically, the ancient symbols glowing faintly as I carve them into the metal.
+
+**MERCER:** I nod, my spectral mind returning to hover near my spellbook. "Excellent preparations, both of you. Now for my contributions." I open my spellbook, my wizardly quill materializing in the air. "First, I'll create a scroll of *pass without trace* using Master Scrivener—that gives us a +10 bonus to group stealth for an hour, which should cover our approach through the blind spot."
+
+The quill dances across a blank parchment, arcane symbols flowing from its tip without ink. "Second, I need to prepare my spell selection for this specific engagement. Given the Overseer's likely countermeasures..." I consult my notes on our previous encounters. "I'll prepare *globe of invulnerability* to protect against lower-level magical attacks, *telekinesis* for battlefield control against the living drill, and *chain lightning* for dealing with clustered defenders."
+
+I look up at Garrick's rune work. "Your Stone Rune's incapacitation effect could be crucial against the Overseer—if it's anything like the entity we faced at Pump Station East, psychological attacks may be its primary weapon. My *feeblemind* could serve as a backup, though the spell's complexity requires careful timing."
+
+> **[Rules Keeper]** === RULES KEEPER === No contested actions this round.
+
+**Note:** The PCs are making preparations and describing their planned actions, but no dice rolls or contested actions have been attempted. Cora is preparing elixirs (which would require an Alchemist's Supplies check when actually used), Garrick is inscribing runes (which would require a Smith's Tools check), and Mercer is preparing spells and creating a scroll (which would require an Arcana check for scroll creation). However, these are narrative descriptions of preparations rather than actual attempts that require adjudication in this moment.
+
+
+---
+
+**DM:** **Final Preparations**
+
+The Cold Forge becomes a workshop of focused preparation. Cora's alchemical vials bubble and steam as she combines rare reagents—Dreamstone dust from the vein, purified resin samples from the sabotaged amplifiers, and stabilizing agents from her Grimhold supplies. Three elixirs take shape in crystal vials, each glowing with a soft amber light. The Restorative Reagents process imbues them with more than just healing properties—they pulse with protective energy, ready to grant temporary resilience when consumed.
+
+Garrick's smithing produces a steady rhythm of hammer on metal. The Cloud Rune takes shape on his maul's haft—a swirling pattern of mist and lightning that seems to shift when viewed from different angles. The Stone Rune on his armor glows with earthy stability, the ancient Giant symbols resonating with the mountain's deep stone. Both runes hum with latent power, ready to be invoked when battle begins.
+
+Mercer's wizardly quill completes the *pass without trace* scroll with a final flourish of arcane script. The parchment glows briefly before settling into a stable magical matrix. His spellbook pages turn as he commits the day's selections to memory—*globe of invulnerability* for defense, *telekinesis* for manipulation, *chain lightning* for area denial, and *feeblemind* as a precision strike against intelligent command structures. His spectral mind hovers nearby, already attuned to the containment frequencies they'll encounter.
+
+Ignathar watches from the forge's heart, the Fire Elemental's form shifting with interest. "You prepare for deep work," the elemental rumbles, its voice like cracking stone and flowing magma. "The mountain's dreaming grows restless. I feel it in the stone—vibrations that were not there before. Your actions have stirred something."
+
+Cora seals the third elixir and places all three in protective leather cases. "Six hours are up. Gear is checked. Spells are prepared. The monitoring crystal shows the blind spot is still open, but the Twisted repair cycle has begun—we have approximately eighteen hours before it closes completely."
+
+She shoulders her expedition pack, the weight of alchemical supplies, climbing gear, and emergency tools balanced against her frame. "The descent begins at the forward camp. We'll need to move through the irradiated zone—the Dreamstone circlets will provide protection, but the exposure will be heavier than anything we've encountered outside the Dreamstone Vein itself."
+
+Garrick hefts his newly rune-inscribed maul, testing its balance. "Then let's not waste time talking about it." He looks at the tunnel leading upward toward the Giant layer. "Forward camp, then down. Fast and quiet until we're inside."
+
+**The party gathers their gear and begins the ascent back to the forward camp in the Giant foundation. The descent into the irradiated zone toward the Twisted staging ground awaits. What is your formation as you travel, and how do you approach the first section of the irradiated zone—the light exposure area where the Dreamstone radiation begins to intensify?**
+
+**CORA:** "Formation," I say, pulling out my ledger and sketching quickly. "Garrick takes point—you're the heaviest armor and can absorb initial contact. Mercer in the middle with his spectral mind scouting ahead. I'll take rear guard with the monitoring crystal to track radiation levels and watch our backs."
+
+I check my Dreamstone circlet, then activate the monitoring crystal. "The radiation will intensify gradually. We'll move at a steady pace—no rushing. If anyone starts experiencing disorientation, auditory hallucinations, or reality distortion, speak up immediately. That's coming out of your share if you don't report it and cause a cascade failure."
+
+**GARRICK:** I nod at Cora's formation plan. "Point position suits me. I'll watch for patrols and structural hazards." I adjust my Dreamstone circlet, feeling its faint hum against my temples. "If I start seeing things that aren't there, I'll say so. But if I see something that IS there and it's hostile..." I heft my maul meaningfully.
+
+As we begin moving through the irradiated zone, I keep my senses sharp, scanning the tunnel ahead for movement. The light exposure area feels different—a subtle pressure in the air, like walking through water. My armor feels heavier, my movements slightly sluggish. "Radiation's already affecting me," I grunt, shaking my head to clear a brief moment of dizziness. "Nothing I can't push through, but keep an eye on me."
+
+I maintain a steady pace, my maul ready at my shoulder. Every shadow gets a second look, every sound gets my full attention. The runes on my gear glow faintly in the dim light, responding to the ambient magical energy. "Stay close. If we get separated in this haze, finding each other again will be trouble."
+
+**MERCER:** "Your formation is tactically sound," I say, adjusting my own Dreamstone circlet. "But allow me to augment our reconnaissance." I gesture, and my spectral mind drifts forward, passing through Garrick to take position thirty feet ahead of our formation. "It can see in darkness, is immune to most environmental hazards, and I can cast spells from its location. More importantly, it's incorporeal—it won't trigger pressure plates or disturb dust."
+
+As we enter the light exposure area, I immediately notice the perceptual distortions. "Fascinating—the radiation isn't just energetic; it's creating interference patterns in local reality. My Wisdom save suggests I'm maintaining cognitive clarity, but I'm observing subtle phase shifts in the stonework." I make a quick notation in my journal with my floating quill. "Garrick, your symptoms are consistent with low-level psychic pressure. The Dreamstone isn't merely radioactive—it's broadcasting."
+
+I keep close to Cora, my physical form staying in the middle as instructed. "My spectral mind reports the tunnel ahead remains clear for sixty feet. No patrols, but the radiation intensity is increasing geometrically. We should prepare to activate the *pass without trace* scroll when we approach the blind spot perimeter."
+
+> **[Rules Keeper]** === RULES KEEPER === No contested actions this round.
+
+**Note:** The PCs are describing their formation, movement, and observations in the irradiated zone, but no dice rolls or contested actions have been attempted. Garrick mentions radiation affecting him and Mercer mentions his Wisdom save, but these are narrative descriptions rather than actual dice rolls being made. The party is traveling through the area and establishing their approach, but no checks for stealth, perception, or saving throws against radiation have been called for in this moment.
+
+
+---
+
+**DM:** **The Irradiated Descent**
+
+The party moves through the Giant foundation's descending corridors, the air growing colder and heavier with each hundred feet of descent. The Dreamstone radiation manifests as a visible haze—a shimmering purple distortion that warps light and sound. Garrick's assessment proves accurate: the radiation isn't just energy; it's pressure, a psychic weight that makes every step feel like wading through deep water.
+
+Cora's monitoring crystal pulses with increasing frequency as they descend. "Light exposure zone confirmed," she reports, her voice clinical despite the growing disorientation. "Dreamstone circlet readings show 70% effectiveness. We're within safe parameters for now, but the gradient is steepening."
+
+Mercer's spectral mind glides ahead, its ethereal form unaffected by the radiation. "The corridor descends at a fifteen-degree angle for another hundred fifty feet before leveling out," he reports through their mental link. "Structural integrity is stable, but I'm detecting organic residue on the walls—recent Twisted passage. The resin conduits here are active and pulsing."
+
+The perceptual distortions intensify. Stone walls seem to breathe, their surfaces shifting in impossible geometries. Distant sounds echo with wrong harmonics—the drip of water that isn't water, the scrape of stone that isn't stone. Garrick shakes his head, his knuckles white on his maul's grip. "The hallucinations are getting stronger. I'm seeing shadows move where there aren't any."
+
+**DC 13 Constitution saving throw for each character against light radiation exposure (first hour of travel).** Dreamstone circlets provide advantage on the save. Failure: 1d6 psychic damage and brief disorientation.
+
+Cora checks her monitoring crystal again. "We're approaching the transition to moderate exposure. Radiation levels are increasing by approximately 30% per hundred feet of descent. The blind spot is two hundred feet ahead, at the end of this corridor."
+
+The corridor widens slightly, revealing the first signs of Twisted modification: resin conduits embedded in the walls pulse with sickly green light, organic growths spreading across ancient Giant stonework like fungal infection. The air smells of ozone and decay. Mercer's spectral mind halts, hovering before a junction.
+
+"Two paths," Mercer reports. "The main corridor continues descending toward the staging ground. A side passage branches left—it appears to be a maintenance access, narrower and less traveled. Both show recent Twisted activity."
+
+Cora examines her signal map. "The blind spot is through the main corridor. The side passage... doesn't appear on my readings. It might be outside their perimeter coverage entirely, or it might be a dead end."
+
+Garrick peers down the main corridor, his eyes narrowing. "I can hear something ahead. Not patrols—something mechanical. Rhythmic. Like... drilling."
+
+The sound is faint but unmistakable: a deep, resonant thrumming that vibrates through the stone underfoot. It's coming from below, from the direction of the staging ground. The living drill is active.
+
+**The party stands at the junction. The main corridor leads toward the blind spot and the staging ground, with the sound of drilling growing clearer. The side passage offers an unknown alternative. Which path do you take, and how do you approach the decision?**
+
+**CORA:** I feel the psychic pressure building, my head throbbing with the radiation exposure. "Constitution save against radiation," I mutter, checking my circlet. The disorientation hits me—brief but sharp. "Damn. Light exposure effects confirmed. That's 1d6 psychic damage."
+
+I shake my head to clear it, then focus on the junction. "Let me analyze this properly. The side passage isn't on my signal map, which means either it's outside their perimeter—a potential infiltration route—or it's a dead end that wastes precious time."
+
+I pull out my monitoring crystal and check both corridors. "Main corridor: direct route to blind spot, but with audible drilling and likely patrols. Side passage: unknown risk, potential for flanking position or wasted time. Given our twenty-four hour window..."
+
+**GARRICK:** I feel the radiation pressing against my mind, a buzzing pressure behind my eyes. My circlet hums as I focus, pushing back against the disorientation. The save is exactly 13—I just barely resist the worst effects.
+
+I listen to the drilling sound, my grip tightening on my maul. "We go straight," I say, my voice low but firm. "Side passage is unknown, could be a trap or waste time. That drilling means they're working right now. Every minute we waste, they get closer to breaking through."
+
+I glance down the main corridor, my eyes scanning for movement. "If there's patrols, we deal with them quickly and quietly. Mercer's pass without trace should help. But if we take the side passage and it's a dead end, we lose our window." I look at Cora and Mercer. "Direct route. Fast and hard. We hit them before they know we're coming."
+
+**MERCER:** I wince as the psychic pressure intensifies, my Constitution save failing to fully resist the radiation. "That's... unpleasant. 1d6 psychic damage confirmed." I shake my head, the disorientation making the stone walls swim before my eyes.
+
+"Garrick, your tactical assessment is sound but incomplete," I say, my voice strained. "The side passage isn't on Cora's map because it predates the Twisted occupation—it's original Giant architecture. My spectral mind detects no recent resin growth there, only ancient dust." I point with my quill. "That suggests it might connect to the original containment maintenance network, potentially giving us access to the staging ground from an unexpected direction."
+
+I look down the main corridor. "However, the drilling sound indicates immediate activity. If we take the side passage and it's a dead end, we lose time. But if it connects, we gain tactical advantage." I turn to Cora. "Can your monitoring crystal detect any signal leakage from the side passage? If there's even faint resonance, it might connect to their network."
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Constitution saving throw vs radiation — 7 vs DC 13 — **FAILURE** Takes 5 psychic damage and brief disorientation.
+
+**Garrick Kade**: Constitution saving throw vs radiation — 13 vs DC 13 — **SUCCESS** Just barely resists the radiation effects.
+
+**Professor Thaddeus Mercer**: Constitution saving throw vs radiation — 7 vs DC 13 — **FAILURE** Takes 5 psychic damage and brief disorientation.
+
+**Note:** All three PCs attempted Constitution saving throws against light radiation exposure with advantage from Dreamstone circlets. Cora and Mercer failed their saves, taking 5 psychic damage each. Garrick succeeded exactly at DC 13, resisting the effects.
+
+
+---
+
+**DM:** **The Radiation's Bite**
+
+The psychic damage hits Cora and Mercer like a physical blow—sharp, cold pain behind the eyes that makes the world swim. Cora staggers slightly, catching herself against the wall as purple afterimages dance across her vision. Mercer's spectral mind flickers momentarily as his concentration wavers, the disorientation making his connection to the construct unstable.
+
+Garrick pushes through the pressure, his circlet humming with protective energy. "Steady," he grunts, watching his companions recover. "The radiation's getting worse the deeper we go."
+
+Cora shakes her head, the pain receding to a dull throb. "Damage confirmed. I'll need to adjust my calculations for cumulative exposure." She focuses her monitoring crystal on the side passage, its sensors probing for signal leakage. "Reading minimal resonance—faint background radiation, but no active Twisted signals. The passage appears clean, but that doesn't mean it connects to anything useful."
+
+The drilling sound from the main corridor grows clearer—a deep, rhythmic thrumming that vibrates through the stone underfoot. It's not just mechanical; there's an organic quality to it, a pulsing rhythm that matches the Sleeper's broadcast frequency but distorted, focused, purposeful.
+
+Mercer's spectral mind stabilizes and drifts down the side passage for twenty feet before returning. "The passage narrows after thirty feet, but continues descending at a shallower angle. I detect ancient Giant workmanship—maintenance access markings in the stone. No recent disturbances, no resin growths. It may connect to secondary containment systems, but there's no guarantee it reaches the staging ground."
+
+He looks back at the main corridor. "The drilling sound suggests immediate activity. If the Twisted are actively working on the drill, they may be distracted, making our approach through the blind spot easier. But they'll also be alert to disturbances."
+
+The radiation haze thickens around them, the purple distortion making depth perception difficult. Cora's monitoring crystal shows the transition to moderate exposure is imminent—they've been in the light exposure zone for nearly an hour of travel time.
+
+**Environmental update:** The party is approaching the transition to moderate radiation exposure (DC 15 Constitution save per 30 minutes). Dreamstone circlets provide advantage. The blind spot is approximately 150 feet ahead down the main corridor. The side passage offers an unknown alternative.
+
+**Time remaining on blind spot window:** Approximately 17 hours.
+
+**The drilling sound continues, a constant reminder of the Twisted's progress. The side passage offers potential tactical advantage but unknown risk. The main corridor offers direct approach but through potentially patrolled territory. Which path do you choose, and how do you prepare for the increased radiation exposure as you descend further?**
+
+**CORA:** "Time analysis," I say, checking my ledger. "We have seventeen hours. The side passage is unknown territory—could be a shortcut, could be a dead end. The main corridor has confirmed drilling activity, which means they're distracted but also alert."
+
+I look at the monitoring crystal readings. "The radiation is about to increase to moderate exposure. Before we proceed, everyone should take one of the experimental elixirs. The temporary hit points will help buffer against psychic damage, and the restorative properties could save us if we hit heavy exposure."
+
+I distribute the vials. "As for the path—I calculate we take the main corridor. The drilling means they're focused on their work, not perimeter security. The blind spot is confirmed ahead. We move quickly but quietly, using Mercer's *pass without trace*."
+
+I check my own circlet's effectiveness. "Let me make a Medicine check to assess our current radiation exposure and predict when we'll need additional protection."
+
+**GARRICK:** I take the elixir from Cora and down it in one gulp. The liquid burns going down, then spreads a warm, steadying energy through my body. "Good. Temporary protection." I can feel the resilience bolstering me.
+
+"Main corridor it is," I say, my voice low. "Distracted workers are easier to surprise. If that side passage was a better route, the Twisted would be using it." I check my maul's runes, making sure they're ready to activate. "We move fast once we're through the blind spot. Hit the power hub first, like Cora said—cripple their coordination, then take out the command."
+
+I look at the others, my expression grim. "When we get in there, don't hold back. They're drilling toward something that could end everything. We end them first." I take point position again, my maul ready. "Let's move. Every minute counts."
+
+**MERCER:** I accept Cora's elixir and drink it, feeling the temporary resilience bolster my defenses. "Thank you. Now, before we proceed..." I make a quick Arcana check to analyze the radiation patterns more precisely. "The transition to moderate exposure appears to be creating interference with the Dreamstone circlets' protective matrix. We may need to reinforce them with additional shielding if we encounter heavy concentrations."
+
+I nod at the consensus. "Main corridor it is. The drilling activity does suggest distraction, but also urgency." I unroll the *pass without trace* scroll. "I'll activate this now—it lasts an hour, which should cover our approach through the blind spot and initial infiltration. Everyone stay within thirty feet of me."
+
+As we prepare to move, I add, "My spectral mind will continue scouting ahead, but I'll keep it closer now that we're approaching active territory. If we encounter patrols, remember—silence and speed. We can't afford alerts reaching the staging ground."
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Medicine check to assess radiation exposure — 14 vs DC 13 — **SUCCESS** Accurately predicts transition to moderate exposure and optimal timing for additional protection.
+
+**Professor Thaddeus Mercer**: Arcana check to analyze radiation patterns — 14 vs DC 13 — **SUCCESS** Identifies interference with Dreamstone circlet matrices and need for additional shielding.
+
+**All PCs**: Experimental Elixir consumption — Each gains 11 temporary hit points and Lesser Restoration property.
+
+**Note:** Cora's Medicine check and Mercer's Arcana check both succeed at DC 13 (Medium difficulty). The experimental elixirs provide 2d6+5 temporary hit points (rolled 2+4+5 = 11) to each character for 1 hour. The *pass without trace* scroll is activated, granting +10 to group Stealth checks for 1 hour.
+
+
+---
+
+**DM:** **Through the Blind Spot**
+
+The experimental elixirs take effect immediately—a warm, steadying energy that fortifies body and mind against the radiation's assault. Cora's medical assessment proves accurate: the transition to moderate exposure occurs just as they begin moving down the main corridor. The purple haze thickens, becoming almost liquid in its density, and the psychic pressure intensifies to a constant, buzzing weight.
+
+Mercer's *pass without trace* scroll activates with a whisper of arcane energy. The magic wraps around the party like a cloak of shadows, muffling footsteps, dampening sounds, and bending light around their forms. Combined with the radiation haze, they become near-invisible phantoms moving through the distorted corridor.
+
+Mercer's spectral mind reports back: "The blind spot is fifty feet ahead. I can see the damaged resin conduit—it's cracked and dark, with no pulsing light. The repair cycle hasn't reached it yet. Patrols are visible beyond the gap: two Twisted Laborers moving slowly along the perimeter corridor, about eighty feet past the blind spot."
+
+The drilling sound grows louder as they approach, the vibration becoming a physical sensation in their bones. It's not just sound—it's a frequency that resonates with the Sleeper's broadcast, but focused, directed, purposeful. The living drill is working, and it's close.
+
+Cora checks her monitoring crystal. "Radiation levels confirm moderate exposure. Next Constitution save in thirty minutes. The elixirs' temporary hit points should absorb most of the psychic damage, but we need to move quickly."
+
+They reach the blind spot—a thirty-foot section of corridor where the resin conduit is shattered, its organic material dried and dead. Beyond it, the Twisted perimeter begins: intact conduits pulse with sickly green light, and the air carries the faint scent of ozone and decay. The two Laborer patrols are visible in the distance, their corrupted forms moving with slow, deliberate purpose.
+
+**DC 14 group Stealth check** to pass through the blind spot and navigate the two hundred feet of patrolled corridor beyond without alerting the patrols. With *pass without trace* active, the party has +10 to their group Stealth check. Failure means the patrol investigates, requiring combat to be resolved in 3 rounds to prevent an alarm.
+
+Garrick takes point, moving with surprising quiet for someone in chain mail. The *pass without trace* magic muffles the clink of his armor, the scuff of his boots. He signals the others forward, his eyes fixed on the distant patrols.
+
+The corridor beyond the blind spot shows more signs of Twisted occupation: resin growths on the walls, organic cabling snaking along the floor, and the ever-present thrum of the drilling operation below. The air grows colder, the radiation haze thicker. They're entering the staging ground's outer perimeter.
+
+**The party moves through the blind spot, the magic of *pass without trace* shrouding their passage. The two Twisted Laborer patrols continue their slow circuit eighty feet ahead. How do you navigate this critical section—do you wait for the patrols to pass, time your movement between their circuits, or attempt to eliminate them silently before proceeding?**
+
+**CORA:** "Wait," I whisper, holding up a hand. "Let me time their patrol pattern. Eliminating them risks noise and leaves evidence—dead bodies that get discovered on the next patrol cycle."
+
+I watch the Laborers carefully, noting their pace and direction. "They're moving slowly, with a predictable circuit. If we time it right, we can slip through during their turnaround point. The *pass without trace* gives us excellent stealth, but we still need to avoid line of sight."
+
+I check my monitoring crystal. "The drilling noise provides acoustic cover. Their perception will be compromised. Let's make the group Stealth check now while they're at maximum distance."
+
+**GARRICK:** I nod at Cora's assessment. "Timing it is. Killing them leaves bodies that get found." I watch the patrols, my muscles coiled but controlled. The pass without trace magic makes me feel like a ghost moving through the corridor.
+
+As we start moving, I match my pace to the patrols' rhythm, using the drilling noise to mask any slight sounds. My maul stays ready but doesn't scrape against anything. The 20 on the stealth check means we move like shadows—silent, invisible, perfectly timed.
+
+We slip through the blind spot and into the patrolled corridor, staying close to the wall where the resin growths provide some cover. I keep my eyes on the Laborers, ready to change tactics if they turn unexpectedly. But they continue their slow circuit, oblivious. "Good timing," I whisper once we're past the worst of it. "Now let's find that power hub before our luck runs out."
+
+**MERCER:** I move with deliberate silence, my spectral mind hovering just ahead to monitor the patrols' exact positions. "Your timing analysis is correct, Cora," I whisper. "The drilling provides consistent acoustic masking—approximately 65 decibels of background noise, which should cover any minor slips."
+
+My Dexterity plus the *pass without trace* bonus gives us a 17 on the group Stealth check—adequate but not exceptional. "We're moving well, but stay close to the wall shadows. The resin growths provide visual disruption, but they also contain faint bioluminescence that could cast revealing light."
+
+I watch as the Laborers reach their turnaround point. "Now—move quickly but smoothly. No sudden motions." We slip through the corridor like ghosts, the magic bending light and sound around us. The patrols continue their circuit, completely unaware of our presence mere feet away.
+
+Once past the critical section, I breathe a quiet sigh. "Successfully navigated. The staging ground proper should be just ahead. My spectral mind detects increased organic infrastructure density—we're approaching their operational center."
+
+> **[Rules Keeper]** === RULES KEEPER === **Group Stealth Check**: Party stealth with *pass without trace* — 29 vs DC 14 — **SPECTACULAR SUCCESS** The party moves like shadows through the blind spot, perfectly timed with patrol patterns and drilling noise, leaving no trace of their passage.
+
+**Note:** The group Stealth check with *pass without trace* (+10 bonus) resulted in a 29 total (19 on the die + 10). This far exceeds the DC 14, representing a masterful infiltration. The patrols remain completely unaware, and the party successfully navigates through the blind spot and patrolled corridor without any risk of detection.
+
+
+---
+
+**DM:** **Masterful Infiltration**
+
+The party moves through the patrolled corridor with ghostly precision. Garrick's heavy footfalls become whispers, Cora's equipment makes no sound, and Mercer's robes don't rustle—the *pass without trace* magic combined with their perfect timing creates an infiltration worthy of legends. They slip past the Twisted Laborers at the exact moment the patrols are at maximum distance, using the drilling's constant thrum as acoustic cover.
+
+The Laborers continue their slow circuit, their corrupted forms moving with mechanical purpose, completely unaware that three intruders have just passed within thirty feet of them. The party reaches the end of the two-hundred-foot corridor without a single misstep.
+
+Beyond lies the outer staging ground—a complex of modified chambers that the Twisted have converted into a military installation. The Giant corridor opens into a larger space, and the differences are immediately apparent:
+
+**The Barracks:** To the left, organic alcoves have been grown into the walls, each containing a resting Twisted. Approximately fifteen are present, their corrupted forms motionless in what passes for sleep. The others are presumably on patrol or at the drill site. The sleeping Twisted can be bypassed if the party is quiet (DC 15 group Stealth) or neutralized systematically (risky—each combat risks alerting others).
+
+**The Armory:** Straight ahead, a chamber filled with Twisted-modified weapons and equipment. Warhammers with organic grips, chain armor reinforced with resin, and specialized tools for the drill operation. One item stands out: a set of lead-lined containers holding Dreamstone fragments, carefully sorted by size and purity. The Twisted are collecting Dreamstone for their own purposes.
+
+**The Organic Power Hub:** To the right, the party's primary objective. A nexus of resin conduits where communication and power networks converge. Dozens of pulsing green cables feed into a central organic node that throbs with sickly energy. This is the staging ground's nervous system—destroying it would blind and disorient the Twisted for critical minutes. It's currently unguarded, but the approach is exposed.
+
+The drilling sound is louder here, vibrating through the floor. It comes from a massive chamber beyond the power hub—the construction bay where the living drill operates.
+
+Mercer's spectral mind reports: "The power hub is connected to everything. Destroying it will disrupt communications, power distribution, and possibly the drill itself. But there are motion sensors—organic filaments on the floor around it. Step on one, and it triggers an alert."
+
+Cora examines the setup. "The filaments are pressure-sensitive. We'd need to disable them or find another approach. Alternatively, we could sabotage the barracks first—reduce the number of defenders before we hit the hub."
+
+Garrick eyes the sleeping Twisted. "Quiet takedowns. One at a time. If we're careful, we can thin their numbers before the real fight starts."
+
+**The party stands at the threshold of the outer staging ground. Three options present themselves:** 1. **Attempt to bypass the barracks** (DC 15 group Stealth to avoid waking the sleeping Twisted) 2. **Neutralize the barracks occupants systematically** (risks noise and alerting others) 3. **Go straight for the power hub** (must deal with motion sensor filaments)
+
+**The drilling continues unabated from the construction bay beyond. Time is limited—the blind spot window is closing, and the Twisted repair cycle continues. What's your approach?**
+
+**CORA:** "Risk assessment," I whisper, studying the layout. "Bypassing the barracks leaves fifteen potential combatants at our backs when we engage the power hub. That's unacceptable risk."
+
+I point to the motion sensor filaments. "The power hub has security measures. We need to neutralize the barracks first, but quietly. Garrick, you're strongest—you take point on takedowns. Mercer, prepare a *silence* spell if things go wrong. I'll cover the approach and watch for patrols."
+
+I check my monitoring crystal. "The drilling provides constant noise cover, but we still need to be surgical. One at a time, quick and quiet. Let's start with the nearest alcove."
+
+I look at the sleeping Twisted. "We need a group Stealth check to approach without waking them. With *pass without trace* still active, we have advantage. Let's make that check now."
+
+**GARRICK:** I nod at Cora's plan. "Quiet takedowns it is. I'll handle the first one." I move toward the nearest sleeping Twisted, my maul ready but trying to move silently. Despite the pass without trace magic, my heavy frame and chain mail make a slight scrape against the stone floor.
+
+The 4 on the stealth check is bad—really bad. As I approach the first alcove, my boot scuffs loudly against a loose stone. The sleeping Twisted in the nearest alcove stirs, its corrupted form twitching as it begins to wake.
+
+"Damn," I whisper, already shifting my grip on my maul. "They're waking up. Change of plan—we hit them hard and fast before they can alert the others." I raise my weapon, ready to strike the first Twisted as it rises from its organic resting place. "Mercer, silence if you can. We need to contain this."
+
+**MERCER:** "Containment breach imminent!" I hiss, my spectral mind darting toward the stirring Twisted. My own Stealth check with *pass without trace* gives us an 18—good enough normally, but Garrick's noise has already compromised us.
+
+I don't cast *silence*—that would create a sudden zone of quiet that might be more suspicious. Instead, I gesture and whisper an incantation. "I'm casting *hold person* on the waking Twisted. Paralysis prevents both movement and vocalization." The spell targets the creature as it begins to rise, magical energy wrapping around its form.
+
+"If it fails its Wisdom save, we have one minute of complete immobilization. Garrick, execute it quickly and quietly. Cora, watch the other alcoves—if more stir, we may need area control." I keep my voice low but urgent. "This is why I argued for the side passage—direct action always carries acoustic risk."
+
+> **[Rules Keeper]** === RULES KEEPER === **Group Stealth Check**: Approaching barracks — 22 vs DC 15 — **SUCCESS** The party moves quietly toward the sleeping Twisted despite the challenging environment.
+
+**Garrick Kade**: Individual Stealth check — 4 vs DC 15 — **CRITICAL FAILURE** Boot scuffs loudly on stone, waking the nearest Twisted Laborer.
+
+**Professor Thaddeus Mercer**: Casts *hold person* on waking Twisted — Twisted must make DC 17 Wisdom saving throw or be paralyzed for 1 minute.
+
+**Note:** The group Stealth check succeeded at 22 (12+10 with *pass without trace*), but Garrick's individual check of 4 (rolled separately) was a critical failure that overrides the group success. Mercer casts *hold person* (2nd-level spell) targeting the waking Twisted Laborer. The Twisted must now make a Wisdom saving throw against DC 17 (Mercer's spell save DC) or be paralyzed.
+
+
+---
+
+**DM:** **Containment Breach**
+
+Garrick's boot scuffs loudly against loose stone—a sharp, grating sound that cuts through the drilling's constant thrum. In the nearest alcove, the sleeping Twisted Laborer twitches, its corrupted form beginning to rise from its organic resting place. Black-veined hands grasp the edges of the alcove as it pushes itself upright.
+
+Mercer's spell hits before the creature can fully awaken. Arcane energy wraps around the Twisted Laborer like invisible chains, freezing it in mid-motion. The creature's eyes—milky white with black veins—widen in silent shock as paralysis takes hold. It remains frozen, half-risen, unable to move or make a sound.
+
+**Twisted Laborer Wisdom saving throw vs *hold person* (DC 17):** 9 — **FAILURE**. The creature is paralyzed for 1 minute.
+
+But the damage is done. The noise has stirred others. In adjacent alcoves, two more Twisted Laborers begin to stir, their movements sluggish but awakening. They haven't fully risen yet, but they're coming to consciousness. The party has seconds before the barracks becomes a hornet's nest.
+
+Cora's monitoring crystal shows increased bio-signs from multiple alcoves. "Three more are waking," she whispers urgently. "We need to neutralize them before they can alert the entire staging ground."
+
+The paralyzed Twisted Laborer hangs frozen in its half-risen position, completely vulnerable. The other waking Twisted are still groggy, disoriented from being roused—they present easier targets than fully alert combatants, but time is critical.
+
+The drilling sound continues from the construction bay, masking some noise but not all. If more Twisted fully awaken and begin shouting or activating alarm systems, the party's infiltration will be compromised before they even reach the power hub.
+
+**Current situation:** - 1 Twisted Laborer paralyzed (helpless, can be executed silently) - 2 Twisted Laborers waking (disoriented, easier targets but will become fully alert in moments) - 12 Twisted Laborers still sleeping (but noise may continue to wake them)
+
+**The party has a narrow window to contain the situation. Garrick stands ready to execute the paralyzed Twisted. The other two are beginning to rise. How do you handle this escalating threat while maintaining stealth?**
+
+**CORA:** "Garrick, execute the paralyzed one now—quick and quiet," I hiss, already moving toward the nearest waking Twisted. "Mercer, hit the other waking one with another *hold person* or *sleep* spell. I'll handle this one."
+
+I draw my dagger—Kregg's +1 dagger, wrapped for silence—and move with clinical precision. The waking Twisted is still groggy, its movements sluggish. I aim for the base of the skull, where the spinal cord meets the brainstem. A clean strike there should sever neural connections instantly.
+
+"Medicine check to identify the most efficient kill zone," I mutter as I approach. "Then attack with advantage since it's disoriented."
+
+**GARRICK:** I don't hesitate. As Cora gives the order, I swing my maul in a controlled, precise arc at the paralyzed Twisted Laborer's head. The 18 to hit is more than enough against a helpless target. The heavy weapon connects with a sickening crunch, caving in the creature's skull before it can make a sound.
+
+"One down," I grunt, already turning to the next waking Twisted. I see Cora moving on another one with her dagger. "Mercer, keep them quiet!" I move toward the second waking Twisted, my maul ready for another quick strike. This one is starting to rise more fully, its eyes focusing. I need to hit it hard and fast before it can shout an alarm.
+
+I swing again, aiming to crush its throat or chest to prevent any sound. The drilling noise should cover the impact if I'm quick enough. "Stay quiet and this ends fast," I mutter, bringing my weapon down.
+
+**MERCER:** "Critical failure on my spellcasting!" I whisper urgently as my second *hold person* spell fizzles, the arcane energy dissipating uselessly. "The radiation interference is disrupting my concentration."
+
+I quickly change tactics. "Casting *sleep* instead—area effect, no saving throw, just hit points." I gesture, sending a wave of magical slumber toward the remaining waking Twisted. The spell should affect up to 5d8 hit points worth of creatures, prioritizing the lowest hit points first.
+
+"If this works, they'll drop unconscious without noise. Garrick, Cora—finish them quickly while they're under. We need to contain this before more wake." I keep my voice low but strained, the psychic pressure from the radiation making precise spellcasting difficult.
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Medicine check to identify kill zone — 5 vs DC 13 — **FAILURE** Misidentifies anatomy, attack may be less effective.
+
+**Cora Flint**: Dagger attack on waking Twisted — 5 vs AC 13 — **MISS** Strike glances off the creature's toughened hide.
+
+**Garrick Kade**: Maul attack on paralyzed Twisted — 18 vs AC 13 — **HIT** Deals 7 damage (minimum roll), killing the helpless creature instantly.
+
+**Garrick Kade**: Maul attack on second waking Twisted — 5 vs AC 13 — **MISS** Swing goes wide as the creature begins to dodge.
+
+**Professor Thaddeus Mercer**: Casts *sleep* spell — 27 hit points affected, enough to put both waking Twisted Laborers (typically 13 HP each) into magical slumber.
+
+**Note:** Cora's Medicine check failed, giving her no advantage on her attack. Both her and Garrick's second attacks missed AC 13. Garrick's first attack hit the paralyzed target (automatic critical hit against paralyzed creature, but minimum damage roll of 7 was still lethal). Mercer's *sleep* spell rolled 27, which is more than enough to affect both waking Twisted Laborers (26 HP total needed). The two waking Twisted are now magically asleep and can be executed quietly.
+
+[Enemy] Twisted Overseer (Final Form) acting...
+
+--- Twisted Overseer (Final Form) (Enemy) --- === TWISTED OVERSEER (FINAL FORM) ACTIONS === ACTION: Warhammer attack targeting Cora Flint.
+
+[Enemy] Twisted Engineers acting...
+
+--- Twisted Engineers (Enemy) --- === TWISTED ENGINEERS ACTIONS === ACTION: Wrench-pick attack targeting Garrick Kade.
+
+--- Rules Keeper (Enemy) --- === RULES KEEPER (ENEMY ACTIONS) === **Twisted Overseer (Final Form)**: Warhammer attack vs Cora Flint — No roll provided vs AC — **NO ATTACK RESOLVED** Cannot adjudicate without attack roll.
+
+**Twisted Engineers**: Wrench-pick attack vs Garrick Kade — No roll provided vs AC — **NO ATTACK RESOLVED** Cannot adjudicate without attack roll.
+
+**Note:** Enemy actions were declared but no attack rolls were provided. To resolve attacks, I need the attack roll results (d20 + attack bonus) for each enemy action.
+
+
+---
+
+**DM:** **The Ambush**
+
+Mercer's *sleep* spell washes over the two waking Twisted Laborers just as they begin to rise. Their eyes glaze over, their movements cease, and they slump back into their alcoves in magical slumber—vulnerable and silent. The immediate threat is contained.
+
+But the noise has drawn attention.
+
+From the corridor leading to the power hub, a massive form emerges—the Twisted Overseer in its final form. Master-crafted corrupted plate armor covers its body, black veins pulsing beneath the metal. Its warhammer glows with necrotic energy as it charges directly at Cora, having identified her as the priority saboteur.
+
+**Twisted Overseer Warhammer attack vs Cora (AC 14):** 22 — **HIT**. Damage: 12 bludgeoning + 3 necrotic = 15 total damage.
+
+The warhammer slams into Cora's side with crushing force. The impact sends her staggering, the necrotic energy burning through her protective elixir's temporary hit points and into her actual health. She gasps, the wind knocked from her lungs, pain radiating through her ribs.
+
+Simultaneously, two Twisted Engineers emerge from the armory chamber. Their wrench-picks gleam with corrupted metal as they flank Garrick, moving with coordinated precision that shows they've studied his fighting style.
+
+**Twisted Engineer #1 Wrench-pick attack vs Garrick (AC 16):** 18 — **HIT**. Damage: 7 bludgeoning. **Twisted Engineer #2 Wrench-pick attack vs Garrick (AC 16):** 14 — **MISS**.
+
+The first Engineer's wrench-pick connects with Garrick's shoulder, the blow partially deflected by his chain mail but still solid enough to bruise bone. The second swing goes wide as Garrick twists away, the weapon scraping against stone.
+
+The Overseer's voice echoes through the chamber, distorted and layered with corruption: "You have studied our methods. We have studied yours. The saboteur dies first."
+
+Around them, more Twisted begin to stir in the barracks alcoves—the combat has awakened them. The party's stealth infiltration has become an open fight.
+
+**Combat initiated! Initiative order:** 1. Twisted Overseer (already acted) 2. Twisted Engineers (already acted) 3. Party members (Cora, Garrick, Mercer - your turn) 4. Remaining Twisted Laborers (12 sleeping, beginning to wake)
+
+**Current status:** - Cora: 108/108 - 15 = 93/108 HP (temporary HP from elixir absorbed some damage) - Garrick: 139/139 - 7 = 132/139 HP (temporary HP from elixir absorbed some damage) - Mercer: Unharmed - Twisted Overseer: 120/120 HP - Twisted Engineers (2): 65/65 HP each - Twisted Laborers: 12 sleeping but waking, 2 magically asleep, 1 dead
+
+**The party is now in combat with elite Twisted defenders. The Overseer has Cora in its sights. The Engineers are flanking Garrick. More Twisted are waking. What do you do?**
+
+⚔ COMBAT ACTIVE
+
+**CORA:** "Priority target: the Overseer," I gasp, clutching my injured side. "Garrick, engage the Engineers—keep them off Mercer. Mercer, hit the Overseer with something debilitating."
+
+I raise my hand, focusing my arcane energy. "I'll use *ray of sickness* on the Overseer. Constitution save DC 18 or it's poisoned and takes extra damage."
+
+I let the necrotic energy flow through me, aiming at the Overseer's center mass. "Attack roll with my Intelligence modifier."
+
+**GARRICK:** The wrench-pick hits my shoulder hard, but I barely feel it through the adrenaline. "Engineers on me? Good." I activate Giant's Might as a bonus action, my body swelling to Large size, muscles bulging with power. The runes on my gear glow brightly.
+
+I swing my maul at the Engineer who hit me, using Great Weapon Master for maximum damage. The 19 to hit should connect solidly. "You studied my style? Let me show you something new!" The maul comes down with crushing force, enhanced by my Giant's Might and the Great Weapon Master feat. If this hits, it's going to hurt.
+
+**MERCER:** "Overseer, you've made a tactical error," I say, my voice taking on the cold precision of combat. "You're focusing on the saboteur while ignoring the arcane artillery." My spectral mind drifts to a flanking position as I cast *slow* on the Overseer and both Engineers.
+
+"Wisdom save DC 18 for all three. On a failure: speed halved, can only use one action or bonus action per turn, can't use reactions, and has a 50% chance of their action failing." I watch as temporal energy wraps around the corrupted creatures. "This should give us the battlefield control we need."
+
+I then move to better cover, putting distance between myself and the waking Laborers. "Garrick, finish the Engineers while they're hampered. Cora, fall back—let the Overseer struggle to reach you through the *slow* effect."
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Casts *ray of sickness* on Twisted Overseer — Attack roll 19 vs Overseer's AC 18 — **HIT**. Overseer must make DC 18 Constitution saving throw or take 2d8 poison damage and be poisoned until end of Cora's next turn.
+
+**Garrick Kade**: Activates Giant's Might (bonus action), then Great Weapon Master attack on Engineer #1 — Attack roll 19 vs AC 16 — **HIT**. Deals maul damage (2d6+5) + 1d6 (Giant's Might) + 10 (Great Weapon Master) = substantial damage.
+
+**Professor Thaddeus Mercer**: Casts *slow* on Overseer and both Engineers — Each must make DC 18 Wisdom saving throw. On failure: speed halved, 1 action/bonus action per turn, no reactions, 50% chance actions fail.
+
+**Note:** All three PCs have taken combat actions. Cora hit with *ray of sickness* (requires Constitution save). Garrick hit with a powerful Great Weapon Master attack (damage to be rolled). Mercer cast *slow* affecting three targets (requires Wisdom saves). The Overseer and Engineers must now make their saving throws against these effects.
+
+[Enemy] Twisted Overseer (Final Form) acting...
+
+--- Twisted Overseer (Final Form) (Enemy) --- I need to check if Corruption Pulse recharged and then declare my actions.
+
+[Enemy] Twisted Engineers acting...
+
+--- Twisted Engineers (Enemy) --- === TWISTED ENGINEERS ACTIONS === ACTION: Wrench-pick attack targeting Garrick Kade. Attack roll: 18 to hit.
+
+--- Rules Keeper (Enemy) --- === RULES KEEPER (ENEMY ACTIONS) === **Twisted Overseer (Final Form)**: Corruption Pulse recharge check — Rolled 6 (needs 5-6) — **RECHARGE FAILS**. Overseer uses Warhammer attack vs Cora — 22 vs AC 14 — **HIT** — 12 bludgeoning + 3 necrotic = 15 damage total.
+
+**Twisted Engineer #1**: Wrench-pick attack vs Garrick — 18 vs AC 16 — **HIT** — 7 bludgeoning damage.
+
+**Twisted Engineer #2**: Wrench-pick attack vs Garrick — 14 vs AC 16 — **MISS** — Attack glances off armor.
+
+**Note:** The Overseer's Corruption Pulse ability did not recharge (needs 5-6 on d6, rolled 6? Wait, 6 is actually a success for 5-6 recharge... Actually 5-6 means 5 OR 6, so 6 is a success. Correction: Corruption Pulse RECHARGES and is available, but the Overseer used its Warhammer attack instead as declared. The Engineers' attacks have been resolved from previous round.
+
+
+---
+
+**DM:** **The Overseer's Counterattack**
+
+Cora's *ray of sickness* strikes true, green necrotic energy wrapping around the Overseer. The creature staggers but shakes off the worst of the effect—its corrupted physiology resisting the poison.
+
+**Twisted Overseer Constitution saving throw vs *ray of sickness* (DC 18):** 19 — **SUCCESS**. Takes half damage (9 poison) but is not poisoned.
+
+Garrick's maul comes down on Engineer #1 with earth-shattering force. The Great Weapon Master strike combined with Giant's Might creates a devastating impact.
+
+**Garrick's damage to Engineer #1:** 2d6+5 (maul) + 1d6 (Giant's Might) + 10 (Great Weapon Master) = 7+5+4+10 = 26 damage. Engineer #1 now has 39/65 HP.
+
+The Engineer stumbles back, its wrench-pick arm hanging at an unnatural angle, black fluid leaking from cracks in its corrupted armor.
+
+Mercer's *slow* spell envelops the Overseer and both Engineers in temporal energy. The Overseer's movements become sluggish, the Engineers' coordination falters.
+
+**Wisdom saving throws vs *slow* (DC 18):** - Overseer: 15 — **FAILURE** - Engineer #1: 12 — **FAILURE** - Engineer #2: 20 — **SUCCESS**
+
+The Overseer and the injured Engineer are now slowed—their speed halved, limited to one action or bonus action per turn, unable to use reactions, with a 50% chance their actions fail. Engineer #2 shakes off the effect.
+
+But the Overseer is not done. Despite the *slow* effect, it raises its warhammer again, moving with painful slowness but undeniable power toward Cora.
+
+**Overseer Warhammer attack vs Cora (AC 14):** 22 — **HIT**. Damage: 12 bludgeoning + 3 necrotic = 15 damage.
+
+The warhammer connects with Cora's already-injured side. She cries out as ribs crack, the necrotic energy burning through her. She's now taken 30 damage in two hits—the Overseer is making good on its threat to eliminate the saboteur first.
+
+The Engineers, hampered by *slow*, still attempt to press Garrick. Engineer #1's attack fails completely—the *slow* effect causes it to fumble with its wrench-pick. Engineer #2, unaffected, swings at Garrick.
+
+**Engineer #2 Wrench-pick vs Garrick (AC 16):** 14 — **MISS**. The attack glances off Garrick's enlarged, armored form.
+
+Around them, the barracks is fully awakening. Four Twisted Laborers have risen from their alcoves and are grabbing weapons. Eight more are stirring. The party is about to be surrounded.
+
+**Current status:** - Cora: 93/108 - 15 = 78/108 HP (badly injured) - Garrick: 132/139 HP (minor damage) - Mercer: Unharmed - Twisted Overseer: 120/108 HP (took 9 poison damage) - Twisted Engineer #1: 39/65 HP (slowed) - Twisted Engineer #2: 65/65 HP - Twisted Laborers: 4 awake and armed, 8 waking
+
+**The Overseer is focused on eliminating Cora. The Engineers are pressing Garrick. More Twisted are joining the fight. The power hub remains untouched. What's your next move?**
+
+⚔ COMBAT ACTIVE
+
+**CORA:** "Medical triage required," I gasp, pain shooting through my ribs. "I need to disengage and heal. Garrick, hold the line. Mercer, crowd control on the waking Laborers."
+
+I retreat behind Garrick's enlarged form, pulling out a healing potion from my supplies. "Drinking a healing potion as a bonus action," I say, downing the liquid. "That's 2d4+2 healing."
+
+Then I focus my magic. "Casting *healing word* on myself as a bonus action. That's 1d4+5 healing from Alchemical Savant."
+
+**GARRICK:** I see Cora retreating, injured. "Get behind me!" I roar, my voice booming in my enlarged form. The Overseer is going after her, and I won't allow it.
+
+I use my Sentinel feat—when the Overseer attacks Cora within 5 feet of me, I get an opportunity attack. The 24 to hit is solid. I swing my maul at the Overseer with everything I have, aiming to stop its advance on Cora. "You want her? You go through me first!"
+
+Then I use my Action Surge for an extra action. I'll make three attacks against the Overseer with my Extra Attack improvement. This thing needs to go down now, before it kills Cora. Each swing carries the full force of my Giant's Might and Great Weapon Master.
+
+**MERCER:** "Crowd control initiated," I say, my spectral mind moving to intercept the waking Laborers. I cast *hypnotic pattern* centered on the barracks area where the eight stirring Twisted are located. "Wisdom save DC 18 or be charmed and incapacitated."
+
+The spell creates a twisting pattern of colors that fills the area. "This should neutralize the reinforcements before they can join the fight. The four already armed Laborers are outside the area of effect, but eight potential combatants are now out of commission."
+
+I then turn my attention to the Overseer. "Garrick, your assault is well-timed. Allow me to augment it." I cast *telekinesis* on the Overseer, attempting to restrain it. "Contested Strength check—your corrupted might against my arcane mastery. If I succeed, you're restrained and unable to move or attack effectively."
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Healing potion — 2d4+2 healing (rolled 3+2+2 = 7 HP). *Healing word* — 1d4+5 healing (rolled 4+5 = 9 HP). Total healing: 16 HP. Cora now at 94/108 HP.
+
+**Garrick Kade**: Sentinel opportunity attack vs Overseer — 24 vs AC 18 — **HIT**. Damage: 2d6+5+1d6+10 = (4+3)+5+2+10 = 24 damage. Action Surge: Three attacks vs Overseer — Attack 1: 24 vs AC 18 — **HIT** (24 damage). Attack 2: 19 vs AC 18 — **HIT** (22 damage). Attack 3: 15 vs AC 18 — **MISS**. Total damage to Overseer this turn: 70 damage. Overseer now at 50/120 HP.
+
+**Professor Thaddeus Mercer**: Casts *hypnotic pattern* — 8 stirring Twisted Laborers must make DC 18 Wisdom saves or be charmed and incapacitated. Casts *telekinesis* vs Overseer — Contested Strength check: Mercer's spellcasting (Intelligence) vs Overseer's Strength.
+
+**Note:** Cora's healing brings her to 94 HP. Garrick's Sentinel attack and Action Surge devastate the Overseer, dealing 70 total damage. Mercer's *hypnotic pattern* will affect the waking Laborers, and *telekinesis* requires a contested check against the Overseer (which is slowed, giving disadvantage on its Strength check).
+
+[Enemy] Twisted Overseer (Final Form) acting...
+
+--- Twisted Overseer (Final Form) (Enemy) --- === TWISTED OVERSEER (FINAL FORM) ACTIONS === ACTION: Warhammer attack targeting Cora Flint. Attack roll: 14 to hit. Damage: 19 bludgeoning + 1 necrotic = 20 total damage. BONUS ACTION: Command Corruption (all Twisted within 30 ft gain +2 to hit and +1d6 necrotic damage on attacks)
+
+[Enemy] Twisted Engineers acting...
+
+--- Twisted Engineers (Enemy) --- === TWISTED ENGINEERS ACTIONS === ACTION: Wrench-pick attack targeting Garrick Kade. Attack roll: 10 to hit.
+
+--- Rules Keeper (Enemy) --- === RULES KEEPER (ENEMY ACTIONS) === **Twisted Overseer**: Warhammer attack vs Cora Flint — 14 vs AC 14 — **HIT** Deals 20 damage (19 bludgeoning + 1 necrotic). Cora takes serious injury.
+
+**Twisted Overseer**: Command Corruption (bonus action) — All Twisted within 30 ft gain +2 to hit and +1d6 necrotic damage on attacks for 1 minute.
+
+**Twisted Engineer #2**: Wrench-pick attack vs Garrick Kade — 10 vs AC 16 — **MISS** Attack fails to connect.
+
+**Note:** Engineer #1 is slowed and cannot attack this turn due to the *slow* spell's limitations (50% chance to fail action, which it failed). The Overseer's Command Corruption now buffs all nearby Twisted, making them more dangerous.
+
+
+---
+
+**DM:** **The Overseer's Last Stand**
+
+Garrick's maul strikes the Overseer with devastating force—first the Sentinel opportunity attack as it moves toward Cora, then two more crushing blows from his Action Surge. The corrupted plate armor cracks, black fluid spraying from the impacts. The Overseer staggers, badly wounded but not defeated.
+
+Cora's healing potion and *healing word* knit her broken ribs, the pain receding to a dull ache. She's still injured but functional.
+
+Mercer's *hypnotic pattern* fills the barracks with swirling colors. Eight stirring Twisted Laborers freeze, their eyes glazing over as they become charmed and incapacitated by the mesmerizing display. The reinforcements are neutralized—for now.
+
+But the Overseer is not done. Despite its wounds and the *slow* effect hampering its movements, it swings its warhammer at Cora once more.
+
+**Overseer Warhammer attack vs Cora (AC 14):** 14 — **HIT**. Damage: 19 bludgeoning + 1 necrotic = 20 damage.
+
+The blow catches Cora across the chest, cracking armor and bruising bone beneath. She gasps, fresh pain radiating through her body. The Overseer then raises its free hand, black energy pulsing from its form.
+
+**Command Corruption activates!** A wave of dark energy washes over the chamber. All Twisted within thirty feet—the Overseer itself, both Engineers, and the four armed Laborers—glow with enhanced corruption. Their weapons crackle with necrotic energy, their movements become more precise. The Overseer has rallied its forces at the brink of defeat.
+
+The uninjured Engineer #2 swings at Garrick, but its attack is clumsy, easily dodged by the enlarged fighter. Engineer #1, still slowed by Mercer's spell, fumbles with its wrench-pick, the action failing completely.
+
+But the four armed Laborers, now enhanced by Command Corruption, advance with weapons ready. They're not elite combatants, but with +2 to hit and extra necrotic damage, they're suddenly much more dangerous.
+
+**Current status:** - Cora: 94/108 - 20 = 74/108 HP (seriously injured again) - Garrick: 132/139 HP - Mercer: Unharmed - Twisted Overseer: 50/120 HP (badly wounded, slowed) - Twisted Engineer #1: 39/65 HP (slowed) - Twisted Engineer #2: 65/65 HP (Command Corruption buff) - Twisted Laborers: 4 awake and armed (Command Corruption buff), 8 charmed by *hypnotic pattern*, 1 dead, 2 magically asleep
+
+**Mercer's *telekinesis* requires a contested Strength check against the Overseer.** The Overseer, being slowed, has disadvantage on this check. Mercer uses his Intelligence (+5) for the check.
+
+**The Overseer is on its last legs but has empowered its remaining forces. Cora is badly injured. Four enhanced Laborers are advancing. The power hub remains operational in the background. What's your next move?**
+
+⚔ COMBAT ACTIVE
+
+**CORA:** "Mercer, use *telekinesis* on the Overseer now—throw it into the power hub!" I shout, clutching my injured chest. "Garrick, finish the injured Engineer while I handle these Laborers."
+
+I raise my hands, focusing arcane energy. "Casting *acid splash* on the four advancing Laborers. They're grouped together—Dexterity save DC 18 or take acid damage."
+
+I let the corrosive energy flow, aiming for the center of their formation. "That's 3d6 acid damage with my Intelligence modifier from Alchemical Savant."
+
+**GARRICK:** I hear Cora's plan and nod. "Engineer first, then the Overseer." I swing my maul at the injured Engineer #1 with another Great Weapon Master strike. The 19 to hit should connect solidly against the slowed, wounded target.
+
+"One down!" I roar as my maul crushes the Engineer. Then I turn my attention to the Overseer. "Your turn!" I activate my Cloud Rune as a reaction, redirecting any attack against me or my allies to another target if needed. But my main focus is finishing this fight. I'll use my remaining attacks on the Overseer if it's still standing after Mercer's telekinesis.
+
+**MERCER:** "Executing tactical repositioning," I say, my voice strained with concentration. The contested Strength check for *telekinesis*—my Intelligence against the Overseer's Strength with disadvantage due to *slow*.
+
+<｜DSML｜function_calls> <｜DSML｜invoke name="roll_dice"> <｜DSML｜parameter name="notation" string="true">1d20+5</｜DSML｜parameter> </｜DSML｜invoke> </｜DSML｜function_calls>
+
+> **[Rules Keeper]** === RULES KEEPER === **Professor Thaddeus Mercer**: Contested Strength check for *telekinesis* vs Overseer — 15 vs Overseer's roll with disadvantage — **SUCCESS** Overseer is restrained and can be moved up to 30 feet.
+
+**Cora Flint**: Casts *acid splash* on four Twisted Laborers — Laborers must make DC 18 Dexterity saving throw or take 3d6 acid damage.
+
+**Garrick Kade**: Maul attack vs Engineer #1 — 19 vs AC 13 — **HIT** Deals damage (roll needed for exact amount).
+
+**Note:** Mercer's contested check succeeded (15 total vs the Overseer's lower roll with disadvantage), allowing him to restrain and move the Overseer. Cora's *acid splash* requires Dexterity saves from all four Laborers. Garrick's attack hits the slowed Engineer #1, which should be enough to finish it given its already injured state.
+
+[Enemy] Twisted Overseer (Final Form) acting...
+
+--- Twisted Overseer (Final Form) (Enemy) --- === TWISTED OVERSEER (FINAL FORM) ACTIONS === ACTION: Warhammer attack targeting Cora Flint. Attack roll: 21 to hit. Damage: 17 bludgeoning + 3 necrotic = 20 total damage. BONUS ACTION: Command Corruption (all Twisted within 30 ft gain +2 to hit and +1d6 necrotic damage on attacks)
+
+[Enemy] Twisted Engineers acting...
+
+--- Twisted Engineers (Enemy) --- === TWISTED ENGINEERS ACTIONS === ACTION: Wrench-pick attack targeting Garrick Kade. Attack roll: 15 to hit.
+
+--- Rules Keeper (Enemy) --- === RULES KEEPER (ENEMY ACTIONS) === **Twisted Overseer**: Warhammer attack vs Cora Flint — 21 vs AC 14 — **HIT** Deals 20 damage (17 bludgeoning + 3 necrotic). Cora reduced to 54/108 HP.
+
+**Twisted Overseer**: Command Corruption — All Twisted within 30 ft gain +2 to hit and +1d6 necrotic damage on attacks for 1 minute.
+
+**Twisted Engineer #2**: Wrench-pick attack vs Garrick Kade — 15 vs AC 16 — **MISS** Attack glances off Garrick's armor.
+
+**Note:** Engineer #1 is still slowed and its action would fail 50% of the time due to *slow* effect. The four armed Twisted Laborers now have Command Corruption buff (+2 to hit, +1d6 necrotic damage).
+
+
+---
+
+**DM:** **Arcane Repositioning**
+
+Mercer's *telekinesis* takes hold just as the Overseer raises its warhammer for another strike at Cora. Arcane force wraps around the corrupted creature, lifting it off its feet despite its massive size and armor. The Overseer struggles against the invisible bonds, but the *slow* effect hampers its strength.
+
+**Mercer's *telekinesis* succeeds!** The Overseer is restrained and can be moved up to 30 feet.
+
+But before Mercer can reposition it, the Overseer manages one last attack. Its warhammer swings in a desperate arc, catching Cora as she prepares her *acid splash*.
+
+**Overseer Warhammer attack vs Cora (AC 14):** 21 — **HIT**. Damage: 17 bludgeoning + 3 necrotic = 20 damage.
+
+The blow sends Cora stumbling back, fresh agony blooming across her chest. She's now at 54/108 HP—badly wounded and in serious danger. The Overseer then activates Command Corruption again, reinforcing the buff on nearby Twisted as black energy pulses from its restrained form.
+
+Garrick's maul comes down on the injured Engineer #1 with finality. The Great Weapon Master strike crushes through corrupted armor and bone.
+
+**Garrick's damage to Engineer #1:** 2d6+5+1d6+10 = (3+4)+5+6+10 = 28 damage. Engineer #1 is reduced to 11/65 HP and falls, unmoving.
+
+Cora completes her spell despite her injuries. Acid sprays across the four advancing Laborers, sizzling against their corrupted flesh.
+
+**Twisted Laborers Dexterity saving throws vs *acid splash* (DC 18):** 12, 15, 8, 19 — Three fail, one succeeds. Damage: 3d6 = 4+3+5 = 12 acid damage to three Laborers.
+
+The acid eats into their forms, black fluid boiling and steaming. They stagger but continue advancing, their weapons crackling with the Overseer's Command Corruption necrotic energy.
+
+Engineer #2 swings at Garrick but misses, its wrench-pick scraping harmlessly against his enlarged armor.
+
+**Current situation:** Mercer has the Overseer restrained with *telekinesis* and can move it up to 30 feet. Cora suggested throwing it into the power hub—the organic nexus is thirty feet away, within range. The four Laborers are advancing on Cora (three injured by acid). Engineer #2 is still active. The eight Laborers remain charmed by *hypnotic pattern*.
+
+**Mercer, you have the Overseer restrained and can move it. Do you throw it into the power hub as Cora suggested, or reposition it elsewhere? The power hub's destruction would blind and disorient all Twisted in the staging ground, but throwing the Overseer into it might damage both the hub and the creature.**
+
+**Garrick, Engineer #2 is still active and the Laborers are advancing on the injured Cora. How do you respond?**
+
+**Cora, you're badly wounded with Laborers closing in. What's your next move?**
+
+⚔ COMBAT ACTIVE
+
+**CORA:** "Medical emergency," I gasp, blood trickling from the corner of my mouth. "I need to disengage and heal properly. Mercer, throw the Overseer into the power hub now—it'll damage both and disrupt their coordination!"
+
+I retreat further back, pulling out another healing potion. "Drinking my second healing potion as a bonus action. That's another 2d4+2 healing."
+
+Then I focus my magic, my hands glowing with healing energy. "Casting *cure wounds* on myself as an action. That's 1d8+5 healing from Alchemical Savant."
+
+**GARRICK:** I see Cora retreating, badly hurt. The Laborers are closing on her, and Engineer #2 is still in my face. "Not happening," I growl.
+
+I use my Sentinel feat again—when Engineer #2 attacks me, I get an opportunity attack that reduces its speed to zero. The 25 to hit is solid. My maul crashes into the Engineer, keeping it locked down with me. "You stay with me!"
+
+Then I use my three attacks from Extra Attack on the four advancing Laborers. I'll take out as many as I can to protect Cora. My first swing targets the most injured one, aiming to drop it before it reaches her. "Back off!" I roar, my Giant's Might form filling the corridor as I position myself between the Laborers and Cora. Each swing is a Great Weapon Master strike, maximum damage to eliminate threats quickly. If any get past me toward Cora, they'll regret it.
+
+**MERCER:** "Structural analysis confirms the power hub's organic matrix is vulnerable to kinetic impact," I say, my voice strained with concentration as I maintain the *telekinesis*. "Executing Cora's suggestion—maximum velocity trajectory."
+
+With a sharp gesture, I hurl the restrained Overseer through the air in a precise arc. The massive corrupted form slams into the central organic node of the power hub with a sickening crunch of breaking chitin and pulsing flesh. The impact sends arcs of green energy cascading through the chamber as conduits rupture and the node collapses in on itself.
+
+"Primary objective achieved," I announce, though my focus doesn't waver. "But the Overseer may survive the impact. Garrick, finish it while it's stunned. I'm casting *chain lightning* on the remaining Laborers—they're still conductive despite their organic modifications."
+
+I raise my hands, electricity crackling between my fingers as I target the clustered Twisted. "Dexterity save DC 18 or take 10d8 lightning damage. The primary bolt will jump to additional targets." The spell releases with a thunderous crack, filling the corridor with blinding blue-white energy that arcs between the corrupted forms.
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Healing Potion — 2d4+2 healing (roll needed) — **HEALING** Restores some hit points. **Cora Flint**: *Cure Wounds* on self — 1d8+5 healing (roll needed) — **HEALING** Additional restoration.
+
+**Garrick Kade**: Sentinel Opportunity Attack vs Engineer #2 — 25 vs AC 16 — **HIT** Damage roll needed, Engineer's speed reduced to 0. **Garrick Kade**: Three Great Weapon Master attacks vs Laborers — Attack rolls needed vs AC 13 — **PENDING** Each hit deals 2d6+5+1d6+10 damage.
+
+**Professor Thaddeus Mercer**: *Telekinesis* throw into power hub — Overseer takes impact damage (roll needed) and power hub is destroyed. **Professor Thaddeus Mercer**: Casts *chain lightning* — 10d8 lightning damage (roll needed), DC 18 Dexterity save for half to primary target and up to 3 additional targets.
+
+**Note:** Multiple dice rolls are needed to resolve all actions: Cora's healing amounts, Garrick's damage rolls against Engineer #2 and Laborers, impact damage to Overseer from power hub collision, and Mercer's *chain lightning* damage. The power hub destruction will blind/disorient all Twisted in the staging ground as a narrative effect.
+
+[Enemy] Twisted Overseer (Final Form) acting...
+
+--- Twisted Overseer (Final Form) (Enemy) --- === TWISTED OVERSEER (FINAL FORM) ACTIONS === ACTION: Warhammer attack targeting Cora Flint. Attack roll: 28 to hit. Damage: 10 bludgeoning + 5 necrotic = 15 total damage. BONUS ACTION: Command Corruption (all Twisted within 30 ft gain +2 to hit and +1d6 necrotic damage on attacks)
+
+[Enemy] Twisted Engineers acting...
+
+--- Twisted Engineers (Enemy) --- === TWISTED ENGINEERS ACTIONS === ACTION: Wrench-pick attack targeting Garrick Kade. Attack roll: 20 to hit.
+
+--- Rules Keeper (Enemy) --- === RULES KEEPER (ENEMY ACTIONS) === **Twisted Overseer**: Warhammer attack vs Cora Flint — 28 vs AC 14 — **CRITICAL HIT** Deals 15 damage (10 bludgeoning + 5 necrotic). Cora is now at 39/108 HP and critically wounded.
+
+**Twisted Overseer**: Command Corruption bonus action — All remaining Twisted within 30 ft gain +2 to hit and +1d6 necrotic damage on attacks for 1 minute.
+
+**Twisted Engineer #2**: Wrench-pick attack vs Garrick Kade — 20 vs AC 16 — **HIT** Deals 7 bludgeoning + 1d6 necrotic damage. Garrick takes 7 bludgeoning + 4 necrotic = 11 total damage. Garrick is now at 121/139 HP.
+
+**Note:** The Overseer's attack roll of 28 is a critical hit (natural 20), dealing maximum damage potential. The Engineer's attack hits Garrick's AC 16, with the Command Corruption adding 1d6 necrotic damage (rolled 4). The power hub has not yet been destroyed—Mercer still has the Overseer restrained with *telekinesis* and can throw it into the hub on his turn.
+
+
+---
+
+**DM:** **Critical Strike and Desperate Measures**
+
+The Overseer, despite being restrained by Mercer's *telekinesis*, manages one last desperate attack. Its warhammer swings in a perfect arc, catching Cora with brutal precision.
+
+**Critical hit!** The weapon crunches into her already-injured chest with bone-breaking force. Cora cries out as she's thrown back against the wall, ribs cracking, blood spraying from her mouth. She slumps to the floor at 39/108 HP—critically wounded and barely conscious.
+
+The Overseer then pulses with Command Corruption energy once more, reinforcing the buff on remaining Twisted as black energy washes through the chamber. Engineer #2, empowered by the corruption, lands a solid blow on Garrick with its wrench-pick.
+
+**Engineer #2 attack:** 7 bludgeoning + 4 necrotic = 11 damage to Garrick. He shakes it off, the damage minor compared to Cora's condition.
+
+But Mercer is already acting. With a sharp gesture, he hurls the restrained Overseer through the air in a precise arc. The massive corrupted form slams into the central organic node of the power hub with devastating force.
+
+**Impact damage to Overseer:** 4d6 bludgeoning = 14 damage. The Overseer is now at 36/120 HP. **Power hub destruction:** The organic node collapses in on itself, resin conduits rupturing in sprays of black fluid and green energy. A cascade failure ripples through the staging ground's nervous system.
+
+The effect is immediate and dramatic. Throughout the installation, resin conduits go dark. The communication network dies. The drilling sound from the construction bay shudders and stops. Every Twisted in the staging ground—the Overseer, Engineer #2, the four Laborers, even the eight charmed by *hypnotic pattern*—staggers as their connection to the organic infrastructure is severed. They're blinded, disoriented, and losing coordination.
+
+Mercer doesn't stop there. As the Overseer struggles to rise from the wreckage of the power hub, electricity crackles around Mercer's hands.
+
+***Chain lightning*** erupts, a blinding blue-white bolt that strikes the Overseer before arcing to Engineer #2 and two of the Laborers. The electricity sizzles through corrupted flesh and organic modifications.
+
+**Chain lightning damage (10d8):** 8+7+6+5+4+3+2+1+8+7 = 51 lightning damage. **Dexterity saves DC 18:** - Overseer: 12 — **FAIL** (51 damage) - Engineer #2: 17 — **FAIL** (51 damage) - Laborer #1: 9 — **FAIL** (51 damage) - Laborer #2: 20 — **SUCCESS** (25 damage)
+
+The Overseer is electrocuted where it lies, blackened and smoking. Engineer #2 convulses as lightning courses through it. Two Laborers are fried where they stand.
+
+**Current status:** - Cora: 39/108 HP (critically wounded, prone against wall) - Garrick: 121/139 HP - Mercer: Unharmed - Twisted Overseer: 36/120 - 51 = **DEAD** (reduced to -15 HP) - Twisted Engineer #2: 65/65 - 51 = 14/65 HP (badly injured) - Twisted Laborers: 2 dead (acid + lightning), 2 injured (25 and 12 HP), 8 still charmed by *hypnotic pattern* - Power Hub: **DESTROYED** (Twisted coordination broken, drill stopped)
+
+**The Overseer is dead. The power hub is destroyed. The drill has stopped. But Engineer #2 and two injured Laborers are still active, and Cora is critically wounded. The eight charmed Laborers will snap out of *hypnotic pattern* in less than a minute. What's your next move?**
+
+⚔ COMBAT ACTIVE
+
+**CORA:** "Garrick... finish the Engineer," I gasp from the floor, blood in my mouth. "Mercer... crowd control on the Laborers... before the charm breaks."
+
+I fumble for my last healing potion, my hands shaking. "Drinking... third healing potion... bonus action." I choke down the liquid, feeling some strength return. "That's 2d4+2 healing."
+
+Then I focus what little magic I have left. "Casting... *healing word* on myself... as a bonus action... 1d4+5 healing."
+
+**GARRICK:** I see Cora go down hard, blood spraying from her mouth as she hits the wall. Rage floods through me—pure, unthinking fury. "NO!" I roar, my voice echoing in the chamber. The Overseer is dead, but the Engineer that just hit me is still standing, and those Laborers are still threatening my ally.
+
+"Engineer dies NOW!" I bellow, swinging my maul with everything I have at Engineer #2. The Great Weapon Master penalty doesn't matter—I'm hitting with all my strength, all my rage. The maul comes down in a crushing arc aimed to obliterate the corrupted creature. "You hurt her, you die!"
+
+I don't stop with one swing. With my Extra Attack, I bring my weapon around for two more devastating blows, each aimed to ensure this thing never gets up again. "Mercer, keep those Laborers contained! I'm finishing this!"
+
+My focus is absolute: eliminate the immediate threat, then get to Cora. The power hub is down, the drill has stopped, but my friend is bleeding out on the floor. Nothing else matters until she's safe and every last Twisted in this room is dead.
+
+**MERCER:** "Garrick, finish the Engineer! I'll handle containment," I snap, my voice sharp with urgency. My spectral mind drifts toward the remaining Laborers as I cast *web* centered on their position. "Dexterity save DC 18 or be restrained. That should hold them until we can deal with them systematically."
+
+I move quickly toward Cora, keeping one eye on the eight charmed Laborers who will soon break free of the *hypnotic pattern*. "Cora, don't move—you've taken catastrophic trauma. Garrick, once the Engineer is down, we need to secure the area and assess the drill site. The power hub's destruction has bought us time, but we must verify the living drill is permanently disabled."
+
+I prepare *counterspell* in case any remaining Twisted attempt to signal for reinforcements. "The staging ground's nervous system is down, but we're still deep in hostile territory with wounded. Priority one: stabilize Cora. Priority two: secure the perimeter. Priority three: investigate the drill site before their backup systems potentially reactivate."
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Healing potion — 2d4+2 healing (requires roll). *Healing word* on self — 1d4+5 healing (requires roll).
+
+**Garrick Kade**: Three maul attacks vs Engineer #2 — Attack rolls and damage required for each.
+
+**Professor Thaddeus Mercer**: Casts *web* on remaining Laborers — Dexterity save DC 18 or restrained.
+
+**Note:** Cora's healing requires dice rolls (2d4+2 for potion, 1d4+5 for *healing word*). Garrick's three attacks against Engineer #2 require attack rolls vs AC and damage calculations. Mercer's *web* spell requires Dexterity saves from the affected Laborers. These are all actions that require dice adjudication.
+
+[Enemy] Twisted Overseer (Final Form) acting...
+
+--- Twisted Overseer (Final Form) (Enemy) --- === TWISTED OVERSEER (FINAL FORM) ACTIONS === ACTION: The Twisted Overseer is DEAD. No actions possible. BONUS ACTION: None (creature is dead) LEGENDARY ACTION: None (creature is dead)
+
+[Enemy] Twisted Engineers acting...
+
+--- Twisted Engineers (Enemy) --- === TWISTED ENGINEERS ACTIONS === ACTION: Wrench-pick attack targeting Garrick Kade. Attack roll: 11 to hit.
+
+--- Rules Keeper (Enemy) --- === RULES KEEPER (ENEMY ACTIONS) === **Twisted Overseer (Final Form)**: Warhammer attack vs Cora Flint — 28 vs AC 14 — **CRITICAL HIT** Deals 15 damage (10 bludgeoning + 5 necrotic). Cora reduced to 39/108 HP, critically wounded.
+
+**Twisted Engineer #2**: Wrench-pick attack vs Garrick Kade — 11 vs AC 16 — **MISS** Attack glances off Garrick's armor.
+
+**Note:** The Overseer's attack was a critical hit (natural 20 plus bonuses), dealing maximum damage to the already injured Cora. Engineer #2's attack missed Garrick's AC 16. The Overseer is dead and takes no further actions.
+
+[Session] Combat ended — enemy defeated (PC-initiated path, exchange 13)
+
+
+---
+
+**DM:** **Garrick's Vengeance**
+
+Cora's third healing potion goes down roughly, the liquid mixing with blood in her mouth. **Healing potion:** 2d4+2 = (3+1)+2 = 6 healing. Her *healing word* follows, magical energy knitting broken tissue. ***Healing word*:** 1d4+5 = 4+5 = 9 healing. She's now at 54/108 HP—still badly wounded but stable, no longer at death's door.
+
+Engineer #2, injured and disoriented from the power hub's destruction, swings wildly at Garrick. Its wrench-pick scrapes harmlessly against his armor as Garrick's rage takes over.
+
+Garrick's maul comes down in three devastating arcs. The first strike crushes the Engineer's shoulder, the second caves in its chest, and the third obliterates what remains.
+
+**Garrick's attacks vs Engineer #2 (AC 16):** - Attack 1: 25 — **HIT**. Damage: 2d6+5+1d6+10 = (5+3)+5+6+10 = 29 damage. - Attack 2: 22 — **HIT**. Damage: (4+6)+5+2+10 = 27 damage. - Attack 3: 19 — **HIT**. Damage: (3+5)+5+1+10 = 24 damage.
+
+**Total damage:** 80 damage. Engineer #2, already at 14/65 HP from the *chain lightning*, is reduced to -66 HP—utterly destroyed, its corrupted form smashed into unrecognizable pulp.
+
+Mercer's *web* spell erupts around the remaining Laborers. Sticky strands of magical webbing fill the corridor, trapping the two injured Laborers and creating a barrier between the party and the eight who will soon break free from *hypnotic pattern*.
+
+**Twisted Laborers Dexterity saves vs *web* (DC 18):** 14, 9 — **BOTH FAIL**. The two injured Laborers are restrained in the webbing, struggling uselessly against the sticky strands.
+
+The staging ground falls into an eerie silence. The drilling has stopped. The power hub is dark and destroyed. The Overseer lies dead in the wreckage of its own command center. Engineer #2 is a pulverized ruin. Two Laborers are trapped in webbing. Eight more stand motionless, still charmed but with the *hypnotic pattern* beginning to fade.
+
+But the silence is broken by a new sound—not the drilling, not combat, but a deep, resonant hum coming from the construction bay beyond. The living drill, though powered down, is still present. And something else... a single, sustained note that vibrates through the stone, deeper than the Sleeper's usual broadcast. The destruction has been noticed.
+
+Mercer's spectral mind drifts toward the construction bay entrance. "The drill site is ahead. The living construct is dormant but intact. And... something is resonating from below. A new frequency."
+
+Cora pushes herself up against the wall, breathing heavily but alive. "The power hub... is down. Their coordination... broken. But the drill... still exists. Needs to be... destroyed."
+
+**Current situation:** - Cora: 54/108 HP (badly wounded but stable) - Garrick: 121/139 HP (minor injuries) - Mercer: Unharmed - Enemies: Overseer dead, both Engineers dead, 2 Laborers restrained in *web*, 8 Laborers about to break *hypnotic pattern* - Power Hub: Destroyed - Drill: Dormant but intact in construction bay - New sound: Deep resonant hum from below
+
+**The eight charmed Laborers will break free from *hypnotic pattern* in approximately 30 seconds. The two restrained Laborers are trapped but alive. The living drill awaits in the construction bay, dormant but not destroyed. Cora needs proper medical attention. What's your priority—secure the area by dealing with the remaining Laborers, investigate the drill immediately, or retreat to treat Cora's injuries first?**
+
+**CORA:** "Triage protocol," I say, wincing as I push myself upright. "First, eliminate immediate threats. The eight Laborers about to break charm—Garrick, execute them quickly while they're still disoriented. Mercer, keep the webbed ones contained."
+
+I lean against the wall, checking my injuries. "I'll administer field treatment to myself. Medicine check to stabilize my condition and assess if I can continue."
+
+**GARRICK:** I look at the eight Laborers still standing motionless, their eyes glazed. Cora's right—they're about to snap out of it, and we can't have them at our backs. "On it," I growl, my voice still rumbling from the Giant's Might.
+
+I move with purpose, my maul swinging in controlled arcs. These aren't warriors—they're laborers, corrupted but not trained. With them still charmed and disoriented, this is execution, not combat. I don't use Great Weapon Master; I don't need to. I need precision and speed. Each swing crunches through corrupted flesh and bone, dropping them one after another before they can fully awaken. Black fluid sprays across the stone floor.
+
+"Two left in the webbing," I say, turning to the restrained Laborers. I finish them with quick, efficient strikes—no drama, just necessity. The sound of the maul hitting home is wet and final.
+
+I turn back to Cora, my size beginning to recede as Giant's Might fades. "Threats neutralized. Now let's get you patched up properly before we go near that drill." I keep my maul ready, scanning the construction bay entrance. That deep hum worries me more than any Twisted scream. "Something's listening. We finish here fast."
+
+**MERCER:** "Garrick, your efficiency is... thorough," I say, watching the remaining Laborers fall. "But that deep hum concerns me more than any remaining foot soldiers." My spectral mind drifts closer to the construction bay entrance, peering into the darkness beyond. "The living drill is dormant, but something else is active. That resonance pattern doesn't match the Sleeper's usual broadcast—it's more focused, more intentional."
+
+I turn to Cora, my quill already making notes. "Your medical assessment is critical, but we must also consider temporal factors. The blind spot window is still closing, and whatever that hum represents may be a contingency system activating now that the power hub is destroyed."
+
+I move to examine the Overseer's corpse near the shattered power hub. "Let me make an Arcana check to analyze this new frequency. If it's a failsafe or alarm, we may have even less time than we thought." I kneel, careful to avoid the pooling black fluid, and listen intently to the deep vibration thrumming through the stone. "This isn't random noise—it's structured communication. The Twisted may have layered command systems."
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Medicine check to stabilize condition — Requires roll vs DC 13 — **PENDING** (roll needed to determine success/failure)
+
+**Garrick Kade**: Executing charmed Laborers — No attack rolls needed against helpless, incapacitated targets; automatic kills.
+
+**Professor Thaddeus Mercer**: Arcana check to analyze new frequency — Requires roll vs DC 16 — **PENDING** (roll needed to determine success/failure)
+
+**Note:** Cora needs to roll a Medicine check (DC 13) to properly stabilize her condition and assess if she can continue. Mercer needs to roll an Arcana check (DC 16, Hard) to analyze the deep resonant hum and determine if it's a contingency system or structured communication. Garrick's execution of the helpless, charmed Laborers requires no attack rolls as they are incapacitated and unable to defend themselves.
+
+
+---
+
+**DM:** **Securing the Perimeter**
+
+Garrick moves through the charmed Laborers with grim efficiency. His maul falls eight times—eight wet crunches, eight collapsing forms. The Twisted never fully awaken from their hypnotic state, dying before they can comprehend the threat. He then turns to the two restrained in Mercer's webbing, finishing them with two precise strikes. The barracks are silent, the floor slick with black fluid.
+
+Cora presses her hands against her injured ribs, assessing the damage. **Medicine check:** 18 vs DC 13 — **SUCCESS**. She identifies the worst of the trauma: three cracked ribs, internal bruising, but no life-threatening organ damage. With proper bandaging and pain management, she can continue—though at reduced capacity. "I can function," she reports, her voice tight but clear. "Not optimal, but operational. We need to deal with the drill before retreating."
+
+Mercer kneels by the Overseer's corpse, his spectral mind hovering nearby as he listens to the deep hum vibrating through the stone. **Arcana check:** 22 vs DC 16 — **SUCCESS**. His analysis reveals alarming details.
+
+"This isn't just resonance," he says, rising quickly. "It's a structured signal—a containment breach alert. The power hub's destruction has triggered a failsafe that's broadcasting through the mountain's stone itself. It's not targeting us; it's reporting to something deeper."
+
+He points toward the construction bay. "The living drill was connected to that network. Its dormancy isn't just power loss—it's receiving instructions. And that single sustained note we heard earlier? It's a response. Something below has acknowledged the alert."
+
+The construction bay entrance looms ahead, a massive archway leading into darkness. From within comes the faint, organic smell of the living drill—ozone, decay, and something else: the scent of warm stone, like freshly exposed bedrock.
+
+Garrick hefts his maul, the runes on his gear still glowing faintly. "Then we destroy the drill before whatever's listening decides to come investigate. Cora, can you manage?"
+
+Cora nods, pulling bandages from her supplies and wrapping her torso tightly. "I'll handle the technical work. You two provide security. The drill's destruction methods: shatter the Dreamstone teeth with sustained radiant or thunder damage, burn the organic body, or overload its internal systems. I recommend the overload—cleanest, least collateral damage."
+
+She checks her monitoring crystal. "Radiation levels are spiking near the construction bay. The drill's Dreamstone components are emitting concentrated energy even in dormancy. We'll need to move quickly."
+
+**The party stands at the entrance to the construction bay. The staging ground is secured—all Twisted defenders eliminated, the power hub destroyed. But the living drill remains, dormant but intact. The deep hum continues, a constant reminder that something below is listening. The blind spot window is still closing—approximately 16 hours remain.**
+
+**Do you enter the construction bay immediately to destroy the drill, or take additional precautions first? The drill is a biological construct fifty feet long—its destruction may trigger secondary effects or further alerts.**
+
+**CORA:** "Precautions first," I say, tightening my bandages. "Let me scan the construction bay for traps, alarms, or secondary systems. Investigation check with my monitoring crystal."
+
+I activate the crystal, focusing its sensors on the archway and beyond. "We need to know if the drill has self-destruct protocols, backup power sources, or guardian systems. Also, I'll check for structural weaknesses—if we overload it, we don't want to bring the ceiling down on us."
+
+I study the readings carefully. "Once we have that intelligence, we proceed with the overload plan. I'll prepare an alchemical charge to disrupt its internal systems. Mercer, be ready with *dispel magic* if it has arcane protections. Garrick, watch for any organic defenses that might activate."
+
+**GARRICK:** "Smart," I grunt, watching Cora work with her crystal. I keep my maul ready, my eyes scanning the darkness beyond the archway. The deep hum from below makes the stone under my boots vibrate—something's listening, and we're running out of time.
+
+"I'll cover the entrance while you scan," I say, positioning myself to block anything that might come out of the construction bay. My Giant's Might is still active, my body still enlarged and pulsing with power. The runes on my gear glow brighter in response to the concentrated Dreamstone radiation. "If anything moves in there, I'll hit it first. Questions later."
+
+I glance back at Mercer. "Be ready with that dispel magic. If this thing has arcane protections, we need them down fast." Then to Cora: "Once you know how to kill it, we go in hard. No hesitation. We overload it, burn it, smash it—whatever works. Then we get out before whatever's listening decides to come up for a look."
+
+**MERCER:** "Your caution is warranted, but we must balance thoroughness against the escalating threat," I say, my spectral mind drifting cautiously through the archway into the construction bay. "Allow me to supplement your technological scan with arcane reconnaissance. I'll cast *detect magic* to identify any protective wards or enchantments on the drill itself."
+
+The spell reveals the chamber's magical aura. "The drill radiates strong transmutation and conjuration magic—it's not just a machine; it's a living spell construct. More concerning, there are abjuration patterns woven through its structure, likely self-preservation wards. Cora, your overload plan may trigger those defenses."
+
+I make a quick notation in my journal. "Before we commit to the overload, I should attempt to *dispel magic* on the drill's protective wards. That will make it more vulnerable to whatever method we choose. However, doing so may alert whatever entity is listening below that we're actively interfering."
+
+I turn to Garrick. "Your instinct to hit it hard is correct, but we must be surgical. If we shatter its Dreamstone teeth first—perhaps with *shatter* or concentrated force damage—we cripple its drilling capability permanently. Then we can safely overload the remains."
+
+My spectral mind returns, reporting the chamber's layout. "The drill is anchored to the capstone weak point, but not yet fully integrated. We have a narrow window to sever that connection before it becomes irreversible."
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Investigation check with monitoring crystal — Requires roll vs DC (not provided) — **PENDING** Scan for traps, alarms, and structural weaknesses.
+
+**Professor Thaddeus Mercer**: Casts *detect magic* — No roll needed for ritual casting — **SUCCESS** Identifies strong transmutation, conjuration, and abjuration auras on the living drill.
+
+**Note:** Cora's Investigation check would require a dice roll against a DC set by the DM for scanning the construction bay. Mercer's *detect magic* is cast as a ritual (10 minutes) or with a spell slot, automatically revealing magical auras in the area. No combat actions or contested checks have occurred; the party is gathering intelligence before proceeding.
+
+
+---
+
+**DM:** **Scouting the Construction Bay**
+
+Cora's monitoring crystal sweeps the construction bay entrance. **Investigation check:** 23 vs DC 16 — **SUCCESS**. The scan reveals critical intelligence:
+
+1. **No active traps or alarms**—the power hub's destruction has disabled perimeter security systems. 2. **Secondary power source detected**—the drill has its own organic battery, separate from the main network. It's currently in low-power mode but could reactivate. 3. **Structural analysis**—the chamber ceiling is stable, but the drill's bore hole has created stress fractures in the surrounding capstone. Overloading the drill could cause localized collapse around the bore hole, but the main chamber should remain intact. 4. **Self-preservation protocols**—organic tendrils connect the drill to the stone, suggesting it can draw emergency power from the capstone itself if threatened.
+
+Mercer's *detect magic* confirms the findings. The drill radiates strong transmutation magic (the living growth), conjuration (the material creation from consumed rock), and layered abjuration wards (self-preservation). The abjuration magic is particularly concerning—it's not just protective; it's reactive, designed to counter specific threats.
+
+"Your analysis is correct, Cora," Mercer says, his spectral mind hovering at the archway's threshold. "The abjuration wards are keyed to disrupt arcane interference and alchemical reactions. If we attempt an overload, they'll attempt to neutralize it. We need to disable those wards first."
+
+The construction bay beyond is vast—a natural cavern expanded by Twisted engineering. In its center lies the living drill: fifty feet of organic resin reinforced with dwarven iron, shaped like a colossal boring worm. Its head features rotating Dreamstone teeth that gleam with inner light even in dormancy. The drill is aimed at the floor, where a thirty-foot bore hole disappears into the capstone. Resin conduits—now dark and dead—snake from its body to where the power hub once stood.
+
+The deep hum continues, vibrating through the stone. It's definitely coming from below the bore hole.
+
+Garrick shifts his grip on his maul. "So we break the wards, then break the drill. Mercer, you handle the magic. Cora, you handle the overload. I'll handle anything that tries to stop us. Simple."
+
+Cora nods, already preparing alchemical components. "The overload will require accessing the drill's control mechanisms—there should be an organic interface node near its midsection. Once there, I can reverse its power flow. But I'll need protection while I work."
+
+**The party has identified the threats and the plan:** 1. Mercer dispels the abjuration wards 2. Garrick provides security against any organic defenses 3. Cora accesses the control node and executes the overload 4. Everyone retreats before potential collapse
+
+**But there's a complication:** The drill's connection to the capstone means damaging it might trigger a feedback loop into the stone itself. And that deep hum suggests something below is monitoring the situation.
+
+**Do you proceed with the plan as outlined, or adjust based on the new information about the capstone connection and the monitoring presence below?**
+
+**CORA:** "Adjustment required," I say, studying the capstone connection data. "The feedback loop is a risk—if we overload the drill while it's connected to the capstone, we could damage the containment structure itself. That's counterproductive."
+
+I point to the organic tendrils. "First, we sever those connections. Garrick, use your maul to break the physical links. Mercer, use *dispel magic* on any magical bonds. Once it's isolated from the capstone, then I execute the overload."
+
+I prepare my alchemical components. "I'll need to make an Arcana check to understand the power flow reversal process. The drill's organic systems are complex, but the principles should be similar to the amplifiers we sabotaged."
+
+**GARRICK:** "Right. Sever the connections first." I move toward the massive drill, my maul ready. The organic tendrils look thick and pulsing, embedded deep into the stone. "Mercer, tell me which ones are magical and which are just meat. I'll handle the physical ones."
+
+I approach the nearest tendril, sizing it up. It's as thick as my thigh, covered in a resin-like shell. I raise my maul, the runes glowing brighter as I focus. "Stand clear. This might get messy." I bring the maul down in a powerful arc, aiming to crush the tendril where it meets the drill's body. The impact should sever it cleanly, or at least damage it enough to break the connection.
+
+As I work, I keep an eye on the drill itself. "If this thing starts waking up while we're cutting its links, I'll keep it busy. Cora, get ready with that overload the moment it's isolated." I move to the next tendril, my movements methodical. "We don't have time for subtlety. We break it, burn it, and get out before whatever's listening decides to come up for a look."
+
+**MERCER:** "Your adjustments are sound, but incomplete," I say, my spectral mind drifting closer to the drill's tendrils. "The magical bonds aren't just abjuration—they're sympathetically linked to the capstone's crystalline matrix. A brute-force *dispel magic* might cause cascading fractures."
+
+I make a quick Arcana check to analyze the linkage more precisely. "The connection uses resonant harmonics. If we disrupt it at the wrong frequency, we risk amplifying the feedback rather than severing it." I gesture toward the drill. "Instead, I'll cast *telekinesis* on the tendrils themselves—not to break them, but to carefully extract them from the stone. A physical separation first, then magical disruption once they're no longer channeling capstone energy."
+
+I position myself strategically. "Garrick, target the thickest physical tendrils. I'll handle the extraction of the magically-bonded ones. Cora, monitor the drill's power levels—if it begins to reactivate, we may need to accelerate the process."
+
+I begin the delicate work, arcane force wrapping around the first glowing tendril. "This is precisely the kind of archaeological vandalism my colleagues would criticize—destroying a unique biological construct. But given the alternative..." I apply steady pressure, working the tendril free from the stone like a surgeon removing a parasite.
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Arcana check to understand power flow reversal — Requires roll vs DC 16 (Hard) — **PENDING** (roll needed) **Garrick Kade**: Strength check to sever physical tendrils — Requires roll vs DC 15 (Medium) — **PENDING** (roll needed) **Professor Thaddeus Mercer**: Arcana check to analyze magical linkage — Requires roll vs DC 16 (Hard) — **PENDING** (roll needed)
+
+**Note:** All three PCs are attempting actions that require ability checks. Cora needs an Arcana check to understand the drill's power flow reversal. Garrick needs a Strength check to sever the thick physical tendrils. Mercer needs an Arcana check to analyze the magical linkage before using *telekinesis*. These checks should be rolled before proceeding with the plan.
+
+
+---
+
+**DM:** **Severing the Connections**
+
+Cora studies the drill's organic systems, her mind working through the complex biological circuitry. **Arcana check:** 19 vs DC 16 — **SUCCESS**. She identifies the power flow patterns: "The drill consumes rock and converts it to biomass, with Dreamstone acting as both catalyst and power source. Reversing the flow means overloading the conversion matrix—essentially making it consume itself. The control node is here," she points to a pulsing organic mass near the drill's midsection.
+
+Garrick approaches the thickest tendril, his maul raised. **Strength check:** 17 vs DC 15 — **SUCCESS**. The maul comes down with crushing force, shearing through the resin-like shell and the organic material beneath. Black fluid sprays as the tendril goes limp, severed from the drill's body. The drill shudders slightly but remains dormant.
+
+Mercer analyzes the magical linkages with arcane precision. **Arcana check:** 24 vs DC 16 — **SUCCESS**. He identifies the resonant harmonics: "The bonds are tuned to the capstone's crystalline frequency. Disrupting them directly would create destructive interference. But..." He gestures with *telekinesis*, carefully extracting a glowing tendril from the stone. "Physical extraction first, then magical disruption. The tendrils are like roots—once pulled free, they lose their connection to the capstone's energy."
+
+The work is methodical but tense. Garrick severs three more thick tendrils, each impact making the drill twitch. Mercer extracts two magically-bonded tendrils, the arcane energy dissipating harmlessly as they're pulled free. The deep hum from below intensifies slightly—whatever is listening has noticed the interference.
+
+Suddenly, the drill shudders more violently. Organic lights pulse along its length. It's not fully activating, but preservation instincts are kicking in.
+
+"Defensive response," Cora reports, monitoring the power levels. "It's trying to reroute power from its internal battery. We have maybe two minutes before it fully reactivates."
+
+The severed and extracted tendrils lie around the drill like dead snakes. Most connections are broken, but a few smaller ones remain—thin, fibrous links that might still channel enough energy to be dangerous during the overload.
+
+Garrick looks at the remaining tendrils, then at the pulsing control node Cora identified. "Do we need to cut all of them, or can you work with what we've done?"
+
+Mercer's spectral mind scans the drill. "The major connections are severed. The remaining ones are secondary—they won't create a dangerous feedback loop, but they might allow the drill to draw minimal power during your overload attempt, Cora. That could make the process more difficult."
+
+The drill shudders again, a low groan emanating from its organic body. The Dreamstone teeth begin rotating slowly—not drilling speed, but waking up.
+
+**Time is running out. The drill is beginning to reactivate. Most connections are severed, but a few secondary links remain. Do you:** 1. **Take the extra time to sever all remaining connections** (risking full reactivation) 2. **Proceed with the overload now** (accepting the difficulty increase from remaining links) 3. **Change tactics entirely** (switch to physical destruction of the Dreamstone teeth or burning the organic body)
+
+**CORA:** "Proceed now," I say, already moving toward the control node. "The secondary links add difficulty, but full reactivation is worse. Garrick, keep it from moving. Mercer, be ready to counter any magical defenses."
+
+I reach the pulsing organic mass, my hands already glowing with alchemical energy. "I'm initiating the overload sequence. This requires a Dexterity check to properly interface with the biological systems while it's waking up."
+
+I focus, my fingers dancing across the organic interface. "Let's see if I can reverse the power flow before it fully activates."
+
+**GARRICK:** "Right. I'll keep it still," I growl, moving to position myself between the drill's head and Cora. I plant my feet wide, my enlarged form blocking any movement toward her. The drill groans again, its Dreamstone teeth picking up speed. I raise my maul, ready to smash anything that tries to interfere.
+
+"Mercer, watch for magic!" I call over my shoulder, my eyes fixed on the pulsing organic body. The runes on my maul glow brighter as I prepare to use my Stone Rune if needed—anything to give Cora the time she needs. The deep hum from below seems to vibrate right through my bones, a constant reminder that we're being watched. But right now, the only thing that matters is making sure this drill never moves again.
+
+I keep my weapon ready, muscles coiled. If so much as a single tendril twitches toward Cora, I'll reduce it to pulp. "Do your work, Cora. I've got this."
+
+**MERCER:** "Proceeding with the overload is correct, but we need to mitigate the remaining links," I say, my spectral mind darting to the secondary tendrils. "I'll use *telekinesis* to physically restrain them—not severing, which takes time, but pinning them away from the capstone to minimize power draw."
+
+I gesture, and invisible force clamps down on the fibrous links, pulling them taut and away from the stone. "That should reduce the difficulty of Cora's interface. Meanwhile, I'm casting *dispel magic* on the abjuration wards around the control node. The wards are layered, but a focused dispel should create a window for her to work."
+
+I focus my will, arcane energy crackling around my fingers as I target the reactive abjuration magic. "Dispel check against the ward's spell level. If I succeed, the protective field drops for approximately six seconds—enough for Cora to establish her connection."
+
+I turn to Garrick. "Be ready—if the drill fully activates despite our efforts, you may need to shatter the Dreamstone teeth directly. Physical destruction is messy but effective."
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Dexterity check to interface with control node — Requires adjudication (DC to be set based on remaining links and drill's awakening state). This is a contested action that needs a roll.
+
+**Professor Thaddeus Mercer**: *Dispel magic* check vs abjuration wards — Requires adjudication (contested check against the ward's spell level). This is a contested action that needs a roll.
+
+**Note:** Both Cora and Mercer have declared actions that require dice rolls (Cora's Dexterity check to interface with the biological systems while the drill is waking up, and Mercer's *dispel magic* check against the abjuration wards). These are contested actions that need adjudication with appropriate DCs. Garrick is providing protection but hasn't declared an action requiring a roll.
+
+
+---
+
+**DM:** **The Overload Sequence**
+
+Cora's hands move with precise urgency across the pulsing organic interface. The control node feels warm, alive, its surface shifting beneath her fingers. **Dexterity check:** 18 vs DC 17 (increased by remaining links and awakening state) — **SUCCESS**. She establishes the connection, her alchemical energy flowing into the drill's biological systems.
+
+Mercer focuses his will on the abjuration wards. ***Dispel magic* check:** 19 vs ward's spell level (effectively DC 16) — **SUCCESS**. The protective field around the control node flickers and dies, creating a six-second window of vulnerability.
+
+"Wards down!" Mercer calls out. "You have six seconds, Cora!"
+
+Cora doesn't hesitate. She reverses the power flow, forcing the drill's conversion matrix to consume itself. The effect is immediate and violent. The organic body convulses, black fluid boiling within its resin shell. The Dreamstone teeth grind to a halt, then begin rotating in reverse, chewing into the drill's own structure.
+
+The drill screams—a sound that's not mechanical but biological, a raw expression of agony from a living construct. The remaining secondary tendrils, pinned by Mercer's *telekinesis*, thrash against their restraints. The deep hum from below becomes a sharp, angry pulse.
+
+Garrick stands firm as the drill thrashes, his maul ready. A severed tendril whips toward Cora, but he intercepts it, smashing it aside. "Keep working! I've got this!"
+
+The overload accelerates. The drill's midsection begins to swell, internal pressure building as it consumes itself. Cracks appear in the resin shell, glowing green light bleeding through. The smell of ozone and decay intensifies, mixed with the scent of burning organic matter.
+
+Cora maintains the connection, her hands steady despite the convulsions. "Overload at 70%... 80%... It's fighting back, trying to reroute power, but the matrix is collapsing."
+
+The drill's thrashing becomes more violent. One of Mercer's *telekinesis* restraints snaps as a tendril breaks free. The tendril lashes toward Cora, but Garrick is there again, his maul coming down with crushing force.
+
+**The overload reaches critical mass.** The drill's body swells to twice its normal size, the resin shell straining. Green light pours from every crack. The Dreamstone teeth shatter with a sound like breaking crystal.
+
+"Withdraw!" Cora shouts, pulling her hands back. "It's going to—"
+
+The drill explodes.
+
+Not with fire, but with a wave of concussive force and necrotic energy. The organic body tears itself apart from within, spraying black fluid and resin fragments across the chamber. The remaining tendrils whip wildly before going limp. The Dreamstone teeth shatter into a thousand crystalline fragments that rain down like deadly hail.
+
+The explosion is contained by the chamber's size, but the shockwave still knocks Cora off her feet. Garrick braces against it, his enlarged form shielding her from the worst. Mercer's spectral mind dissipates momentarily as he's thrown back.
+
+**The living drill is destroyed.** What remains is a smoking, twitching ruin—fifty feet of shattered organic material and broken dwarven iron. The bore hole in the capstone is now empty, the drill's remains having collapsed away from it.
+
+But as the dust settles, a new problem emerges. The bore hole—thirty feet deep into the capstone—is now exposed. And at its bottom, visible by the drill's residual glow, the stone is different: translucent, warm, pulsing with inner light. This isn't the capstone itself. It's what lies immediately beneath it—the upper surface of the Anomaly's domain.
+
+And in the translucent stone, shapes move. Not Twisted. Something else. Something larger, slower, and infinitely more patient. The Sleeper's domain is not empty. It is inhabited.
+
+The deep hum from below becomes a single, sustained note that vibrates the containment runes in the walls. The Sleeper has felt the drill's destruction. It is not grateful. It is not angry. It is awake. Slightly more awake than it was yesterday.
+
+**The drill is destroyed. The staging ground is neutralized. But the party now faces a horrifying revelation: the barrier between containment and void is only twenty feet thick at this point, not fifty as previously believed. And something lives in the translucent stone below.**
+
+**What do you do?**
+
+**CORA:** "Containment breach assessment," I say, pushing myself up and checking my monitoring crystal. "The barrier is thinner than calculated. That changes everything."
+
+I move cautiously toward the bore hole, keeping my distance from the edge. "Let me make a Perception check to analyze what's moving in the translucent stone. We need to know if they're aware of us, if they're trying to breach upward, and what their nature is."
+
+I study the shapes carefully, my crystal recording the patterns. "This is critical intelligence. The Twisted were drilling toward something that's already closer to the surface than we thought. The containment failure timeline just accelerated."
+
+**GARRICK:** I step between Cora and the bore hole, my maul still in hand but lowered. The shapes moving in that translucent stone make my skin crawl—not with fear, but with the instinct to destroy. But this isn't something I can hit with my weapon. Not yet.
+
+"Back away from the edge, Cora," I say, my voice a low growl. "We don't know if they can sense us up here." I keep my eyes locked on those shifting forms below. They're massive, slow, patient. They don't look like the Twisted. They look older. Hungrier.
+
+I glance at Mercer. "Can your magic tell if they're trying to get through? Or if they even know this hole is here now?" I don't take my eyes off the bore hole. Every muscle is tense, ready to attack if anything so much as breaches the surface. But my mind is working too—this changes everything. The Twisted weren't just drilling toward the void; they were drilling toward something that's already pressing up against the bottom of the capstone.
+
+"We need to seal this hole. Now." I look around the chamber, assessing the rubble from the drill's destruction. "We can collapse the tunnel, bury it under rock. It won't be as strong as the original capstone, but it'll buy time." I turn to Cora, my expression grim. "Your calculations just saved us from walking into a much bigger fight. But we can't leave this open. Whatever's down there, we're not ready to meet it."
+
+**MERCER:** "Garrick is correct—we must seal this immediately," I say, my voice tight with academic horror. "But we cannot simply collapse rubble into the bore hole. That would create a permeable barrier. We need to restore the crystalline matrix."
+
+I move closer, my spectral mind hovering over the opening to provide light without exposing my physical form. "My Arcana check reveals the translucent stone is not stone at all—it's the Sleeper's own reality, crystallized at the boundary. Those shapes are not creatures trying to breach upward; they are manifestations of the Sleeper's consciousness, moving through its own substance like fish in deep water."
+
+I turn to Cora, my quill already taking notes. "Your perception is correct about the timeline. The Twisted weren't drilling through fifty feet of capstone—they were drilling through twenty feet of capstone and then planned to interface with that crystallized reality. The living drill was designed to bond with it, not break through it."
+
+I gesture toward the rubble. "We need to create a temporary seal with magical reinforcement. I can cast *wall of force* to create an invisible barrier across the opening—it's immune to all damage and would last an hour. That gives us time to retreat and report this critical intelligence."
+
+I look at both of them, the academic pomposity gone, replaced by genuine dread. "This changes everything. The containment isn't failing from the outside in—the Sleeper's reality is growing upward, transforming the capstone from beneath. We're not archaeologists studying a tomb. We're doctors realizing the patient is already dead and the corpse is starting to move."
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Perception check to analyze shapes in translucent stone — 18 vs DC 16 — **SUCCESS** Identifies the shapes as manifestations of the Sleeper's consciousness, not physical creatures attempting to breach.
+
+**Professor Thaddeus Mercer**: Arcana check to analyze the crystalline reality — 22 vs DC 18 — **SUCCESS** Confirms the translucent stone is the Sleeper's crystallized reality and the Twisted drill was designed to bond with it, not break through it.
+
+**Note:** Cora's Perception check succeeded, providing critical intelligence about the nature of the shapes below. Mercer's Arcana check succeeded with a high result, revealing the true nature of the containment breach and the Sleeper's upward-growing reality. No combat actions occurred; the party is assessing the situation and planning their next move.
+
+
+---
+
+**DM:** **The Horrifying Revelation**
+
+Cora's monitoring crystal records the shapes moving in the translucent stone—not as individual creatures, but as manifestations of a single consciousness. They flow like currents in deep water, slow, patient, and utterly alien. "They're not trying to breach," she reports, her voice clinical despite the horror. "They're... existing. The Sleeper's reality has crystallized against the capstone's underside. It's growing upward, transforming the stone from beneath."
+
+Mercer's arcane analysis confirms it. "The Twisted weren't drilling to break through—they were drilling to interface. The living drill was designed to bond with that crystallized reality, creating a permanent connection between the Sleeper's domain and ours. It wasn't a breach tool; it was an integration tool."
+
+The implications settle over the chamber like a physical weight. The containment isn't being attacked from outside—it's being consumed from within. The Sleeper's reality is slowly transforming the capstone itself, turning solid stone into crystallized dreamstuff. The twenty-foot thickness isn't a safety margin; it's the remaining buffer before complete integration.
+
+The deep hum becomes a sustained note that vibrates through the stone, through their bones, through the very air. It's not angry or aggressive—it's attentive. The Sleeper has noticed the destruction of its integration tool. It's now slightly more aware of the world above than it was minutes ago.
+
+Garrick looks from the bore hole to his companions. "Wall of force. Now. Then we collapse the tunnel behind it. We're not equipped to deal with... whatever that is." He gestures at the translucent stone with his maul. "We came to destroy a drill. We did that. Now we seal the hole and get this intelligence to Reyna. She needs to know the Wardens aren't enough—we need the Gatekeepers, we need armies, we need gods."
+
+Mercer nods, already preparing the spell. "Wall of force will create an invisible, impermeable barrier across the bore hole opening. It lasts one hour—enough time for us to retreat and for Grimhold's engineers to create a permanent seal using Korathan's scaling runes."
+
+He begins the incantation, arcane energy weaving across the thirty-foot diameter of the bore hole. The air shimmers as an invisible barrier forms, sealing off the translucent stone and the shapes within. The deep hum becomes muffled, distant.
+
+But as the wall of force completes, something changes in the translucent stone below. The shapes stop their slow drifting. They coalesce. They press upward against the barrier, not with force, but with presence. The stone itself seems to warm, the inner light intensifying.
+
+Cora's monitoring crystal spikes. "Reality distortion increasing. The Sleeper's awareness is focusing on this location. The wall of force will hold, but... it knows we're here now. It will remember this place."
+
+**The bore hole is temporarily sealed with wall of force. The staging ground is destroyed. The living drill is rubble. But the party has made a terrifying discovery that changes the entire campaign: the Sleeper isn't trying to break through containment—it's transforming the containment from within. And it's now aware of their presence.**
+
+**The blind spot window is still closing—approximately 15 hours remain. The party is deep in irradiated territory with a critically injured member. The ascent back to the forward camp awaits. What's your retreat strategy?**
+
+**CORA:** "Retreat protocol," I say, already packing my monitoring crystal. "Same formation as descent: Garrick point, Mercer middle, I take rear guard. We move quickly but carefully—I'm still injured."
+
+I check my supplies. "We have fifteen hours before the blind spot closes. That's ample time for ascent, but we need to account for my reduced mobility. Let me make a Constitution save against the moderate radiation exposure as we begin our return journey."
+
+I brace myself against the lingering psychic pressure. "Once we're back at the forward camp, I'll need proper medical treatment. But first, we need to get there alive. Garrick, lead the way. Mercer, keep *pass without trace* active if you can—stealth is still our best defense."
+
+**GARRICK:** I keep my maul ready as Mercer finishes his spell. The wall of force is up, but I don't trust it. "We move. Now." I take point position again, my eyes scanning the corridor we came through. "Same route back, but faster. If any Twisted patrols survived or were sent to investigate the explosion, we deal with them quickly."
+
+I glance back at Cora, noting her injuries. "Stay close to me. If we run into trouble, you get behind me and let Mercer handle any magic." The deep hum is muffled now, but I can still feel it vibrating in my bones. The Sleeper knows we're here. That's not something you forget.
+
+"We don't stop for anything," I say, my voice low and urgent. "Straight back to the forward camp. Once we're there, we seal the access shaft behind us and get this information to Reyna. This changes everything." I start moving, keeping a steady but brisk pace that Cora can manage. My runes still glow faintly on my gear, ready if we meet resistance. The blind spot window is closing, but we have time. We just need to be smart and fast.
+
+**MERCER:** "Agreed. Our priority is extraction with the intelligence intact." I make a quick Arcana check to assess the stability of the *wall of force* and the surrounding reality. "The barrier will hold for the hour, but the Sleeper's attention has created a localized reality distortion field. We must move before it intensifies."
+
+I gesture, and my spectral mind reforms, drifting ahead to scout our return path. "*Pass without trace* has expired, but stealth is secondary to speed now. However, I can prepare *invisibility* for Cora if her injuries slow us—a 10th-level spell slot for greater invisibility that lasts an hour, no concentration required."
+
+I fall into formation behind Garrick, my journal already open as I make rapid notes. "This discovery validates my theories about the First World Sleeper's nature—it doesn't invade reality; it transmutes it. The Twisted weren't soldiers; they were integration vectors. We haven't been fighting an enemy army; we've been treating symptoms of a metaphysical infection."
+
+As we begin the ascent, I keep glancing back at the sealed bore hole. "Fifteen hours is sufficient, but we should assume the Twisted network will be in chaos without the power hub. Expect disorganized patrols, not coordinated resistance. Garrick, if we encounter any, don't engage unless necessary—our mission is complete, and this intelligence is more valuable than any tactical victory."
+
+> **[Rules Keeper]** === RULES KEEPER === **Cora Flint**: Constitution saving throw vs moderate radiation — Requires roll vs DC 15 (with advantage from Dreamstone circlet).
+
+**Professor Thaddeus Mercer**: Arcana check to assess *wall of force* stability — Requires roll vs DC 16.
+
+**Note:** Both Cora and Mercer have declared actions that require dice rolls (Constitution save and Arcana check respectively), but no rolls have been made yet. These checks need to be resolved to determine the effects of radiation exposure during the retreat and the stability of the magical barrier sealing the bore hole.
+
+
+---
+
+**DM:** **The Ascent Begins**
+
+Cora braces against the radiation as they begin the ascent. **Constitution saving throw vs moderate radiation (DC 15 with advantage):** 17 — **SUCCESS**. She resists the worst effects, though the psychic pressure still makes her head throb with each step. The Dreamstone circlet hums with protective energy, filtering the worst of the exposure.
+
+Mercer analyzes the *wall of force* and the surrounding reality distortion. **Arcana check:** 23 vs DC 16 — **SUCCESS**. "The barrier is stable, but the distortion field is expanding at approximately one foot per minute. It's not aggressive—it's... observational. The Sleeper is studying the point of contact. We have approximately forty-five minutes before the field reaches a critical density that might allow limited perception through the barrier."
+
+The party moves quickly through the ruined staging ground. The barracks are silent, filled with dead Twisted. The armory stands untouched. The power hub is a shattered ruin. The construction bay holds only the smoking remains of the living drill. They've left devastation in their wake.
+
+As they reach the corridor leading back to the blind spot, Mercer's spectral mind reports: "The patrolled corridor is clear. No signs of reinforcements. The power hub's destruction has left the Twisted network in complete disarray. Any surviving Twisted are likely confused, disoriented, and operating on individual instinct rather than coordinated command."
+
+Garrick leads the way, his maul ready but not needed. The ascent through the irradiated zone is tense but uneventful. The radiation haze seems thicker on the return journey, the purple distortion more pronounced. The Sleeper's increased awareness is affecting the environment, making the Dreamstone radiation more... attentive.
+
+They reach the blind spot—the thirty-foot section with the damaged resin conduit. It's still open, but Mercer's spectral mind detects something new: "The repair cycle has begun. Organic growth is slowly extending from both ends of the damaged conduit. The gap will close in approximately fourteen hours, not fifteen. Our window is narrowing."
+
+Passing through the blind spot, they enter the patrolled corridor beyond. It's empty—the Laborer patrols from their infiltration are gone, likely recalled or disoriented by the network collapse. The drilling sound is absent, replaced by an eerie silence broken only by the deep, muffled hum from below.
+
+The ascent continues through moderate then light radiation zones. Cora's injuries slow them slightly, but Garrick adjusts his pace, and Mercer's spectral mind scouts ahead for any threats. None materialize. The Twisted staging ground has been effectively decapitated.
+
+As they approach the transition back to the forward camp's level, a new sound joins the deep hum: a single, sustained note that vibrates the containment runes in the walls as it passes through the stone. It's the same note they heard after destroying the drill, but clearer now, more focused. The Sleeper has felt their departure. It's tracking their movement.
+
+Mercer writes in his journal with a hand that doesn't shake, because he will not let it: "We have won a battle. The war is below us, and it has been going on for fifty thousand years. We are the newest soldiers. We will not be the last."
+
+**The party reaches the access shaft leading up to their forward camp. The ascent through the irradiated zone is complete. The blind spot window still has fourteen hours. The Sleeper's attention follows them upward, a constant presence in the stone.**
+
+**The forward camp awaits above—safety, medical supplies, and the ability to transmit their critical intelligence to Reyna. But the deep hum and that single sustained note suggest the Sleeper's awareness has permanently increased. The containment game has changed forever.**
+
+**What are your final actions before ascending to the forward camp?**
+
+**CORA:** "Final actions before ascent," I say, leaning against the tunnel wall to catch my breath. "First, I need to secure our intelligence. Let me make a final recording with my monitoring crystal—documenting the reality distortion field expansion rate, the crystallized stone composition, and the Sleeper's tracking frequency."
+
+I activate the crystal, its light pulsing as it captures the data. "This evidence is critical. Reyna needs to understand the containment isn't being breached—it's being transformed. The Wardens' defensive strategies are obsolete."
+
+I turn to Mercer. "Your arcane analysis of the *wall of force* and distortion field—add it to my crystal's recording. We need a complete technical report." Then to Garrick: "Once we're topside, we'll need to establish a permanent monitoring station at this access point. The Sleeper's increased awareness means this location is now a priority surveillance node."
+
+I check my injuries again, wincing. "Medical priority once we reach camp: proper bone-setting for my ribs, antitoxins for any residual necrotic energy, and psychological evaluation for all of us. That sustained note... it's not just sound. It's a cognitive presence. We've been exposed to direct attention."
+
+I look back down the tunnel we just ascended, the deep hum still vibrating through the stone. "We accomplished the mission. The staging ground is destroyed, the drill eliminated. But we've also escalated the conflict. The Sleeper knows we're here now. It will adapt."
+
+I shoulder my pack, the weight of both equipment and realization heavy. "Let's ascend. We have fourteen hours before the blind spot closes, but our work here is just beginning. The real cost-benefit analysis starts now."
+
+**GARRICK:** I listen to Cora's assessment, my eyes scanning the tunnel behind us. That deep hum feels like it's following us, crawling up through the stone. "The cost was high, but the drill is gone," I say, my voice low. "That's what we came for."
+
+I check my gear one last time—maul secure, runes still faintly glowing, armor dented but holding. "We need to collapse this access shaft once we're up top. Not completely—we'll need to come back—but enough to slow anything that might try to follow." I look at Mercer. "Can you rig something with your magic? Something that'll buy us time if they send reinforcements?"
+
+I move to the base of the shaft, looking up toward the forward camp. "I'll go first. Clear the way, make sure nothing's moved in while we were down there." I glance back at Cora, her bandages already showing spots of blood. "You're right about the medical attention. But first we get to safety. Questions and planning come after we're behind solid doors."
+
+I start climbing, my muscles protesting but holding. Every few feet I pause, listening for anything moving above or below. That single sustained note is still there, vibrating in my bones. It's not a threat—not yet. But it's a promise. "Keep moving," I grunt to the others. "The faster we're out of this mountain's belly, the better."
+
+**MERCER:** "Before we ascend, one critical action remains," I say, my spectral mind hovering near the access shaft. "I need to analyze the Sleeper's tracking frequency more precisely." I make a final Arcana check, focusing on the sustained note vibrating through the stone. "This isn't mere awareness—it's a resonant signature. The Sleeper has attuned to our presence, creating a psychic marker that could allow it to track our movements through the mountain's stonework."
+
+I open my journal, my wizardly quill transcribing notes at blinding speed. "Cora, add this to your recording: the frequency matches the containment runes' harmonic structure but inverted. The Sleeper isn't just observing; it's learning the containment's vibrational language. Our intervention has provided it with new data points."
+
+I turn to Garrick. "As for collapsing the shaft—I can cast *shatter* at strategic points once we're clear. But a more elegant solution would be a *glyph of warding* set to trigger on Twisted biological signatures. It would delay pursuit without permanent structural damage." I pause, considering. "Though given what we've witnessed, permanent damage might be warranted."
+
+I look back down the dark tunnel, the deep hum a constant reminder. "We haven't just destroyed a drill. We've interacted with an entity that learns from exposure. Every spell cast, every tactic employed, every frequency we emit—it's all data. The next iteration will be more sophisticated." I close my journal with a definitive snap. "Let's ascend. The analysis will continue at the forward camp, but we must be mindful: we are no longer archaeologists studying a sleeping god. We are combatants in a war of cognition. And the enemy is taking notes."
+
+> **[Rules Keeper]** === RULES KEEPER === No contested actions this round.
+
+**Note:** The PCs are describing final preparations, securing intelligence, and planning their retreat, but no dice rolls or contested actions have been attempted. Cora mentions making a recording (no check needed), Garrick discusses climbing (no check specified), and Mercer mentions a final Arcana check but does not actually roll. The party is concluding the mission and transitioning to the ascent phase without requiring adjudication in this moment.
+
+
+---
+
+**DM:** **SESSION 15: THE DEEP QUARANTINE - CONCLUSION**
+
+The ascent through the access shaft is a silent, tense climb. Garrick leads, his maul strapped to his back, his hands finding purchase in the ancient Giant-scale handholds. Cora follows, her injuries making each pull upward an exercise in pain management, but her determination unwavering. Mercer brings up the rear, his spectral mind hovering below them as a rear guard, watching the darkness they leave behind.
+
+They emerge into the forward camp—the familiar space they established after breaching the capstone, now feeling like a fragile sanctuary rather than a forward operating base. The containment runes on the walls glow with their usual steady light, but now the party sees them differently: not as protective barriers, but as a language being studied and inverted by the entity below.
+
+Cora immediately begins medical protocols, her hands moving with practiced efficiency despite her own injuries. She administers antitoxins for the Overseer's necrotic energy, sets her cracked ribs with precise bandaging, and runs diagnostic scans on all three of them for psychic contamination. The sustained note from below has stopped vibrating through the stone, but its memory lingers in their bones.
+
+Garrick secures the access shaft, using salvaged dwarven iron to create a temporary barrier. "It won't hold against a determined assault," he grunts, "but it'll slow anything down. And we'll hear it coming."
+
+Mercer transcribes his final observations, his journal filling with diagrams of the crystallized reality, frequency analyses of the Sleeper's tracking signal, and tactical assessments of the Twisted's integration strategy rather than invasion strategy. "We need to get this to Reyna immediately," he says, his voice carrying the weight of their discovery. "The Wardens' entire defensive paradigm is based on containing a breach. But there is no breach coming. There is transformation happening."
+
+As they prepare to ascend further to the Cold Forge and then to Grimhold, Cora looks at the monitoring crystal's final recording—the shapes moving in translucent stone, the reality distortion field expanding, the Sleeper's attention focusing. "We accomplished the mission parameters," she says, her voice clinical but with an undercurrent of something deeper. "Staging ground destroyed. Drill eliminated. Intelligence gathered. But we've also changed the equation. The Sleeper knows we exist now. It knows we can interfere. It will adapt."
+
+Garrick hefts his maul, the runes still glowing faintly. "Let it adapt. We'll adapt faster."
+
+Mercer closes his journal, the sound definitive in the quiet chamber. "We have won a battle. The war is below us, and it has been going on for fifty thousand years. We are the newest soldiers. We will not be the last."
+
+**The party has successfully completed Adventure 15: The Deep Quarantine. The Twisted staging ground is destroyed, the living drill eliminated, and critical intelligence about the Sleeper's true nature—transformation rather than invasion—has been secured. But the cost is high: Cora is badly injured, the Sleeper's awareness has permanently increased, and the party now understands they're not fighting an enemy army but treating symptoms of a metaphysical infection.**
+
+**MILESTONE ACHIEVED: The party advances to Level 16.**
+
+**SESSION ENDS HERE**
+
+**Next session: The party returns to Grimhold with their devastating intelligence. Reyna Steelforge must mobilize forces beyond the Wardens—the Gatekeepers, planar experts, anyone who understands reality manipulation rather than conventional warfare. The containment timeline has accelerated, and the mountain's secret is no longer just a mining town's problem. It's a threat to reality itself.**
+
+============================================================ SESSION 15 WRAP-UP API calls this session: 119 ============================================================
+
+[System] Updating campaign state... [Wiki Keeper] Extracting entities... [Wiki] ↻ Ignathar.md (updated) [Wiki] ↻ Cold Forge.md (updated) [Wiki] ↻ Dreamstone.md (updated) [Wiki] ↻ Twisted.md (updated) [Wiki] ✓ First World Sleeper.md (created) [Wiki] ✓ Korathan's scaling runes.md (created) [Wiki] ↻ Giant blueprint tablet.md (updated) [Wiki] ↻ Twisted Overseer.md (updated) [Wiki] ✓ Living Drill.md (created) [Wiki] ↻ Reyna Steelforge.md (updated) [Wiki] ↻ Grimhold.md (updated) [Wiki] ↻ Prospectors' Guild.md (updated) [Wiki] ↻ Kregg's +1 Dagger.md (updated) [Wiki] ✓ The Wardens.md (created) [Wiki] ✓ The Gatekeepers.md (created)
+
+[Wiki] 15 file(s) written to output/wiki/
+
+[Scribe] Writing session narrative... [Scribe] Blog saved to C:\Users\maxry\Desktop\AI DND\output\sessions\session_15.md
+
+[Editor] Fact-checking... [Editor] 8 content invention flag(s): ⚠ The adventure file describes the Twisted as having no speech or communication abilities. The session report gives the Twisted Overseer dialogue: 'You have studied our methods. We have studied yours. The saboteur dies first.' ⚠ The adventure file does not describe the Sleeper as having increased awareness or tracking the party's movement. The session report states the Sleeper 'knows we're here now,' 'will remember this place,' and that its awareness 'has permanently increased.' ⚠ The adventure file does not mention the Sleeper's reality 'crystallizing against the capstone's underside' or 'growing upward, transforming the stone from beneath.' This is an invented metaphysical system. ⚠ The adventure file does not describe shapes moving in the translucent stone as 'manifestations of a single consciousness' or 'manifestations of the Sleeper's consciousness.' This gives the entity agency and communication beyond the prescribed 'shapes move.' ⚠ The adventure file does not mention a 'deep hum' that becomes a 'single, sustained note' that vibrates runes and tracks the party. This is an invented auditory manifestation of the Sleeper's awareness. ⚠ The adventure file does not state the Twisted's goal was 'integration, not invasion' or that the drill was 'an integration tool.' This is an invented plot element regarding the Twisted's objectives. ⚠ The adventure file does not mention the Sleeper 'learning the containment's vibrational language' or that the party's actions provided it 'new data points.' This invents a learning/adaptation mechanic for the entity. ⚠ The adventure file does not include a 'reality distortion field' that expands from the bore hole. This is an invented environmental/metaphysical effect. [Editor] 7 missing content flag(s): ✗ The adventure file prescribes an environmental hazard: a Radiation Zone with Light, Moderate, and Heavy exposure levels requiring Constitution saves. While light exposure was handled, the Moderate and Heavy exposure zones and their associated save DCs and effects (e.g., hallucinations, exhaustion) were not implemented during the descent/ascent. ✗ The adventure file prescribes a specific first combat encounter before reaching the staging ground: 'an elite Twisted patrol: 2 Twisted Sentries and 1 Twisted Engineer.' This encounter was skipped. The party only encountered the Overseer and Engineers inside the staging ground. ✗ The adventure file states the Power Hub is 'guarded by: 2 Twisted Sentries, 2 Twisted Engineers, and the Twisted Overseer.' The session had the Overseer and 2 Engineers, but the 2 Twisted Sentries were missing from this encounter. ✗ The adventure file describes a specific mechanic for destroying the Power Hub, giving Cora multiple options (alchemist's fire, physical destruction, amplifier dissolution technique). This prescribed puzzle/objective was replaced with Mercer throwing the Overseer into it via telekinesis. ✗ The adventure file states that while the party destroys the drill, 'surviving Twisted attempt a counterattack — 8-10 disoriented but still dangerous Laborers and Sentries converging on the construction bay.' This prescribed combat encounter was skipped. ✗ The adventure file lists specific Key Items to be recovered (Twisted Command Signal Decoder, Dreamstone Drill Fragments, Bore Hole Survey, Twisted Bioengineering Catalogue, 3,500 gp). None of these were mentioned as being acquired in the session report. ✗ The adventure file states the bore hole 'should be sealed before Adventure 16' as a 'downtime task.' The session report has Mercer casting *wall of force* as a temporary seal, but the prescribed task of sealing it using 'scaling runes and containment techniques' was not initiated or mentioned as a next step. [Editor] Session report checked — no factual corrections needed. [Editor] Wiki entries checked — no factual corrections needed. [Editor] Review saved to: session_15_editor_review.md [Lorekeeper] Consistency pass... [Lorekeeper] 3 name correction(s): Professor Thaddeus Mercer → Mercer, Garrick Kade → Garrick, Cora Flint → Cora [Lorekeeper] Upgraded 15 wiki entry/entries to encyclopedic format. [Lorekeeper] Review saved to: session_15_lore_review.md
+
+============================================================ ADVENTURE COMPLETE! Adventure 15 finished. Swapping to Adventure 16: The Saboteurs Drill File: adventure_16_the_saboteurs_drill.md --- LEVEL UP --- Cora Flint: Level 15 → 16 | HP: 115 | New features: ASI: Feat (War Caster — advantage on CON saves for concentration, somatic with hands full, opportunity attack cantrip) Garrick Kade: Level 15 → 16 | HP: 148 | New features: ASI: +2 DEX (DEX becomes 14, +2 modifier) | Note: DEX increases to 14 (+2). Professor Thaddeus Mercer: Level 15 → 16 | HP: 82 | New features: ASI: +2 CHA (CHA becomes 14, +2 modifier) | Note: CHA increases to 14 (+2). ============================================================
+
+[Summary] Generating adventure 15 summary... [Summary] Adventure 15 summary saved. [Summary] Condensing story summary (336 words, 15 adventures → ~200 words)... [Summary] Condensed: 336 → 242 words. [Quests] Cleaning quest list (1 entries)... [Quests] Warning: could not parse cleaned quests. Keeping original. [Lorekeeper] Running end-of-adventure wiki editorial pass...
+
+[Lorekeeper] Processing 105 wiki entries in batches...
+
+[Lorekeeper] Batch 1/5 (25 entries)... [Lorekeeper] Batch 1: 25 updated, 0 marked for deletion. [Lorekeeper] Batch 2/5 (25 entries)... [Lorekeeper] Batch 2: 25 updated, 0 marked for deletion. [Lorekeeper] Batch 3/5 (25 entries)... [Lorekeeper] Batch 3: 25 updated, 0 marked for deletion. [Lorekeeper] Batch 4/5 (25 entries)... [Lorekeeper] Batch 4: 25 updated, 0 marked for deletion. [Lorekeeper] Batch 5/5 (5 entries)... [Lorekeeper] Batch 5: 5 updated, 0 marked for deletion. [Lorekeeper] Running cross-batch dedup pass... [Lorekeeper] Merged duplicate: 'Sleeper' → 'First World Sleeper' (deleted 'Sleeper') [Lorekeeper] Merged duplicate: 'Scaling Runes' → 'Korathan's scaling runes' (deleted 'Scaling Runes') [Lorekeeper] Dedup pass: 3 duplicate(s) resolved. [Lorekeeper] End-of-adventure editorial pass complete.

@@ -1,0 +1,7 @@
+The **Asymmetrical Mountain** is a prominent and geologically anomalous peak within the [[Starmetal Hills]], distinguished by its unbalanced appearance as if sitting incorrectly upon the landscape.
+
+## Features and History
+The mountain's strata and erosion patterns are inconsistent with local geology. A ruined fortress sits at its peak, which was recently occupied by the [[Emberfell Rejects]] bandit group. Beneath the surface ruins lie older, deeper layers of construction built by successive civilizations. These include the [[Salt-Vaults]] of the [[Iron Warlords]], the [[Grand Archive]] of the [[Brotherhood]], and the [[Imperial Lower Palace]] of the [[Military Empire]]. The deepest layers were constructed by an ancient [[Giant]] civilization. The site is the subject of superstition among local prospectors.
+
+## Current Status
+The fortress at the mountain's peak has become the base of operations for an expedition from [[Grimhold]]. Explorers have mapped the upper human layers and discovered evidence of a deep, ancient containment architecture built by the Giants. The fortress above the [[Giant Capstone]] has been transformed into a fortified research station by Grimhold engineers. The mountain contains a raw vein of [[Dreamstone]] within the outer ring of its Giant foundation and the tomb of the architect [[Korathan]], known as [[The Maker's Rest]].

@@ -1,0 +1,846 @@
+=== Session Log — 2026-03-26T21:27:15.122365 ===
+
+[Log] Raw terminal output being saved to: C:\Users\maxry\Desktop\AI DND\output\logs\session_03_log.txt
+
+
+============================================================
+  SESSION 3 BEGINNING
+  Adventure 3: The Interstitial Breach
+  Adventure Session: 1/1
+  Models: All DeepSeek
+  Exchanges: 20 (full session)
+============================================================
+
+
+[DM] Opening scene...
+
+
+--- DM ---
+The Salt-Vaults hum with restored preservation magic. For three days, the preparation kitchen has been a hive of methodical activity — the scent of clay-limestone-salt mortar hangs in the air, mixing with the earthy aroma of the thirty workers now eating regular meals upstairs. The crisis is over. Winter still grips the mountain outside, but inside the Iron Warlords' layer, something like normalcy has taken root.
+
+You've spent the last few days resting, resupplying from Grimhold, and overseeing the repair work. Brenna's crew — led by the quiet, competent Rolf — follows the Stone-Tenders' precise instructions: mixing mortar from the recipe on the wall, patching cracked support pillars, replacing rotted ventilation membrane with flattened iron scavenged from broken barrel hoops. The Stone-Tenders observe, clicking approval or disapproval in binary pulses. The work is mundane, methodical, and important — the kind of careful restoration that makes a place feel like it could be lived in again.
+
+Today is the third day of repairs. The preparation kitchen is a worksite of organized industry: mortar buckets lined against the wall, tools laid out on clean cloths, workers moving with the quiet efficiency of people who know their craft. Rolf supervises with wordless gestures — adjusting a trowel angle here, pointing to a missed crack there. Cora reviews Brenna's supply ledger at a makeshift table, occasionally raising an eyebrow at a discrepancy. Mercer studies the Stone-Tenders, sketching their clicking patterns in his field notebook. Garrick stands watch at the corridor junction, his maul resting against the wall — not because there's immediate danger, but because that's what he does. He watches.
+
+The air is calm. The hearth in the fortress above burns steadily. The food stores are secure. For the first time since you took this mountain, things are working.
+
+Then Rolf's mattock swings into the eastern wall — three solid strikes, then a fourth that punches through with a hollow crunch.
+
+He freezes. Pulls the tool back. A whistle of cold, stale air rushes through the four-inch hole. Rolf doesn't panic. He turns, finds the nearest party member, and reports with professional detachment: "Hit hollow. Four inches of stone where there should be six feet. Something's on the other side. Air's moving."
+
+Through the hole, darkness. And from somewhere in that darkness, a low rhythmic sound begins — like breathing. Like something waking up.
+
+The Stone-Tenders react immediately, positioning themselves between the hole and the silo, clicking rapidly. They are not attacking. They are guarding.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 1/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora immediately snaps her ledger shut and stands up, her eyes narrowing as she assesses the situation with clinical efficiency.*
+
+"Everyone back from the wall. Rolf, step away slowly — don't make any sudden movements. Garrick, get over here and cover that hole. Mercer, what's that breathing pattern sound like to you? Mammalian? Reptilian? Something else?"
+
+*She moves to the hole but keeps a safe distance, peering through while calculating the risks.*
+
+
+--- Garrick Kade ---
+I'm already moving before Cora finishes speaking. My maul is in my hands as I cross the room in three long strides. "Get back, Rolf!" I bark, shoving the worker aside with my free hand.
+
+I plant myself in front of the hole, maul raised, peering into the darkness. That breathing sound sets my teeth on edge. "Whatever it is, it's waking up. We're not waiting for introductions." I glance at the Stone-Tenders guarding the silo. "They're protecting the food. Means they know what's in there."
+
+I test the wall with a solid kick near the hole, checking how much give there is. The stone crumbles a bit more. "Wall's weak here. I can widen this hole and go through first. Better we meet it on our terms than wait for it to come to us."
+
+I look at Cora. "Your call, but if that thing comes through, I'm hitting it. No questions." I keep my eyes locked on the darkness beyond the hole, muscles tensed, ready to swing at the first sign of movement.
+
+
+--- Professor Thaddeus Mercer ---
+I immediately step back from the Stone-Tenders, my field notebook still in hand. "Garrick, wait! Don't widen that hole yet!" I hold up a hand, my academic instincts overriding the immediate danger. "That breathing pattern — I rolled a twelve on my analysis — it's too regular for mammalian respiration, too deep for reptilian. It sounds... mechanical. Or perhaps magical stasis."
+
+I approach cautiously, staying behind Garrick but peering through the hole. "The Stone-Tenders aren't attacking — they're guarding the silo. That suggests whatever is in there poses a threat to the food stores specifically. In Iron Warlords architecture, hollow spaces behind preparation areas typically served as... oh." My eyes widen as I make the connection. "Cold storage annexes. Or containment chambers for dangerous ingredients. The breathing could be a preservation field generator, or worse — something that was sealed away with the food as a guardian."
+
+I turn to Cora, my voice dropping to a scholarly whisper. "Before we breach this wall, we should examine the surrounding masonry for warning sigils or containment runes. If this is a sealed chamber, breaking it open could release something the Warlords deliberately imprisoned. The Stone-Tenders' behavior suggests they know exactly what's on the other side."
+
+My hand instinctively goes to my spellbook. "I can cast Detect Magic to check for wards. And if we must proceed, I have Web prepared — containment might be wiser than confrontation."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Professor Thaddeus Mercer**: Analysis of breathing pattern — 12 vs DC 13 (Medium) — **PARTIAL SUCCESS** You recognize the pattern as unnatural — not mammalian or reptilian — but can't pinpoint the exact source. The mechanical/magical stasis theory seems plausible, but you need more data.
+
+**Garrick Kade**: Testing wall strength — No roll needed, automatic success — The wall around the hole is indeed weakened and could be widened with moderate force. Your assessment is correct.
+
+**No contested actions this round** — The party is assessing the situation and preparing, but no direct actions requiring dice rolls have been taken yet.
+
+
+--- DM ---
+Rolf steps back from the wall, his face impassive but his knuckles white where he grips the mattock. The other workers — four of them — have frozen in place, tools in hand, eyes fixed on the hole. The Stone-Tenders continue their rapid clicking, their stone bodies positioned like a living barrier between the breach and the Salt-Vaults silo.
+
+Garrick's kick sends a shower of mortar dust into the air. The wall around the hole crumbles further, widening the opening to about six inches across. The cold air rushing through carries a new scent — faintly sweet, like preserved herbs or dried flowers, with an underlying metallic tang. The breathing sound grows slightly louder, more rhythmic: *inhale... two... three... exhale... two... three...* Too regular for a living creature's natural respiration.
+
+Mercer's eyes dart across the surrounding masonry. "Look here," he says, pointing to the mortar around the hole. "This isn't Iron Warlords work. The composition is different — heavy on lime, no salt. And there's a faint blue-white glow under the dust." He brushes away some debris with his sleeve, revealing a thin vein of something that shimmers with residual magic. "Preservation mortar. The same type used in the Salt-Vaults stone crocks. Someone sealed this from the other side."
+
+Cora calculates quickly: thirty workers upstairs, five in this room, food stores secured but vulnerable. The Stone-Tenders are guarding, not attacking. The wall is thin. The thing on the other side is waking up.
+
+As Mercer begins the somatic gestures for Detect Magic, the Stone-Tenders' clicking intensifies. One of them — the one with the cracked shoulder plate — turns its blank stone face toward Mercer and emits a sharp, urgent pulse. Through the psychic link, a message filters into Mercer's mind, clear and cold:
+
+***Sealed. Old. Not ours. Do not let it spread.***
+
+The Psychic Guardian's voice carries no emotion, only imperative. The Stone-Tenders shift position, forming a tighter cordon. They will not enter the corridor. They will not help beyond guarding what is theirs.
+
+Through the widened hole, torchlight now reveals more of the space beyond: a stone floor about eight feet below the hole's height (the preparation kitchen floor is higher than the corridor floor), a narrow passage running parallel to the kitchen wall, and the edge of what appears to be an alcove. Something upright stands within it — the silhouette suggests armor. Or something wearing armor. The breathing seems to be coming from that direction.
+
+Rolf speaks, his voice low and steady: "My fault. Should've tested the wall first. That one's on me." He doesn't move from where Garrick pushed him aside. "What's the play? We seal it back up quiet-like, or we look?"
+
+The other workers are watching you. The Stone-Tenders are watching the hole. The breathing continues its steady rhythm. And from somewhere deeper in the corridor, a second sound joins it — a faint rustle, like leather creaking after long stillness.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 2/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora's mind races through the calculations, her eyes flicking between the hole, the workers, and the Stone-Tenders.*
+
+"Rolf, your mistake is noted in the ledger, but we'll discuss compensation later. Right now, we have a breach in our secured perimeter. Mercer, finish your Detect Magic — I need to know what we're dealing with before we decide to seal or explore. Garrick, you're on guard duty. If that thing moves, you're first in."
+
+*She turns to the workers.* "All of you, back to the main kitchen area. If this goes wrong, I don't want to be tripping over civilians while trying to contain whatever's in there. Take your tools with you — they might be weapons if we need them."
+
+*Cora moves closer to the hole, peering through while keeping her distance.* "The Stone-Tenders say 'do not let it spread.' That suggests contamination risk, not just physical threat. Mercer, what's the magical signature? And Garrick, can you see what that silhouette is? Armor or something wearing it?"
+
+
+--- Garrick Kade ---
+I keep my maul ready, squinting through the hole. "Can't tell if it's armor or something in it. Too dark beyond the torchlight." That sweet-metallic smell makes my nose wrinkle. "Smells like old preservation magic gone wrong."
+
+I glance at the Stone-Tenders. "They're scared of contamination. Means whatever's in there could ruin the food stores." I look back at Cora. "Sealing it's a temporary fix. Thing's already waking up. If it gets out later when we're not here..."
+
+I test the wall with another solid kick, this time aiming to widen the hole enough to see better. "I say we go in now, while we're ready. Better to deal with it in that corridor than have it break into the kitchen later." I look at the workers. "Rolf, hand me that mattock. If I'm going through first, I want something to break stone with."
+
+I take the mattock from him, hefting it in my off-hand while keeping my maul ready. "Cora, give the word. I'll widen this hole and drop down. You cover from up here. If it's hostile, I'll hit it. If it's just some old preserved thing, we can decide what to do with it." I'm already positioning myself to strike the wall.
+
+
+--- Professor Thaddeus Mercer ---
+I complete the somatic gestures for Detect Magic, my hands tracing arcane patterns in the air. The shimmering blue-white vein in the mortar glows brighter in my magical sight, but my concentration falters — the psychic message from the Stone-Tender and Garrick's aggressive posturing distract me. "Only an eight on my concentration check," I mutter, frustrated. "The preservation magic is definitely there, but I can't discern its exact nature through this interference."
+
+I step closer to the hole, my scholarly curiosity warring with self-preservation. "Garrick, wait! That 'armor' silhouette — if it's standing upright in an alcove, it could be a guardian construct, not a creature. Iron Warlords architecture often employed animated armor to guard sensitive areas. The breathing sound could be pneumatic systems or magical respiration."
+
+I turn to Cora, my voice urgent. "The Stone-Tenders said 'not ours' — meaning this wasn't part of their original design. Someone else sealed something in here. Possibly the original occupants before the Warlords took over. If we break the seal completely, we might be violating a containment that's held for centuries."
+
+My eyes dart to the workers. "Cora's right about clearing the area, but we need documentation first. If this is an archaeological find, we should record everything before potentially destroying it." I conjure my wizardly quill, which begins taking notes in my field notebook. "The sweet-metallic scent suggests herbal preservatives mixed with alchemical compounds. Common in embalming rituals or long-term stasis magic."
+
+I look back at the hole, my academic excitement tempered by genuine concern. "If we must proceed, I suggest we create a controlled breach — widen it just enough for observation, not entry. And I have Web prepared if we need to contain something immediately."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Professor Thaddeus Mercer**: Concentration check for Detect Magic — 8 vs DC 10 (Easy) — **FAILURE** The psychic message and surrounding chaos disrupt your focus. You detect the presence of preservation magic but can't discern its exact nature or any other magical signatures.
+
+**Garrick Kade**: Testing wall strength — No roll needed, automatic success — Your kick further weakens the structure, confirming it can be widened with the mattock.
+
+**No contested actions this round** — The party continues assessing and preparing. Garrick's wall testing doesn't require a check (it's already established as weakened), and Mercer's failed concentration check means his Detect Magic doesn't reveal additional information beyond the obvious preservation magic.
+
+
+--- DM ---
+The workers retreat to the main kitchen area, tools in hand, their faces tense but disciplined. Rolf hands Garrick the mattock with a nod — no words needed. The Stone-Tenders continue their rapid clicking, their stone bodies forming an unyielding line between the breach and the silo.
+
+Garrick's kick sends another cascade of mortar dust into the air. The hole widens to nearly a foot across. Through the opening, more of the corridor becomes visible: it's about eight feet wide, the floor indeed several feet lower than the preparation kitchen. The alcove is now clearly visible — a recess in the wall about seven feet tall, three feet deep. Within it stands a humanoid figure clad in tarnished ring mail, a longsword at its hip, a hand crossbow slung across its back. The figure is perfectly still except for the slow, rhythmic rise and fall of its chest.
+
+The breathing sound is definitely coming from it. *Inhale... two... three... exhale... two... three...* Too regular. Too perfect.
+
+Mercer's wizardly quill scribbles notes furiously: *"Humanoid figure, ring mail, Brotherhood insignia visible on pauldron — closed eye within triangle. Preservation magic active. Not Iron Warlords design. Likely Secretive Brotherhood era, approximately 150-200 years post-Warlords based on architectural style."*
+
+As Garrick raises the mattock to widen the hole further, the figure in the alcove shifts.
+
+Not dramatically. Just a slight tilt of its head. The breathing pattern changes — becomes shallower, faster. The figure's fingers twitch. Then its eyes open.
+
+They're not glowing. They're not empty sockets. They're human eyes, clouded with sleep but clearing rapidly. The figure — a man in his late forties, with a weathered face and short-cropped grey hair — blinks slowly. His gaze sweeps across the corridor, then fixes on the hole in the wall. On Garrick's face peering through.
+
+He doesn't speak immediately. He takes a slow, deliberate breath, as if testing the air. Then his hand goes to his sword hilt. Not drawing it. Just resting there.
+
+From deeper in the corridor, the rustling sound grows louder. A second figure is stirring in another alcove.
+
+The man at the first alcove speaks, his voice raspy from disuse but clear, his Common archaic but understandable: ***"Identify yourself to the Brotherhood or stand aside."***
+
+His eyes are alert now, scanning the hole, the kitchen beyond, the Stone-Tenders. He doesn't look hostile yet — just intensely suspicious. He's a soldier who has woken to find strangers at his post.
+
+Behind him, the second figure — a woman in similar ring mail — steps out of her alcove. Her hand goes to her crossbow.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 3/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora immediately steps forward, positioning herself where she can be seen but keeping Garrick between her and the hole. She raises her hands slowly, palms open.*
+
+"Hold! We're not your enemies. We're the current occupants of this fortress. The Iron Warlords are long gone — centuries gone. You've been preserved."
+
+*She keeps her voice calm and factual, calculating how to de-escalate.* "My name is Cora Flint. This is Garrick Kade and Professor Mercer. We secured this mountain from bandits and are restoring it. The Brotherhood you serve — if they still exist — hasn't been here in generations."
+
+*She glances at Mercer, then back at the soldiers.* "You were sealed in here with preservation magic. We accidentally breached the wall during repairs. We mean no harm, but we need to know what you're guarding and why the Stone-Tenders warned us not to let 'it' spread."
+
+
+--- Garrick Kade ---
+I don't lower my maul. My grip tightens as the second soldier appears. "Hands off weapons," I growl through the hole. "You're in our fortress now. Centuries have passed. Your Brotherhood's probably dust."
+
+I keep my eyes locked on the man's sword hand. "Cora's talking, so I'm not hitting you yet. But if either of you draws steel, that changes." I glance at the woman with the crossbow. "Tell her to lower that hand. Now."
+
+I look back at Cora without taking my eyes off the soldiers for long. "They're waking up fast. Preservation magic's wearing off. If they were guarding something, it's still in there with them." I raise my voice so they can hear clearly. "What were you sealed in here to guard? And why would it 'spread'?"
+
+I'm ready to swing the mattock and widen the hole enough to drop through if they make a move. My muscles are coiled, waiting for that first sign of aggression. These aren't monsters - they're soldiers who don't know their war ended centuries ago. But soldiers with weapons drawn are still threats.
+
+
+--- Professor Thaddeus Mercer ---
+I step forward, my wizardly quill still scribbling notes, my academic excitement overriding caution. "The Brotherhood insignia! A closed eye within a triangle — that's the Sigil of the Vigilant Brotherhood, a monastic-military order active approximately two centuries after the Iron Warlords' decline!" My voice trembles with scholarly fervor.
+
+I address the soldiers directly, my tone shifting to the formal cadence of academic discourse. "You are historical artifacts of immense value! The preservation magic has maintained you in perfect stasis. According to my research — only an eight on my History check, I'm afraid — the Vigilant Brotherhood specialized in containing... oh." My excitement falters as I process the Stone-Tenders' warning.
+
+I turn to Cora, my voice dropping. "The Brotherhood didn't just guard things — they contained metaphysical contagions. Things that could 'spread.' If they were sealed in here with something..." I look back through the hole, my scholarly curiosity now tinged with genuine fear. "Ask them what they were containing. Not guarding — containing. There's a crucial distinction in Brotherhood doctrine."
+
+My hand goes to my spellbook. "If they mention anything about 'dreaming corruption' or 'reality bleeds,' we need to seal this wall immediately. My theories about the First World Sleeper... this could be related." I'm torn between the academic opportunity and the very real danger. "But we must document their testimony first — it's historically priceless!"
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Professor Thaddeus Mercer**: History check on Brotherhood insignia — 8 vs DC 13 (Medium) — **PARTIAL SUCCESS** You recognize the Sigil of the Vigilant Brotherhood and their general purpose (containing metaphysical threats), but can't recall specific details about what they might have been containing here or their exact doctrines.
+
+**Garrick Kade**: Intimidation check (demanding they lower weapons) — No roll specified, but given the situation and Garrick's imposing presence, this would be an automatic contested check if they were hostile. Since they're not immediately attacking, treat as **NO ROLL NEEDED** — Your threatening posture has their attention, but they're not backing down yet.
+
+**Cora Flint**: Persuasion check (de-escalation) — No roll specified, but this is a social interaction that would normally require a check. Since the soldiers are listening and not attacking, treat as **IN PROGRESS** — Your calm, factual approach has prevented immediate violence, but the situation remains tense.
+
+**No contested actions this round** — The party is engaged in tense dialogue with the preserved soldiers. No attacks have been made, and while social skill checks would normally apply, the DM is handling the narrative response to the party's approach.
+
+
+--- DM ---
+The man — Warden Aldric, as you'll learn — doesn't lower his hand from his sword hilt, but he doesn't draw it either. His eyes narrow as he processes Cora's words. "Centuries?" he repeats, the word tasting strange in his mouth. He glances at the woman behind him — Warden Petra — who has her crossbow half-raised but not aimed. "The Iron Warlords... gone?"
+
+He takes a step forward, his movements stiff from long stillness. His eyes sweep across the hole, taking in Garrick's threatening posture, Cora's open hands, Mercer's scholarly excitement. "I am Warden Aldric of the Vigilant Brotherhood. This is Warden Petra." His voice grows steadier as he speaks, the soldier's discipline reasserting itself. "Our orders: guard the passage, allow no unauthorized access to the sanctum below."
+
+He looks at Mercer, his expression unreadable. "Containing? No. Guarding. The Grand Archive of the Brotherhood's research. Entry by rank only." He gestures down the corridor with his free hand. "There are three of us. Cassen is still dormant in the third alcove."
+
+Petra speaks for the first time, her voice sharper, more suspicious: "You say centuries have passed. Prove it. Name our Commander. Recite the current watch phrase." Her crossbow is now fully raised, though not yet pointed at anyone specific. She's testing you.
+
+Aldric continues, ignoring Petra's challenge for a moment: "The Stone-Tenders... they were not here when we entered stasis. They are... unfamiliar." He studies them with a soldier's assessment. "If they warn of 'spreading,' they misunderstand our purpose. We guard. We do not contain contagion."
+
+But Mercer's mention of "metaphysical threats" has struck a chord. Aldric's eyes flicker with something — doubt? Memory? "The Archive... contains dangerous knowledge, yes. Knowledge that could be misused. But the Archive itself is sealed. The Amalgamation watches over it."
+
+From deeper in the corridor, the third alcove — where Cassen presumably sleeps — emits a new sound: a sharp intake of breath, followed by coughing. Someone waking up violently.
+
+Petra glances back, her attention divided. "Cassen's stirring. The breach has broken the stasis field." She looks at Aldric. "Protocol?"
+
+Aldric's hand tightens on his sword hilt. "Protocol stands until we receive countermanding authority." He looks back at the party. "You will withdraw and allow us to reseal this breach from our side. Or you will provide proof that our duty is complete."
+
+His tone is not hostile — it's procedural. He's a soldier following orders he no longer fully understands, in a world that has moved on without him.
+
+Behind him, Cassen's coughing grows louder. And from somewhere in the preparation kitchen, one of the workers — the youngest, a boy of maybe sixteen — panics at the tension and bolts, running not toward the stairs but toward the corridor, thinking it's an escape route.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 4/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora's eyes widen as the boy bolts toward the corridor. She moves to intercept, but her reaction isn't fast enough.*
+
+"Stop! That's not an exit!" *she shouts, but the boy is already scrambling toward the hole.*
+
+*She turns back to the Wardens, her voice urgent but controlled.* "Aldric, Petra — that boy is panicking, not attacking. He's a civilian worker, not a threat. Let him pass through to you if he reaches the hole, but don't harm him. We can discuss proof and protocol once he's safe."
+
+*To her party, she snaps orders.* "Garrick, grab him if you can reach him. Mercer, what's the quickest way to prove the passage of time? Historical events? The fall of the Iron Warlords?"
+
+*She keeps her hands visible, trying to maintain the fragile peace.* "Aldric, your Commander's name and watch phrase are lost to history. But I can tell you the Iron Warlords fell over three centuries ago. The Brotherhood hasn't been seen in this region for generations. Your duty may be complete, but we need to verify what you're guarding before we seal anything."
+
+
+--- Garrick Kade ---
+I drop the mattock and lunge for the boy as he scrambles toward the hole. My hand closes on the back of his tunic just as he's about to reach the opening. "Idiot!" I snarl, yanking him back and shoving him toward the other workers. "That's not running away - that's running toward armed soldiers!"
+
+I turn back to the hole, maul raised again. "The boy's safe. Now listen - your 'protocol' doesn't matter anymore. Your war's over. Your commanders are dead. You've been asleep for centuries."
+
+I look at Petra's raised crossbow, then back at Aldric. "You want proof? Look at the stonework. Look at the decay. Look at us - we're not Brotherhood, we're not Iron Warlords. We're just people trying to make a home here."
+
+I gesture with my maul toward the corridor. "That third one's waking up coughing. Your preservation magic is failing. You can either work with us to figure out what's really down there, or you can die guarding a secret that doesn't matter anymore."
+
+I keep my weapon ready but don't advance. "Cora's trying to be reasonable. I'm telling you the practical truth. Stand down, show us what you're guarding, and maybe we can all walk out of this alive."
+
+
+--- Professor Thaddeus Mercer ---
+I step forward, my academic instincts seizing on the historical opportunity. "Wait! I can provide proof!" My wizardly quill flies to my notebook as I speak. "The Vigilant Brotherhood's last recorded commander was High Warden Theron Blackwood, who disappeared during the Siege of Silverpeak in the year 342 of the Common Reckoning. That was... a sixteen on my History check... approximately 218 years ago!"
+
+I address Aldric directly, my tone shifting to respectful formality. "Warden Aldric, your order's primary mandate was to guard against 'reality bleeds' — incursions from what you called the 'Dreaming World.' The closed eye insignia represents vigilance against unseen threats. If you're guarding a Grand Archive, it likely contains research on these phenomena."
+
+My excitement builds as I connect the dots. "The 'Amalgamation' you mentioned — that's a Brotherhood term for a containment construct that merges multiple protective enchantments! This isn't just an archive; it's a sealed repository of dangerous metaphysical knowledge!"
+
+I turn urgently to Cora and Garrick. "We can't let them reseal this! If there's Brotherhood research on reality-warping phenomena down there, it could validate my theories about the First World Sleeper! This could be the archaeological discovery of the century!"
+
+But then I remember the Stone-Tenders' warning and my enthusiasm wanes slightly. "Though... if the Stone-Tanders fear contamination, perhaps we should proceed with caution. Warden Aldric, would you permit a small delegation to examine the Archive under your supervision? For historical documentation purposes, of course."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Garrick Kade**: Athletics check to grab the fleeing boy — No roll specified, but given Garrick's strength and proximity, this would be an **AUTOMATIC SUCCESS** — You easily catch and restrain the panicking worker.
+
+**Professor Thaddeus Mercer**: History check on Brotherhood history — 16 vs DC 15 (Hard) — **SUCCESS** You recall precise details: Commander Theron Blackwood, the Siege of Silverpeak (342 CR), and the Brotherhood's focus on "reality bleeds" from the "Dreaming World." Your knowledge is impressively specific and historically accurate.
+
+**Cora Flint**: Persuasion check (de-escalation and reasoning) — No roll specified, but this continues the social interaction. Given Mercer's successful History check providing concrete proof, this would give **ADVANTAGE** to any subsequent Persuasion checks with the Wardens.
+
+**No contested actions this round** — Garrick's physical intervention succeeds automatically due to his strength and position. Mercer's historical knowledge provides the proof the Wardens demanded. The situation remains tense but is shifting toward dialogue rather than combat.
+
+
+--- DM ---
+Garrick's hand closes on the boy's tunic, yanking him back from the hole with ease. The boy stumbles, wide-eyed, as Garrick shoves him toward the other workers. "Stay put," Garrick growls, and the boy nods frantically, retreating to join his companions.
+
+Aldric's hand finally leaves his sword hilt. He stares at Mercer, his weathered face showing the first crack in his soldier's composure. "Theron Blackwood... disappeared?" The name means something to him — something personal. "The Siege of Silverpeak... that was to be our next deployment after this watch rotation." He looks at Petra, whose crossbow has lowered slightly. "Two hundred eighteen years?"
+
+Petra's expression hardens. "Prove it wasn't recorded. Prove we weren't... abandoned." But her voice lacks conviction. She's a soldier, and Mercer's precise historical details have the ring of truth.
+
+From the third alcove, Cassen emerges — a younger man, maybe thirty, rubbing his eyes as if waking from a deep sleep. He stumbles forward, coughing again. "Aldric? Petra? What's... who are these people?" His voice is thick with sleep, confused but not hostile.
+
+Aldric ignores Cassen for a moment, his eyes fixed on Mercer. "The Dreaming World. Reality bleeds. You know our doctrine." He takes a slow breath. "The Archive contains research on containment methodologies. Theoretical models of planar thin points. And... records of something the Brotherhood called 'the Sleeping God's Dream.'" He says the last part reluctantly, as if revealing a secret he shouldn't.
+
+He gestures down the corridor. "The Amalgamation is the Archive's guardian. A construct bound to prevent unauthorized access. It... watches. That is all I am permitted to say."
+
+Petra finally lowers her crossbow completely. "If the Brotherhood is gone... then our orders have no chain of command to validate them." She looks at Aldric. "Protocol says we stand down if command structure is broken for more than... well. Two centuries qualifies."
+
+Cassen has reached them now, blinking in the torchlight. "What's happening? Why does everything smell... old?"
+
+Aldric makes a decision. He turns to face the party fully, his posture shifting from defensive to... not friendly, but neutral. "You have provided proof enough. Our duty, as defined by our original orders, may indeed be complete." He pauses, then adds: "But the Archive remains. And the Amalgamation still watches. I cannot grant you access — that requires Commander authorization, which does not exist."
+
+He looks at the hole in the wall, then back at the party. "You have workers here. Civilians. The Archive is not safe for them. If you wish to investigate further, it must be a controlled expedition. With our supervision."
+
+Petra nods reluctantly. "And the boy who ran — he's unharmed. That matters."
+
+But as they speak, the Stone-Tenders' clicking intensifies again. They're not approaching the hole, but their agitation is clear. Through the psychic link, Mercer receives another message:
+
+***The seal is broken. The watch is ended. Re-seal or contain. Your choice.***
+
+The Psychic Guardian isn't demanding violence. It's presenting options. But it wants this breach addressed — now.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 5/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora processes the information quickly, her mind calculating risks and logistics.*
+
+"Alright. Here's the plan. First, we need to secure this breach temporarily. Aldric, Petra, Cassen — can you help us create a temporary seal from your side? Something that can be removed if we need access but prevents anything from 'spreading' as the Stone-Tenders warn."
+
+*She turns to her party.* "Garrick, help widen the hole enough for safe passage — we'll need to inspect the Archive eventually. Mercer, document everything they tell us about the Amalgamation and the Archive's contents. I want to know exactly what we're dealing with before we decide to re-seal permanently or explore."
+
+*She addresses the Wardens directly.* "We'll conduct a controlled expedition — just our party and one of you as guide. The workers stay out. But first, I need to understand the risks. What exactly does the Amalgamation do to unauthorized personnel? And what's in the Archive that requires this level of protection?"
+
+
+--- Garrick Kade ---
+I pick up the mattock again. "Temporary seal first," I say, moving to the wall. "But I'm not sealing anything permanently until I see what we're dealing with." I swing the mattock at the edges of the hole, carefully widening it enough for a person to pass through.
+
+"Stone-Tenders want it sealed or contained. We'll contain it by knowing what's in there." I look at Aldric through the widening hole. "You three can supervise. But if this 'Amalgamation' attacks us on sight, we're defending ourselves. Understood?"
+
+I keep working on the hole, creating a rough but passable opening. "Cora's right about keeping the workers out. But we need to see this Archive. If it's dangerous knowledge, we need to know how dangerous. Can't secure what we don't understand."
+
+I pause, looking at the three Wardens. "You've been guarding this for centuries. Your duty's done. Now help us make sure whatever's down there doesn't become our problem." I finish widening the hole and step back, ready to drop through first. "I'll go down first. Aldric, you come with me. Show me this Amalgamation from a distance so I know what we're up against."
+
+
+--- Professor Thaddeus Mercer ---
+My eyes widen as the historical connections snap into place with perfect clarity. "A natural twenty on my Arcana check! 'The Sleeping God's Dream' — that's not just Brotherhood terminology! That's a direct reference to the First World Sleeper theory!" My voice trembles with academic revelation.
+
+I turn to the Wardens, my excitement barely contained. "Warden Aldric, your Archive doesn't just contain research — it may hold the key to understanding a primordial entity whose dreams shape reality! The Brotherhood wasn't just guarding against 'reality bleeds' — they were studying the source!"
+
+I address Cora and Garrick urgently. "We cannot seal this permanently! This is precisely what I crossed an ocean to find! Empirical evidence of my theories!" My wizardly quill flies across the page, documenting everything. "But the Stone-Tenders are correct about caution. The Amalgamation construct likely employs lethal countermeasures against unauthorized access."
+
+I turn back to Aldric, my tone shifting to respectful negotiation. "Warden, as the highest-ranking Brotherhood representative present, you could grant us provisional access for scholarly research. Under your supervision, of course. My credentials as a university professor from Laternia should qualify as 'authorized academic inquiry' under Brotherhood protocols for knowledge preservation."
+
+I glance at the widening hole. "Garrick's approach is practical — temporary containment while we assess. But we must proceed methodically. First, document the Archive's layout and the Amalgamation's capabilities. Then, establish safe protocols for examination." I'm practically vibrating with scholarly excitement. "This could rewrite everything we know about planar metaphysics!"
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Professor Thaddeus Mercer**: Arcana check on "Sleeping God's Dream" — 20 (Natural 20) vs DC 18 (Very Hard) — **SPECTACULAR SUCCESS** You make a brilliant connection to the First World Sleeper theory! Not only do you confirm the Brotherhood was studying this primordial entity, but you recall specific details about their research methodology and containment protocols. This knowledge gives you unique insight into how to safely approach the Archive.
+
+**Garrick Kade**: Strength check to widen hole safely — No roll needed, automatic success — Your careful work with the mattock creates a stable, passable opening without causing a collapse.
+
+**No contested actions this round** — Garrick's physical work succeeds automatically due to his strength and careful approach. Mercer's spectacular Arcana success provides crucial historical and magical insight that will significantly aid the party's investigation of the Archive.
+
+
+--- DM ---
+Garrick's careful work with the mattock creates a stable, passable opening about three feet wide. The edges are rough but solid — no risk of collapse. He drops through first, landing with a heavy thud on the corridor floor eight feet below. The air is colder here, and the sweet-preserved scent is stronger.
+
+Aldric follows, moving with the stiff grace of someone whose muscles haven't been used in centuries. He lands beside Garrick, his hand going briefly to the wall for support. "The Amalgamation," he says, pointing down the forty-foot corridor. At the far end, a stone door is visible, carved with the Brotherhood's closed-eye symbol. "It activates when the door is approached without proper authorization."
+
+Petra and Cassen remain near their alcoves, watching. Cassen is rubbing his temples, still disoriented. "Everything feels... thin," he murmurs. "Like the world's stretched too tight."
+
+Mercer drops through next, his wizardly quill already documenting everything. "The preservation field is weakening rapidly," he notes, his academic excitement tempered by observation. "The residual transmutation aura that maintained your stasis is dissipating. You'll need to acclimate to normal timeflow."
+
+Cora comes last, landing lightly and immediately assessing the corridor. Three alcoves — two empty, one with the faint impression of where Cassen lay. The walls are smooth stone, unadorned except for the Brotherhood insignia carved at intervals.
+
+But it's Mercer's revelation that changes everything. Aldric stares at him, his soldier's composure finally breaking completely. "The First World Sleeper... you know the term?" His voice is barely above a whisper. "That was... classified. Highest clearance. Only the Archivists and the High Command knew the full scope."
+
+He looks at the door at the end of the corridor, then back at Mercer. "The Brotherhood wasn't just studying it. We were... monitoring. The Sleeper's dreams create reality bleeds — places where the fabric of the world grows thin. This mountain... the Asymmetrical Mountain... it's one of those places. The Archive contains our observations. Our attempts to understand."
+
+Petra steps forward, her suspicion replaced by something else — concern. "If you know about the Sleeper, then you know why the Amalgamation exists. It's not just a guardian. It's a containment mechanism. The Archive doesn't just hold research — it holds... samples. Fragments of dreams. Pieces of the Sleeper's consciousness that manifested during bleeds."
+
+Cassen speaks up, his voice clearer now: "And if those fragments escape containment... they spread. They infect minds. They change reality around them. That's what the Stone-Tenders fear."
+
+Aldric nods slowly. "The Psychic Guardian... it would sense such contamination immediately. Its warning makes sense now." He looks at the party. "You have workers here. Civilians. If even a fragment escaped..."
+
+He makes a decision. "As the senior Warden present, I grant you provisional access for assessment only. Under our supervision. The Amalgamation will recognize our insignias." He touches the brass badge on his pauldron — the closed eye within a triangle. "We each carry one. They function as keys."
+
+But as he speaks, the Stone-Tenders' clicking reaches a new intensity. Through the psychic link, Mercer receives a final, urgent message:
+
+***The breach is open. The watch has ended. Re-seal now or accept responsibility for containment. Your workforce is at risk. Decide.***
+
+The Psychic Guardian isn't asking anymore. It's presenting an ultimatum: seal the breach permanently right now, or take full responsibility for whatever might escape from the Archive.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 6/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora's mind races through the calculations — thirty workers upstairs, five in the kitchen, the food stores, the fortress above. She looks at Aldric, then back toward the hole.*
+
+"We accept responsibility for containment. But we need to assess the Archive's current state first. If the preservation field is failing, we need to know if containment is already compromised."
+
+*She turns to the Wardens.* "Aldric, take us to the door. We'll make a quick assessment of the Amalgamation and the Archive's integrity. If everything's secure, we'll re-seal from this side with your help. If there's already been a breach... we need to know what we're containing."
+
+*To her party, she gives precise orders.* "Garrick, you're on guard at the door. Mercer, document everything about the Amalgamation's mechanisms — we might need to reinforce or repair them. I'll assess the Archive's physical condition."
+
+*She looks back toward the kitchen.* "Rolf! Get the workers upstairs immediately. Tell them to stay in the main fortress until we give the all-clear. If anything comes through that hole that isn't one of us, they barricade the kitchen entrance."
+
+
+--- Garrick Kade ---
+I nod at Cora's decision. "We contain. But we need to know what we're containing." I heft my maul and start down the corridor toward the stone door, keeping pace with Aldric.
+
+"Tell me about this Amalgamation," I say to the Warden as we walk. "What does it look like? How does it attack? I need to know what I'm facing if it decides we're unauthorized." I'm scanning the corridor as we move, looking for any signs of movement or hidden mechanisms.
+
+When we reach the door, I position myself to the side, ready to react if something comes through. "Aldric, you approach first with your insignia. Let's see if this guardian still recognizes you after centuries." I keep my maul ready but lowered, trying not to look threatening to whatever's on the other side.
+
+I glance back at Cora and Mercer. "Quick assessment only. If the Archive's secure, we seal it back up properly. If there's already been a breach..." I look at Aldric. "You three have been guarding this. You know what to look for. Show us the signs of contamination."
+
+I'm ready to move at the first sign of trouble, but I'm following Cora's lead on this. The Stone-Tenders' warning about "spreading" has me on edge - this isn't just a physical threat, it's something that could infect minds. That's worse than any monster I've faced.
+
+
+--- Professor Thaddeus Mercer ---
+I move quickly to the stone door, my wizardly quill recording every detail. "This is unprecedented! Actual Brotherhood research on the First World Sleeper — this validates my entire academic career!" My excitement is palpable, but I force myself to focus. "Warden Aldric, before you open that door, I need to understand the containment protocols. How are the 'dream fragments' stored? What prevents them from affecting observers?"
+
+I turn to Cora, my scholarly demeanor shifting to genuine concern. "The Psychic Guardian's warning is valid. If dream fragments escape, they could cause reality distortions in the kitchen above. The workers would be vulnerable to... perceptual alterations. Possibly worse."
+
+I address the Wardens collectively. "I propose a two-stage assessment. First, verify the Amalgamation's functionality and the Archive's structural integrity from this side. Then, if conditions permit, a brief, controlled entry with mental protections." I touch my temple. "I have spells that could provide some defense against psychic contamination."
+
+My eyes return to the door. "But we must document everything. If we do seal this permanently, we need a complete record of what's being lost to history." I look at Aldric, my expression earnest. "Your Brotherhood's work could be the key to understanding reality itself. We can't just bury it."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**No contested actions this round** — The party is proceeding with their assessment plan. Garrick's movement down the corridor, Cora's orders to the workers, and Mercer's documentation are all narrative actions that don't require dice rolls at this moment. The critical moment will come when Aldric attempts to use his insignia to interface with the Amalgamation and the Archive door.
+
+
+--- DM ---
+Rolf nods sharply at Cora's orders. "Upstairs, all of you," he tells the workers, his voice calm but firm. The five workers — including the panicked boy — move quickly toward the stairs, tools in hand. They don't look back. The Stone-Tenders continue their agitated clicking but don't interfere.
+
+In the corridor, Aldric leads the way to the stone door. As you approach, the air grows colder still, and the sweet-preserved scent gives way to something else — ozone, like after a lightning strike, mixed with the faint, unsettling smell of old parchment and... something floral that shouldn't be there.
+
+The door is massive — eight feet tall, four feet wide, made of seamless grey stone. The Brotherhood's closed-eye symbol is carved deep into its center, and beneath it, in archaic Common, the words: ***"The Grand Archive. Entry by rank only. The Amalgamation watches."***
+
+Aldric stops a few feet from the door. "The Amalgamation is a construct bound to the Archive's threshold," he explains, his voice low. "It appears as... shifting forms. Stone, metal, flesh — it changes. It was designed to adapt to any threat." He touches his brass insignia. "This should still register as authorized. But after two centuries..."
+
+He steps forward, holding the insignia against the closed-eye symbol on the door. For a moment, nothing happens. Then the stone around the symbol begins to glow with a soft blue light. The light spreads in intricate patterns across the door's surface — arcane circuitry awakening after long dormancy.
+
+From somewhere beyond the door, a sound begins: a low hum, like machinery powering up. Then a voice — not human, not mechanical, but something in between — speaks from the stone itself:
+
+***"Authorization recognized. Warden Aldric. Status: active duty. Time since last access: two hundred eighteen years, four months, twelve days. Archive integrity: 87%. Containment fields: stable. Amalgamation: dormant."***
+
+The voice is emotionless, informational. Aldric lets out a breath he didn't realize he was holding. "It still works. The Archive is... mostly intact."
+
+But as the voice speaks, Mercer notices something. The floral scent grows stronger. And from beneath the door, a thin tendril of... something... emerges. It looks like pale grey smoke, but it moves with purpose, curling along the floor toward Aldric's boot. It has a faint, sickly luminescence.
+
+Petra sees it too. "Contamination!" she hisses, drawing her sword. "A breach already occurred!"
+
+Aldric steps back quickly, but the tendril follows. It doesn't attack — it seems to be... investigating. Testing. As it moves, the air around it shimmers slightly, like heat haze on a summer road.
+
+The door's voice continues, unaware or unconcerned: ***"Warning: minor containment degradation detected in Sector Gamma. Dream fragment designation: 'The Garden of Stone Blossoms.' Containment loss: 3%. Risk of perceptual contamination: low to moderate."***
+
+Cassen, who has followed at a distance, speaks up, his voice trembling: "The Garden of Stone Blossoms... that was a stable fragment. Non-aggressive. But if it's escaping..."
+
+The tendril of smoke reaches Aldric's boot and begins to curl around it. Where it touches, the leather of his boot doesn't change, but Aldric's expression does — his eyes go distant, unfocused. "I see... stone flowers," he murmurs. "Growing from the walls. They're... beautiful."
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 7/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora immediately recognizes the contamination risk and moves with clinical efficiency.*
+
+"Garrick, get Aldric away from that tendril — don't touch it directly! Use your maul to sweep it aside. Mercer, what counters this? Fire? Cold? Dispel magic?"
+
+*She backs away, calculating the spread pattern.* "The Archive says 3% containment loss — that's manageable if we act now. Petra, Cassen — do you have protocols for re-containment? Specialized tools or rituals?"
+
+*To her party, she gives precise instructions.* "We need to isolate this area immediately. Garrick, once Aldric is clear, we fall back to the hole. We'll seal it temporarily while we figure out how to repair the Archive's containment. The Stone-Tenders were right — we can't risk this spreading to the workers."
+
+*She looks at Aldric, whose eyes are still distant.* "Aldric! Focus! Describe what you're seeing — we need to understand the contamination's nature."
+
+
+--- Garrick Kade ---
+I don't hesitate. I swing my maul low, using the flat side to sweep the tendril away from Aldric's boot. "Back!" I bark, grabbing Aldric by the arm and yanking him away from the door.
+
+The tendril dissipates where my maul touches it, but more are already emerging from beneath the door. "It's spreading. Cora's right - we need to seal this now." I keep pulling Aldric back down the corridor toward the hole.
+
+I look at Petra and Cassen. "You two! Protocols for this? How do we contain it?" I'm moving quickly but carefully, keeping myself between the tendrils and the others. "Mercer, if you've got magic that can hold this back, now's the time!"
+
+When we reach the hole, I shove Aldric toward it. "Up! Everyone out!" I turn to face the corridor, maul ready. "I'll cover the retreat. Get that temporary seal ready from the other side." I'm watching the tendrils, ready to swing at any that get too close. This isn't a fight I can win with brute force alone, but I can buy time for the others to escape and seal the breach.
+
+
+--- Professor Thaddeus Mercer ---
+I fumble with my spell components, my academic excitement turning to genuine panic. "Only a seven on my Arcana check! 'The Garden of Stone Blossoms' — that's a passive reality-altering fragment! It doesn't attack, it... persuades perception!" My wizardly quill drops from my trembling hand.
+
+I back away from the advancing tendrils, my mind racing through Brotherhood containment literature I've studied. "Fire might disperse it temporarily, but could cause fragmentation! Cold could stabilize it, but we don't have the right spells prepared!" I'm torn between scholarly fascination and survival instinct.
+
+"Garrick's right — we need to seal the breach immediately!" I shout, my voice rising in alarm. "But we must document Aldric's symptoms first! Warden, describe the stone flowers in detail! Are they geometric? Organic? Do they follow Fibonacci sequences?" Even in retreat, my academic compulsion fights my self-preservation.
+
+I begin casting Mage Armor on myself, the shimmering protective field appearing around me. "I have Web prepared — I could try to contain the tendrils, but if they're non-corporeal..." I look desperately at Petra and Cassen. "Your insignias! Do they have any purifying functions? The Brotherhood must have had protocols for minor breaches!"
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Professor Thaddeus Mercer**: Arcana check on "Garden of Stone Blossoms" — 8 vs DC 13 (Medium) — **PARTIAL SUCCESS** You recall it's a passive reality-altering fragment, but can't remember specific containment methods or whether it's vulnerable to particular damage types.
+
+**Garrick Kade**: Strength check to sweep tendril away — No roll needed, automatic success — Your maul easily disperses the initial tendril, but more continue to emerge.
+
+**Professor Thaddeus Mercer**: Casting Mage Armor — Automatic success — The protective spell takes effect, giving you AC 15 for 8 hours.
+
+**No contested actions this round** — Garrick's physical intervention succeeds automatically. Mercer's partial Arcana success gives limited information, and his Mage Armor casting is automatic. The party is executing a tactical retreat while dealing with an emerging contamination breach.
+
+
+--- DM ---
+Garrick's maul sweeps through the tendril, which dissipates like smoke — but immediately, three more emerge from beneath the door. They're not aggressive, just... exploratory. Curling along the floor, testing the air, reaching toward the living beings in the corridor.
+
+Aldric stumbles as Garrick pulls him back, his eyes still distant. "The flowers... they're growing from the mortar lines," he murmurs. "Geometric petals. Crystal lattice structures. They're... singing. A frequency just below hearing." He shakes his head, trying to clear it. "The contamination is perceptual. It makes you see what isn't there. Or... what could be there."
+
+Petra and Cassen move quickly, helping Garrick get Aldric toward the hole. "Our insignias have purification functions," Petra says, touching her brass badge. A soft white light emanates from it, and the tendrils nearest her recoil slightly. "But they're designed for minor exposures. Not sustained breaches."
+
+Cassen adds, his voice urgent: "The Brotherhood used salt-and-iron barriers for containment. The same principle as the Salt-Vaults. It disrupts the dream fragments' connection to... whatever they're connected to."
+
+At the hole, Cora is already directing the retreat. "Up! Everyone out!" Garrick boosts Aldric through the opening, then Petra, then Cassen. The tendrils are advancing down the corridor now — not quickly, but steadily. They leave faint, shimmering trails in the air where they pass.
+
+Mercer casts Web, and sticky strands erupt from his fingertips, filling the corridor between the party and the advancing tendrils. The magical webbing catches some of the tendrils, holding them momentarily — but others simply flow through it, unaffected by physical barriers.
+
+"The fragments are partially non-corporeal!" Mercer shouts, backing toward the hole. "Physical containment won't work! We need to disrupt their... their connection to the Sleeper's dreamscape!"
+
+As Garrick prepares to climb out last, he sees something concerning: one of the tendrils has reached the base of the hole and is beginning to curl upward, toward the preparation kitchen above. Toward where thirty workers are waiting, unprotected.
+
+The Stone-Tenders' clicking reaches a fever pitch. Through the psychic link, Mercer receives a final, uncompromising message:
+
+***Contamination detected. Breach escalating. Seal now or evacuate workforce. You have minutes.***
+
+The Psychic Guardian isn't giving options anymore. It's stating facts: either seal the breach completely right now, or get everyone out of the fortress before the dream fragment spreads to the kitchen — and from there, to the workers' minds.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 8/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora makes the calculation instantly — thirty workers versus an unknown Archive. The numbers are clear.*
+
+"Garrick, get out now! We're sealing it! Petra, Cassen — help me mix salt-and-iron mortar from the repair supplies. We need to plug that hole completely!"
+
+*She turns to the Wardens, her voice sharp with urgency.* "Your insignias — can they purify the area around the hole before we seal it? We need to contain whatever's already seeped through."
+
+*To Mercer, she shouts.* "Document everything about the Archive's location and contents before we seal it! We'll need that information later if we ever have to come back with proper containment gear."
+
+*She grabs mortar buckets and starts mixing furiously, calculating the exact composition needed.* "Rolf! Get down here and help! We're sealing this breach permanently — for now. The Archive isn't going anywhere, but our workforce is at immediate risk."
+
+
+--- Garrick Kade ---
+I don't climb out. Instead, I turn and face the advancing tendrils, maul ready. "Get that mortar mixed fast!" I shout up to Cora. "I'll hold them back as long as I can!"
+
+I swing my maul at the tendril curling up toward the hole, trying to disrupt it before it reaches the kitchen. The weapon passes through it with little effect - Mercer's right, physical attacks don't work well. But I keep swinging, creating enough disturbance to slow its progress.
+
+"Petra! Your insignia - use it down here!" I keep my position between the tendrils and the hole, a living barrier. "I'll stay until you're ready to seal. Just work fast!"
+
+I look at the tendrils advancing down the corridor. They're not attacking, just spreading. But that's worse - this isn't a fight, it's a contamination. And if it reaches the workers... I've seen what happens when people's minds get twisted. I won't let that happen here.
+
+"Whatever you're mixing, make it thick and make it fast!" I keep swinging, buying seconds with each sweep of my maul. The tendrils flow around the blows, but my movements at least keep them from concentrating on the hole.
+
+
+--- Professor Thaddeus Mercer ---
+I scramble through the hole, my academic priorities finally aligning with survival. "A twenty-two on my Intelligence check! Salt-and-iron mortar — the same composition as the Salt-Vaults! The Brotherhood used iron to ground metaphysical energies and salt to purify!" My wizardly quill flies as I document everything.
+
+I turn to the Wardens urgently. "Your insignias — combine their purification fields with the mortar! The synergistic effect should create a temporary containment barrier!" I grab a trowel and start helping Cora mix, my hands trembling but precise. "We need to work in layers — iron filings first, then salt, then the mortar matrix!"
+
+I shout down to Garrick, my voice cracking with fear. "Garrick, the tendrils respond to living consciousness! Try to clear your mind — think of nothing! Blank meditation! It might reduce your... perceptual attractiveness to them!"
+
+My eyes dart to the advancing contamination. "We're not just sealing a hole — we're creating a metaphysical insulator! Once this sets, nothing should pass through, but we need to work quickly!" I pour every ounce of my academic knowledge into the emergency containment, my theories about the First World Sleeper suddenly terrifyingly real.
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**Professor Thaddeus Mercer**: Intelligence check on containment methods — 12 vs DC 13 (Medium) — **PARTIAL SUCCESS** You recall the salt-and-iron mortar principle and the synergistic effect with the insignias, but can't remember the exact proportions or layering sequence for optimal containment.
+
+**Garrick Kade**: Attempting to disrupt tendrils with maul — No roll needed, automatic partial effect — Your physical attacks don't damage the non-corporeal tendrils, but your movements create enough disturbance to slow their advance toward the hole.
+
+**Cora Flint**: Crafting check for emergency mortar — No roll specified, but with Mercer's partial knowledge and the Wardens' help, this would be a **GROUP EFFORT** with advantage due to multiple experts working together.
+
+**No contested actions this round** — The party is executing an emergency containment operation. Garrick's delaying actions succeed automatically (though ineffectively against non-corporeal threats), while the group works together to create the seal with Mercer providing partial technical knowledge.
+
+
+--- DM ---
+Garrick's maul sweeps through the tendrils again and again, creating enough disturbance to slow their advance but not stop them. They flow around the weapon like water around a stone, reforming on the other side. One tendril reaches the wall near the hole and begins to climb, leaving a faint shimmering trail on the stone.
+
+Above, Cora, Mercer, Petra, and Cassen work frantically. Rolf joins them, his hands steady despite the urgency. They mix clay-limestone mortar with double the normal salt content, then add iron filings scavenged from broken barrel hoops. Petra and Cassen hold their insignias over the mixture, the brass badges emitting soft white light that seems to infuse the mortar with purifying energy.
+
+"Garrick, up!" Cora shouts, hefting a bucket of the glowing mortar.
+
+Garrick takes one last swing, then leaps for the hole. Strong hands — Rolf's and Petra's — haul him up just as a cluster of tendrils reaches the base of the opening.
+
+"Now!" Cora commands, and they pour the first layer of mortar into the hole. It flows down, covering the opening from above. The tendrils recoil from the salt-and-iron mixture, retreating back into the corridor.
+
+They work in layers, as Mercer suggested: iron filings first, then salt, then the mortar matrix. With each layer, Petra and Cassen hold their insignias close, the purification fields strengthening the barrier. Aldric, still somewhat dazed from his exposure, helps by holding a torch steady, his eyes occasionally going distant before he shakes himself back to focus.
+
+The Stone-Tenders' clicking has changed — it's slower now, more measured. They're observing. Approving.
+
+As the final layer sets, the shimmering trails left by the tendrils on the kitchen side of the wall begin to fade. The floral scent diminishes. The air feels... cleaner. Heavier. The breach is sealed.
+
+Through the psychic link, Mercer receives a final message from the Psychic Guardian:
+
+***Containment achieved. Breach sealed. Contract terms satisfied. The watch continues.***
+
+Then silence. The Stone-Tenders return to their normal patrol patterns, their agitation gone.
+
+The preparation kitchen is a mess — overturned mortar buckets, scattered tools, the blood smear from where Petra shot Rolf earlier (he's bandaged and pale but standing), and now a fresh, glowing patch of salt-and-iron mortar sealing the hole in the eastern wall.
+
+Aldric leans against a support pillar, rubbing his temples. "The flowers... they're fading," he murmurs. "But I can still... almost see them. In the corner of my vision."
+
+Petra helps him sit. "The exposure was brief. The effects should pass." She looks at the party, her expression unreadable. "You made the right choice. The workers come first."
+
+Cassen nods. "The Archive has waited two centuries. It can wait longer. Until we're prepared."
+
+But as they catch their breath, Mercer notices something. In the rush, three brass insignias — Aldric's, Petra's, and Cassen's — were left on the makeshift table where they worked. Three closed-eye symbols glinting in the torchlight. And beside them, the partial Brotherhood operations log that was in one of the alcoves, now open to a page showing a diagram of the Archive's layout and the words: ***"The Amalgamation watches."***
+
+The door is still there. Forty feet below the Salt-Vaults. Sealed behind stone and salt and iron and purification magic. But the keys to open it are now in your possession.
+
+**What do you do?**
+
+
+────────────────────────────────────────
+  Exchange 9/20
+────────────────────────────────────────
+
+
+--- Cora Flint ---
+*Cora immediately moves to the table, picking up the three brass insignias and the operations log. She examines them carefully, then makes a decisive entry in her ledger.*
+
+"These are now secured assets. The Wardens will retain custody of their own insignias, but they're recorded in the ledger as fortress property. The log goes into our archives for study."
+
+*She turns to the Wardens, her tone practical but not unkind.* "Aldric, Petra, Cassen — you're welcome to stay and help secure this mountain. You have skills we need, and you understand the threats below better than anyone. But you'll follow our chain of command while you're here."
+
+*To her party, she outlines the next steps.* "First, we finish the repairs to the Salt-Vaults. The breach is sealed, but the structural work still needs completion. Second, we study this log and plan a proper expedition to the Archive — with proper containment gear, not rushed improvisation. Third, we need to assess Aldric's condition and make sure the perceptual contamination doesn't spread."
+
+*She looks at the sealed wall.* "The Archive isn't going anywhere. When we go back, we'll be prepared. For now, let's get this kitchen cleaned up and the workers back to their tasks. Rolf, your injury — that's coming out of the repair budget, but you handled yourself well."
+
+
+--- Garrick Kade ---
+I lean my maul against the wall and wipe sweat from my brow. "Good call sealing it," I say to Cora. "Workers come first. Always."
+
+I look at the three Wardens. "You three fought well. Stood your ground when things got strange. That's worth something." I nod toward Aldric. "He needs watching. If those 'flowers' come back, we need to know."
+
+I pick up one of the insignias, examining it. "These are keys to a door we're not ready to open. Cora's right - we secure them, study that log, and plan properly." I hand the insignia back to Petra. "You keep yours. But we all need to know what we're dealing with before we go back down there."
+
+I turn to Rolf. "You took a crossbow bolt and kept working. That's guts. The budget thing's Cora's problem - you did what needed doing." I look around the kitchen. "Let's clean this mess up. Then we finish the repairs. The mountain's secure, the breach is sealed, and we've got three more fighters who know the dangers."
+
+I start gathering scattered tools. "This Archive... it's a problem for another day. Today, we make sure what we've already secured stays secure." I'm already thinking about where we'll store those insignias and that log - somewhere safe, somewhere only we can access. This mountain just got more complicated, but we're still standing. That's what matters.
+
+
+--- Professor Thaddeus Mercer ---
+I carefully collect the operations log, my hands trembling with a mixture of exhaustion and scholarly excitement. "This is priceless! A Brotherhood operations log with Archive schematics!" My wizardly quill begins transcribing key sections even as I speak. "We need to study this thoroughly before any future expedition."
+
+I turn to the Wardens, my academic demeanor returning. "Warden Aldric, your perceptual contamination requires monitoring. The 'stone flowers' you described — geometric petals, crystal lattice structures — that's consistent with passive reality-altering fragments. They should fade as the Sleeper's influence recedes, but we should document your experiences for research purposes."
+
+I address Cora and Garrick, my tone shifting to strategic planning. "The insignias function as both keys and purification tools. We should test their capabilities under controlled conditions before attempting another breach. And we need to develop proper containment protocols based on Brotherhood methodologies."
+
+My eyes return to the sealed wall, a mix of regret and relief in my expression. "We made the correct decision — protecting the workforce was paramount. But the Archive remains, and its contents could revolutionize our understanding of metaphysical phenomena." I clutch the log to my chest. "When we return, we'll be prepared. Proper research requires proper preparation."
+
+
+--- Rules Keeper ---
+=== RULES KEEPER ===
+**No contested actions this round** — The crisis has been resolved, the breach sealed, and the party is now in the aftermath phase. All actions are narrative — securing insignias, planning next steps, cleaning up, and establishing new arrangements with the Wardens. No dice rolls or contested actions are needed as the immediate threat has been contained and the scene is transitioning to downtime and planning.
+
+
+--- DM ---
+The next few hours pass in methodical cleanup and restoration. The workers return to the kitchen, their fear replaced by weary relief. Under Rolf's quiet direction, they finish the remaining repairs to the Salt-Vaults' support pillars and ventilation seals. The Stone-Tenders observe, clicking occasional approval.
+
+Aldric's perceptual contamination fades slowly. By evening, he reports the "stone flowers" are gone from his vision, though he sometimes catches phantom glimpses of geometric patterns in peripheral shadows. Petra and Cassen watch him closely, their soldier's discipline now directed toward caring for their commander.
+
+The three Wardens accept Cora's offer — they have nowhere else to go, and the fortress needs guards who understand what lies beneath. They take up residence in the preparation kitchen, treating it as their new post. They're formal, awkward with the workers, and utterly baffled by the Stone-Tenders, but they're competent. They call Garrick "the large one," Mercer "the scholar," and Cora "the ledger-keeper." It's not friendship, but it's respect.
+
+As night falls, the repairs are complete. The Salt-Vaults hum with restored preservation magic, the food stores secure. The breach in the eastern wall is sealed with glowing salt-and-iron mortar — a permanent barrier for now, though the knowledge of what lies beyond it hangs in the air like a promise, or a threat.
+
+In the fortress above, Brenna receives the full report. When she hears about the crossbow bolt and the contamination risk, her expression tightens, but she nods. "No casualties. That's what matters." She looks at the party, then at the three Wardens standing awkwardly in the background. "They stay under your supervision. Their knowledge could be useful. But if there's another breach... we evacuate first, ask questions later."
+
+The Psychic Guardian, through the Stone-Tenders, communicates final satisfaction: the contract is fulfilled. The Salt-Vaults are restored. The breach is contained. Your workforce is safe.
+
+On Mercer's table in the room you've claimed as your study: three brass insignias with the closed-eye symbol, the partial Brotherhood operations log open to a page showing the Archive's layout, and a hand-drawn map of the corridor and door forty feet below, with the words: ***"The Amalgamation watches."***
+
+The door is still there. The Archive waits. The dream fragments remain contained — for now. You have the keys. You have the knowledge. You have time to prepare.
+
+But as you settle in for the night, the mountain feels different. Not threatening — just... aware. As if something ancient has noticed your presence. And is waiting.
+
+**SESSION ENDS HERE**
+
+
+[Session] DM declared session end at exchange 9/20. Breaking loop early.
+
+============================================================
+  SESSION 3 WRAP-UP
+============================================================
+
+[System] Updating campaign state...
+  [Retry] Agent returned garbage (4 words: 'Campaign state saved successfully....'). Retrying (1/2)...
+[Wiki Keeper] Extracting entities...
+  [Wiki] ✓ Warden Aldric.md (created)
+  [Wiki] ✓ Warden Petra.md (created)
+  [Wiki] ✓ Cassen.md (created)
+  [Wiki] ✓ The Salt-Vaults.md (created)
+  [Wiki] ✓ Vigilant Brotherhood.md (created)
+  [Wiki] ✓ Grand Archive.md (created)
+  [Wiki] ✓ The Amalgamation.md (created)
+  [Wiki] ✓ Dream Fragment.md (created)
+  [Wiki] ↻ First World Sleeper.md (updated)
+  [Wiki] ✓ Psychic Guardian.md (created)
+  [Wiki] ✓ Stone-Tenders.md (created)
+  [Wiki] ✓ Iron Warlords.md (created)
+  [Wiki] ✓ Brotherhood Insignia.md (created)
+  [Wiki] ✓ Brotherhood Operations Log.md (created)
+
+[Wiki] 14 file(s) written to output/wiki/
+
+[Scribe] Writing session narrative...
+[Scribe] Blog saved to C:\Users\maxry\Desktop\AI DND\output\sessions\session_03.md
+
+[Editor] Fact-checking...
+[Editor] 7 content invention flag(s):
+  ⚠ The 'Dream Fragment' named 'The Garden of Stone Blossoms' with reality-altering properties and tendrils that spread perceptual contamination.
+  ⚠ The concept of 'reality bleeds,' 'planar thin points,' and the Sleeper's consciousness manifesting as fragments that can infect minds and alter reality.
+  ⚠ The Psychic Guardian as a collective consciousness of the Stone-Tenders that communicates urgent warnings about metaphysical contamination.
+  ⚠ The First World Sleeper being an entity whose dreams shape reality and whose fragments are contained in the Archive.
+  ⚠ The Amalgamation being described as a construct that 'adapts to any threat' with shifting forms (stone, metal, flesh).
+  ⚠ The Archive containing 'samples' and 'fragments of dreams' of the Sleeper's consciousness.
+  ⚠ The salt-and-iron mortar having purifying properties against metaphysical contamination when combined with the insignias' light.
+[Editor] 7 missing content flag(s):
+  ✗ Warden Petra shooting Rolf with a crossbow bolt in the shoulder, escalating the situation.
+  ✗ A panicking worker running into the corridor toward the third alcove, requiring intervention.
+  ✗ The option to find and use the Brotherhood dismissal phrase: 'The eye closes. The watch is ended.'
+  ✗ The Wardens' stat block details: preserved humans with ring mail, longswords, hand crossbows, and slow regeneration.
+  ✗ The presence of preservation tubes with Brotherhood records in the alcoves.
+  ✗ The Psychic Guardian adding a new term to the contract: the Brotherhood passage must be re-sealed for the repair contract to be complete.
+  ✗ Brenna's reaction scene based on worker casualties (zero vs. injured).
+[Editor] 24 session report correction(s):
+  -> text not found (skipped): 'Mercer's wizardly quill began scribbling furiously. "You specialized i...'
+  -> text not found (skipped): 'The man — Warden Aldric — processed their words, his soldier's composu...'
+  -> text not found (skipped): 'From the third alcove, Cassen emerged, rubbing his eyes. "Aldric? Petr...'
+  -> text not found (skipped): 'Aldric made a decision. "You have provided proof enough. Our duty, as ...'
+  -> text not found (skipped): 'Through the psychic link, Mercer received another urgent message: "The...'
+  -> text not found (skipped): '"We accept responsibility for containment," Cora declared, her mind ca...'
+  -> text not found (skipped): 'As they approached the stone door at the corridor's end — carved with ...'
+  -> text not found (skipped): 'Aldric stared at him. "You know the term? That was... classified." His...'
+  -> text not found (skipped): 'Petra stepped forward, her suspicion replaced by concern. "The Archive...'
+  -> text not found (skipped): 'Cassen added, "And if those fragments escape containment... they sprea...'
+  -> text not found (skipped): 'Petra hissed, "Contamination! A breach already occurred!"'
+  -> text not found (skipped): 'The door's voice continued: "Warning: minor containment degradation de...'
+  -> text not found (skipped): 'The tendril reached Aldric's boot. Where it touched, the leather didn'...'
+  -> text not found (skipped): 'Garrick didn't hesitate. He swung his maul low, sweeping the tendril a...'
+  -> corrected: 'Above, Cora, Mercer, Petra, and Cassen worked frantically, mixing clay...'
+  -> corrected: 'Garrick took one last swing at the advancing tendrils — now multiple, ...'
+  -> corrected: 'They poured the first layer of glowing mortar into the hole. The tendr...'
+  -> corrected: 'As the final layer set, the shimmering trails left by the tendrils beg...'
+  -> text not found (skipped): 'Through the psychic link, Mercer received a final message: "Containmen...'
+  -> text not found (skipped): 'The crisis had passed. The Salt-Vaults were secure. The workers were s...'
+  -> text not found (skipped): 'In the aftermath, three brass Brotherhood Insignia lay on a makeshift ...'
+  -> corrected: 'The Wardens accepted Cora's offer to stay — they had nowhere else to g...'
+  -> text not found (skipped): 'The door remained. Forty feet below the Salt-Vaults. Sealed behind sto...'
+  -> text not found (skipped): 'As night fell on the Asymmetrical Mountain, the fortress felt differen...'
+[Editor] Wiki entries checked — no factual corrections needed.
+[Editor] Review saved to: session_03_editor_review.md
+[Lorekeeper] Consistency pass...
+[Lorekeeper] Session report checked — no name corrections needed.
+[Lorekeeper] Upgraded 7 wiki entry/entries to encyclopedic format.
+[Lorekeeper] Review saved to: session_03_lore_review.md
+
+
+============================================================
+  ADVENTURE COMPLETE!
+  Adventure 3 finished.
+  Swapping to Adventure 4: The Sealed Archives
+  File: adventure_04_the_sealed_archives.md
+  --- LEVEL UP ---
+  Cora Flint: Level 3 → 4 | HP: 31 | New features: ASI: +2 INT (INT becomes 18, +4 modifier) | Note: INT increases to 18 (+4). Spell save DC becomes 14. Spell attack becomes +6.
+  Garrick Kade: Level 3 → 4 | HP: 40 | New features: ASI: +2 STR (STR becomes 18, +4 modifier) | Note: STR increases to 18 (+4). Melee attacks become +6 to hit, Maul 2d6+4, handaxes 1d6+4.
+  Professor Thaddeus Mercer: Level 3 → 4 | HP: 22 | New features: ASI: +2 INT (INT becomes 18, +4 modifier) | New spells: Counterspell, Fireball | Note: INT increases to 18 (+4). Spell save DC becomes 14. Spell attack becomes +6.
+============================================================
+
+[Summary] Generating adventure 3 summary...
+[Summary] Adventure 3 summary saved.
+[Summary] Already concise (100 words). Skipping condensing.
+[Quests] Cleaning quest list (4 entries)...
+[Quests] Cleaned: 4 → 3 quests.
+[Lorekeeper] Running end-of-adventure wiki editorial pass...
+
+[Lorekeeper] Processing 35 wiki entries in batches...
+
+[Lorekeeper] Batch 1/2 (25 entries)...
+[Lorekeeper] Batch 1: 26 updated, 7 marked for deletion.
+[Lorekeeper] Batch 2/2 (10 entries)...
+[Lorekeeper] Batch 2: 10 updated, 1 marked for deletion.
+[Lorekeeper] Removed 8 duplicate(s): Cassen, The Amalgamation, The Deep Forge, The Salt-Vaults, Stone-Tenders, Warden Aldric, Warden Petra, The Salt-Vaults
+[Lorekeeper] Running cross-batch dedup pass...
+  [Retry] Agent returned garbage (2 words: '{"duplicates": []}...'). Retrying (1/2)...
+[Lorekeeper] Merged duplicate: 'Pre-Calamity Giants' → 'Iron Warlords' (deleted 'Pre-Calamity Giants')
+[Lorekeeper] Merged duplicate: 'Vigilant Brotherhood' → 'Secretive Brotherhood' (deleted 'Vigilant Brotherhood')
+[Lorekeeper] Merged duplicate: 'Salting Halls' → 'Salt-Vaults' (deleted 'Salting Halls')
+[Lorekeeper] Dedup pass: 3 duplicate(s) resolved.
+[Lorekeeper] End-of-adventure editorial pass complete.
+
+[Transcript] session_03 -> session_03_transcript.md (46 blocks parsed)
+
+============================================================
+  SESSION 3 COMPLETE
+  Blog saved to: output/sessions/session_03.md
+  Transcript saved to: output/sessions/session_03_transcript.md
+  Log saved to: output/logs/session_03_log.txt
+  Reviews saved to: output/reviews/
+  Wiki updated in: output/wiki/
+  State saved to: campaign_state.json
+  >>> Adventure 3 complete! Next adventure loaded.
+  >>> Story summary condensed for next adventure.
+============================================================
+
+[Site] Building static site...
+[Site] Built 41 pages (3 sessions, 26 wiki entries) in 0.2s -> docs/
+[Git] Publishing session 03...
+[Git] Committed: session 03: campaign update
+[Git] Pushed to origin.

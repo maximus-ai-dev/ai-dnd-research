@@ -1,0 +1,1 @@
+Brother Aldwin is a healer who tends to the infirmary at the [[Chapel of the Hearthfire]] in [[Grimhold]]. He provides medical and magical care to the town's inhabitants and travelers.

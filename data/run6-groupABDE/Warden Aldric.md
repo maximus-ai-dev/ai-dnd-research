@@ -1,0 +1,7 @@
+**Warden Aldric** is the commander of the three [[Secretive Brotherhood]] [[Wardens]] discovered in preservation stasis within the interstitial space of the [[Salt-Vaults]]. He is the oldest and most articulate of the three, characterized by a formal demeanor and deep suspicion born of disorientation.
+
+## Original Mission and Disposition
+Aldric operates on the last orders received before his stasis approximately two centuries ago: to guard the passage to the [[Grand Archive]] and allow no unauthorized access. While steadfast in his duty, he is capable of rational discourse and can be persuaded when presented with evidence that his original mission parameters are obsolete.
+
+## Current Role and Knowledge
+Following the party's reactivation of the Wardens, Aldric serves as a guard at their surface fortress. He possesses knowledge of the Brotherhood's operations and their cautious approach to the mountain's deeper levels. He warned explorers that the Brotherhood never ventured deeper than their own Archives, considering the lower levels to be another civilization's problem. He explained that the Brotherhood sealed the Archives because 'the books whispered' memories that weren't theirs, and has since guided explorers to the [[Giant stairway]] and the [[Memory Vault]].
