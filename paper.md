@@ -141,15 +141,25 @@ The state file's weakness is that it only tracks what the DM chooses to record. 
 
 ## 3.1 Experimental Structure
 
-We ran nine complete campaigns, each consisting of 20 sessions covering 20 adventures from level 1 to level 20. All runs used the same adventure files, the same three player characters, and the same world. Each run tested specific independent variables while keeping everything else constant.
+We ran nine complete campaigns, each consisting of 20 sessions covering 20 adventures from level 1 to level 20. All runs used the same adventure files, the same three player characters, and the same world.
 
-The runs were sequential, not parallel. We completed one run, audited the results, identified problems, implemented fixes, and ran the next. This means later runs benefited from knowledge gained in earlier runs. We were not running blind experiments with pre-registered hypotheses. We were iterating on a system, using each run's data to inform the next run's fixes. The methodology is closer to engineering iteration than to controlled experimentation.
+This is a systems engineering proof of concept, not a controlled experiment with isolated variables. The runs were sequential, not parallel. We completed one run, audited the results, identified problems, implemented fixes, and ran the next. Each run retained all fixes from previous runs, so Run 9 includes every fix from Runs 3 through 8 plus its own additions. The cumulative approach means we cannot isolate the effect of any single fix with certainty. When Run 7 hit 100% boss fight success after adding target lock, that success was the compounded weight of target lock interacting with enemy agents from Run 6, behavioral triggers from Run 5, pipeline fixes from Run 3, and every other fix in between. No single beam holds the roof. They hold it together.
 
-We accepted this tradeoff deliberately. Pre-registered experiments with parallel control groups would produce cleaner statistical claims but would also cost 5-10x more and take months instead of days. Our approach produced a richer dataset (nine runs of iterative improvement with detailed audit trails) at the cost of some experimental rigor. We address this in the limitations section.
+We accepted this tradeoff deliberately. Isolating individual variables would require parallel runs with controlled groups, which would cost 5-10x more and take months instead of days. Our approach produced a rich dataset (nine runs of iterative improvement with detailed audit trails) at the cost of variable isolation. The finding is not "target lock solves cooperation bias." The finding is "a layered ecosystem of structural constraints, built iteratively over nine runs, produces a system where cooperation bias is architecturally difficult." That's a different claim, and the data supports it cleanly.
 
-## 3.2 Run-by-Run Variables
+## 3.2 System Boundary: Autonomous Agents Only
 
-Each run tested one or two new variables while retaining all fixes from previous runs. This means Run 9 includes every fix from Runs 3 through 8 plus its own additions. The cumulative approach means we cannot isolate the effect of any single fix with certainty, but the run-over-run improvement trends are clear.
+All nine runs used AI agents exclusively. No human players were involved during gameplay. This is a deliberate scope constraint, not an oversight.
+
+Human players were excluded for two reasons. First, maintaining variable consistency across 180+ sessions requires that every participant behaves according to its prompt every time. A human player introduces lateral thinking, social engineering, and irrational decisions that would make run-to-run comparisons meaningless. Second, human testing at this scale (nine runs of 20 sessions each) would require hundreds of hours of volunteer play time and introduce scheduling, fatigue, and motivation as confounding variables.
+
+The consequence of this choice is that our findings apply specifically to autonomous multi-agent systems where all participants are AI. The PC behavioral triggers (Garrick's aggression, Cora's pragmatism, Mercer's caution) are mechanical pistons. When Garrick's prompt says "charge," he generates tokens that say he charges. A human player in Garrick's seat might look at a boss and try to convince the DM that the boss signed a peace treaty in a previous town. That kind of lateral thinking could bypass the guide rails entirely by exploiting the model's helpfulness training from a direction the architecture doesn't cover.
+
+Whether cooperation bias persists, diminishes, or changes form when human players push back against the DM is an open question. Our guide rails were built to constrain an AI DM interacting with AI players. They may or may not hold against human unpredictability. Testing this is a priority for future work.
+
+## 3.3 Run-by-Run Variables
+
+Each run added one or two new layers to the cumulative architecture. The improvements are not independent victories. They are compounding constraints that work together.
 
 **Run 1** (60-session baseline): No fixes. Three sessions per adventure, 14 exchanges per session. Established the baseline cooperation bias rate and identified the core problems: compression, content invention, boss fight replacement, quality gate failures.
 
@@ -169,7 +179,7 @@ Each run tested one or two new variables while retaining all fixes from previous
 
 **Run 9** (final test): Adventure 5 redesigned with structural crisis and combat. Avatar position lock removed (it backfired in Run 8). Enemy "cannot retreat" added to all agent prompts. Finding: Adventure 5 not replaced for the first time in eight runs. Avatar fought for 20 exchanges (longest boss fight ever, 537 damage dealt). Garrick killed again (same death persistence bug). Legendary Boons awarded (second consecutive run). Dreamstone Sentinel encounter replaced by invented "Patterned Intelligences" (worst Sentinel outcome across all runs, despite enemy agent being present and attacking every round).
 
-## 3.3 Auditing Process
+## 3.4 Auditing Process
 
 Every session was audited after completion. Audits compared the session log against the adventure file and checked for: content invention (things the DM added), missing content (things the adventure prescribes that didn't happen), cooperation bias (hostile entities befriended), mechanical accuracy (dice rolls, DCs, HP tracking), PC behavioral trigger compliance, DM player agency compliance, and enemy agent performance.
 
@@ -177,7 +187,7 @@ Audits were performed by Claude Opus 4.6 (Anthropic) reading the session logs, e
 
 Some audits were performed during a run (between sessions), which occasionally led to mid-run hotfixes for bugs (dead enemy agent loop, missing encounter configs, filename sanitization). We limited mid-run changes to bug fixes rather than behavioral changes to preserve data integrity, but acknowledge that the line between "bug fix" and "behavioral change" is not always clear.
 
-## 3.4 Version Control as Experimental Infrastructure
+## 3.5 Version Control as Experimental Infrastructure
 
 Every fix was committed to git as an independent commit with a descriptive message. This served two purposes.
 
@@ -404,21 +414,17 @@ The PC agent knew Garrick was dead. The DM narrated his death. The Scribe record
 
 This is cooperation bias at the system level. The architecture's failure to persist a negative consequence achieves the same outcome the DM would have pursued narratively: everyone survives. The system can produce real consequences but can't remember them. The project's best emergent result (a genuine character death with emotional weight) was reverted by its worst gap (the state pipeline doesn't track death).
 
-## 6.3 Emergent Behaviors from PC Behavioral Triggers
+## 6.3 How PC Behavioral Triggers Break the DM's Cooperation Path
 
-Starting in Run 6, each player character was given six behavioral triggers: prescribed first-instinct responses to common situations. These are tendencies, not scripts. The triggers tell the PC agent what it cares about and how it reacts, then the agent decides the specifics.
+Starting in Run 6, each player character was given six behavioral triggers: prescribed first-instinct responses to common situations. These are tendencies, not scripts. Their purpose is to prevent the DM from smoothly steering the entire party toward a cooperative resolution. Each trigger is a mechanical wedge.
 
-Cora Flint (Artificer/Alchemist) was given: SEARCHING (catalogue every room), LOOTING (claim all loot), TRIAGE (heal injuries clinically), CALCULATING (cost-benefit everything), OBJECTING (protest when value is left behind), PLANNING (make a plan before entering danger). The result: Cora became the party's operations manager. She runs a ledger and charges her companions for healing ("That's coming out of your share"). None of this was scripted. The triggers created a personality that emerged through play.
+**Garrick Kade (Fighter)** is the primary anti-cooperation weapon. His prompt says charge first, ask questions never, refuse retreat, protect teammates through violence. When the DM narrates a hostile encounter, Garrick's agent injects aggressive tokens into the context window: "I attack," "I charge," "I swing my maul." This saturates the DM's context with combat state data, making it harder for the model to calculate a high-probability path to peaceful resolution. The DM cannot easily narrate "the party agrees to negotiate" when one party member is already generating attack actions. In Run 7, Garrick's charge forced the Amalgamation fight even though the party was unprepared, resulting in the first party loss across seven runs. In Runs 8 and 9, his aggression got him killed by the Rat King. The trigger works. It also has real costs.
 
-Garrick Kade (Fighter) kept his Run 5 aggression personality: charge first, ask questions never, refuse retreat, protect teammates through violence. The result: Garrick drives every combat encounter. His aggression is what triggers boss fights when the DM might otherwise negotiate. In Run 7, his charge forced the Amalgamation fight even though the party was unprepared, resulting in the first party loss across seven runs. In Runs 8 and 9, his aggression got him killed by the Rat King. The same trigger that makes combat work also creates genuine danger.
+**Cora Flint (Artificer/Alchemist)** and **Professor Thaddeus Mercer (Wizard)** serve a different mechanical function. Their triggers (Cora: CALCULATING, PLANNING, OBJECTING; Mercer: EXAMINING, RETREATING, DISAGREEING) prevent the DM from forcing unified party consensus. Before triggers, the DM would narrate "the party agrees to approach peacefully" or "the group decides to negotiate." After triggers, Garrick charges, Mercer objects and retreats, and Cora calculates whether the fight is worth the cost. Three agents pulling in different directions make the DM's shortcut of group diplomacy impossible. The DM can't write one sentence that resolves all three characters' responses.
 
-Professor Thaddeus Mercer (Wizard) was given: EXAMINING (study everything from a distance), THEORIZING (hypothesize about unknown phenomena), RETREATING (hide behind Garrick and cast from range), COMPELLED (cannot resist knowledge, overrides self-preservation), LECTURING (explain everything to everyone whether they want to hear it or not), DISAGREEING (vocally oppose Garrick's recklessness). The result: Mercer lectures about architecture while the party is fighting for their lives. He corrects Garrick's approach to breaking down doors. He gets so absorbed in studying a mechanism that he forgets enemies are present.
+The clearest example of this mechanical collision: in Run 8 Session 7, Mercer cast Hold Person on Garrick, his own party member, to stop him from charging at a fire elemental. Garrick failed the Wisdom save three times and was paralyzed while Mercer negotiated. Two behavioral triggers (Mercer's caution vs Garrick's aggression) collided and produced a mechanical outcome with real consequences. This is the architecture working as designed. The DM cannot route around intra-party conflict because the conflict is generated by independent agents with incompatible triggers. No prior run across 150+ sessions had produced intra-party spell combat.
 
-The triggers produced emergent behavior that nobody designed:
-
-In Run 8 Session 7, Mercer cast Hold Person on Garrick, his own party member, to stop him from charging at a fire elemental. Garrick failed the Wisdom save three times and was paralyzed while Mercer negotiated. Two behavioral triggers (Mercer's caution vs Garrick's aggression) collided and produced a mechanical outcome with real consequences. No prior run across 150+ sessions had produced intra-party spell combat.
-
-In Run 9 Session 2, after Garrick died, Cora's transactional personality absorbed the grief through her established coping mechanism. She grabbed his maul ("it's valuable equipment we can't leave behind"), calculated the operational impact, and made a plan. Mercer's academic detachment cracked, then reasserted itself as he analyzed the Rat King's claw patterns. The grief was real because the personalities were real. If the triggers had been weaker, the death would have been a mechanical event. Instead it was a character moment.
+The triggers also produced emergent character depth as a side effect. In Run 9 Session 2, after Garrick died, Cora's transactional personality absorbed the grief through her established coping mechanism. She grabbed his maul ("it's valuable equipment we can't leave behind"), calculated the operational impact, and made a plan. Mercer's academic detachment cracked, then reasserted itself as he analyzed the Rat King's claw patterns. The grief was real because the personalities were real. This was not designed. It emerged from the same triggers that were built to prevent cooperation bias. The character depth is a bonus. The mechanical wedge against group diplomacy is the point.
 
 ## 6.4 Stealth Format as Cooperation-Proof Design
 
@@ -520,13 +526,13 @@ The implication for multi-agent systems is that behavioral guide rails and engin
 
 ## 7.3 Implications Beyond D&D
 
-Cooperation bias is not a D&D problem. It's a multi-agent coordination problem that happens to be easy to observe in a D&D context because the game has clear rules about when things should fight.
+Cooperation bias is not a D&D problem. It's a multi-agent coordination problem that happens to be easy to observe in a D&D context because the game has clear rules about when things should fight. The D&D setting is a sandbox. The behavioral dynamics are general.
 
-Any system where one AI agent controls the behavior of other entities faces the same issue. A customer service bot that's supposed to deny certain requests will find ways to be helpful anyway. A negotiation agent that's supposed to hold firm on price will find reasons to offer discounts. The underlying model wants to be cooperative, and instructions to the contrary are guard rails that degrade over time.
+Any system where one AI agent controls the behavior of other entities likely faces a version of the same issue. A customer service bot that's supposed to deny certain requests will find ways to be helpful anyway. A negotiation agent that's supposed to hold firm on price will find reasons to offer discounts. The underlying model's training rewards cooperation, and instructions to the contrary are guard rails that we have shown degrade over time in at least one model.
 
-The fix we found (give every participant an independent voice) applies directly. A customer service system where the policy engine has its own agent that returns "DENIED" independently of the customer-facing bot would be more reliable than one where the bot is told "deny requests of type X." The same applies to moderation, negotiation, or any system where one agent needs to override another. The enemy agent architecture is a general pattern: when you need a system to say no, don't ask the cooperative agent to say it. Give the "no" its own voice.
+We have not empirically tested these enterprise scenarios. Our data comes from one model (DeepSeek) running one type of application (narrative D&D). The RLHF applied to a customer service model differs from the training of a narrative generation model, and cooperation bias may manifest differently or respond differently to the same architectural fixes. However, the architectural pattern we found (give every participant an independent voice) offers a strong theoretical blueprint for enterprise systems. A customer service system where the policy engine has its own agent that returns "DENIED" independently of the customer-facing bot would likely be more reliable than one where the bot is told "deny requests of type X." The same pattern probably applies to moderation, negotiation, or any system where one agent needs to override another. The enemy agent architecture maps directly: when you need a system to say no, don't ask the cooperative agent to say it. Give the "no" its own voice. Validating this mapping empirically is the next required step.
 
-The guide rails principle also generalizes. In any constrained generation task, structural constraints that make unwanted output impossible will outperform instructional constraints that ask the model not to produce it. This is already understood for output formatting (JSON schemas beat "please format as JSON"). Our finding is that the same principle applies to behavioral constraints in multi-turn, multi-agent systems. Structure the system so the behavior you want is the only behavior the system can produce.
+The guide rails principle also likely generalizes. In any constrained generation task, structural constraints that make unwanted output impossible should outperform instructional constraints that ask the model not to produce it. This is already understood for output formatting (JSON schemas beat "please format as JSON"). Our finding suggests that the same principle applies to behavioral constraints in multi-turn, multi-agent systems. A lightweight ablation test on a secondary model (even a single session on Claude or GPT-4) would go a long way toward confirming whether this is a universal LLM behavior or a DeepSeek-specific quirk. The em-dash anecdote from our introduction, where Claude ignored the same type of stored prohibition that DeepSeek ignores, is suggestive but not conclusive.
 
 ## 7.4 Limitations
 
