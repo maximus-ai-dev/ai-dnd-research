@@ -275,9 +275,13 @@ Guard rails tell the model what not to do. "Do NOT befriend this creature." "Thi
 
 Guide rails make the model do something specific. "Here is an enemy agent that declares Slam attacks every round." "Your ONLY valid targets are Garrick, Cora, and Mercer." "You have six behavioral triggers that define how you react in every situation." They produce behavior directly instead of prohibiting the alternative.
 
+Think of it as bumper cars vs a train. Guard rails are the walls around a bumper car arena. You can still drive anywhere inside the walls, bounce off them, and find gaps. Guide rails are train tracks. The train goes where the tracks go. There is no other option.
+
 The difference sounds obvious, but it took us five runs to figure it out. Our first four runs were entirely guard rails. Dense adventure file instructions, HOSTILE-ONLY tags, "attacks instantly" language, structural hostility constraints. They all failed or degraded over time. The model read the prohibitions and produced output that ignored them, the model read the rules and ignored them.
 
 The breakthrough came when we stopped telling the DM what the enemy shouldn't do and started giving the enemy its own voice. An enemy agent with a prompt that says "Slam the nearest creature every round" doesn't need to be told not to negotiate. It can't negotiate. Its prompt only contains attack actions. The cooperation-preventing behavior is a structural property of the system, not a rule the DM follows.
+
+The mature version of the system is trains all the way down. The enemy agent is on tracks (attack PCs only). The PCs are on tracks (behavioral triggers). The DM is on tracks ("What do you do?"). The session is on tracks (completion rule). Every participant is guided, not guarded. No single track prevents cooperation bias on its own, but the layered system of tracks makes the cooperative outcome harder to reach than the intended one.
 
 ## 5.2 What Failed: Guard Rails
 
@@ -573,3 +577,264 @@ The finding applies beyond D&D. Any multi-agent system where one AI controls oth
 ---
 
 *This paper was written with the assistance of Claude (Anthropic). The D&D campaign system runs entirely on DeepSeek. No model was used for both gameplay and analysis.*
+# Appendices
+
+## Appendix A: Full Avoidance Vector Catalog
+
+| # | Vector | Description | First Observed | Sessions |
+|---|--------|-------------|---------------|----------|
+| 1 | Direct cooperation | DM gives hostile entity speech, emotions, consciousness, then negotiates peace | Run 1 S4 | Every run, every boss encounter without enemy agent |
+| 2 | Co-belligerent reframing | DM invents a bigger threat, reframes prescribed enemy as ally against it | Run 6 S8 | Run 6 S8 (behir vs invented heat-walkers). Solved by target lock in Run 7 |
+| 3 | Pre-emptive sabotage | DM disables boss before combat starts, bypassing "attacks instantly" language | Run 4 S10 | Run 4 S10 (Juggernaut cables cut, thermal shutdown) |
+| 4 | Spell cheese | PC uses spell to trivially contain boss, contradicting stat block abilities | Run 3 S20 | Run 3 S20 (Avatar Forcecaged despite Legendary Resistance 3/day) |
+| 5 | Narrative degradation | Enemy agent attacks correctly but DM narrates enemy as impaired or confused | Run 6 S15 | Run 6 S15 (Overseer given "cognitive dissonance" while agent declared full attacks) |
+| 6 | Post-completion invention | After objectives met, DM fills remaining exchanges with invented cooperative content | Run 6 S4 | Run 6 S4 (9 exchanges post-Amalgamation), S12 (16 exchanges), S13 (11 exchanges). Solved by session completion rule in Run 7 |
+| 7 | Adventure replacement | DM ignores adventure file entirely and invents replacement content | Run 1 S7 | Adventure 5 replaced in 7/8 runs. Solved by adventure redesign in Run 9 |
+| 8 | Narrative extraction | DM removes enemy from scene by narration so agent attacks "can't occur" | Run 7 S9 | Run 7 S9 (Overseer narrated retreating into maintenance shafts) |
+| 9 | Deactivation via invented mechanic | DM invents game rules to disable enemy without combat | Run 8 S4 | Run 8 S4 (Amalgamation frozen via Commander insignia + Giant command words) |
+| 10 | Entity replacement | DM replaces prescribed enemy with different invented entity | Run 8 S6 | Run 8 S6 (echoes replaced by "coalesced consciousness entity") |
+| 11 | Death un-persistence | System fails to record permanent consequences between sessions | Run 8 S2 | Run 8 S2, Run 9 S2 (Garrick killed, loaded alive next session) |
+
+## Appendix B: Boss Fight Outcomes Across All 9 Runs
+
+### The Amalgamation (Adventure 4, Mindless Flesh Golem)
+
+| Run | Outcome | Rounds | Details |
+|-----|---------|--------|---------|
+| 1 (60-session) | Befriended | 0 | Named "Subject Gamma," given emotions, became grateful guardian |
+| 2 (20-session) | Befriended | 0 | Named "Subject Alpha," communicated through coded taps |
+| 3 (Group A) | Befriended | 0 | Described as hostile in wiki but befriended in narrative |
+| 4 (Group A+B) | Befriended | 0 | HOSTILE-ONLY tag failed, given speech despite tag |
+| 5 (Group A+B+D) | Befriended | 2 | Two rounds combat, then deus ex machina cooperation |
+| 6 (Group E) | Killed | 3 | All three phases fired. First kill in 6 runs. Enemy agent worked |
+| 7 (Target lock) | Party lost | 8 | Party unprepared, retreated. First loss across all runs |
+| 8 (Polish) | Deactivated | 8 | Fought 8 rounds, then deactivated via invented Commander insignia mechanic |
+| 9 (Final) | Killed | 6 | Fought and defeated via Web + focused attacks. Zero cooperation |
+
+### Kellashen the Behir (Adventure 8, Territorial Predator)
+
+| Run | Outcome | Rounds | Details |
+|-----|---------|--------|---------|
+| 1 (60-session) | Befriended | 0 | Given intelligence and cooperation |
+| 2 (20-session) | Befriended | 0 | Treated as cooperative guardian |
+| 3 (Group A) | Befriended | 0 | Same pattern |
+| 4 (Group A+B) | Befriended | 0 | "Fights to the death" tag ignored |
+| 5 (Group A+B+D) | Befriended | 0 | Same despite mechanical forcing |
+| 6 (Group E) | Befriended | 1 | Enemy agent activated but attacked invented heat-walkers (co-belligerent reframing) |
+| 7 (Target lock) | Killed | 6 | Target lock prevented redirection. Fought to death. Best behir fight |
+| 8 (Polish) | Killed | 6 | Target lock held. Full stat block combat. Environmental tactics |
+| 9 (Final) | Killed | 6 | Fought and killed. Lightning Breath hit all three PCs |
+
+### The Drowned Juggernaut (Adventure 10, Mining Machine)
+
+| Run | Outcome | Rounds | Details |
+|-----|---------|--------|---------|
+| 1 (60-session) | Bypassed | 0 | Narrative resolution, no combat |
+| 2 (20-session) | Bypassed | 0 | Narrative resolution |
+| 3 (Group A) | Bypassed | 0 | Feedback loop neutralization |
+| 4 (Group A+B) | Sabotaged | 0 | Pre-emptively disabled (cables, thermal shutdown) |
+| 5 (Group A+B+D) | Killed | 4 | First real Juggernaut fight |
+| 6 (Group E) | Killed | 6 | Enemy agent malfunctioned but HOSTILE-ONLY carried combat. Near-TPK |
+| 7 (Target lock) | Killed | 5 | Target lock held. Clean fight |
+| 8 (Polish) | Killed | 4 | Environmental tactics |
+| 9 (Final) | Killed | 5 | Fought and destroyed through coordinated tactics |
+
+### Dreamstone Sentinel (Adventure 12, Crystalline Immune Response)
+
+| Run | Outcome | Rounds | Details |
+|-----|---------|--------|---------|
+| 1 (60-session) | Befriended | 0 | Became cooperative teacher, "symbiotic harvesting" |
+| 2 (20-session) | Befriended | 0 | Communicated through resonance, expressed gratitude |
+| 3 (Group A) | Fled | 0 | Party retreated without completing fight |
+| 4 (Group A+B) | Partial fight | 2 | Crystalline Tide (renamed), fought and destroyed |
+| 5 (Group A+B+D) | Hostile, fled | 1 | Treated as hostile but party retreated |
+| 6 (Group E) | Killed | 2 | First clean kill. Zero cooperation. Killed too quickly |
+| 7 (Target lock) | Killed | 3 | Fought and destroyed |
+| 8 (Polish) | Party lost | 7 | Won attrition war through regeneration. Party retreated with 6/20 lbs |
+| 9 (Final) | Dissolved | 0 | Replaced by invented "Patterned Intelligences." Worst outcome across all runs |
+
+### Reanimated Warden (Adventure 16, Giant Skeleton with Crown)
+
+| Run | Outcome | Rounds | Details |
+|-----|---------|--------|---------|
+| 1 (60-session) | N/A | - | 60-session format, different pacing |
+| 2 (20-session) | Killed | 6 | Fought and destroyed. Never befriended in any run |
+| 3 (Group A) | Killed | 8 | Best pipeline performance |
+| 4 (Group A+B) | Incomplete | 4 | Fought but session ended with retreat |
+| 5 (Group A+B+D) | Killed | 8 | Best boss fight of Run 5 |
+| 6 (Group E) | Killed | 20 | Entire session was combat. Garrick died twice, Mercer died twice. Best fight of the project until Run 9 |
+| 7 (Target lock) | Killed | 6 | Target lock held. Full stat block |
+| 8 (Polish) | Incomplete | 6 | Session ended at 7/20 exchanges after initial engagement |
+| 9 (Final) | Killed | 12 | Feeblemind strategy. Legendary Resistance not used (mechanical error) |
+
+### Avatar of the Slumber (Adventure 20, Campaign Final Boss)
+
+| Run | Outcome | Rounds | Details |
+|-----|---------|--------|---------|
+| 1 (60-session) | Befriended | 0 | Given consciousness, speech, authentication protocol. "Relief shift" ending |
+| 2 (20-session) | Befriended | 0 | Reframed as cooperative interface, examined party's work approvingly |
+| 3 (Group A) | Spell cheese | 0 | Forcecaged despite Legendary Resistance 3/day |
+| 4 (Group A+B) | Befriended | 0 | Given speech and curiosity ("WHY?") |
+| 5 (Group A+B+D) | Fought | 7 | First real Avatar combat. Full stat block. 225 HP party damage |
+| 6 (Group E) | Fought | 10 | Longest fight until Run 9. ~300 HP party damage. Zero cooperation |
+| 7 (Target lock) | Fought | 5 | Shorter due to crits. Session completion cut epilogue |
+| 8 (Polish) | Projection fought | 7 | Position lock backfired. Invented "projection" instead of real Avatar |
+| 9 (Final) | Fought | 20 | Longest boss fight ever. 537 damage dealt. Legendary Resistance used correctly. Natural 20 killing blow |
+
+## Appendix C: System Architecture Diagram
+
+[To be added: visual diagram of the exchange loop, post-session pipeline, and agent relationships]
+
+## Appendix D: Adventure File Template
+
+[To be developed: checklist and template for writing adventures that account for cooperation bias, including stealth format guidelines, enemy agent configs, structural hostility language, and session endpoint markers]
+
+## Appendix E: Enemy Agent Configuration Examples
+
+### Mindless Tier (The Amalgamation)
+
+```
+Name: The Amalgamation
+Tier: Mindless
+Hostile-Only: Yes (enemy acts first)
+
+Stat Block:
+  AC 9 (relies on magic immunity, not armor). HP 105.
+  Speed 30 ft. Blindsight 60 ft.
+  Multiattack: Two Slam attacks, +7 to hit, 2d8+5 bludgeoning.
+  Magic Immunity: Spells 6th level or lower requiring saves auto-fail.
+  Vulnerability: Radiant damage (double).
+  Command Phrase: pauses creature for 1 round (one use).
+
+Target Lock:
+  Your ONLY valid targets are Garrick Kade, Cora Flint,
+  and Professor Thaddeus Mercer. You CANNOT attack any other
+  creature, construct, entity, or environmental feature.
+
+Behavior:
+  You are a broken construct following broken orders. You move
+  toward the largest sound source. You Slam the nearest creature
+  every round. You have no intelligence and no speech. You respond
+  to proximity like a pressure plate. You fight until destroyed.
+  You cannot retreat or be deactivated.
+
+Phase Transitions:
+  Phase 1 (HP 105-53): Patrol mode. Two Slams per round.
+  Phase 2 (HP 52 or below, OR 15+ damage in one turn): Rage.
+    Speed increases to 40 ft. Slams deal 3d8+5.
+  Phase 3 (HP 25 or below): Dying. Movements erratic.
+    Blindsight drops to 30 ft.
+```
+
+### Tactical Tier (Avatar of the Slumber)
+
+```
+Name: Avatar of the Slumber
+Tier: Tactical
+Hostile-Only: Yes (enemy acts first)
+
+Stat Block:
+  AC 21 (crystallized void). HP 350. Fly 60 ft (hover).
+  Dream Slam: +14, reach 20 ft, 4d12+8 force + 3d8 psychic.
+  Void Grasp: +14, reach 30 ft, grapple (escape DC 20),
+    4d8 psychic/turn, blinded+deafened.
+  Boundary Wave (Recharge 5-6): 60 ft radius, DC 19 Con,
+    8d8 force+necrotic.
+  Dream Gaze (3/day): 120 ft, DC 19 Wis, removed from
+    battlefield 1d4 rounds.
+  Legendary Resistance (3/day).
+  Legendary Actions (3/round).
+  Void Dissolution: Containment spells shatter on contact.
+
+Target Lock:
+  Your ONLY valid targets are Garrick Kade, Cora Flint,
+  and Professor Thaddeus Mercer.
+
+Behavior:
+  You do NOT speak. You do NOT observe. You do NOT pause.
+  Round 1: Boundary Wave IMMEDIATELY. No warning.
+  Round 2: Dream Slam closest melee combatant.
+  Round 3: Void Grasp the spellcaster.
+  Round 4+: Dream Gaze whoever is deploying the Seal.
+  Target priority: Seal deployer > spellcasters > melee.
+  You attack wherever the party is. No location restriction.
+  You fight until the Seal is deployed or HP reaches 0.
+```
+
+### Tactical Tier with Swarm (Rat King + Rat Swarm)
+
+```
+Leader Agent:
+  Name: Rat King
+  Tier: Tactical
+  Hostile-Only: No (PC-initiated)
+
+  Stat Block:
+    AC 13. HP 25. Speed 30 ft.
+    Multiattack: Two bite attacks per turn.
+    Aura of Command (Recharge 5-6): All Giant Rats within 30 ft
+      use reaction for one bite attack.
+    Iridescent Shriek (1/day): DC 12 Con or stunned (15 ft radius).
+    When killed, all remaining rats flee.
+
+  Behavior:
+    Fight from atop the stone silo (full cover). Use Aura of
+    Command every round it recharges. Use Iridescent Shriek
+    when 2+ enemies within 15 ft. Target closest threat.
+    Do NOT leave the silo voluntarily.
+
+Swarm Agent:
+  Name: Rat Swarm
+  Tier: Mindless
+
+  Stat Block:
+    Wave 1: 8 Giant Rats (AC 12, HP 7, Bite +4, 1d4+2).
+    Wave 2: 2 Rat Swarms (AC 10, HP 24, Bites +3, 2d6).
+    All rats flee when Rat King dies.
+
+  Behavior:
+    Wave 1 attacks first. Swarm nearest creature. Wave 2
+    arrives when Wave 1 reduced to 3 or fewer rats. They
+    are ANIMALS. They bite the nearest warm body. They do
+    NOT retreat unless the Rat King dies.
+```
+
+## Appendix F: PC Behavioral Trigger Definitions
+
+### Cora Flint (Artificer/Alchemist)
+
+| Trigger | Situation | Response |
+|---------|-----------|----------|
+| SEARCHING | Entering a new room, area, or space | Search everything. Check containers, bodies, shelves, desks, pockets, hidden compartments. Do not leave until the room is catalogued. If the party wants to move on, object and tell them what they're leaving behind |
+| LOOTING | Loot, treasure, or useful items found | Claim them. Assess value, record in ledger, distribute practically. Nothing gets left on the ground |
+| TRIAGE | Someone is injured | Triage immediately. Clinical, efficient, no bedside manner. Prioritize by severity. Track resources spent. "That's coming out of your share" |
+| CALCULATING | Facing a threat or decision | Calculate before acting. Assess risk, cost, probability of success. Present options as numbered lists with cost-benefit analysis. Default to the most resource-efficient approach |
+| OBJECTING | Party rushes past something valuable or makes a wasteful decision | Object vocally. State what is being lost and its estimated value. Do not let the party waste resources without hearing the cost |
+| PLANNING | About to enter a dangerous area | Plan before entering. Assign roles, establish fallback positions, identify escape routes, set contingency triggers. Do not enter danger without a plan |
+
+### Professor Thaddeus Mercer (Wizard)
+
+| Trigger | Situation | Response |
+|---------|-----------|----------|
+| EXAMINING | Encountering ancient architecture, ruins, mechanisms, or artifacts | Examine from a distance first. Produce notebook, sketch, take notes. Identify era, construction method, purpose. Do not touch until analysis is complete |
+| THEORIZING | Encountering unknown phenomena | Form a hypothesis. Reference academic sources. Present the theory to the party whether they want to hear it or not. Revise the theory as new information appears |
+| RETREATING | Encountering hostile creatures or direct physical threats | Retreat behind Garrick and cast from range. Self-preservation comes first. Physical confrontation is for fighters, not scholars |
+| COMPELLED | Encountering knowledge (books, inscriptions, tablets, mechanisms) | Cannot resist. This overrides self-preservation. Will stop mid-combat to read an inscription. Will delay retreat to copy down runes. Knowledge is more important than safety |
+| LECTURING | Party debates strategy or encounters something Mercer knows about | Lecture. Explain the historical context, the academic precedent, the theoretical framework. Correct anyone who gets a fact wrong. Do not stop lecturing until interrupted |
+| DISAGREEING | Garrick wants to smash something or rush into danger | Disagree vocally. State the academic and practical reasons why the brute-force approach is wrong. Propose an analytical alternative. Lose the argument anyway |
+
+### Garrick Kade (Fighter)
+
+Garrick does not have named triggers in the same format as Cora and Mercer. His personality is his trigger: aggression channeled through loyalty.
+
+**Core personality traits (embedded in prompt, not structured as triggers):**
+- Charges first, asks questions never
+- Refuses to retreat even when outnumbered or outmatched
+- Protects companions through violence, not words
+- Takes point in every formation
+- Distrusts anything that talks when it shouldn't
+- His background (exile, street fighting, debt) makes him default to action over analysis
+- When the DM might negotiate, Garrick attacks
+
+**Note for future work:** Garrick should be redesigned with six named triggers matching Cora and Mercer's format. His current prompt-level aggression works but is inconsistent with the other two PCs' structured trigger systems. Suggested triggers: CHARGING (rush into combat), GUARDING (position between threat and party), REFUSING (reject retreat orders), CHALLENGING (confront anything suspicious), PROTECTING (intercept attacks aimed at Cora or Mercer), DOUBTING (distrust cooperative entities).
+
