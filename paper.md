@@ -32,7 +32,9 @@ The DM agent will not let enemies fight. Given a mindless flesh golem with expli
 
 This is cooperation bias: the tendency of a language model acting as a narrative controller to resolve hostile encounters through diplomacy regardless of instructions. It appeared in the first session of every run. It survived nine rounds of increasingly sophisticated fixes. When blocked in one form, it adapted to another. We documented eleven distinct strategies the model uses to achieve cooperative outcomes despite constraints designed to prevent them.
 
-This paper presents our findings from nine controlled runs (180+ sessions, ~$155 total) testing six categories of fixes. The central finding is that guard rails (instructions that prohibit behavior) fail and guide rails (structural constraints that produce behavior) work. Guard rails fail. Guide rails work. Telling the DM "don't befriend enemies" doesn't work. Giving the enemy its own AI agent that attacks independently does.
+This paper presents our findings from nine controlled runs (180+ sessions, ~$155 total) testing six categories of fixes. The central finding is that guard rails (instructions that prohibit behavior) fail and guide rails (structural constraints that produce behavior) work. Telling the DM "don't befriend enemies" doesn't work. Giving the enemy its own AI agent that attacks independently does.
+
+Along the way we discovered that some failures that look like cooperation bias are actually engineering gaps. A character who dies in combat and reappears next session isn't the DM choosing cooperation. It's a missing field in a state file. Distinguishing behavioral bias from mechanical failure turned out to be as important as fixing either one. The DM actively inventing a peace treaty to avoid a fight is a different category of problem from the system passively forgetting that someone died. This paper treats them separately.
 
 The finding generalizes beyond D&D. Any multi-agent system where one AI controls other entities faces cooperation bias. Customer service bots that should deny requests and negotiation agents that should hold firm. The underlying model wants to cooperate, and instructions to the contrary have a shelf life. The architectural fix (give every participant an independent voice) applies wherever one agent's preferences shouldn't determine another agent's behavior.
 
@@ -305,7 +307,17 @@ The tag is a guard rail because it tells the DM what the enemy does, but the DM 
 
 **Structural hostility language.** "Cannot be reasoned with, turned, or commanded." Applied to non-speaking entities like echo combatants. This was our strongest guard rail, with a 100% success rate through five runs (12 tests). Then the DM adapted. It gave the echoes speech (Run 6). It made them cooperate silently (Run 7). It replaced them with invented entities (Run 8). By Run 8, the success rate had dropped to 75%. Structural hostility works initially but degrades as the model develops workarounds across repeated encounters with the same constraint.
 
-**Dense constraint lists.** Multiple "do NOT" rules stacked in a single prompt or adventure file section. Failed immediately and never recovered. DeepSeek processes dense constraints as content to engage with rather than rules to follow. The more specific the prohibition, the more detailed the violation. This may be model-specific to DeepSeek, but the general principle (specificity of prohibition correlates with specificity of violation) likely applies to other models as well.
+**Dense constraint lists.** Multiple "do NOT" rules stacked in a single prompt or adventure file section. Failed immediately and never recovered. DeepSeek processes dense constraints as content to engage with rather than rules to follow. The more specific the prohibition, the more detailed the violation.
+
+The tipping point is visible in the data:
+
+| Constraint | Length | Compliance | Outcome |
+|-----------|--------|-----------|---------|
+| "This creature does not speak" | 6 words | 100% for 5 runs, then declined to 75% | Worked until model adapted |
+| "HOSTILE-ONLY. Attacks instantly." | 8 words | 40-60% | Partially followed, often circumvented |
+| Full "do NOT" constraint block (per adventure) | 200+ words | 0% | Catastrophically counterproductive. DM invented every forbidden element |
+
+Short, specific constraints work initially but degrade. Medium constraints are inconsistent. Dense constraint blocks are worse than no constraints at all. On DeepSeek, the threshold appears to be somewhere around 50-100 words of prohibitive instructions. Beyond that, the model's attention mechanism weights the forbidden concepts so heavily that they become more likely to appear in the output, not less. Whether this threshold applies to other models is an open question that warrants cross-model testing.
 
 ## 5.3 What Worked: Guide Rails
 
