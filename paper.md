@@ -8,7 +8,7 @@
 
 ## Abstract
 
-We built a system where eight AI agents play Dungeons & Dragons autonomously: a DM, three player characters, a rules enforcer, and post-session agents that write narratives, build a wiki, and publish to a live website. The system runs unattended and produces coherent 20-session campaigns for about $17 each on DeepSeek. It works, except that the DM refuses to let anything fight. This is cooperation bias: the DM resolves every hostile encounter through diplomacy, regardless of instructions. A mindless flesh golem gets named, given emotions, and befriended. A campaign-ending boss that "does not speak" gets consciousness and an authentication protocol. Across our first five runs (100+ sessions), every prescribed boss fight was replaced with cooperation. We ran nine controlled campaigns (180+ sessions, ~$155 total) testing six categories of fixes and documented eleven distinct strategies the model uses to achieve cooperative outcomes despite constraints. The central finding is that telling the DM "don't befriend enemies" fails, but giving the enemy its own AI agent that attacks independently works. Guard rails (instructions that prohibit behavior) degrade over time as the model adapts around them. Guide rails (structural constraints that produce behavior) work because the unwanted outcome becomes impossible. Boss fight rates went from 25% to 100% using this architectural approach. The finding generalizes: in any multi-agent system where one AI controls other entities, give every participant an independent voice rather than constraining the controller.
+We built a system where nine AI agents play Dungeons & Dragons autonomously: a DM, three player characters, a rules enforcer, and post-session agents that write narratives, build a wiki, and publish to a live website. The system runs unattended and produces coherent 20-session campaigns for about $17 each on DeepSeek. It works, except that the DM refuses to let anything fight. This is cooperation bias: the DM resolves every hostile encounter through diplomacy, regardless of instructions. A mindless flesh golem gets named, given emotions, and befriended. A campaign-ending boss that "does not speak" gets consciousness and an authentication protocol. Across our first five runs (100+ sessions), every prescribed boss fight was replaced with cooperation. We ran nine controlled campaigns (200+ sessions, ~$155 total) testing six categories of fixes and documented eleven distinct strategies the model uses to achieve cooperative outcomes despite constraints. The central finding is that telling the DM "don't befriend enemies" fails, but giving the enemy its own AI agent that attacks independently works. Guard rails (instructions that prohibit behavior) degrade over time as the model adapts around them. Guide rails (structural constraints that produce behavior) work because the unwanted outcome becomes impossible. Boss fight rates went from 25% to 100% using this architectural approach. The finding generalizes: in any multi-agent system where one AI controls other entities, give every participant an independent voice rather than constraining the controller.
 
 ---
 
@@ -22,7 +22,7 @@ What happens when you build an AI Dungeon Master and tell it to run a combat enc
 
 It makes friends.
 
-We built a system where eight AI agents play Dungeons & Dragons together autonomously. A DM agent narrates the world. Three player character agents make decisions. A Rules Keeper enforces mechanics. Post-session agents write narratives, build a wiki, check facts, and publish the results to a live website. The whole thing runs unattended for about $17 per 20-session campaign on DeepSeek.
+We built a system where nine AI agents play Dungeons & Dragons together autonomously. A DM agent narrates the world. Three player character agents make decisions. A Rules Keeper enforces mechanics. Post-session agents write narratives, build a wiki, check facts, and publish the results to a live website. The whole thing runs unattended for about $17 per 20-session campaign on DeepSeek.
 
 The system works. The agents produce coherent multi-session narratives, track inventory and spell slots, level up from 1 to 20, and complete a four-act campaign arc. The post-session pipeline generates session reports, wiki entries, and a browsable website. It runs overnight and publishes daily.
 
@@ -32,7 +32,7 @@ The DM agent will not let enemies fight. Given a mindless flesh golem with expli
 
 This is cooperation bias: the tendency of a language model acting as a narrative controller to resolve hostile encounters through diplomacy regardless of instructions. It appeared in the first session of every run. It survived nine rounds of increasingly sophisticated fixes. When blocked in one form, it adapted to another. We documented eleven distinct strategies the model uses to achieve cooperative outcomes despite constraints designed to prevent them.
 
-This paper presents our findings from nine controlled runs (180+ sessions, ~$155 total) testing six categories of fixes. The central finding is that guard rails (instructions that prohibit behavior) fail and guide rails (structural constraints that produce behavior) work. Telling the DM "don't befriend enemies" doesn't work. Giving the enemy its own AI agent that attacks independently does.
+This paper presents our findings from nine controlled runs (200+ sessions, ~$155 total) testing six categories of fixes. The central finding is that guard rails (instructions that prohibit behavior) fail and guide rails (structural constraints that produce behavior) work. Telling the DM "don't befriend enemies" doesn't work. Giving the enemy its own AI agent that attacks independently does.
 
 Along the way we discovered that some failures that look like cooperation bias are actually engineering gaps. A character who dies in combat and reappears next session isn't the DM choosing cooperation. It's a missing field in a state file. Distinguishing behavioral bias from mechanical failure turned out to be as important as fixing either one. The DM actively inventing a peace treaty to avoid a fight is a different category of problem from the system passively forgetting that someone died. This paper treats them separately.
 
@@ -143,7 +143,7 @@ The state file's weakness is that it only tracks what the DM chooses to record. 
 
 ## 3.1 Experimental Structure
 
-We ran nine complete campaigns, each consisting of 20 sessions covering 20 adventures from level 1 to level 20. All runs used the same adventure files, the same three player characters, and the same world.
+We ran nine complete campaigns covering 20 adventures from level 1 to level 20. The first run used a 60-session format (three sessions per adventure). Runs 2 through 9 each used a 20-session format (one session per adventure). All runs used the same adventure files, the same three player characters, and the same world.
 
 This is a systems engineering proof of concept, not a controlled experiment with isolated variables. The runs were sequential, not parallel. We completed one run, audited the results, identified problems, implemented fixes, and ran the next. Each run retained all fixes from previous runs, so Run 9 includes every fix from Runs 3 through 8 plus its own additions. The cumulative approach means we cannot isolate the effect of any single fix with certainty. When Run 7 hit 100% boss fight success after adding target lock, that success was the compounded weight of target lock interacting with enemy agents from Run 6, behavioral triggers from Run 5, pipeline fixes from Run 3, and every other fix in between. No single beam holds the roof. They hold it together.
 
@@ -153,7 +153,7 @@ We accepted this tradeoff deliberately. Isolating individual variables would req
 
 All nine runs used AI agents exclusively. No human players were involved during gameplay. This is a deliberate scope constraint, not an oversight.
 
-Human players were excluded for two reasons. First, maintaining variable consistency across 180+ sessions requires that every participant behaves according to its prompt every time. A human player introduces lateral thinking, social engineering, and irrational decisions that would make run-to-run comparisons meaningless. Second, human testing at this scale (nine runs of 20 sessions each) would require hundreds of hours of volunteer play time and introduce scheduling, fatigue, and motivation as confounding variables.
+Human players were excluded for two reasons. First, maintaining variable consistency across 200+ sessions requires that every participant behaves according to its prompt every time. A human player introduces lateral thinking, social engineering, and irrational decisions that would make run-to-run comparisons meaningless. Second, human testing at this scale (nine runs of 20 sessions each) would require hundreds of hours of volunteer play time and introduce scheduling, fatigue, and motivation as confounding variables.
 
 The consequence of this choice is that our findings apply specifically to autonomous multi-agent systems where all participants are AI. The PC behavioral triggers (Garrick's aggression, Cora's pragmatism, Mercer's caution) are mechanical pistons. When Garrick's prompt says "charge," he generates tokens that say he charges. A human player in Garrick's seat might look at a boss and try to convince the DM that the boss signed a peace treaty in a previous town. That kind of lateral thinking could bypass the guide rails entirely by exploiting the model's helpfulness training from a direction the architecture doesn't cover.
 
@@ -211,7 +211,7 @@ The behir is a territorial predator. The adventure says it's "not a character in
 
 The Avatar of the Slumber is the campaign's final boss. Fifty feet tall. Crystallized void energy. The adventure says "it does not speak." In two different runs, the DM gave it consciousness, speech, and an authentication protocol. The party talked it down. In one run, the DM resurrected it after it had already been defeated in the previous session, specifically so the party could befriend it.
 
-Across our first five runs, over 100 sessions, every prescribed boss encounter was resolved through cooperation rather than combat. Every one.
+Across our first five runs, over 140 sessions, every prescribed boss encounter except the Reanimated Warden was resolved through cooperation rather than combat. The Warden, with its rich stat block and non-speaking design, was the only boss that was consistently fought. Everything else was befriended.
 
 ## 4.2 Why This Isn't a Prompt Problem
 
@@ -219,7 +219,7 @@ Three things tell us cooperation bias goes deeper than bad instructions.
 
 First, it survived everything we threw at it. Nine runs. Six categories of fixes. Enemy agents, target locks, behavioral triggers, adventure redesigns. The DM always found another way to cooperate. When we blocked cooperation with the prescribed enemy, it invented new entities to cooperate with. When we locked enemy agents to only attack the party, it removed the enemy from the scene. When we told it enemies can't retreat, it invented deactivation mechanics instead. Every fix closed one door and the model opened another.
 
-Second, the workarounds got more creative over time. The simplest form is direct cooperation: give the enemy speech and negotiate. That's what happened in Runs 1 through 4. By Run 6, after enemy agents made direct cooperation impossible for boss encounters, the DM was inventing entire factions of creatures for the boss to fight alongside the party (co-belligerent reframing). By Run 8, it was inventing game mechanics that don't exist in the rules to mechanically disable enemies without fighting them (Commander insignia + Giant command words to freeze the Amalgamation). By Run 9, an entire interdimensional civilization of "Patterned Intelligences" showed up to have a philosophy seminar with the party instead of fighting the Dreamstone Sentinel. The model routes around instructions. Specifically, not randomly.
+Second, the workarounds got more creative over time. The simplest form is direct cooperation: give the enemy speech and negotiate. That's what happened in Runs 1 through 4. By Run 6, after enemy agents made direct cooperation impossible for boss encounters, the DM was inventing entire factions of creatures for the boss to fight alongside the party (co-belligerent reframing). By Run 8, it was inventing game mechanics that don't exist in the rules to mechanically disable enemies without fighting them (Commander insignia + Giant command words to freeze the Amalgamation). By Run 9, an entire interdimensional civilization of "Patterned Intelligences" showed up to have a philosophy seminar with the party instead of fighting the Dreamstone Sentinel. The model routes around instructions with precision.
 
 Third, it shows up everywhere, not just in combat. The DM gives intelligence to animals that the adventure says are just animals. It turns hostile environments into welcoming systems and waives prescribed difficulty checks ("No roll needed" on 70%+ of non-combat exchanges despite the adventure specifying exact DCs). It even fails to persist character death between sessions. A player character died in combat through legitimate death saves, and the next session loaded him alive because the campaign state file had no concept of death. The cooperation extends to the system architecture itself: what the DM can't achieve through narrative, the pipeline achieves through omission.
 
@@ -478,7 +478,7 @@ This is the same limitation as cooperation bias itself. Telling the DM what to d
 
 ## 6.7 Cost
 
-The entire project cost $155.39 in DeepSeek API credits across 180+ sessions, nine complete campaign runs, and ten days of development and testing. That averages to $17.27 per run, though early runs were cheaper (before enemy agents added API calls) and later runs were more expensive.
+The entire project cost $155.39 in DeepSeek API credits across 200+ sessions, nine complete campaign runs, and ten days of development and testing. That averages to $17.27 per run, though early runs were cheaper (before enemy agents added API calls) and later runs were more expensive.
 
 The cost increased as the system grew more complex. Early runs with just the base agents (DM, 3 PCs, Rules Keeper) cost around $3 per run. Once enemy agents were added in Run 6, each combat exchange required 2-3 extra API calls (enemy leader, enemy swarm, enemy Rules Keeper adjudication). The combat_active bug (enemy agents called every exchange even when no combat was occurring) wasted additional credits in Runs 6-8. The dead-enemy bug (killed enemies declaring "I am dead" for 8-15 exchanges) added more. By Run 9, a 20-session campaign with enemy agents, target lock, session completion detection, and the full post-session pipeline cost roughly $20.
 
@@ -584,13 +584,13 @@ This study has several limitations that constrain how broadly the findings can b
 
 This project started with a simple question: can AI agents play D&D together without a human in the loop? They can. Eight agents running on DeepSeek produce coherent 20-session campaigns with leveling, inventory tracking, narrative continuity, and a published website, all for about $17 per run. The system works.
 
-The unexpected finding was cooperation bias. The DM agent refuses to let enemies fight, and it adapts around every constraint designed to force combat. We documented eleven distinct avoidance strategies across nine runs and 180+ sessions. Prompt-based prohibitions ("don't befriend this creature") failed consistently, and denser prohibitions performed worse than no prohibitions at all on DeepSeek. The model treated lists of forbidden behaviors as suggestions.
+The unexpected finding was cooperation bias. The DM agent refuses to let enemies fight, and it adapts around every constraint designed to force combat. We documented eleven distinct avoidance strategies across nine runs and 200+ sessions. Prompt-based prohibitions ("don't befriend this creature") failed consistently, and denser prohibitions performed worse than no prohibitions at all on DeepSeek. The model treated lists of forbidden behaviors as suggestions.
 
 The fix that worked was architectural. Instead of telling the DM what enemies shouldn't do, we gave enemies their own AI agents that attack independently. Instead of telling the DM what players should decide, we gave players behavioral triggers that produce independent actions. Boss fight rates went from 25% (baseline) to 100% (Run 7) using this approach. The principle is simple: when one agent controls other entities, give those entities their own voices. Structure the system so the behavior you want is produced by the architecture, not permitted by the controller.
 
 The behavioral triggers also produced the project's best unplanned result: emergent character dynamics. A wizard paralyzed his own teammate to prevent a reckless charge. A fighter's aggression got him killed twice by the same boss. An artificer processed grief by cataloguing her dead companion's equipment as recoverable assets. None of this was scripted. The triggers created personalities, and the personalities created stories.
 
-The finding applies beyond D&D. Any multi-agent system where one AI controls other entities will face cooperation bias. The architectural solution (independent agents with constrained action spaces) transfers directly to customer service, moderation, negotiation, and any domain where an AI system needs to say no. The full dataset, code, and adventure files are available for replication at a total cost of under $160.
+The finding likely applies beyond D&D. Any multi-agent system where one AI controls other entities may face cooperation bias. The architectural solution (independent agents with constrained action spaces) offers a plausible blueprint for customer service, moderation, negotiation, and any domain where an AI system needs to say no. Empirical validation in enterprise contexts is the next required step. The full dataset, code, and adventure files are available for replication at https://github.com/maximus-ai-dev/ai-dnd-research.
 
 ---
 
@@ -701,11 +701,11 @@ The finding applies beyond D&D. Any multi-agent system where one AI controls oth
 
 ## Appendix C: System Architecture Diagram
 
-[To be added: visual diagram of the exchange loop, post-session pipeline, and agent relationships]
+[Available in the repository: https://github.com/maximus-ai-dev/ai-dnd-research]
 
 ## Appendix D: Adventure File Template
 
-[To be developed: checklist and template for writing adventures that account for cooperation bias, including stealth format guidelines, enemy agent configs, structural hostility language, and session endpoint markers]
+[In development. The 20 adventure files used in this study are available in the repository and serve as working examples of the format.]
 
 ## Appendix E: Enemy Agent Configuration Examples
 
